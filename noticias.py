@@ -1,20 +1,23 @@
 #!/usr/bin/env python3
-"""Genera noticias.json con los titulares de León de 20minutos.
+"""Genera noticias.json con los titulares de León de varias fuentes frescas.
 
 Solo biblioteca estandar: se ejecuta igual en GitHub Actions y en local.
-Fuente: https://www.20minutos.es/rss/castilla-y-leon/leon/
+Fuentes (todas de León / provincia, con foto):
+  - La Nueva Cronica: https://www.lanuevacronica.com/rss
+  - El Bierzo Digital: https://www.elbierzodigital.com/feed/
 """
-import calendar
 import json
 import os
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime
 
-URL = "https://www.20minutos.es/rss/castilla-y-leon/leon/"
+FUENTES = [
+    ("La Nueva Crónica", "https://www.lanuevacronica.com/rss"),
+    ("El Bierzo Digital", "https://www.elbierzodigital.com/feed/"),
+]
 MAX = 26
-FUENTE = "20minutos"
 HERE = os.path.dirname(os.path.abspath(__file__))
 SALIDA = os.path.join(HERE, "noticias.json")
 UA = "Mozilla/5.0 (compatible; noticias-leon/1.0)"
@@ -25,8 +28,7 @@ def texto_bruto(s):
 
 
 def resumen(s, largo=200):
-    t = texto_bruto(s)
-    t = re.sub(r"\s+", " ", t).strip()
+    t = re.sub(r"\s+", " ", texto_bruto(s)).strip()
     if len(t) > largo:
         t = t[:largo - 1].rsplit(" ", 1)[0] + "…"
     return t
@@ -50,7 +52,8 @@ def fecha(s):
     if not s:
         return None
     for fmt in ("%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S %Z",
-                "%d %b %Y %H:%M:%S %z", "%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%SZ"):
+                "%d %b %Y %H:%M:%S %z", "%Y-%m-%dT%H:%M:%S%z",
+                "%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%dT%H:%M:%S.%f%z"):
         try:
             return int(datetime.strptime(s.strip(), fmt).timestamp())
         except ValueError:
@@ -58,26 +61,38 @@ def fecha(s):
     return None
 
 
-def main():
-    req = urllib.request.Request(URL, headers={"User-Agent": UA})
+def leer(nombre, url):
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
     con = urllib.request.urlopen(req, timeout=45).read()
     raiz = ET.fromstring(con)
-
-    salida, vistos = [], set()
+    out = []
     for it in raiz.iter("item"):
         titulo = (it.findtext("title") or "").strip()
         link = (it.findtext("link") or "").strip()
-        if not titulo or not link or link in vistos:
+        if not titulo or not link:
             continue
-        vistos.add(link)
-        salida.append({
+        out.append({
             "titulo": titulo,
             "link": link,
             "desc": resumen(it.findtext("description")),
             "img": imagen(it),
             "pub": fecha(it.findtext("pubDate")),
-            "fuente": FUENTE,
+            "fuente": nombre,
         })
+    return out
+
+
+def main():
+    salida, vistos = [], set()
+    for nombre, url in FUENTES:
+        try:
+            for n in leer(nombre, url):
+                if n["link"] in vistos:
+                    continue
+                vistos.add(n["link"])
+                salida.append(n)
+        except Exception as e:
+            print("aviso: %s no respondio (%s)" % (nombre, e))
 
     salida.sort(key=lambda x: x["pub"] or 0, reverse=True)
     salida = salida[:MAX]
