@@ -1,158 +1,210 @@
 [
   {
-    "title": "La Fiscalía pide cinco años para el expresidente de la asociación de discapacidad del Bierzo por acoso laboral y sexual",
+    "titulo": "La Fiscalía pide cinco años para el expresidente de la asociación de discapacidad del Bierzo por acoso laboral y sexual",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/fiscalia-pide-cinco-anos-para-expresidente-asociacion-discapacidad-bierzo-por-acoso-laboral-sexual_7043926_0.html",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/05/05/audiencia-provincial-de-leon.r_d.660-476-17653.jpeg",
-    "pub": 1790881762
+    "desc": "El investigado está acusado de delitos contra los derechos de los trabajadores y otro por acoso sexual a una trabajadora.",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/05/05/audiencia-provincial-de-leon.r_d.660-476.jpeg",
+    "pub": 1790881762,
+    "fuente": "20minutos"
   },
   {
-    "title": "Detenida una mujer de 71 años por el incendio de una vivienda en Cacabelos que quedó totalmente destruida",
+    "titulo": "Detenida una mujer de 71 años por el incendio de una vivienda en Cacabelos que quedó totalmente destruida",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/detenida-una-mujer-71-anos-por-incendio-una-vivienda-cacabelos-que-quedo-totalmente-destruida_7042957_0.html",
+    "desc": "La Guardia Civil ha encontrado una botella con restos de una sustancia acelerante en el punto donde se inició el fuego.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/26/6ab7d9d9988df3-47060339.jpeg",
-    "pub": 1790706671
+    "pub": 1790706671,
+    "fuente": "20minutos"
   },
   {
-    "title": "Un terremoto de magnitud 3,4 sacude León",
+    "titulo": "Un terremoto de magnitud 3,4 sacude León",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/un-terremoto-magnitud-3-4-sacude-leon_7035352_0.html",
+    "desc": "Se ha registrado otro seísmo de magnitud 2 en la misma provincia.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/07/06/sismografo.jpeg",
-    "pub": 1789063777
+    "pub": 1789063777,
+    "fuente": "20minutos"
   },
   {
-    "title": "Confinados un centenar de vecinos en Sosas de Laciana por un incendio forestal",
+    "titulo": "Confinados un centenar de vecinos en Sosas de Laciana por un incendio forestal",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/confinados-un-centenar-vecinos-sosas-laciana-por-un-incendio-forestal_7032648_0.html",
+    "desc": "En las labores de extinción de las llamas trabajan actualmente una treintena de medios.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/03/6a99b8c4aeb645-35158571.png",
-    "pub": 1788463109
+    "pub": 1788463109,
+    "fuente": "20minutos"
   },
   {
-    "title": "Hallan muerto en León a un ejemplar de oso pardo y detectan el atropello de otro",
+    "titulo": "Hallan muerto en León a un ejemplar de oso pardo y detectan el atropello de otro",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/hallan-muerto-leon-un-ejemplar-oso-pardo-detectan-atropello-otro_7032624_0.html",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/19/696e534846a8c4-55565160.r_d.508-1016-9052.jpeg",
-    "pub": 1788456472
+    "desc": "De momento, no se sabe si el oso que fue atropellado sufrió alguna herida, ya que escapó tras el impacto.",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/19/696e534846a8c4-55565160.r_d.508-1016.jpeg",
+    "pub": 1788456472,
+    "fuente": "20minutos"
   },
   {
-    "title": "Un terremoto de magnitud 3 sacude El Bierzo sin causar daños",
+    "titulo": "Un terremoto de magnitud 3 sacude El Bierzo sin causar daños",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/un-terremoto-magnitud-3-sacude-bierzo-sin-causar-danos_7029757_0.html",
+    "desc": "El seísmo apenas tuvo una profundidad de un kilómetro y el epicentro se ha sentido al noroeste de Balboa.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/26/6a8f30ae667757-27206091.png",
-    "pub": 1787769106
+    "pub": 1787769106,
+    "fuente": "20minutos"
   },
   {
-    "title": "El misterio de Veguellina de Órbigo persiste al descartar la autopsia la muerte violenta: ¿Qué les pasó a los dos amigos fallecidos?",
+    "titulo": "El misterio de Veguellina de Órbigo persiste al descartar la autopsia la muerte violenta: ¿Qué les pasó a los dos amigos fallecidos?",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/misterio-veguellina-orbigo-persiste-descartar-autopsia-muerte-violenta-que-les-paso-los-dos-amigos-fallecidos_7028787_0.html",
+    "desc": "Los cuerpos estaban frente a la casa de uno de ellos, que fue el último lugar donde se les había visto con vida a primera hora de la madrugada de este domingo.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/25/6a8d520d396253-55402613.webp",
-    "pub": 1787582380
+    "pub": 1787582380,
+    "fuente": "20minutos"
   },
   {
-    "title": "Investigan la muerte de una mujer en Villarejo de Órbigo tras el hallazgo de dos hombres muertos en la vecina Veguellina",
+    "titulo": "Investigan la muerte de una mujer en Villarejo de Órbigo tras el hallazgo de dos hombres muertos en la vecina Veguellina",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/investigan-muerte-una-mujer-villarejo-orbigo-tras-hallazgo-dos-hombres-muertos-vecina-veguellina_7028723_0.html",
+    "desc": "La Guardia Civil ha descartado, por el momento, cualquier relación entre ambos sucesos.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/24/6a8c1f219a4a53-66066627.jpeg",
-    "pub": 1787570104
+    "pub": 1787570104,
+    "fuente": "20minutos"
   },
   {
-    "title": "Hallan muertos a dos hombres de 57 y 59 años en la vía pública en Veguellina de Órbigo",
+    "titulo": "Hallan muertos a dos hombres de 57 y 59 años en la vía pública en Veguellina de Órbigo",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/hallan-muertos-dos-hombres-57-59-anos-via-publica-veguellina-orbigo_7028483_0.html",
+    "desc": "Las víctimas eran vecinos de la localidad y tenían una relación de amistad.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/23/6a8ad8cb6b7583-90359500.png",
-    "pub": 1787484715
+    "pub": 1787484715,
+    "fuente": "20minutos"
   },
   {
-    "title": "Los vecinos de El Bierzo exigen medidas contra los incendios: \"No podemos esperar a que pase otra desgracia aún mayor\"",
+    "titulo": "Los vecinos de El Bierzo exigen medidas contra los incendios: \"No podemos esperar a que pase otra desgracia aún mayor\"",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/los-vecinos-bierzo-exigen-medidas-contra-los-incendios-no-podemos-esperar-que-pase-otra-desgracia-aun-mayor_7026529_0.html",
+    "desc": "Los residentes han puesto en marcha una recogida de firmas para reclamar actuaciones tras los fuegos que ya ha superado los 2.000 participantes.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/17/6a830aa58983f3-50551019.jpeg",
-    "pub": 1786973621
+    "pub": 1786973621,
+    "fuente": "20minutos"
   },
   {
-    "title": "Los vecinos de Manzanedo limpian sus calles tras la trágica riada de este sábado: \"El año pasado el fuego, ahora esto\"",
+    "titulo": "Los vecinos de Manzanedo limpian sus calles tras la trágica riada de este sábado: \"El año pasado el fuego, ahora esto\"",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/los-vecinos-manzanedo-limpian-sus-calles-tras-tragica-riada-este-sabado-ano-pasado-fuego-ahora-esto_7026218_0.html",
+    "desc": "El panorama en esta pequeña localidad este domingo es desolador, con barro, piedras y ramas que cubren calles y vehículos, algunos de ellos prácticamente sepultados bajo los materiales arrastrados…",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/16/6a81a207d76377-79994437.jpeg",
-    "pub": 1786881229
+    "pub": 1786881229,
+    "fuente": "20minutos"
   },
   {
-    "title": "Tragedia en León: dos mujeres muertas y dos menores heridos en una bodega anegada por una riada en Manzanedo de Valdueza",
+    "titulo": "Tragedia en León: dos mujeres muertas y dos menores heridos en una bodega anegada por una riada en Manzanedo de Valdueza",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/tragedia-leon-menos-dos-mujeres-muertas-dos-menores-heridos-tras-una-riada-manzanedo-valdueza_7026145_0.html",
+    "desc": "Una brutal tormenta ha descargado la tarde de este sábado sobre la zona y ha hecho que se desbordara el río Meruelo.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/16/6a815b7c709360-18105016.webp",
-    "pub": 1786824532
+    "pub": 1786824532,
+    "fuente": "20minutos"
   },
   {
-    "title": "Dos detenidos tras el asesinato de un hombre en una vivienda de León",
+    "titulo": "Dos detenidos tras el asesinato de un hombre en una vivienda de León",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/dos-detenidos-tras-asesinato-un-hombre-una-vivienda-leon_7025685_0.html",
+    "desc": "Los vecinos alertaron de varias detonaciones en Santa Lucía de Gordón y se investiga un posible crimen relacionado con las drogas.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/12/6a7c838eaab884-65104336.jpeg",
-    "pub": 1786693136
+    "pub": 1786693136,
+    "fuente": "20minutos"
   },
   {
-    "title": "Prisión para un hombre por atropellar de forma intencionada a otro en Castilfalé",
+    "titulo": "Prisión para un hombre por atropellar de forma intencionada a otro en Castilfalé",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/prision-para-un-hombre-por-atropellar-forma-intencionada-otro-castilfale_7025163_0.html",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/12/6a7c8fd3d79889-70353975.r_d.1050-1056-13704.jpeg",
-    "pub": 1786550994
+    "desc": "El detenido embistió a la víctima y huyó del lugar de los hechos sin auxiliarla y también intentó atropellar a uno de sus hermanos.",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/12/6a7c8fd3d79889-70353975.r_d.1050-1056.jpeg",
+    "pub": 1786550994,
+    "fuente": "20minutos"
   },
   {
-    "title": "Un muerto y dos heridos en una colisión entre dos coches en Villaselán (León)",
+    "titulo": "Un muerto y dos heridos en una colisión entre dos coches en Villaselán (León)",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/un-muerto-dos-heridos-una-colision-entre-dos-coches-villaselan-leon_7025158_0.html",
+    "desc": "Una de las víctimas del accidente se encontraba atrapada en uno de los vehículos.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/12/6a7c8b888935a5-89410843.png",
-    "pub": 1786550003
+    "pub": 1786550003,
+    "fuente": "20minutos"
   },
   {
-    "title": "Mónica García ayuda a reanimar a un bañista que se ahogaba en una piscina natural de Villafranca del Bierzo",
+    "titulo": "Mónica García ayuda a reanimar a un bañista que se ahogaba en una piscina natural de Villafranca del Bierzo",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/monica-garcia-ayuda-reanimar-un-banista-que-se-ahogaba-una-piscina-natural-villafranca-bierzo_7024619_0.html",
+    "desc": "La presencia de la ministra de Sanidad en la playa fluvial coincidió con los días de descanso que habitualmente pasa en la zona durante el verano.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/10/6a292ec1e6ffd3-16054083.jpeg",
-    "pub": 1786443454
+    "pub": 1786443454,
+    "fuente": "20minutos"
   },
   {
-    "title": "Hallan el cuerpo sin vida de una mujer desaparecida hace tres días en Santalavilla",
+    "titulo": "Hallan el cuerpo sin vida de una mujer desaparecida hace tres días en Santalavilla",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/hallan-cuerpo-sin-vida-mujer-desaparecida-hace-tres-dias-santalavilla_7024456_0.html",
+    "desc": "El Centro Coordinador de Emergencias de Protección Civil de la Junta de Castilla y León ha coordinado el dispositivo de búsqueda de la mujer.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/10/6a7a249823fa51-22400469.jpeg",
-    "pub": 1786389782
+    "pub": 1786389782,
+    "fuente": "20minutos"
   },
   {
-    "title": "Localizado en buen estado de salud el peregrino croata desaparecido en León mientras hacía el Camino de Santiago",
+    "titulo": "Localizado en buen estado de salud el peregrino croata desaparecido en León mientras hacía el Camino de Santiago",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/localizado-buen-estado-salud-peregrino-croata-desaparecido-leon-mientras-hacia-camino-santiago_7024009_0.html",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/09/6a7849ff3c0a62-20081931.r_d.992-922-15000.jpeg",
-    "pub": 1786289758
+    "desc": "El desaparecido ha aparecido en buen estado y en una vía pública de la localidad de Pereje.",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/09/6a7849ff3c0a62-20081931.r_d.992-922.jpeg",
+    "pub": 1786289758,
+    "fuente": "20minutos"
   },
   {
-    "title": "Hallada en buen estado una niña de 11 años con autismo desaparecida durante dos horas en León",
+    "titulo": "Hallada en buen estado una niña de 11 años con autismo desaparecida durante dos horas en León",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/hallada-buen-estado-una-nina-11-anos-con-autismo-desaparecida-durante-dos-horas-leon_7023986_0.html",
+    "desc": "La menor fue localizada en una pista forestal a tres kilómetros de Oencia, su pueblo, y se encontraba desorientada y cansada pero en perfecto estado de salud.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/09/6a786a4466c650-98055089.png",
-    "pub": 1786276789
+    "pub": 1786276789,
+    "fuente": "20minutos"
   },
   {
-    "title": "La Guardia Civil busca a un peregrino croata desaparecido en León mientras hacía el Camino de Santiago",
+    "titulo": "La Guardia Civil busca a un peregrino croata desaparecido en León mientras hacía el Camino de Santiago",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/guardia-civil-busca-un-peregrino-croata-desaparecido-leon-mientras-hacia-camino-santiago_7023958_0.html",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/09/6a7849ff3c0a62-20081931.r_d.992-922-15000.jpeg",
-    "pub": 1786268484
+    "desc": "El hombre, que mide 1,80 metros, tiene el pelo castaño y es de complexión fuerte, iba vestido con un pantalón corto, una camiseta blanca o verde y zapatillas de color azul degradado, su familia no…",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/09/6a7849ff3c0a62-20081931.r_d.992-922.jpeg",
+    "pub": 1786268484,
+    "fuente": "20minutos"
   },
   {
-    "title": "Una fiesta ibicenca, DJs internacionales... Así celebrará el eclipse solar del 12 de agosto un pueblo de 70 habitantes de León",
+    "titulo": "Una fiesta ibicenca, DJs internacionales... Así celebrará el eclipse solar del 12 de agosto un pueblo de 70 habitantes de León",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/fiesta-ibicenca-djs-internacionales-celebrara-eclipse-solar-agosto-pueblo-leon_7023200_0.html",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/06/6a7454c58f92f0-05197996.r_d.759-189-13333.jpeg",
-    "pub": 1786011000
+    "desc": "El nombre más reconocido del cartel es Paul Darey, con más de dos décadas de carrera que ha actuado en algunos de los clubes más famosos de Ibiza.",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/06/6a7454c58f92f0-05197996.r_d.759-189.jpeg",
+    "pub": 1786011000,
+    "fuente": "20minutos"
   },
   {
-    "title": "Muere un ciclista de 70 años tras chocar con un turismo en Sahagún",
+    "titulo": "Muere un ciclista de 70 años tras chocar con un turismo en Sahagún",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/muere-un-ciclista-70-anos-tras-chocar-con-un-turismo-sahagun_7022785_0.html",
+    "desc": "El accidente se ha producido en la carretera LE-941 y los sanitarios desplazados al lugar solo han podido confirmar el fallecimiento de la víctima.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/16/6a311a5ce77977-81090626.jpeg",
-    "pub": 1785921571
+    "pub": 1785921571,
+    "fuente": "20minutos"
   },
   {
-    "title": "Detenido un joven de 22 años por provocar un incendio forestal en Castropodame",
+    "titulo": "Detenido un joven de 22 años por provocar un incendio forestal en Castropodame",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/detenido-un-joven-22-anos-por-provocar-un-incendio-forestal-castropodame_7021049_0.html",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/30/6a6b53d450be63-92953048.r_d.892-881-16000.jpeg",
-    "pub": 1785437716
+    "desc": "El detenido aprovechó que ya se había declarado un fuego para provocar otro en una zona de masa forestal cercana.",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/30/6a6b53d450be63-92953048.r_d.892-881.jpeg",
+    "pub": 1785437716,
+    "fuente": "20minutos"
   },
   {
-    "title": "Ingresa en prisión un varón por varios incendios forestales en Ponferrada",
+    "titulo": "Ingresa en prisión un varón por varios incendios forestales en Ponferrada",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/ingresa-prision-un-varon-por-varios-incendios-forestales-ponferrada_7020337_0.html",
+    "desc": "El sospechoso fue localizado oculto en una caseta con cuatro mecheros y el juez ha decretado su entrada en la cárcel.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/06/24/coches-de-policia-nacional-y-policia-local-en-ponferrada-leon-en-una-imagen-de-archivo.jpeg",
-    "pub": 1785324578
+    "pub": 1785324578,
+    "fuente": "20minutos"
   },
   {
-    "title": "Hallan restos que confirman un asentamiento prerromano en el Castro de los Judíos de León",
+    "titulo": "Hallan restos que confirman un asentamiento prerromano en el Castro de los Judíos de León",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/hallan-restos-que-confirman-un-asentamiento-prerromano-castro-los-judios-leon_7018105_0.html",
+    "desc": "Las nuevas dataciones por carbono 14 confirman la presencia humana en el yacimiento durante la Edad del Hierro.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/23/6a61ed281b6755-00942095.jpeg",
-    "pub": 1784808536
+    "pub": 1784808536,
+    "fuente": "20minutos"
   },
   {
-    "title": "Desarticulado el entramado criminal 'El tren de Aragua' por robos con violencia y tráfico de drogas",
+    "titulo": "Desarticulado el entramado criminal 'El tren de Aragua' por robos con violencia y tráfico de drogas",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/desarticulado-entramado-criminal-tren-aragua-por-robos-con-violencia-trafico-drogas_7017063_0.html",
+    "desc": "Los agentes han realizado seis registros en domicilios y han detenido a cinco personas, cuatro de las cuales han ingresado en prisión.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/21/6a5f2b0929d448-33409898.jpeg",
-    "pub": 1784626665
+    "pub": 1784626665,
+    "fuente": "20minutos"
   }
 ]

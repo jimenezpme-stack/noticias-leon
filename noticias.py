@@ -1,39 +1,91 @@
-import json, time
+#!/usr/bin/env python3
+"""Genera noticias.json con los titulares de León de 20minutos.
+
+Solo biblioteca estandar: se ejecuta igual en GitHub Actions y en local.
+Fuente: https://www.20minutos.es/rss/castilla-y-leon/leon/
+"""
+import calendar
+import json
+import os
+import re
+import urllib.request
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
-import feedparser
 
-URL = "https://www.20minutos.es/rss/leon/"
+URL = "https://www.20minutos.es/rss/castilla-y-leon/leon/"
 MAX = 26
+FUENTE = "20minutos"
+HERE = os.path.dirname(os.path.abspath(__file__))
+SALIDA = os.path.join(HERE, "noticias.json")
+UA = "Mozilla/5.0 (compatible; noticias-leon/1.0)"
 
-d = feedparser.parse(URL)
-items = []
-for e in d.entries:
-    title = (e.get("title") or "").strip()
-    link = (e.get("link") or "").strip()
-    desc = e.get("summary") or e.get("description") or ""
-    img = None
-    m = e.get("media_content") or e.get("media_thumbnail")
-    if m and isinstance(m, list) and m[0].get("url"):
-        img = m[0]["url"]
-    if not img:
-        import re
-        s = str(desc)
-        mm = re.search(r'src=["\']([^"\']+)["\']', s)
-        if mm: img = mm.group(1)
-    pub = e.get("published_parsed") or e.get("updated_parsed")
-    ts = None
-    if pub:
-        try: ts = int(datetime(*pub[:6], tzinfo=timezone.utc).timestamp())
-        except: ts = None
-    if not ts: ts = int(time.time())
-    items.append({"title":title,"link":link,"img":img,"pub":ts})
-# dedup
-seen=set(); out=[]
-for i in items:
-    k=i["link"] or i["title"]
-    if k in seen: continue
-    seen.add(k); out.append(i)
-out.sort(key=lambda x:x.get("pub",0), reverse=True)
-out=out[:MAX]
-with open("noticias.json","w",encoding="utf-8") as f:
-    json.dump(out,f,ensure_ascii=False,indent=2)
+
+def texto_bruto(s):
+    return re.sub(r"<[^>]*>", " ", s or "").replace("\n", " ").strip()
+
+
+def resumen(s, largo=200):
+    t = texto_bruto(s)
+    t = re.sub(r"\s+", " ", t).strip()
+    if len(t) > largo:
+        t = t[:largo - 1].rsplit(" ", 1)[0] + "…"
+    return t
+
+
+def imagen(item):
+    for tag in ("enclosure", "media:content", "media:thumbnail", "thumbnail"):
+        el = item.find(tag)
+        if el is not None:
+            u = el.get("url") or el.get("href")
+            if u:
+                return u.strip()
+    desc = item.findtext("description") or ""
+    m = re.search(r'src=["\']([^"\']+)["\']', desc)
+    if m:
+        return m.group(1)
+    return None
+
+
+def fecha(s):
+    if not s:
+        return None
+    for fmt in ("%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S %Z",
+                "%d %b %Y %H:%M:%S %z", "%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%SZ"):
+        try:
+            return int(datetime.strptime(s.strip(), fmt).timestamp())
+        except ValueError:
+            continue
+    return None
+
+
+def main():
+    req = urllib.request.Request(URL, headers={"User-Agent": UA})
+    con = urllib.request.urlopen(req, timeout=45).read()
+    raiz = ET.fromstring(con)
+
+    salida, vistos = [], set()
+    for it in raiz.iter("item"):
+        titulo = (it.findtext("title") or "").strip()
+        link = (it.findtext("link") or "").strip()
+        if not titulo or not link or link in vistos:
+            continue
+        vistos.add(link)
+        salida.append({
+            "titulo": titulo,
+            "link": link,
+            "desc": resumen(it.findtext("description")),
+            "img": imagen(it),
+            "pub": fecha(it.findtext("pubDate")),
+            "fuente": FUENTE,
+        })
+
+    salida.sort(key=lambda x: x["pub"] or 0, reverse=True)
+    salida = salida[:MAX]
+
+    with open(SALIDA, "w", encoding="utf-8") as f:
+        json.dump(salida, f, ensure_ascii=False, indent=2)
+    print("noticias.json: %d titulares" % len(salida))
+
+
+if __name__ == "__main__":
+    main()
