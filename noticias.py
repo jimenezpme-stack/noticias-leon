@@ -16,8 +16,9 @@ from datetime import datetime
 FUENTES = [
     ("La Nueva Crónica", "https://www.lanuevacronica.com/rss"),
     ("El Bierzo Digital", "https://www.elbierzodigital.com/feed/"),
+    ("20minutos", "https://www.20minutos.es/rss/castilla-y-leon/leon/"),
 ]
-MAX = 26
+MAX = 80
 HERE = os.path.dirname(os.path.abspath(__file__))
 SALIDA = os.path.join(HERE, "noticias.json")
 UA = "Mozilla/5.0 (compatible; noticias-leon/1.0)"
