@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "León, en alerta por lluvias y tormentas con granizo",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-en-alerta-por-lluvias-tormentas-con-granizo_203966_102.html",
+    "desc": "Las precipitaciones dejarán hasta 20 litros por metro cuadrado en una hora y acumulaciones de 40 y 60 litros en 12 horas en distintos puntos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/24/51/01/1/tormenta-junio-leon.jpeg",
+    "pub": 1791018997,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Copa del Mundo hace escala en León",
+    "link": "https://www.lanuevacronica.com/deportes/copa-mundo-hace-escala-en-leon_203965_102.html",
+    "desc": "El trofeo de la segunda estrella conseguida por la Selección Española de fútbol el pasado verano en EEUU estará en la capital leonesa los días 5 y 6 de octubre en el Palacio Conde Luna",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/13/3/la-copa-del-mundo-de-la-segunda-estrella-de-espana-estara-presente-en-leon-rfef.jpeg",
+    "pub": 1791018959,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "UPL cuestionará a Mañueco por la gestión sanitaria de la Región Leonesa",
+    "link": "https://www.lanuevacronica.com/actualidad/upl-cuestionara-manueco-por-gestion-sanitaria-region-leonesa_203964_102.html",
+    "desc": "La formación leonesista también ahondará en la voluntad política de la Junta para favorecer la creación Entidades Locales Menores",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/48/96/1/alicia-gallego-upl.jpeg",
+    "pub": 1791018618,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Así cambia el tráfico en León: nuevas obligaciones para más de 53.000 patinetes, motos y ciclomotores",
     "link": "https://www.lanuevacronica.com/actualidad/cambia-trafico-en-leon-nuevas-obligaciones-mas-53000-patinetes-motos-ciclomotores_203963_102.html",
     "desc": "La reforma refuerza la protección de los usuarios vulnerables y establece nuevas obligaciones para conductores de patinetes, motos y ciclomotores, así como para ciclistas y peatones",
@@ -101,30 +125,6 @@
     "desc": "La obra de teatro estuvo protagonizada por un elenco compuesto por ocho intérpretes; algo poco habitual en los derroteros actuales de la escena",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/23/00/4/la-funcion-escrita-por-nuria-rubial-y-dirigida-por-javier-bermejo-llega-hoy-al-teatro-de-la-baneza.jpeg",
     "pub": 1790968683,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Diócesis de León reconoce cinco proyectos que contribuyen al bien común",
-    "link": "https://www.lanuevacronica.com/actualidad/diocesis-leon-reconoce-cinco-proyectos-contribuyen-bien-comun_203948_102.html",
-    "desc": "Los premios San Froilán han reconocido Iniciativas vinculadas a la innovación social, el patrimonio, la educación, el compromiso religioso y la conservación de las tradiciones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/22/98/6/un-instante-de-la-segunda-edicion-de-los-premios-san-froilan-de-la-diocesis-de-leon.jpeg",
-    "pub": 1790968150,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Vuelve Miguelín y tu 'doctrina'",
-    "link": "https://www.lanuevacronica.com/extras/a-la-contra/vuelve-miguelin-tu-doctrina_203951_102.html",
-    "desc": "La última de La Nueva Crónica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/22/81/0/contra.jpeg",
-    "pub": 1790960379,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Algunas reacciones al Premio Nacional de Narrativa otorgado al leonés Julio Llamazares",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/algunas-reacciones-premio-nacional-narrativa-otorgado-leones-julio-llamazares_203949_102.html",
-    "desc": "Desde particulares hasta instituciones se han unido a las felicitaciones del escritor Julio Llamazares tras conocer la noticia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/22/79/4/llamazares-explica-a-los-periodistas-desde-la-trinchera-en-la-que-combatio-su-padre-en-teruel.jpeg",
-    "pub": 1790960052,
     "fuente": "La Nueva Crónica"
   },
   {
