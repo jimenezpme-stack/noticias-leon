@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_203958_102.html",
+    "desc": "El humorista gráfico Rubén Cantón lanza una nueva pregunta sobre curiosidades de la provincia de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/02/2/image0.jpeg",
+    "pub": 1790992800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Parrilla Louzao, un aroma de carne en León que no necesita presentación",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/parrilla-louzao-aroma-leon-no-necesita-presentacion_203953_102.html",
+    "desc": "La Parrilla Louzao, ubicada en Juan Madrazo, 4, es uno de los templos de la carne en León con una destacada carta de vinos y excelentes productos de temporada",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/22/88/9/whatsapp-image-2026-10-02-at-20-05-42.jpeg",
+    "pub": 1790992800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los personajes del tío Ful: Laia, única niña de Otero de Curueño",
+    "link": "https://www.lanuevacronica.com/extras/los-personajes-de-ful/personajes-tio-ful-laia-unica-nina-otero-curueno_203950_102.html",
+    "desc": "Es la única niña de Otero de Curueño pero aclara que no hay niños pero tiene 5 perros y caballos, que va a atletismo a La Robla y al cole a Boñar, pues han cerrado el de La Vecilla",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/22/77/5/frame-03personaje.jpeg",
+    "pub": 1790992800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Ciudad Real 35 - Ademar 33: 'Del desastre a la reacción sin premio'",
     "link": "https://www.lanuevacronica.com/deportes/ciudad-real-35-ademar-33_203962_102.html",
     "desc": "El equipo leonés, horrible de nuevo en defensa y portería, saca el orgullo cuando iba nueve goles abajo en la segunda parte y llega a ponerse a 1 en el último minuto, pero acaba perdiendo",
@@ -29,14 +53,6 @@
     "desc": "La hinchada culturalista agota las 588 entradas de las que disponía la afición visitante y el conjunto charro vende todas las que tenía",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/13/00/2/cultural-coria-45.jpeg",
     "pub": 1790967860,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Gobierno niega que haya bandas latinas tras las peleas del Barrio Húmedo",
-    "link": "https://www.lanuevacronica.com/sucesos/gobierno-niega-haya-bandas-latinas-peleas-barrio-humedo_203926_102.html",
-    "desc": "El subdelegado define a los implicados como \"jóvenes malavenidos\" en unos \"hechos aislados\" y pone en valor las labores preventivas a las puertas de otro fin de semana multitudinario por las fiestas…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/22/47/2/frame-02policia.jpeg",
-    "pub": 1790964765,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -126,22 +142,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/condecoraciones-policia-nacional-el-bierzo-digital.jpeg",
     "pub": 1790948637,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Uned de Ponferrada propone un curso práctico para aprender las claves de la escritura creativa",
-    "link": "https://www.lanuevacronica.com/el-bierzo/uned-ponferrada-propone-curso-practico-aprender-claves-escritura-creativa_203875_102.html",
-    "desc": "El programa, dirigido por Manuel Cuenya, abordará durante 20 horas técnicas narrativas, creación de personajes, microficciones y periodismo literario",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/98/46/2/las-instalaciones-de-la-uned-en-ponferrada-en-una-fotografia-de-archivo-l-n-c.jpeg",
-    "pub": 1790944226,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ocho rivales de Segunda RFEF en Copa para Cultural y Ponferradina",
-    "link": "https://www.lanuevacronica.com/deportes/ocho-rivales-segunda-rfef-en-copa-cultural-ponferradina_203911_102.html",
-    "desc": "Se enfrentarán a equipos de Galicia, Asturias, Castilla y León o Cantabria en la primera ronda de la Copa del Rey que se sorteará el próximo lunes a las 13 horas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/21/95/4/cultural-y-ponferradina-conoceran-su-primera-rival-copero-este-lunes-sdp.jpeg",
-    "pub": 1790943186,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Nafti destaca el crecimiento de la Deportiva antes de un duelo exigente",
