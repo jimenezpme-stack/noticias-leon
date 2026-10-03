@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "Salvemos el Emperador",
+    "link": "https://www.lanuevacronica.com/opinion/salvemos-emperador_203959_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1790995200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "¿Sería tan amable?",
+    "link": "https://www.lanuevacronica.com/opinion/seria-tan-amable_203960_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1790994600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "No es una guerra de sexos: es el fin de un contrato antiguo",
+    "link": "https://www.lanuevacronica.com/opinion/no-es-guerra-sexos-es-fin-contrato-antiguo_203961_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1790994000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Desahucios varios",
+    "link": "https://www.lanuevacronica.com/opinion/desahucios-varios_203955_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1790994000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "No hay servicio de terraza...",
+    "link": "https://www.lanuevacronica.com/opinion/a-pie-de-calle/no-hay-servicio-terraza_203956_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1790993700,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Las cucerías de Cantón",
     "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_203958_102.html",
     "desc": "El humorista gráfico Rubén Cantón lanza una nueva pregunta sobre curiosidades de la provincia de León",
@@ -48,14 +88,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "El Unionistas - Cultural cuelga el 'no hay entradas'",
-    "link": "https://www.lanuevacronica.com/deportes/unionistas-cultural-cuelga-no-hay-entradas_203934_102.html",
-    "desc": "La hinchada culturalista agota las 588 entradas de las que disponía la afición visitante y el conjunto charro vende todas las que tenía",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/13/00/2/cultural-coria-45.jpeg",
-    "pub": 1790967860,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Vuelve Miguelín y tu 'doctrina'",
     "link": "https://www.lanuevacronica.com/extras/a-la-contra/vuelve-miguelin-tu-doctrina_203951_102.html",
     "desc": "La última de La Nueva Crónica",
@@ -96,44 +128,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Herido un trabajador al quedar atrapado entre un tractor y un remolque en Quintana del Castillo",
-    "link": "https://www.lanuevacronica.com/actualidad/herido-trabajador-quedar-atrapado-entre-tractor-remolque-en-quintana-castillo_203944_102.html",
-    "desc": "El hombre, de unos 60 años, fue liberado en el lugar y trasladado en ambulancia al Complejo Asistencial Universitario de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/23/27/25/2/imagen-y17a23109.jpeg",
-    "pub": 1790956511,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Libro Imposible llena octubre de literatura, arte y actividades",
     "link": "https://www.elbierzodigital.com/libro-imposible-llena-octubre-literatura-arte-actividades/",
     "desc": "El Libro Imposible vuelve a llenar de actividad cultural el corazón de Ponferrada durante el mes de octubre . La librería y espacio creativo situado en la Plaza de la Encina, a los pies del Castillo…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/03/marzo-llega-cargado-de-libros-talleres-y-encuentros-en-el-libro-imposible-el-bierzo-digital-scaled.jpg",
     "pub": 1790955915,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La desaparición voluntaria de Piero Golia se proyecta en León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/desaparicion-voluntaria-piero-golia-se-proyecta-en-leon_203938_102.html",
-    "desc": "El documental 'The Vanishing' de Filippo Barbiera llegará al salón de actos del Musac, donde podrá verse gratuitamente en bucle",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/22/54/6/un-fotograma-del-documental-the-vanishing.jpeg",
-    "pub": 1790952870,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "'Las lecheras camino a León': cine sobre mujeres \"que nunca buscaron el protagonismo\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/lecheras-camino-leon-cine-sobre-mujeres-nunca-buscaron-protagonismo_203936_102.html",
-    "desc": "Sariegos estrena este sábado un documental que reúne los relatos de una docena de mujeres del municipio que recuerdan su trabajo como lecheras",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/22/53/0/dos-imagenes-de-las-encargadas-de-llevar-la-leche-desde-sariegos-l-n-c.jpeg",
-    "pub": 1790952774,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Investigado en La Bañeza un varón por conducción temeraria en estado ebrio",
-    "link": "https://www.lanuevacronica.com/sucesos/investigado-en-baneza-varon-por-conduccion-temeraria-en-estado-ebrio_203933_102.html",
-    "desc": "La Policía Local interceptó el pasado 27 de septiembre el vehículo en la calle Tejadillo tras obligar a apartarse a varios peatones de la vía pública y el conductor superó ampliamente el límite…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/22/49/1/investigado-en-la-baneza-un-varon-por-conduccion-temeraria-en-estado-ebrio.jpeg",
-    "pub": 1790952733,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Policía Nacional celebra en Ponferrada el día de su patrón con reconocimientos a sus agentes",
