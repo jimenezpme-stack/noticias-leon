@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Unionistas - Cultural: 'La Cultural quiere apagar las dudas'",
+    "link": "https://www.lanuevacronica.com/deportes/unionistas-cultural-cultural-quiere-apagar-dudas_203940_102.html",
+    "desc": "El equipo leonés busca olvidar el traspiés frente al Coria ganando este sábado en casa de un Unionistas que ha perdido 4 de sus 5 partidos y es el segundo equipo que más encaja de toda la Primera RFEF",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/12/44/4/cultural-coria-14.jpeg",
+    "pub": 1791029418,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "15.000 hectáreas para convertir al Bierzo en tierra de setas",
+    "link": "https://www.elbierzodigital.com/15-000-hectareas-para-convertir-al-bierzo-en-tierra-de-setas/",
+    "desc": "El Bierzo da un nuevo paso para convertir sus bosques en un referente micológico. La comarca se encuentra en la fase final de los trabajos para poner en marcha su primer Parque Micológico , un…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/15-000-hectareas-para-convertir-al-bierzo-en-tierra-de-setas-el-bierzo-digital.jpg",
+    "pub": 1791028318,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Bierzo Ya traslada a Indra su propuesta para que instale su futura fábrica en El Bayo",
+    "link": "https://www.lanuevacronica.com/el-bierzo/bierzo-ya-lleva-indra-su-propuesta-instale-su-futura-fabrica-en-bayo_203975_102.html",
+    "desc": "La plataforma ciudadana remite a la multinacional un dossier con las ventajas que ofrece la comarca después de que el Consejo Comarcal también impulsara la candidatura desde el sector político",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/26/1/wwww-bierzo-ya-elecciones-4-1000x563.jpeg",
+    "pub": 1791028066,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León sale de nuevo a la calle: \"La vivienda es un derecho, no un negocio\"",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-sale-nuevo-calle-vivienda-es-derecho-no-negocio_203972_102.html",
+    "desc": "La incesante lluvia no impide que más de 1.500 personas tomen el centro León y denuncien el encarecimiento del alquiler, la \"especulación\" y la falta de inmuebles públicos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/24/3/un-instante-de-la-manifestacion-por-la-vivienda-celebrada-este-sabado-en-leon.jpeg",
+    "pub": 1791026891,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El PP denuncia que el Gobierno no ha iniciado en León ninguno de los \"cientos de pisos prometidos\"",
+    "link": "https://www.lanuevacronica.com/actualidad/pp-denuncia-gobierno-no-ha-iniciado-en-leon-ninguno-cientos-pisos-prometidos_203974_102.html",
+    "desc": "Los populares ponen como ejemplo las viviendas de los camineros de Astorga, donde el edificio de la Junta ya cuenta con inquilinos tras su rehabilitación mientras que, según denuncian, el inmueble…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/22/3/viviendas-camineros-en-astorga.jpeg",
+    "pub": 1791025286,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada activa el Plan de Protección Civil ante el riesgo de lluvias y tormentas",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-activa-plan-proteccion-civil-riesgo-lluvias-tormentas_203973_102.html",
+    "desc": "El Ayuntamiento establece el grado 0 de su plan municipal y difunde una serie de recomendaciones para prevenir accidentes durante el episodio meteorológico",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/20/8/wwwwtormenta-10052017-4-1000x563.jpeg",
+    "pub": 1791024626,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Un turismo da varias vueltas de campana en la AP-71 en Villares de Órbigo",
     "link": "https://www.lanuevacronica.com/actualidad/turismo-da-varias-vueltas-campana-en-ap-71-en-villares-orbigo_203971_102.html",
     "desc": "En el vehículo viajaban dos adultos y un menor y, en principio, no se han registrado heridos",
@@ -13,14 +61,6 @@
     "desc": "Ávora y Hostelería de León renuevan por segundo año su colaboración bajo el lema 'Depende de TODOS'",
     "img": "https://www.lanuevacronica.com/uploads/s1/29/99/01/5/material-hosteleria-leon.jpeg",
     "pub": 1791022748,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Ayuntamiento de La Bañeza adjudica la renovación y urbanización de la calle Tejadillo",
-    "link": "https://www.lanuevacronica.com/actualidad/ayuntamiento-baneza-adjudica-renovacion-urbanizacion-calle-tejadillo_203969_102.html",
-    "desc": "La actuación tendrá continuidad posteriormente con otra intervención destinada al asfaltado de las calles perpendiculares a la calle Batalla de Lepanto",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/17/1/imagen-de-archivo-de-la-calle-tejadillo-de-la-baneza.jpeg",
-    "pub": 1791022299,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -92,7 +132,23 @@
     "link": "https://www.elbierzodigital.com/cual-es-el-patrimonio-del-equipo-de-gobierno-de-ponferrada/",
     "desc": "Cuando un político alcanza un puesto en la administración, sea como concejal, procurador o diputado, está obligado a realizar una declaración de los bienes con los que llega y, al finalizar el…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/09/cual-es-el-patrimonio-del-equipo-de-gobierno-de-ponferrada-el-bierzo-digital.jpg",
-    "pub": 1791007216,
+    "pub": 1791010816,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Ponferrada activa su Plan de Protección Civil ante el episodio de lluvias y tormentas",
+    "link": "https://www.elbierzodigital.com/ponferrada-activa-su-plan-de-proteccion-civil-ante-el-episodio-de-lluvias-y-tormentas/",
+    "desc": "El Ayuntamiento de Ponferrada ha activado el Plan Territorial de Protección Civil del municipio en grado 0 ante la alerta decretada por la Agencia de Protección Civil y Emergencias de la Junta de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2022/04/Tormenta-en-el-Bierzo-3.jpeg",
+    "pub": 1791007235,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El oso del Alto Sil que lleva “GPS” y abre el debate sobre el radiomarcaje",
+    "link": "https://www.elbierzodigital.com/el-oso-del-alto-sil-que-lleva-un-gps-y-abre-el-debate-sobre-el-radiomarcaje/",
+    "desc": "Un oso pardo equipado con collar de seguimiento, crotal en la oreja y una batería sobre el lomo se ha convertido en uno de los protagonistas de una cámara de fototrampeo instalada en la zona del…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-oso-del-alto-sil-un-radiomarcaje-bajo-la-lupa-el-bierzo-digital.jpeg",
+    "pub": 1791005119,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -112,38 +168,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "¿Sería tan amable?",
-    "link": "https://www.lanuevacronica.com/opinion/seria-tan-amable_203960_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1790994600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "No es una guerra de sexos: es el fin de un contrato antiguo",
-    "link": "https://www.lanuevacronica.com/opinion/no-es-guerra-sexos-es-fin-contrato-antiguo_203961_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1790994000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Desahucios varios",
-    "link": "https://www.lanuevacronica.com/opinion/desahucios-varios_203955_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1790994000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "No hay servicio de terraza...",
-    "link": "https://www.lanuevacronica.com/opinion/a-pie-de-calle/no-hay-servicio-terraza_203956_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1790993700,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Vega de Espinareda se prepara para vivir “El Último Espectáculo” durante cuatro jornadas de terror",
     "link": "https://www.elbierzodigital.com/vega-de-espinareda-se-prepara-para-vivir-el-ultimo-espectaculo-durante-cuatro-jornadas-de-terror/",
     "desc": "Vega de Espinareda se convertirá durante cuatro jornadas en escenario de \" El Último Espectáculo\" , una propuesta especial con motivo de Halloween que se celebrará los días 30 y 31 de octubre y 1 y…",
@@ -157,6 +181,14 @@
     "desc": "El Libro Imposible vuelve a llenar de actividad cultural el corazón de Ponferrada durante el mes de octubre . La librería y espacio creativo situado en la Plaza de la Encina, a los pies del Castillo…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/03/marzo-llega-cargado-de-libros-talleres-y-encuentros-en-el-libro-imposible-el-bierzo-digital-scaled.jpg",
     "pub": 1790955915,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El Ayuntamiento inadmite el recurso de David Pacios para revisar las subvenciones del club deportivo que presidía",
+    "link": "https://www.elbierzodigital.com/el-ayuntamiento-no-admite-el-recurso-de-david-pacios-para-revisar-las-subvenciones-del-club-deportivo-que-preside/",
+    "desc": "La Junta de Gobierno Local del Ayuntamiento de Ponferrada ha inadmitido el recurso extraordinario de revisión presentado por el concejal de Coalición por el Bierzo, David Pacios Martínez , para…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/09/-el-bierzo-digital-71.jpg",
+    "pub": 1790949860,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -280,14 +312,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El Ayuntamiento inadmite el recurso de David Pacios para revisar las subvenciones del club deportivo que presidía",
-    "link": "https://www.elbierzodigital.com/el-ayuntamiento-no-admite-el-recurso-de-david-pacios-para-revisar-las-subvenciones-del-club-deportivo-que-preside/",
-    "desc": "La Junta de Gobierno Local del Ayuntamiento de Ponferrada ha inadmitido el recurso extraordinario de revisión presentado por el concejal de Coalición por el Bierzo, David Pacios Martínez , para…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/09/-el-bierzo-digital-71.jpg",
-    "pub": 1790917460,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Fiscalía pide cinco años de cárcel para el expresidente de AMBI por un delito contra los trabajadores",
     "link": "https://www.elbierzodigital.com/fiscalia-pide-cinco-anos-de-carcel-para-el-expresidente-de-ambi-por-un-delito-contra-los-trabajadores/",
     "desc": "La Fiscalía del Área de Ponferrada reclama cinco años de prisión para quien fuera presidente de la Asociación de Personas con Discapacidad del Bierzo ( AMBI ), al que atribuye un delito contra los…",
@@ -341,30 +365,6 @@
     "desc": "El operativo de prevención y extinción de incendios forestales contará con dos nuevas cuadrillas terrestres en el Bierzo , tras la autorización por parte del Consejo de Gobierno de la Junta de…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/11/bierzo-aire-limpio-amplia-su-denuncia-por-los-incendios-del-verano-ante-la-fiscalia-el-bierzo-digital.jpeg",
     "pub": 1790856627,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "OncoBierzo lleva a Callao su denuncia sobre la sanidad del Bierzo: “Que tu código postal no decida tu esperanza de vida”",
-    "link": "https://www.elbierzodigital.com/oncobierzo-lleva-a-callao-su-denuncia-sobre-la-sanidad-del-bierzo-que-tu-codigo-postal-no-decida-tu-esperanza-de-vida/",
-    "desc": "\"Que tu código postal no decida tu esperanza de vida\". Con este mensaje, OncoBierzo ha trasladado este jueves al corazón de Madrid su reivindicación por una sanidad pública con los mismos servicios…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/oncobierzo-lleva-a-callao-su-denuncia-sobre-la-sanidad-del-bierzo-que-tu-codigo-postal-no-decida-tu-esperanza-de-vida-el-bierzo-digital.jpeg",
-    "pub": 1790855126,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Baloncesto y comercio local vuelven a jugar en el mismo equipo",
-    "link": "https://www.elbierzodigital.com/baloncesto-y-comercio-local-vuelven-a-jugar-en-el-mismo-equipo/",
-    "desc": "El Ciudad de Ponferrada (CDP) y la asociación de comerciantes Centro Mola han renovado su acuerdo de colaboración con el objetivo de reforzar los vínculos entre el baloncesto y el comercio local,…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/baloncesto-y-comercio-local-vuelven-a-jugar-en-el-mismo-equipo-el-bierzo-digital-2.jpeg",
-    "pub": 1790853891,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Consejo Comarcal reclama a la Junta mejoras urgentes para atender a los visitantes de Las Médulas",
-    "link": "https://www.elbierzodigital.com/el-consejo-comarcal-reclama-a-la-junta-mejoras-urgentes-para-atender-a-los-visitantes-de-las-medulas/",
-    "desc": "El Consejo Comarcal del Bierzo ha trasladado a la Junta de Castilla y León las principales necesidades detectadas en Las Médulas para mejorar la atención a los visitantes y garantizar la…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2014/04/Las_Medulas_04_by-dpc.jpg",
-    "pub": 1790851957,
     "fuente": "El Bierzo Digital"
   },
   {
