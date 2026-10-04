@@ -1,5 +1,101 @@
 [
   {
+    "titulo": "¿En qué momento dejó de importarnos?",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/en-momento-dejo-importarnos_204007_102.html",
+    "desc": "El artista José Antonio Santocildes y la escritora Nuria Crespo nos sorprenden con esta danza mágica que surge entre el dibujo y el texto, entre los trazos y las palabras, para que todos podamos…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/24/67/9/en-que-momento-dejo-de-importarnos.jpeg",
+    "pub": 1791111387,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "FOTOGALERÍA | Una marea verde de más de 5000 andarines, le plantan cara al cáncer en Ponferrada",
+    "link": "https://www.elbierzodigital.com/fotogaleria-una-marea-verde-de-mas-de-5000-andarines-le-plantan-cara-al-cancer-en-ponferrada/",
+    "desc": "Una vez más la población de Ponferrada y el Bierzo se ha echado a la calle para mostrar su apoyo a la lucha contra el cáncer. Más de 5000 andarines se han calzado sus zapatillas para plantarle cara…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-asociacion-contra-el-cancer-tendra-nueva-sede-en-el-centro-de-ponferrada-en-2027-el-bierzo-digital-30.jpeg",
+    "pub": 1791111244,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El PP acusa al Ayuntamiento de Mansilla Mayor de \"regalar\" la gestión de un albergue de 300.000 euros",
+    "link": "https://www.lanuevacronica.com/actualidad/pp-acusa-ayuntamiento-mansilla-mayor-regalar-gestion-albergue-300000-euros_204006_102.html",
+    "desc": "Los populares se preguntan por qué el equipo de gobierno no plantea un concurso para favorecer la concurrencia en vez de una \"cesión gratuita\" o cumplan su compromiso de llevar a cabo una \"gestión…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/24/67/1/imagen-de-archivo-de-las-antiguas-escuelas-de-manasilla-mayor-lugar-donde-se-ubica-actualemente-el-albergue.jpeg",
+    "pub": 1791110693,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Viaje al León de antaño entre pendones y carros engalanados",
+    "link": "https://www.lanuevacronica.com/actualidad/viaje-leon-antano-entre-pendones-carros-engalanados_204003_102.html",
+    "desc": "Los tradicionales desfiles del día grande de San Froilán en la capital despejan la amenaza de lluvia y vuelven a reunir a miles de personas en el casco histórico",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/24/65/3/desfile-de-pendones-de-las-fiestas-de-san-froilan-en-imagenes-7.jpeg",
+    "pub": 1791110113,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Asociación contra el Cáncer tendrá nueva sede en el centro de Ponferrada en 2027",
+    "link": "https://www.elbierzodigital.com/la-asociacion-contra-el-cancer-tendra-nueva-sede-en-el-centro-de-ponferrada-en-2027/",
+    "desc": "La Asociación Española Contra el Cáncer (AECC) de Ponferrada contará en 2027 con una nueva sede en el centro de la ciudad. La presidenta del colectivo, María Ángeles Martín Royo , confirmó este…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-asociacion-contra-el-cancer-tendra-nueva-sede-en-el-centro-de-ponferrada-en-2027-el-bierzo-digital-38-e1791111696719.jpeg",
+    "pub": 1791109427,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El héroe se llama Juanito...",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/heroe-se-llama-juanito_204005_102.html",
+    "desc": "En Villarino solo vivía un vecino, y falleció sin que nadie supiera de esta circunstancia... salvo Juanito, su perro, que \"al ver\" que pasaban los días se fue hasta el pueblo más cercano, Iruela, y…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/24/63/4/barry-fue-un-perro-de-rescate-de-montana-al-que-se-considera-el-padre-de-la-raza-san-bernardo.jpeg",
+    "pub": 1791109001,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El viaje de su hijo hasta 'El viaje de mi padre'",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/viaje-su-hijo-hasta-el-viaje-mi-padre_204004_102.html",
+    "desc": "Julio Llamazares acaba de ganar el Premio Nacional, un hito muy importante en la larga carrera literaria del escritor de Vegamián, un autor en el que la memoria ha tenido gran importancia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/24/41/0/llamazares-con-su-recordada-perra-bruna-para-el-cartel-promocional-del-libro-el-rio-del-olvido.jpeg",
+    "pub": 1791108107,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Lidia Coca: \"Mi obsesión es que la gente de mi generación pueda volver a trabajar en Ponferrada\"",
+    "link": "https://www.lanuevacronica.com/el-bierzo/lidia-coca-mi-obsesion-es-gente-mi-generacion-pueda-volver-trabajar-en-ponferrada_203870_102.html",
+    "desc": "Entrevista a la concejala de Presidencia, Relaciones Institucionales, Fondos Europeos, Transparencia y Fomento en el Ayuntamiento de Ponferrada",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/21/16/7/lidia-coca1.jpeg",
+    "pub": 1791104827,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Tres vidas, tres siglos, tres ejemplos en el día del mayor",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/tres-vidas-tres-siglos-tres-ejemplos-en-dia-mayor_204002_102.html",
+    "desc": "Isabel, Benigna y Ángeles (que es varón) rondan los cien años, con gran lucidez, de trabajo y vida ejemplar en Maraña, Burón y Mondreganes, cada uno con sus recuerdos que nos desvelan en estas…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/24/31/0/marana-buron-y-mondreganes-tienen-a-tres-casi-centenarios-de-los-que-aprender-siempre.jpeg",
+    "pub": 1791104424,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Dos voces bercianas se cuelan en la gran pantalla literaria de “La película de mi vida”",
+    "link": "https://www.elbierzodigital.com/dos-voces-bercianas-se-cuelan-en-la-gran-pantalla-literaria-de-la-pelicula-de-mi-vida/",
+    "desc": "¿Qué película ha marcado nuestra vida? ¿Qué historia del cine permanece en la memoria mucho después de que aparezcan los títulos de crédito? A partir de esas preguntas nace La película de mi vida ,…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/dos-voces-bercianas-se-cuelan-en-la-gran-pantalla-literaria-de-la-pelicula-de-mi-vida-el-bierzo-digital.jpg",
+    "pub": 1791101142,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "III Gala del Comercio: reconocimiento, espectáculo y emoción",
+    "link": "https://www.elbierzodigital.com/iii-gala-del-comercio-reconocimiento-espectaculo-y-emocion/",
+    "desc": "La Térmica Cultural se vistió de gala para celebrar una noche muy especial , en la que alrededor de 600 invitados se reunieron para rendir homenaje al comercio de proximidad, al tejido empresarial y…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/09/fotogaleria-iii-gala-del-comercio-de-ponferrada-el-bierzo-digital-8.jpeg",
+    "pub": 1791098105,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Premios Mujer 2026: seis años dando voz a las mujeres que dejan huella en el Bierzo y Laciana",
+    "link": "https://www.elbierzodigital.com/premios-mujer-2026-seis-anos-dando-voz-a-las-mujeres-que-dejan-huella-en-el-bierzo-y-laciana/",
+    "desc": "Los Premios Mujer de El Bierzo Digital cumplen seis años . Seis ediciones en las que este periódico ha mantenido su compromiso de reconocer y poner en valor a mujeres cuyas trayectorias, esfuerzo y…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/11/los-v-premios-mujer-altavoz-del-compromiso-talento-y-valentia-de-mujeres-ejemplares-el-bierzo-digital-1.jpeg",
+    "pub": 1791097840,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Ladra, Moure, ladra",
     "link": "https://www.lanuevacronica.com/opinion/ladra-moure-ladra_203977_102.html",
     "desc": "",
@@ -64,60 +160,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "El patio de luces",
-    "link": "https://www.lanuevacronica.com/opinion/patio-luces_203995_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791080400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "'Un alter home'",
-    "link": "https://www.lanuevacronica.com/opinion/un-alter-home_203976_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791080400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Lidia Coca: \"Mi obsesión es que la gente de mi generación pueda volver a trabajar en Ponferrada\"",
-    "link": "https://www.lanuevacronica.com/el-bierzo/lidia-coca-mi-obsesion-es-gente-mi-generacion-pueda-volver-trabajar-en-ponferrada_203870_102.html",
-    "desc": "Entrevista a la concejala de Presidencia, Relaciones Institucionales, Fondos Europeos, Transparencia y Fomento en el Ayuntamiento de Ponferrada",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/21/16/7/lidia-coca1.jpeg",
-    "pub": 1791080100,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Las cucerías de Cantón",
-    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_203999_102.html",
-    "desc": "El humorista gráfico Rubén Cantón responde a la pregunta de este sábado sobre una curiosidad de la provincia de León.",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/24/10/1/image1.jpeg",
-    "pub": 1791079200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Parque de Quevedo: la libertad en la otra orilla",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/parque-quevedo-libertad-en-otra-orilla_203989_102.html",
-    "desc": "Inaugurado en 1984, rinde homenaje al poeta del Siglo de Oro, encarcelado en San Marcos durante varios años, en un espacio que antaño fuera vivero de Obras Públicas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/69/4/habitado-por-varias-decenas-de-especies-vegetales-el-parque-de-quevedo-abandera-su-green-flag-desde-el-ano-2019.jpeg",
-    "pub": 1791079200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "16 protagonistas en la gran noche del comercio ponferradino",
     "link": "https://www.elbierzodigital.com/16-protagonistas-en-la-gran-noche-del-comercio-ponferradino/",
-    "desc": "Durante la III Gala del Comercio de Ponferrada se hicieron entrega de 16 galardones y colectivos por su trayectoria y contribución a la sociedad. Algunos de ellos ya conocidos previamente y otros,…",
+    "desc": "Durante la III Gala del Comercio de Ponferrada se entregaron 16 galardones a personas, empresas y colectivos en reconocimiento a su trayectoria y a su aportación a la sociedad ponferradina. Algunos…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/16-protagonistas-en-la-gran-noche-del-comercio-ponferradino-el-bierzo-digital-e1791070617247.jpeg",
     "pub": 1791070693,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Jandro: \"Si no las metes, estás jodido\"",
-    "link": "https://www.lanuevacronica.com/deportes/jandro-si-no-metes-estas-jodido_204001_102.html",
-    "desc": "El técnico de la Cultural cree que \"tenemos que defender mejor el balón parado\", apunta que Jon García \"se notó algo en la rodilla\" y asegura que \"mi confianza en San Román sigue intacta\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/24/19/0/guzmanunionistas.jpeg",
-    "pub": 1791060260,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Baloncesto Ponferrada resiste hasta el final y firma un estreno ganador ante SBA (94-86)",
@@ -125,22 +173,6 @@
     "desc": "Baloncesto Ponferrada SDP comenzó con buen pie su nueva etapa en Segunda FEB al imponerse este sábado por 94-86 a Spanish Basketball Academy (SBA) en el pabellón del Toralín. El conjunto berciano…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/baloncesto-sdp-hasta-el-final-y-firma-un-estreno-ganador-ante-sba-94-86-el-bierzo-digital.jpg",
     "pub": 1791059644,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Unionistas 2 - Cultural 0: 'La Cultural enciende las alarmas'",
-    "link": "https://www.lanuevacronica.com/deportes/unionistas-2-cultural-0-cultural-enciende-alarmas_204000_102.html",
-    "desc": "Tras una primera parte de dominio sin pegada, un gol a balón parado y otro después de un grave error de San Román llevan al equipo leonés a la derrota frente al Unionistas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/24/12/3/benitounionistas.jpeg",
-    "pub": 1791057605,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "III Gala del Comercio: reconocimiento, espectáculo y emoción",
-    "link": "https://www.elbierzodigital.com/iii-gala-del-comercio-reconocimiento-espectaculo-y-emocion/",
-    "desc": "La Térmica Cultural se vistió de gala para celebrar una noche muy especial , en la que alrededor de 600 invitados se reunieron para rendir homenaje al comercio de proximidad, al tejido empresarial y…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/09/fotogaleria-iii-gala-del-comercio-de-ponferrada-el-bierzo-digital-8.jpeg",
-    "pub": 1791046805,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -325,38 +357,6 @@
     "desc": "La nueva huelga indefinida de los sindicatos médicos corporativos, convocada a partir del 28 de octubre contra el nuevo Estatuto del personal sanitario , encuentra oposición en el Bierzo y Laciana.…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/06/10MAX202306610758-scaled.jpg",
     "pub": 1790928910,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ponferrada reúne a los pequeños talentos musicales con el estreno de su PequeOrquesta",
-    "link": "https://www.elbierzodigital.com/ponferrada-reune-a-los-pequenos-talentos-musicales-con-el-estreno-de-su-pequeorquesta/",
-    "desc": "Ponferrada suma una nueva apuesta por el talento musical de los más pequeños. La Escuela de Música Ciudad de Ponferrada pone en marcha la PequeOrquesta , una iniciativa dirigida a niños y niñas de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ESCUELA-DE-MUSICA-el-bierzo-digital.jpg",
-    "pub": 1790928483,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Los Premios Palacio de Canedo crecen y elevan hasta 35.500 euros su apuesta por los pueblos del Bierzo",
-    "link": "https://www.elbierzodigital.com/los-premios-palacio-de-canedo-crecen-y-elevan-hasta-35-500-euros-su-apuesta-por-los-pueblos-del-bierzo/",
-    "desc": "Los Premios Palacio de Canedo alcanzan su mayoría de edad con una nueva edición que refuerza su compromiso con la conservación y la mejora del patrimonio rural del Bierzo. La Fundación Prada a Tope…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/los-premios-palacio-de-canedo-crecen-y-elevan-hasta-35-500-euros-su-apuesta-por-los-pueblos-del-bierzo-el-bierzo-digital-4-e1790850813449.jpeg",
-    "pub": 1790924437,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Enfermería ampliará sus plazas en Ponferrada de 50 a 65 el próximo curso",
-    "link": "https://www.elbierzodigital.com/enfermeria-ampliara-sus-plazas-en-ponferrada-de-50-a-65-el-proximo-curso/",
-    "desc": "La Universidad de León ampliará en 15 las plazas del grado de Enfermería en el Campus de Ponferrada , que pasarán de las 50 actuales a 65 a partir del curso 2027/2028 , si la modificación recibe…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/enfermeria-ampliara-sus-plazas-en-ponferrada-de-50-a-65-el-proximo-curso-el-bierzo-digital.jpg",
-    "pub": 1790917491,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Fiscalía pide cinco años de cárcel para el expresidente de AMBI por un delito contra los trabajadores",
-    "link": "https://www.elbierzodigital.com/fiscalia-pide-cinco-anos-de-carcel-para-el-expresidente-de-ambi-por-un-delito-contra-los-trabajadores/",
-    "desc": "La Fiscalía del Área de Ponferrada reclama cinco años de prisión para quien fuera presidente de la Asociación de Personas con Discapacidad del Bierzo ( AMBI ), al que atribuye un delito contra los…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2022/02/03MAX201701349592.jpg",
-    "pub": 1790886041,
     "fuente": "El Bierzo Digital"
   },
   {
