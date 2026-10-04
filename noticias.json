@@ -1,5 +1,109 @@
 [
   {
+    "titulo": "Ladra, Moure, ladra",
+    "link": "https://www.lanuevacronica.com/opinion/ladra-moure-ladra_203977_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791082800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Eructa el amo, patada al perro",
+    "link": "https://www.lanuevacronica.com/opinion/eructa-amo-patada-perro_203991_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791082500,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Arturo Nogueira",
+    "link": "https://www.lanuevacronica.com/el-bierzo/arturo-nogueira_203078_102.html",
+    "desc": "Nació en el Ponferrada de 1943, Desde niño mostró una mirada diferente, curiosa e inquieta, que con los años acabaría encontrando en la escultura la forma de convertir esa manera de mirar el mundo…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/02/61/0/arturo-0.jpeg",
+    "pub": 1791082500,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Llamazares y la memoria",
+    "link": "https://www.lanuevacronica.com/opinion/llamazares-memoria_203997_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791081900,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Objetivo: cargarse al alcalde",
+    "link": "https://www.lanuevacronica.com/opinion/objetivo-cargarse-alcalde_203992_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791081900,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Sin embargo",
+    "link": "https://www.lanuevacronica.com/opinion/sin-embargo_203979_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791081900,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viga en el ojo",
+    "link": "https://www.lanuevacronica.com/opinion/viga-en-ojo_203993_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791081300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El caso de la manopla",
+    "link": "https://www.lanuevacronica.com/opinion/caso-manopla_203994_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791080700,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El patio de luces",
+    "link": "https://www.lanuevacronica.com/opinion/patio-luces_203995_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791080400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "'Un alter home'",
+    "link": "https://www.lanuevacronica.com/opinion/un-alter-home_203976_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791080400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Lidia Coca: \"Mi obsesión es que la gente de mi generación pueda volver a trabajar en Ponferrada\"",
+    "link": "https://www.lanuevacronica.com/el-bierzo/lidia-coca-mi-obsesion-es-gente-mi-generacion-pueda-volver-trabajar-en-ponferrada_203870_102.html",
+    "desc": "Entrevista a la concejala de Presidencia, Relaciones Institucionales, Fondos Europeos, Transparencia y Fomento en el Ayuntamiento de Ponferrada",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/21/16/7/lidia-coca1.jpeg",
+    "pub": 1791080100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_203999_102.html",
+    "desc": "El humorista gráfico Rubén Cantón responde a la pregunta de este sábado sobre una curiosidad de la provincia de León.",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/24/10/1/image1.jpeg",
+    "pub": 1791079200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Parque de Quevedo: la libertad en la otra orilla",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/parque-quevedo-libertad-en-otra-orilla_203989_102.html",
+    "desc": "Inaugurado en 1984, rinde homenaje al poeta del Siglo de Oro, encarcelado en San Marcos durante varios años, en un espacio que antaño fuera vivero de Obras Públicas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/69/4/habitado-por-varias-decenas-de-especies-vegetales-el-parque-de-quevedo-abandera-su-green-flag-desde-el-ano-2019.jpeg",
+    "pub": 1791079200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "16 protagonistas en la gran noche del comercio ponferradino",
     "link": "https://www.elbierzodigital.com/16-protagonistas-en-la-gran-noche-del-comercio-ponferradino/",
     "desc": "Durante la III Gala del Comercio de Ponferrada se hicieron entrega de 16 galardones y colectivos por su trayectoria y contribución a la sociedad. Algunos de ellos ya conocidos previamente y otros,…",
@@ -32,30 +136,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Un tributo de cien doncellas que ya son cantaderas",
-    "link": "https://www.lanuevacronica.com/actualidad/tributo-cien-doncellas-ya-son-cantaderas_203986_102.html",
-    "desc": "León volvió a recrear este sábado el legendario Tributo de las Cien Doncellas, uno de los actos tradicionales de las fiestas de San Froilán",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/93/8/tributo-de-las-cien-doncellas-en-imagenes-11.jpeg",
-    "pub": 1791053714,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Suárez-Quiñones compara el apoyo de la Junta al comercio frente al \"ataque\" del Gobierno: \"Le hace muy difícil la vida\"",
-    "link": "https://www.lanuevacronica.com/cyl/suarez-quinones-compara-apoyo-junta-comercio-frente-ataque-gobierno-hace-muy-dificil-vida_203990_102.html",
-    "desc": "El consejero de Industria asegura que el sector es \"muy relevante\" en términos económicos y para mantener el \"pulso\" del territorio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/21/90/3/suarez-quinones-sanchez.jpeg",
-    "pub": 1791051842,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Herido un joven de 25 años tras salirse de la vía en Onzonilla",
-    "link": "https://www.lanuevacronica.com/actualidad/herido-joven-25-anos-salirse-via-en-onzonilla_203988_102.html",
-    "desc": "El accidente se produjo a las 18:38 horas en el punto kilométrico 1 de la carretera LE-5518",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/68/3/le-518-a-su-paso-por-onzonilla.jpeg",
-    "pub": 1791047972,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "III Gala del Comercio: reconocimiento, espectáculo y emoción",
     "link": "https://www.elbierzodigital.com/iii-gala-del-comercio-reconocimiento-espectaculo-y-emocion/",
     "desc": "La Térmica Cultural se vistió de gala para celebrar una noche muy especial , en la que alrededor de 600 invitados se reunieron para rendir homenaje al comercio de proximidad, al tejido empresarial y…",
@@ -64,84 +144,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Herido un hombre tras una colisión entre dos turismos en Ponferrada",
-    "link": "https://www.lanuevacronica.com/actualidad/herido-hombre-colision-entre-dos-turismos-en-ponferrada_203987_102.html",
-    "desc": "El aviso se recibió a las 15:43 horas, cuando se solicitó asistencia sanitaria para atender al herido",
-    "img": "https://www.lanuevacronica.com/uploads/s1/13/31/68/calles-asfaltadas-2.jpeg",
-    "pub": 1791046488,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Colisión entre dos turismos en una gasolinera de la Avenida de Galicia en Ponferrada",
     "link": "https://www.elbierzodigital.com/colision-entre-dos-turismos-en-una-gasolinera-de-la-avenida-de-galicia-en-ponferrada/",
     "desc": "Una colisión lateral entre dos turismos registrada esta tarde en la Avenida de Galicia , en Ponferrada, movilizó a los servicios de emergencia. La sala de operaciones del 112 recibió el aviso a las…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/09/-el-bierzo-digital-164-scaled-e1761575860795.jpeg",
     "pub": 1791045964,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "En Matanza de los Oteros llovieron avellanas",
-    "link": "https://www.lanuevacronica.com/actualidad/en-matanza-oteros-llovieron-avellanas_203985_102.html",
-    "desc": "La tradición, que se ha convertido en una de las señas de identidad de la celebración, volvió a reunir a distintas generaciones en torno a uno de los actos más arraigados de las fiestas de La Cañamona",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/55/7/el-reparto-de-avellanas-en-matanza-de-los-oteros-3.jpeg",
-    "pub": 1791043358,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "'Vida Activa' se refuerza en San Andrés del Rabanedo al haber alcanzado las 1.200 inscripciones",
-    "link": "https://www.lanuevacronica.com/actualidad/vida-activa-se-refuerza-en-san-andres-rabanedo-haber-alcanzado-1200-inscripciones_203984_102.html",
-    "desc": "La nueva edición mantiene una programación amplia y variada que combina actividad física, estimulación cognitiva, ocio, cultura y aprendizaje",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/49/9/una-de-las-actividades-organizadas-en-el-marco-del-programa-vida-activa.jpeg",
-    "pub": 1791042853,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Copa del Mundo hace escala en León",
-    "link": "https://www.lanuevacronica.com/deportes/copa-mundo-hace-escala-en-leon_203965_102.html",
-    "desc": "El trofeo de la segunda estrella conseguida por la Selección Española de fútbol el pasado verano en EEUU estará en la capital leonesa los días 5 y 6 de octubre en el Palacio Conde Luna",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/13/3/la-copa-del-mundo-de-la-segunda-estrella-de-espana-estara-presente-en-leon-rfef.jpeg",
-    "pub": 1791042559,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cultural - Morón: 'La Cultural levanta el telón'",
-    "link": "https://www.lanuevacronica.com/deportes/cultural-moron-cultural-levanta-telon_203981_102.html",
-    "desc": "El equipo leonés, con Traoré como única baja, arranca este domingo la liga frente a un Morón que el año pasado fue quinto y pasó la primera ronda del 'playoff'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/15/74/4/cultural-ponferrada-9.jpeg",
-    "pub": 1791042533,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PSOE de León avanza en su trabajo para preparar las elecciones municipales",
-    "link": "https://www.lanuevacronica.com/actualidad/psoe-leon-avanza-en-su-trabajo-preparar-elecciones-municipales_203983_102.html",
-    "desc": "Durante el encuentro, celebrado en Gordoncillo, se han abordado las principales necesidades y retos a los que se enfrentan los municipios",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/47/7/participantes-en-la-reunion-celebrada-por-el-psoe-de-gordoncillo.jpeg",
-    "pub": 1791042312,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Ayuntamiento de Santa María del Páramo lanza actividades para atajar la soledad no deseada",
-    "link": "https://www.lanuevacronica.com/actualidad/ayuntamiento-santa-maria-paramo-lanza-actividades-atajar-soledad-no-deseada_203982_102.html",
-    "desc": "La iniciativa se plantea como una agenda abierta en la que los contenidos y las actividades se irán adaptando a las inquietudes, intereses y necesidades que manifiesten los propios participantes",
-    "img": "https://www.lanuevacronica.com/uploads/s1/21/94/62/3/imagen-ayto-santa-maria-15519-4-1000x563.jpeg",
-    "pub": 1791042082,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los pueblos de León exigen un trato diferenciado que relance los pequeños municipios",
-    "link": "https://www.lanuevacronica.com/actualidad/pueblos-leon-exigen-trato-diferenciado-relance-pequenos-municipios_203980_102.html",
-    "desc": "La alcaldesa de Murias de Paredes, Carmen Mallo, cree que no pueden competir al acceder a ayudas y pide más implicación de las instituciones y la Universidad con el medio rural",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/45/5/foto-de-familia-de-los-participantes-en-el-decimo-congreso-de-esmontanas.jpeg",
-    "pub": 1791041440,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ponferradina - Mirandés: 'La primera gran prueba para la Deportiva'",
-    "link": "https://www.lanuevacronica.com/deportes/ponferradina-mirandes-primera-gran-prueba-deportiva_203978_102.html",
-    "desc": "Los bercianos reciben este domingo (16:30 horas) a uno de los cocos y recién descendido Mirandés, solo con Faye como duda por su estado físico",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/01/13/7/la-deportiva-se-llevo-la-victoria-ante-el-merida-tras-jugar-con-uno-menos-toda-la-segunda-parte-quinito-39.jpeg",
-    "pub": 1791037773,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "“Bierzo Ya” mueve ficha ante Indra y pone El Bayo sobre la mesa para su tercera fábrica",
@@ -158,14 +166,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/15-000-hectareas-para-convertir-al-bierzo-en-tierra-de-setas-el-bierzo-digital.jpg",
     "pub": 1791028318,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Bierzo Ya traslada a Indra su propuesta para que instale su futura fábrica en El Bayo",
-    "link": "https://www.lanuevacronica.com/el-bierzo/bierzo-ya-lleva-indra-su-propuesta-instale-su-futura-fabrica-en-bayo_203975_102.html",
-    "desc": "La plataforma ciudadana remite a la multinacional un dossier con las ventajas que ofrece la comarca después de que el Consejo Comarcal también impulsara la candidatura desde el sector político",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/26/1/wwww-bierzo-ya-elecciones-4-1000x563.jpeg",
-    "pub": 1791028066,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Fin de semana pasado por agua y con tormentas en el Bierzo",
