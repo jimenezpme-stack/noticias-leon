@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "El otoño de todos los desencantos",
+    "link": "https://www.lanuevacronica.com/opinion/otono-todos-desencantos_204035_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791168300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "San Froilán",
+    "link": "https://www.lanuevacronica.com/opinion/san-froilan_204026_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791168300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Diálogos con el pasado-4 (Pasa, octubre)",
     "link": "https://www.lanuevacronica.com/opinion/dialogos-con-pasado-4-pasa-octubre_204027_102.html",
     "desc": "",
@@ -110,22 +126,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-mirandes-26-27-el-bierzo-digital-17.jpeg",
     "pub": 1791131216,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Estos son los ganadores del concurso de Carros Engalanados y del Desfile de Pendones de San Froilán 2026",
-    "link": "https://www.lanuevacronica.com/actualidad/estos-son-ganadores-concurso-carros-engalanados-san-froilan-2026_204019_102.html",
-    "desc": "El desfile reunió a 22 carros, mientras que Astorga y Adrados de Ordás fueron reconocidos en el concurso de pendones concejiles",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/25/39/1/el-desfile-de-carros-engalanados-san-froilan-2026-en-imagenes-9.jpeg",
-    "pub": 1791130843,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Animando a la Cultural entre la suciedad",
-    "link": "https://www.lanuevacronica.com/deportes/animando-cultural-en-asientos-llenos-cagadas-pajaros_204017_102.html",
-    "desc": "Los aficionados culturalistas desplazados al choque frente al Unionistas critican el lamentable estado del fondo en el que fueron ubicados, con los asientos llenos de cagadas de palomas o barro",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/25/14/8/aficionadosculturalgrada.jpeg",
-    "pub": 1791129716,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La cataplasma: 'Los cuatro puntos'",
