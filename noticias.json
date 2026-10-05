@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "León, a la cabeza de una solidaridad que da vida",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/leon-cabeza-solidaridad-da-vida_204031_102.html",
+    "desc": "El Hospital de León registró nueve donantes de órganos entre abril y junio y es uno de los centros con mayor actividad de la comunidad. Además, se hicieron cinco transplantes de córnea que se suman…",
+    "img": null,
+    "pub": 1791165600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204028_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/25/79/8/canton-05-10-2026.jpeg",
+    "pub": 1791165600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Buscyl ya tiene en León más de 158.000 usuarios y supera los 3,5 millones de viajes",
+    "link": "https://www.lanuevacronica.com/actualidad/buscyl-ya-tiene-en-leon-mas-158000-usuarios-supera-35-millones-viajes_204022_102.html",
+    "desc": "El modelo de la Junta que permite utilizar de forma gratuita los autobuses metropolitanos e interurbanos arrancó hace un año",
+    "img": "https://www.lanuevacronica.com/uploads/s1/29/83/40/0/buscyl-inicia-con-240-317-usuarios-manana-la-segunda-fase-de-su-implantacion-en-444-rutas.jpeg",
+    "pub": 1791165600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Lucha leonesa: Florián puede rematar en San Froilán la remontada más histórica de la liga y ganarla",
     "link": "https://www.lanuevacronica.com/deportes/lucha-leonesa-florian-puede-rematar-en-san-froilan-remontada-mas-historica-liga-ganarla_204036_102.html",
     "desc": "El luchador de Sorriba puede certificar en Puente Castro un título en el que llegó a estar a 50 puntos de Sergio;los otros seis campeones ya están decididos",
@@ -56,14 +80,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Unas Cantaderas con madreñas y un escudo para parar \"los dardos que le están lanzando\" al alcalde de León",
-    "link": "https://www.lanuevacronica.com/actualidad/cantaderas-con-madrenas-escudo-parar-dardos-estan-lazando-alcalde-leon_204016_102.html",
-    "desc": "El claustro de la Catedral acogió la ceremonia en un día soleado en que el Síndico Municipal, José Antonio Diez, lució ataviado con el traje tradicional",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/25/11/3/frame-04cantaderas.jpeg",
-    "pub": 1791132528,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León se suma al ecomapeo estatal con la iniciativa '¡Aquí falta un árbol!'",
     "link": "https://www.lanuevacronica.com/actualidad/leon-se-suma-ecomapeo-estatal-con-iniciativa-aqui-falta-arbol_204024_102.html",
     "desc": "Greenpeace León ha impulsado una actividad que busca señalar alcorques vacíos, tocones y árboles secos presentes en la geografía urbana",
@@ -112,14 +128,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Susto en el centro de León tras el incendio de un coche",
-    "link": "https://www.lanuevacronica.com/actualidad/susto-en-centro-leon-incendio-coche_204012_102.html",
-    "desc": "Los bomberos se desplazaron hasta la Avenida Facultad de Veterinaria para sofocar las llamas del aparatoso fuego originado este concurrido domingo en la capital",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/25/06/1/imagen-del-coche-que-ha-ardido-este-domingo-en-leon.jpeg",
-    "pub": 1791128548,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Los Bomberos de León sofocan el incendio de un vehículo en Villaobispo",
     "link": "https://www.lanuevacronica.com/actualidad/bomberos-leon-sofocan-incendio-vehiculo-en-villaobispo_204021_102.html",
     "desc": "La intervención se produjo durante la noche de este domingo 4 de octubre",
@@ -150,14 +158,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/09/en-directo-ponferradina-mirandes-el-bierzo-digital.jpg",
     "pub": 1791123349,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El alcalde sorprende con indumentaria tradicional en Las Cantaderas",
-    "link": "https://www.lanuevacronica.com/actualidad/alcalde-sorprende-con-indumentaria-tradicional-en-cantaderas_204014_102.html",
-    "desc": "José Antonio Diez rompió con la imagen habitual de traje y corbata después de la polémica generada por las recomendaciones sobre la vestimenta de los participantes en el desfile de carros y pendones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/25/07/9/el-alcalde-de-leon-jose-antonio-diez-sorprendio-con-una-indumentaria-tradicional-en-la-cantaderas.jpeg",
-    "pub": 1791115474,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Ponferrada celebra el I Encuentro de su Comunidad Energética",
