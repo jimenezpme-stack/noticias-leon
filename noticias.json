@@ -1,11 +1,35 @@
 [
   {
+    "titulo": "La magia de 'Gota' llega a Ponferrada de la mano de Txema Muñoz",
+    "link": "https://www.lanuevacronica.com/el-bierzo/magia-gota-llega-ponferrada-mano-txema-munoz_204039_102.html",
+    "desc": "El espectáculo, reconocido como mejor montaje de calle en Fetén 2026, podrá verse este martes en Ponferrada dentro del circuito estatal 'Circo a Escena'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/27/07/5/artzadak-zirkozaurre-55.jpeg",
+    "pub": 1791185878,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Sánchez adelanta las elecciones generales: España votará el 29 de noviembre",
     "link": "https://www.lanuevacronica.com/actualidad/sanchez-adelanta-elecciones-generales-espana-votara-29-noviembre_204037_102.html",
-    "desc": "AVANCE | El presidente del Gobierno anuncia el fin de la legislatura tras la derrota parlamentaria en los decretos de la vivienda",
+    "desc": "AMPLIACIÓN | El presidente del Gobierno anuncia el fin de la legislatura tras la derrota parlamentaria en los decretos de la vivienda",
     "img": "https://www.lanuevacronica.com/uploads/s1/31/83/66/6/sanchez.jpeg",
-    "pub": 1791184132,
+    "pub": 1791185755,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Bierzo Ya acusa al Ayuntamiento de Ponferrada de desatender un problema de seguridad en La Placa",
+    "link": "https://www.lanuevacronica.com/el-bierzo/bierzo-ya-acusa-ayuntamiento-ponferrada-desatender-problema-seguridad-en-placa_204038_102.html",
+    "desc": "La asociación asegura que lleva meses reclamando una solución para un paso peatonal y denuncia que no ha conseguido reunirse con el concejal de Medio Rural e Infraestructuras",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/26/1/wwww-bierzo-ya-elecciones-4-1000x563.jpeg",
+    "pub": 1791185521,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Pedro Sánchez anuncia la convocatoria de elecciones generales para el 29 de noviembre",
+    "link": "https://www.elbierzodigital.com/pedro-sanchez-anuncia-la-convocatoria-de-elecciones-generales-para-el-29-de-noviembre/",
+    "desc": "El presidente del Gobierno, Pedro Sánchez, anunció este lunes la convocatoria de elecciones generales para el próximo 29 de noviembre. El jefe del Ejecutivo comunicó su decisión en una declaración…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/pedro-sanchez-anuncia-la-convocatoria-de-elecciones-generales-para-el-29-de-noviembre-el-bierzo-digital.jpg",
+    "pub": 1791184898,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Llamazares y el filón guerracivilista",
@@ -112,28 +136,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Nafti: \"Hemos dominado también sin balón\"",
-    "link": "https://www.lanuevacronica.com/deportes/nafti-hemos-dominado-tambien-sin-balon_204032_102.html",
-    "desc": "El técnico de la Ponferradina destaca el gran hacer de su equipo «lo mínimo que exijo, me lo dan» y que «el resto ve correr a Borja Valle, San Emeterio y Andújar y cómo no los van a seguir»",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/25/81/6/nafti-junto-a-pablo-lago-durante-el-partido-ante-el-mirandes-quinito.jpeg",
-    "pub": 1791137081,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Nafti: “Hemos mandado sin balón”",
     "link": "https://www.elbierzodigital.com/ponferradina-mirandes-nafti-2627/",
     "desc": "Mehdi Nafti no podía disimular su alegría por la victoria de la Ponferradina ante el Mirandés y hasta tiró de ironía cuando se le preguntó por el despliegue defensivo de su equipo para sumar los…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-mirandes-26-27-el-bierzo-digital-82.jpeg",
     "pub": 1791133532,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "León se suma al ecomapeo estatal con la iniciativa '¡Aquí falta un árbol!'",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-se-suma-ecomapeo-estatal-con-iniciativa-aqui-falta-arbol_204024_102.html",
-    "desc": "Greenpeace León ha impulsado una actividad que busca señalar alcorques vacíos, tocones y árboles secos presentes en la geografía urbana",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/25/74/6/greenpeace-leon-ha-reclamado-al-ayuntamiento-medidas-para-ampliar-y-cuidar-la-cobertura-arborea-en-la-ciudad.jpeg",
-    "pub": 1791131326,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Deportiva echa el cerrojo en El Toralín",
@@ -349,14 +357,6 @@
     "desc": "La Policía Nacional de Ponferrada hace un balance positivo de la evolución de la seguridad en la ciudad durante este año, con una criminalidad que, según el comisario jefe, Roberto Morán del Campo ,…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/condecoraciones-policia-nacional-el-bierzo-digital-2-e1790954659235.jpeg",
     "pub": 1790941155,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PSOE carga contra Morala por los aparcabicis cerrados: “Se ha gastado dinero público y siguen sin funcionar”",
-    "link": "https://www.elbierzodigital.com/el-psoe-carga-contra-el-alcalde-por-los-aparcabicis-cerrados-se-ha-gastado-dinero-publico-y-siguen-sin-funcionar/",
-    "desc": "El Grupo Socialista de Ponferrada ha vuelto a exigir respuestas al Gobierno municipal por los tres aparcabicis cerrados de la ciudad , concebidos para facilitar el estacionamiento seguro de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-carga-contra-el-alcalde-por-los-aparcabicis-cerrados-se-ha-gastado-dinero-publico-y-siguen-sin-funcionar-el-bierzo-digital.jpeg",
-    "pub": 1790939606,
     "fuente": "El Bierzo Digital"
   },
   {
