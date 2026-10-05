@@ -1,11 +1,43 @@
 [
   {
+    "titulo": "Discípulos para los mocheros",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/discipulos-mocheros_204048_102.html",
+    "desc": "Los Amigos del Mocho celebran su hacendera mensual en San Froilán y aplauden al mismo tiempo la gran iniciativa de un grupo de jóvenes estudiantes de La Asunción que se sumó a la limpieza de la ciudad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/27/19/0/la-tradicional-foto-de-los-nueve-mocheros-de-octubre.jpeg",
+    "pub": 1791191921,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Herido un hombre en León tras el choque de un turismo con un patinete en León",
+    "link": "https://www.lanuevacronica.com/actualidad/herido-hombre-en-leon-choque-turismo-con-patinete-en-leon_204047_102.html",
+    "desc": "El accidente tuvo lugar de madrugada en la rotonda sobre la LE-20 de acceso a Villaobispo de las Regueras",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/27/17/5/rotoda-de-acceso-a-villaobispo-de-las-regueras.jpeg",
+    "pub": 1791191671,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Centro Cívico de Flores del Sil acoge las actividades de la Semana Europea de la Lactancia en el Bierzo",
+    "link": "https://www.elbierzodigital.com/el-centro-civico-de-flores-del-sil-acoge-las-actividades-de-la-semana-europea-de-la-lactancia-en-el-bierzo/",
+    "desc": "El Centro Cívico de Flores del Sil acoge esta semana las sesiones de la Semana Europea de la Lactancia , con acciones formativas y divulgativas con la participación de profesionales y especialistas…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-centro-civico-de-flores-del-sil-acoge-las-actividades-de-la-semana-europea-de-la-lactancia-en-el-bierzo-el-bierzo-digital.jpg",
+    "pub": 1791191544,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Olegario Ramón ve el adelanto electoral como una “ventana de oportunidad” para el PSOE",
     "link": "https://www.elbierzodigital.com/olegario-ramon-ve-el-adelanto-electoral-como-una-ventana-de-oportunidad-para-el-psoe/",
     "desc": "El anuncio de Pedro Sánchez en la mañana de este lunes 5 de octubre sobre el adelanto electoral interrumpía, como es natural, las agendas de las corporaciones políticas locales en el ámbito…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-1.jpeg",
     "pub": 1791190989,
     "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "5 formas de combinar tus botas y botines para volver a la oficina este otoño",
+    "link": "https://www.lanuevacronica.com/estilo-vida/5-formas-combinar-tus-botas-botines-volver-oficina-este-otono_204046_102.html",
+    "desc": "Entre las distintas opciones del mercado, la firma alicantina Porronet destaca por su apuesta decidida por el calzado artesanal fabricado en España",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/27/14/1/con-la-bajada-progresiva-de-las-temperaturas-las-botas-y-botines-recuperan-todo-el-protagonismo.jpeg",
+    "pub": 1791190883,
+    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Sánchez adelanta las elecciones generales: España votará el 29 de noviembre",
@@ -141,30 +173,6 @@
     "desc": "",
     "img": null,
     "pub": 1791167100,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La tranquilidad de tener un hogar",
-    "link": "https://www.lanuevacronica.com/opinion/tranquilidad-tener-hogar_204029_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791166800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León, a la cabeza de una solidaridad que da vida",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/leon-cabeza-solidaridad-da-vida_204031_102.html",
-    "desc": "El Hospital de León registró nueve donantes de órganos entre abril y junio y es uno de los centros con mayor actividad de la comunidad. Además, se hicieron cinco transplantes de córnea que se suman…",
-    "img": null,
-    "pub": 1791165600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204028_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/25/79/8/canton-05-10-2026.jpeg",
-    "pub": 1791165600,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "El Ayuntamiento de Ponferrada ha activado el Plan Territorial de Protección Civil del municipio en grado 0 ante la alerta decretada por la Agencia de Protección Civil y Emergencias de la Junta de…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2022/04/Tormenta-en-el-Bierzo-3.jpeg",
     "pub": 1791003635,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Vega de Espinareda se prepara para vivir “El Último Espectáculo” durante cuatro jornadas de terror",
-    "link": "https://www.elbierzodigital.com/vega-de-espinareda-se-prepara-para-vivir-el-ultimo-espectaculo-durante-cuatro-jornadas-de-terror/",
-    "desc": "Vega de Espinareda se convertirá durante cuatro jornadas en escenario de \" El Último Espectáculo\" , una propuesta especial con motivo de Halloween que se celebrará los días 30 y 31 de octubre y 1 y…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/vega-de-espinareda-se-prepara-para-vivir-el-ultimo-espectaculo-durante-cuatro-jornadas-de-terror-el-bierzo-digital-e1790956879443.jpg",
-    "pub": 1790956967,
     "fuente": "El Bierzo Digital"
   },
   {
