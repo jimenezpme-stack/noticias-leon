@@ -1,11 +1,35 @@
 [
   {
+    "titulo": "Castilla y León elegirá 31 diputados en las elecciones del 29N",
+    "link": "https://www.elbierzodigital.com/castilla-y-leon-elegira-31-diputados-en-las-elecciones-del-29n/",
+    "desc": "Castilla y León elegirá en las elecciones generales del próximo 29 de noviembre un total de 31 diputados , los mismos que en los anteriores comicios, celebrados en julio de 2023. El actual reparto…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-23-at-11.07.36-1.jpeg",
+    "pub": 1791195084,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Courel asegura que el PSOE de León está \"preparado\" para afrontar las elecciones del 29 de noviembre",
+    "link": "https://www.lanuevacronica.com/actualidad/courel-asegura-psoe-leon-esta-preparado-afrontar-elecciones-29-noviembre_204059_102.html",
+    "desc": "El presidente de la Diputación sostiene que los socialistas \"llevan meses trabajando\" ante la posibilidad de un adelanto electoral y asegura que concurrirán a los comicios con el objetivo de volver…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/61/26/8/03max202503682204-4-1000x563.jpeg",
+    "pub": 1791194594,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Camponaraya proyecta la construcción de 200 viviendas públicas en los próximos cuatro años",
     "link": "https://www.elbierzodigital.com/camponaraya-proyecta-la-construccion-de-200-viviendas-publicas-en-los-proximos-cuatro-anos/",
     "desc": "El Ayuntamiento de Camponaraya ha aprobado un Plan de Vivienda con el objetivo de impulsar la construcción de hasta 200 viviendas públicas en el municipio durante los próximos cuatro años. El…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/02/Ayuntamiento-de-Camponaraya-3-el-bierzo-digital.jpeg",
     "pub": 1791194150,
     "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Ramón ve el adelanto electoral como una \"ventana de oportunidad\" también para el PSOE en Ponferrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ramon-ve-adelanto-electoral-como-ventana-oportunidad-tambien-psoe-en-ponferrada_204058_102.html",
+    "desc": "El portavoz socialista considera que la convocatoria puede servir para que la ciudadanía valore la gestión \"alejándose del ruido\" y reclama que las diferencias internas provinciales se resuelvan…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/79/95/5/olegario.jpeg",
+    "pub": 1791194127,
+    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Aerógrafos para modelismo, ¿qué debemos considerar a la hora comprarlos?",
@@ -37,14 +61,6 @@
     "desc": "El 'capi' dejó esta temporada de llevar el brazalete en la Deportiva, algo que admite haber sido \"muy bonito\", pero que cree que hay \"ciclos y etapas, no quiero ser recordado por llevarlo, quiero…",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/27/28/4/la-deportiva-no-fallo-en-otra-de-las-grandes-citas-en-el-toralin-ante-el-mirandes-quinito-38.jpeg",
     "pub": 1791193004,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PP teme que la deuda de Magaz de Abajo le deje fuera de nuevas inversiones",
-    "link": "https://www.lanuevacronica.com/el-bierzo/pp-teme-deuda-magaz-abajo-deje-fuera-nuevas-inversiones_204053_102.html",
-    "desc": "Reclama al pedáneo que aclare la situación económica de la Junta Vecinal antes de la próxima convocatoria del Plan de Pequeñas Obras",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/59/46/7/magazdeabajoaccesoalpueblo-4-1000x563.jpeg",
-    "pub": 1791192982,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -168,14 +184,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Ponferrada acogerá el primer encuentro de su Comunidad Energética el 7 de octubre",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-acogera-primer-encuentro-su-comunidad-energetica-7-octubre_204042_102.html",
-    "desc": "La iniciativa, enmarcada en el proyecto europeo Publink, explicará a vecinos, comercios y asociaciones cómo producir y compartir energía solar de forma colectiva",
-    "img": "https://www.lanuevacronica.com/uploads/s1/25/44/45/5/museoradio-4-1000x563.gif",
-    "pub": 1791186908,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Bembibre H.C. empata ante el Marineda en su segundo amistoso de pretemporada",
     "link": "https://www.elbierzodigital.com/el-bembibre-h-c-empata-ante-el-marineda-en-su-segundo-amistoso-de-pretemporada/",
     "desc": "El Bembibre H.C . cerró con un empate a tres goles ante el Marineda Hockey su segundo compromiso amistoso del sábado, disputado en Riazor dentro del II Torneo La Tribuna. El conjunto berciano, que…",
@@ -205,6 +213,14 @@
     "desc": "Ponferrada volverá a viajar a la Edad Media el próximo sábado, 10 de octubre , con la celebración de la octava edición de Los Irmandiños , una recreación histórica organizada por la asociación…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-revuelta-de-los-irmandinos-regresan-a-ponferrada-con-su-octava-recreacion-historica-el-bierzo-digital-2.jpeg",
     "pub": 1791183651,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El PP pide explicaciones sobre la deuda de la Junta Vecinal de Magaz y teme que afecte a futuras inversiones",
+    "link": "https://www.elbierzodigital.com/el-pp-pide-explicaciones-sobre-la-deuda-de-la-junta-vecinal-de-magaz-y-teme-que-afecte-a-futuras-inversiones/",
+    "desc": "El vocal del Partido Popular en la Junta Vecinal de Magaz de Abajo, Pablo González Basante , ha vuelto a reclamar explicaciones al alcalde pedáneo, Jonathan López, sobre la situación económica de la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/05/el-pp-pide-cuentas-a-la-junta-vecinal-de-magaz-de-abajo-el-bierzo-digital.jpg",
+    "pub": 1791180000,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -312,7 +328,7 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "FOTOGALERÍA |16 protagonistas en la gran noche del comercio ponferradino",
+    "titulo": "FOTOGALERÍA | 16 protagonistas en la gran noche del comercio ponferradino",
     "link": "https://www.elbierzodigital.com/16-protagonistas-en-la-gran-noche-del-comercio-ponferradino/",
     "desc": "Durante la III Gala del Comercio de Ponferrada se entregaron 16 galardones a personas, empresas y colectivos en reconocimiento a su trayectoria y a su aportación a la sociedad ponferradina. Algunos…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/16-protagonistas-en-la-gran-noche-del-comercio-ponferradino-el-bierzo-digital-e1791070617247.jpeg",
@@ -341,22 +357,6 @@
     "desc": "Bierzo Ya ha dado un paso adelante para intentar atraer al Bierzo la tercera fábrica que Indra proyecta dentro de su plan de expansión. La asociación ciudadana ha hecho llegar al grupo empresarial…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/03/Bierzo-Ya.jpeg",
     "pub": 1791033795,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "15.000 hectáreas para convertir al Bierzo en tierra de setas",
-    "link": "https://www.elbierzodigital.com/15-000-hectareas-para-convertir-al-bierzo-en-tierra-de-setas/",
-    "desc": "El Bierzo da un nuevo paso para convertir sus bosques en un referente micológico. La comarca se encuentra en la fase final de los trabajos para poner en marcha su primer Parque Micológico , un…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/15-000-hectareas-para-convertir-al-bierzo-en-tierra-de-setas-el-bierzo-digital.jpg",
-    "pub": 1791028318,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Fin de semana pasado por agua y con tormentas en el Bierzo",
-    "link": "https://www.elbierzodigital.com/fin-de-semana-pasado-por-agua-y-con-tormentas-en-el-bierzo/",
-    "desc": "El paraguas será uno de los grandes protagonistas de este fin de semana en el Bierzo . La Agencia Estatal de Meteorología (AEMET) prevé un episodio marcado por la inestabilidad, las lluvias y las…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/07/aemet-activa-la-alerta-amarilla-por-tormentas-en-el-bierzo-para-este-sabado-el-bierzo-digital.jpg",
-    "pub": 1791022036,
     "fuente": "El Bierzo Digital"
   },
   {
