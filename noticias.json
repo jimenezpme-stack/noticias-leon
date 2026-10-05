@@ -1,5 +1,69 @@
 [
   {
+    "titulo": "Cendón cierra filas con Sánchez tras el adelanto electoral: \"Lo mejor está por venir\"",
+    "link": "https://www.lanuevacronica.com/actualidad/cendon-cierra-filas-con-sanchez-adelanto-electoral-mejor-esta-por-venir_204055_102.html",
+    "desc": "El líder provincial del PSOE leonés afirma que \"se abre una nueva etapa para afrontar con más fuerza todo lo que queda por hacer\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/30/54/34/2/cendon-psoe.jpeg",
+    "pub": 1791193198,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Borja Valle sobre la capitanía \"necesito tener la mente tranquila, es un tema de salud mental\"",
+    "link": "https://www.lanuevacronica.com/deportes/borja-valle-sobre-capitania-necesito-tener-mente-tranquila-es-tema-salud-mental_204054_102.html",
+    "desc": "El 'capi' dejó esta temporada de llevar el brazalete en la Deportiva, algo que admite haber sido \"muy bonito\", pero que cree que hay \"ciclos y etapas, no quiero ser recordado por llevarlo, quiero…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/27/28/4/la-deportiva-no-fallo-en-otra-de-las-grandes-citas-en-el-toralin-ante-el-mirandes-quinito-38.jpeg",
+    "pub": 1791193004,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El PP teme que la deuda de Magaz de Abajo le deje fuera de nuevas inversiones",
+    "link": "https://www.lanuevacronica.com/el-bierzo/pp-teme-deuda-magaz-abajo-deje-fuera-nuevas-inversiones_204053_102.html",
+    "desc": "Reclama al pedáneo que aclare la situación económica de la Junta Vecinal antes de la próxima convocatoria del Plan de Pequeñas Obras",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/59/46/7/magazdeabajoaccesoalpueblo-4-1000x563.jpeg",
+    "pub": 1791192982,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Diez ve en las elecciones una oportunidad para \"desatascar\" los grandes proyectos pendientes de León",
+    "link": "https://www.lanuevacronica.com/actualidad/diez-ve-en-elecciones-oportunidad-desatascar-grandes-proyectos-pendientes-leon_204052_102.html",
+    "desc": "El alcalde de la capital leonesa cree que la convocatoria no tendrá incidencia directa sobre las elecciones municipales",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/28/37/2/diez-alcalde-leon-represaliados-4-1000x563.jpeg",
+    "pub": 1791192867,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El PSOE cuestiona la \"integridad\" del edil de Comercio por intentar evitar el reintegro de dos ayudas a su club deportivo",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ramon-cuestiona-gestion-integridad-concejal-comercio-por-no-devolver-dos-ayudas-su-club-deportivo_204043_102.html",
+    "desc": "Pacios era presidente de los 101 Peregrinos cuando solicitó subvenciones por valor de más de 10.500 euros que se le reclamaron por no realizar la actividad y cuya petición judicializó desde dentro…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/28/12/24/8/david-pacios.jpeg",
+    "pub": 1791192544,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El PSOE acusa a Pacios de intentar evitar la devolución de más de 10.500 euros de ayudas públicas",
+    "link": "https://www.elbierzodigital.com/el-psoe-acusa-a-pacios-de-intentar-evitar-la-devolucion-de-mas-de-10-500-euros-de-ayudas-publicas/",
+    "desc": "El portavoz del PSOE en Ponferrada , Olegario Ramón, ha acusado al actual responsable municipal de Comercio y Desarrollo Económico , vinculado al Club Deportivo 101 Peregrinos , David Pacios, de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-2.jpeg",
+    "pub": 1791192462,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Los Irmandiños regresan al Castillo de Ponferrada con una batalla única en España",
+    "link": "https://www.lanuevacronica.com/el-bierzo/irmandinos-regresan-castillo-ponferrada-con-batalla-unica-en-espana_204049_102.html",
+    "desc": "La octava edición de la recreación reunirá a unos 60 participantes y recuperará durante el fin de semana la revuelta irmandiña de 1477",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/27/24/5/irmandinos-presentacion.jpeg",
+    "pub": 1791192102,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Mondreganes se volcó con su centenario Ángeles González",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/mondreganes-se-volco-con-su-centenario-angeles-gonzalez_204050_102.html",
+    "desc": "El día 2 de octubre, día de los Ángeles Custodios, cumplió cien años el vecino más longevo de Mondreganes",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/27/23/0/familiares-amigos-y-vecinos-arroparon-a-angeles-gonzalez.jpeg",
+    "pub": 1791192085,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Discípulos para los mocheros",
     "link": "https://www.lanuevacronica.com/lnc-culturas/discipulos-mocheros_204048_102.html",
     "desc": "Los Amigos del Mocho celebran su hacendera mensual en San Froilán y aplauden al mismo tiempo la gran iniciativa de un grupo de jóvenes estudiantes de La Asunción que se sumó a la limpieza de la ciudad",
@@ -37,14 +101,6 @@
     "desc": "Entre las distintas opciones del mercado, la firma alicantina Porronet destaca por su apuesta decidida por el calzado artesanal fabricado en España",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/27/14/1/con-la-bajada-progresiva-de-las-temperaturas-las-botas-y-botines-recuperan-todo-el-protagonismo.jpeg",
     "pub": 1791190883,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Sánchez adelanta las elecciones generales: España votará el 29 de noviembre",
-    "link": "https://www.lanuevacronica.com/actualidad/sanchez-adelanta-elecciones-generales-espana-votara-29-noviembre_204037_102.html",
-    "desc": "AMPLIACIÓN | El presidente del Gobierno anuncia el fin de la legislatura tras la derrota parlamentaria en los decretos de la vivienda",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/83/66/6/sanchez.jpeg",
-    "pub": 1791190452,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -120,22 +176,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La magia de 'Gota' llega a Ponferrada de la mano de Txema Muñoz",
-    "link": "https://www.lanuevacronica.com/el-bierzo/magia-gota-llega-ponferrada-mano-txema-munoz_204039_102.html",
-    "desc": "El espectáculo, reconocido como mejor montaje de calle en Fetén 2026, podrá verse este martes en Ponferrada dentro del circuito estatal 'Circo a Escena'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/27/07/5/artzadak-zirkozaurre-55.jpeg",
-    "pub": 1791185878,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Bierzo Ya acusa al Ayuntamiento de Ponferrada de desatender un problema de seguridad en La Placa",
-    "link": "https://www.lanuevacronica.com/el-bierzo/bierzo-ya-acusa-ayuntamiento-ponferrada-desatender-problema-seguridad-en-placa_204038_102.html",
-    "desc": "La asociación asegura que lleva meses reclamando una solución para un paso peatonal y denuncia que no ha conseguido reunirse con el concejal de Medio Rural e Infraestructuras",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/26/1/wwww-bierzo-ya-elecciones-4-1000x563.jpeg",
-    "pub": 1791185521,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Pedro Sánchez anuncia la convocatoria de elecciones generales para el 29 de noviembre",
     "link": "https://www.elbierzodigital.com/pedro-sanchez-anuncia-la-convocatoria-de-elecciones-generales-para-el-29-de-noviembre/",
     "desc": "El presidente del Gobierno, Pedro Sánchez, anunció este lunes la convocatoria de elecciones generales para el próximo 29 de noviembre. El jefe del Ejecutivo comunicó su decisión en una declaración…",
@@ -144,36 +184,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Llamazares y el filón guerracivilista",
-    "link": "https://www.lanuevacronica.com/opinion/llamazares-filon-guerracivilista_204030_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791169200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El otoño de todos los desencantos",
-    "link": "https://www.lanuevacronica.com/opinion/otono-todos-desencantos_204035_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791168300,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "San Froilán",
-    "link": "https://www.lanuevacronica.com/opinion/san-froilan_204026_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791168300,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Diálogos con el pasado-4 (Pasa, octubre)",
-    "link": "https://www.lanuevacronica.com/opinion/dialogos-con-pasado-4-pasa-octubre_204027_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791167100,
-    "fuente": "La Nueva Crónica"
+    "titulo": "El Canal Bajo del Bierzo reduce en torno a un 40% el consumo de agua en su primera campaña tras la modernización",
+    "link": "https://www.elbierzodigital.com/el-canal-bajo-del-bierzo-reduce-en-torno-a-un-40-el-consumo-de-agua-en-su-primera-campana-tras-la-modernizacion/",
+    "desc": "El Canal Bajo del Bierzo ha cerrado su primera campaña de riego tras la modernización de sus infraestructuras con un ahorro de agua de alrededor del 40% , según los datos facilitados por la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/08/Canal-Bajo-2-el-bierzo-digital.jpeg",
+    "pub": 1791184292,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "El Atlético Bembibre manda en el derbi ante La Virgen y se instala en la cuarta plaza (2-0)",
@@ -341,22 +357,6 @@
     "desc": "Cuando un político alcanza un puesto en la administración, sea como concejal, procurador o diputado, está obligado a realizar una declaración de los bienes con los que llega y, al finalizar el…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/09/cual-es-el-patrimonio-del-equipo-de-gobierno-de-ponferrada-el-bierzo-digital.jpg",
     "pub": 1791010816,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El oso del Alto Sil que lleva “GPS” y abre el debate sobre el radiomarcaje",
-    "link": "https://www.elbierzodigital.com/el-oso-del-alto-sil-que-lleva-un-gps-y-abre-el-debate-sobre-el-radiomarcaje/",
-    "desc": "Un oso pardo equipado con collar de seguimiento, crotal en la oreja y una batería sobre el lomo se ha convertido en uno de los protagonistas de una cámara de fototrampeo instalada en la zona del…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-oso-del-alto-sil-un-radiomarcaje-bajo-la-lupa-el-bierzo-digital.jpeg",
-    "pub": 1791005119,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ponferrada activa su Plan de Protección Civil ante el episodio de lluvias y tormentas",
-    "link": "https://www.elbierzodigital.com/ponferrada-activa-su-plan-de-proteccion-civil-ante-el-episodio-de-lluvias-y-tormentas/",
-    "desc": "El Ayuntamiento de Ponferrada ha activado el Plan Territorial de Protección Civil del municipio en grado 0 ante la alerta decretada por la Agencia de Protección Civil y Emergencias de la Junta de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2022/04/Tormenta-en-el-Bierzo-3.jpeg",
-    "pub": 1791003635,
     "fuente": "El Bierzo Digital"
   },
   {
