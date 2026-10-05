@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Olegario Ramón ve el adelanto electoral como una “ventana de oportunidad” para el PSOE",
+    "link": "https://www.elbierzodigital.com/olegario-ramon-ve-el-adelanto-electoral-como-una-ventana-de-oportunidad-para-el-psoe/",
+    "desc": "El anuncio de Pedro Sánchez en la mañana de este lunes 5 de octubre sobre el adelanto electoral interrumpía, como es natural, las agendas de las corporaciones políticas locales en el ámbito…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-1.jpeg",
+    "pub": 1791190989,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Sánchez adelanta las elecciones generales: España votará el 29 de noviembre",
+    "link": "https://www.lanuevacronica.com/actualidad/sanchez-adelanta-elecciones-generales-espana-votara-29-noviembre_204037_102.html",
+    "desc": "AMPLIACIÓN | El presidente del Gobierno anuncia el fin de la legislatura tras la derrota parlamentaria en los decretos de la vivienda",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/83/66/6/sanchez.jpeg",
+    "pub": 1791190452,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Feijóo cree que Sánchez merece \"el mayor de los castigos\"",
+    "link": "https://www.lanuevacronica.com/actualidad/feijoo-cree-sanchez-merece-mayor-castigos_204045_102.html",
+    "desc": "El líder del PP considera que la convocatoria del día 29 responde al \"miedo\" ante lo que queda por saber de la \"maraña\" de casos de corrupción que afectan al PSOE",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/12/38/9/03max202603727456.jpeg",
+    "pub": 1791190392,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Vicky Losada, la mejor embajadora de sus raíces en Cabrera",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/vicky-losada-mejor-embajadora-sus-raices-en-cabrera_204044_102.html",
+    "desc": "La nieta de Benjamín y Maruja es una verdadera leyenda en el fútbol femenino, más allá incluso de sus logros deportivos, que son muchos;y tiene sangre de Cabrera, de Benuza, la tierra de sus padres…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/27/09/7/vicki-losada-pronunciando-el-pregon-de-la-fiesta-de-cabrera-rodeada-de-autoridades-entre-ellas-el-ex-jugador-del-ademar-jorge-garcia-vega.jpeg",
+    "pub": 1791190245,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El PP celebra el adelanto electoral: “Por fin”",
     "link": "https://www.elbierzodigital.com/el-pp-celebra-el-adelanto-electoral-por-fin/",
     "desc": "El Partido Popular (PP) ha celebrado la convocatoria de elecciones generales para el próximo 29 de noviembre anunciada este lunes por el presidente del Gobierno, Pedro Sánchez. Los populares han…",
@@ -61,14 +93,6 @@
     "desc": "El espectáculo, reconocido como mejor montaje de calle en Fetén 2026, podrá verse este martes en Ponferrada dentro del circuito estatal 'Circo a Escena'",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/27/07/5/artzadak-zirkozaurre-55.jpeg",
     "pub": 1791185878,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Sánchez adelanta las elecciones generales: España votará el 29 de noviembre",
-    "link": "https://www.lanuevacronica.com/actualidad/sanchez-adelanta-elecciones-generales-espana-votara-29-noviembre_204037_102.html",
-    "desc": "AMPLIACIÓN | El presidente del Gobierno anuncia el fin de la legislatura tras la derrota parlamentaria en los decretos de la vivienda",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/83/66/6/sanchez.jpeg",
-    "pub": 1791185755,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -141,22 +165,6 @@
     "desc": "",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/25/79/8/canton-05-10-2026.jpeg",
     "pub": 1791165600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Buscyl ya tiene en León más de 158.000 usuarios y supera los 3,5 millones de viajes",
-    "link": "https://www.lanuevacronica.com/actualidad/buscyl-ya-tiene-en-leon-mas-158000-usuarios-supera-35-millones-viajes_204022_102.html",
-    "desc": "El modelo de la Junta que permite utilizar de forma gratuita los autobuses metropolitanos e interurbanos arrancó hace un año",
-    "img": "https://www.lanuevacronica.com/uploads/s1/29/83/40/0/buscyl-inicia-con-240-317-usuarios-manana-la-segunda-fase-de-su-implantacion-en-444-rutas.jpeg",
-    "pub": 1791165600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ponferradina 1-0 Mirandés: 'Once metros y un cerrojo blanquiazul'",
-    "link": "https://www.lanuevacronica.com/deportes/ponferradina-1-0-mirandes-once-metros-cerrojo-blanquiazul_204025_102.html",
-    "desc": "Consiguió la Ponferradina su segundo triunfo en casa por la mínima ante el Mirandés con un penalti sobre Arturo que transformó Borja Valle en el 1-0, en un partido con dos caras, sin conceder…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/25/76/6/borja-valle-anoto-el-el-penalti-que-le-dio-la-victoria-a-la-deportiva-ante-el-mirandes-quinito.jpeg",
-    "pub": 1791144133,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "Vega de Espinareda se convertirá durante cuatro jornadas en escenario de \" El Último Espectáculo\" , una propuesta especial con motivo de Halloween que se celebrará los días 30 y 31 de octubre y 1 y…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/vega-de-espinareda-se-prepara-para-vivir-el-ultimo-espectaculo-durante-cuatro-jornadas-de-terror-el-bierzo-digital-e1790956879443.jpg",
     "pub": 1790956967,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Libro Imposible llena octubre de literatura, arte y actividades",
-    "link": "https://www.elbierzodigital.com/libro-imposible-llena-octubre-literatura-arte-actividades/",
-    "desc": "El Libro Imposible vuelve a llenar de actividad cultural el corazón de Ponferrada durante el mes de octubre . La librería y espacio creativo situado en la Plaza de la Encina, a los pies del Castillo…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/03/marzo-llega-cargado-de-libros-talleres-y-encuentros-en-el-libro-imposible-el-bierzo-digital-scaled.jpg",
-    "pub": 1790955915,
     "fuente": "El Bierzo Digital"
   },
   {
