@@ -1,19 +1,51 @@
 [
   {
+    "titulo": "Ester Muñoz celebra el adelanto electoral y sitúa el futuro de España \"en manos de los españoles\"",
+    "link": "https://www.lanuevacronica.com/actualidad/ester-munoz-celebra-adelanto-electoral-situa-futuro-espana-en-manos-espanoles_204067_102.html",
+    "desc": "La portavoz del PP en el Congreso sostiene que unas elecciones permitirán elegir entre la continuidad del Gobierno de Pedro Sánchez y una alternativa encabezada por Alberto Núñez Feijóo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/15/36/1/la-portavoz-del-pp-en-el-congreso-ester-munoz-durante-una-rueda-de-prensa-en-el-congreso-de-los-diputados-a-19-de-mayo-de-2026-en-madrid.jpeg",
+    "pub": 1791200145,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La romería de San Froilán, entre 'perdones' y chaparrones",
+    "link": "https://www.lanuevacronica.com/actualidad/romeria-san-froilan-entre-perdones-chaparrones_204064_102.html",
+    "desc": "La lluvia intermitente no impide que La Virgen del Camino congregue a miles de personas en una jornada con pendones, carros engalanados, misa y la tradicional compra de avellanas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/27/48/5/frame-05virgen.jpeg",
+    "pub": 1791200065,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Ponferradina se medirá al Llanera en la Copa del Rey",
+    "link": "https://www.elbierzodigital.com/ponferradina-primera-eliminatoria-copa-del-rey-2026-2027/",
+    "desc": "La Ponferradina ya conoce a su rival para la primera eliminatoria de la Copa del Rey 2026-27. El sorteo celebrado a mediodía de este lunes en la Ciudad del Fútbol de Las Rozas emparejó a la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-ponferradina-se-medira-al-xxxxx-en-la-copa-del-rey-el-bierzo-digital.jpg",
+    "pub": 1791199628,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Borja Valle sobre la capitanía \"necesito tener la mente tranquila, es un tema de salud mental\"",
+    "link": "https://www.lanuevacronica.com/deportes/borja-valle-sobre-capitania-necesito-tener-mente-tranquila-es-tema-salud-mental_204054_102.html",
+    "desc": "El 'capi' dejó esta temporada de llevar el brazalete en la Deportiva, algo que admite haber sido \"muy bonito\", pero que cree que hay \"ciclos y etapas, no quiero ser recordado por llevarlo, quiero…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/27/28/4/la-deportiva-no-fallo-en-otra-de-las-grandes-citas-en-el-toralin-ante-el-mirandes-quinito-38.jpeg",
+    "pub": 1791199324,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La borregada de Cármenes: ¿quién dijo despoblación?",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/borregada-carmenes-quien-dijo-despoblacion_204068_102.html",
+    "desc": "La histórica tradición de la localidad leonesa vivió el sábado una nueva y concurrida edición, regresando vecinos de los lugares más alejados, que llenaron nuevamente el municipio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/27/45/3/el-polideportivo-municipal-presentaba-como-es-costumbre-la-mejor-entrada-de-la-temporada-lleno-hasta-la-bandera-en-las-mesas-de-la-borregada.jpeg",
+    "pub": 1791199309,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Ponferrada estrena un EsCultura digital interactivo con la programación cultural del próximo trimestre",
     "link": "https://www.elbierzodigital.com/ponferrada-estrena-un-escultura-digital-interactivo-con-la-programacion-cultural-del-proximo-trimestre/",
     "desc": "El Ayuntamiento de Ponferrada presentó este lunes una nueva edición de EsCultura , el programa que reúne la programación cultural del municipio para los próximos tres meses y que incorpora como…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Morala-EsCultura-1-el-bierzo-digital.jpeg",
     "pub": 1791198589,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ester Muñoz celebra el adelanto electoral y sitúa el futuro de España «en manos de los españoles»",
-    "link": "https://www.lanuevacronica.com/actualidad/ester-munoz-celebra-adelanto-electoral-situa-futuro-espana-en-manos-espanoles_204067_102.html",
-    "desc": "La portavoz del PP en el Congreso sostiene que unas elecciones permitirán elegir entre la continuidad del Gobierno de Pedro Sánchez y una alternativa encabezada por Alberto Núñez Feijóo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/15/36/1/la-portavoz-del-pp-en-el-congreso-ester-munoz-durante-una-rueda-de-prensa-en-el-congreso-de-los-diputados-a-19-de-mayo-de-2026-en-madrid.jpeg",
-    "pub": 1791198438,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Las manos de Echanove se inmortalizan en el paseo del Bergidum",
@@ -133,30 +165,6 @@
     "desc": "El líder provincial del PSOE leonés afirma que \"se abre una nueva etapa para afrontar con más fuerza todo lo que queda por hacer\"",
     "img": "https://www.lanuevacronica.com/uploads/s1/30/54/34/2/cendon-psoe.jpeg",
     "pub": 1791193204,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Borja Valle sobre la capitanía \"necesito tener la mente tranquila, es un tema de salud mental\"",
-    "link": "https://www.lanuevacronica.com/deportes/borja-valle-sobre-capitania-necesito-tener-mente-tranquila-es-tema-salud-mental_204054_102.html",
-    "desc": "El 'capi' dejó esta temporada de llevar el brazalete en la Deportiva, algo que admite haber sido \"muy bonito\", pero que cree que hay \"ciclos y etapas, no quiero ser recordado por llevarlo, quiero…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/27/28/4/la-deportiva-no-fallo-en-otra-de-las-grandes-citas-en-el-toralin-ante-el-mirandes-quinito-38.jpeg",
-    "pub": 1791193004,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Diez ve en las elecciones una oportunidad para \"desatascar\" los grandes proyectos pendientes de León",
-    "link": "https://www.lanuevacronica.com/actualidad/diez-ve-en-elecciones-oportunidad-desatascar-grandes-proyectos-pendientes-leon_204052_102.html",
-    "desc": "El alcalde de la capital leonesa cree que la convocatoria no tendrá incidencia directa sobre las elecciones municipales",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/28/37/2/diez-alcalde-leon-represaliados-4-1000x563.jpeg",
-    "pub": 1791192867,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PSOE cuestiona la \"integridad\" del edil de Comercio por intentar evitar el reintegro de dos ayudas a su club deportivo",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ramon-cuestiona-gestion-integridad-concejal-comercio-por-no-devolver-dos-ayudas-su-club-deportivo_204043_102.html",
-    "desc": "Pacios era presidente de los 101 Peregrinos cuando solicitó subvenciones por valor de más de 10.500 euros que se le reclamaron por no realizar la actividad y cuya petición judicializó desde dentro…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/28/12/24/8/david-pacios.jpeg",
-    "pub": 1791192544,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "Los Premios Mujer de El Bierzo Digital cumplen seis años . Seis ediciones en las que este periódico ha mantenido su compromiso de reconocer y poner en valor a mujeres cuyas trayectorias, esfuerzo y…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/11/los-v-premios-mujer-altavoz-del-compromiso-talento-y-valentia-de-mujeres-ejemplares-el-bierzo-digital-1.jpeg",
     "pub": 1791097840,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "FOTOGALERÍA | 16 protagonistas en la gran noche del comercio ponferradino",
-    "link": "https://www.elbierzodigital.com/16-protagonistas-en-la-gran-noche-del-comercio-ponferradino/",
-    "desc": "Durante la III Gala del Comercio de Ponferrada se entregaron 16 galardones a personas, empresas y colectivos en reconocimiento a su trayectoria y a su aportación a la sociedad ponferradina. Algunos…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/16-protagonistas-en-la-gran-noche-del-comercio-ponferradino-el-bierzo-digital-e1791070617247.jpeg",
-    "pub": 1791070693,
     "fuente": "El Bierzo Digital"
   },
   {
