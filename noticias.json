@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Borja Valle, capitán sin brazalete",
+    "link": "https://www.elbierzodigital.com/borja-valle-capitan-sin-brazalete/",
+    "desc": "Es el único jugador berciano de la primera plantilla de la Ponferradina y durante las últimas temporadas, tras su regreso en 2023, lució con orgullo el brazalete de capitán del equipo blanquiazul,…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-mirandes-26-27-el-bierzo-digital-23.jpeg",
+    "pub": 1791304570,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "CreAcción Mental entregó los premios de su concurso literario en el Albéitar leonés",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/creaccion-mental-entrego-premios-su-concurso-literario-en-albeitar-leones_204149_102.html",
+    "desc": "Las propuestas del colectivo enmarcadas en el Día de la Salud Mental continuarán este miércoles con la proyección de 'Incontrolable'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/08/4/una-imagen-de-la-entrega-de-premios-de-creaccion-mental-l-n-c.jpeg",
+    "pub": 1791304409,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Sanidad pondrá en funcionamiento el servicio de fisioterapia vinculado al Centro de Salud de Pinilla",
+    "link": "https://www.lanuevacronica.com/actualidad/psoe-reclama-servicios-fisioterapia-urgencias-pinilla-la-junta-jamas-tuvo-intencion-recuperarlos_204140_102.html",
+    "desc": "El PSOE critica un \"recorte premeditado\" de la Junta al proyectar un edificio sin el suficiente espacio: \"Nunca tuvieron la intención de recuperar fisioterapia ni urgencias\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/76/6/whatsapp-image-2026-10-06-at-17-37-48.jpeg",
+    "pub": 1791304291,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cunca, pulpo y El Morrosko",
+    "link": "https://www.lanuevacronica.com/extras/a-la-contra/cunca-pulpo-morrosko_204145_102.html",
+    "desc": "La última de La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/90/1/contra.jpeg",
+    "pub": 1791304200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Arte, cine y 'power pop' con León es Acción",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/arte-cine-power-pop-con-leon-es-accion_204147_102.html",
+    "desc": "La asociación cultural León Ciudad Púrpura programa para este mes una serie de actividades que arrancará este jueves de la mano de la inauguración de 'Retrospective!'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/94/5/el-teatro-albeitar-acogera-este-viernes-la-proyeccion-del-documental-back-in-time-de-malas-companias-pc.jpeg",
+    "pub": 1791304055,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "UPL pide recuperar la personalidad jurídica de las nuevas entidades locales menores",
+    "link": "https://www.lanuevacronica.com/actualidad/upl-pide-recuperar-personalidad-juridica-nuevas-entidades-locales-menores_204146_102.html",
+    "desc": "González Gago reprocha a Santos que le pida a la Junta elevar la petición a Madrid y que no sean ellos los que lo hagan a través de sus \"socios\" en la Diputación y en el Ayuntamiento",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/92/8/el-procurador-de-upl-en-las-ccyl-luis-mariano-santos-2.jpeg",
+    "pub": 1791303881,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "UPL denuncia el deterioro de la Sanidad en León y reprocha a la Junta los años de espera por la radioterapia en el Bierzo",
     "link": "https://www.elbierzodigital.com/upl-denuncia-el-deterioro-de-la-sanidad-en-leon-y-reprocha-a-la-junta-los-anos-de-espera-por-la-radioterapia-en-el-bierzo/",
     "desc": "La situación de la Sanidad en las provincias de León, Zamora y Salamanca volvió este martes al debate de las Cortes de Castilla y León, con un enfrentamiento entre el presidente de la Junta, Alfonso…",
@@ -16,14 +64,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Cunca, pulpo y El Morrosko",
-    "link": "https://www.lanuevacronica.com/extras/a-la-contra/cunca-pulpo-morrosko_204145_102.html",
-    "desc": "La última de La Nueva Crónica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/90/1/contra.jpeg",
-    "pub": 1791303156,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Sanidad adjudica nueve plazas de médicos en el Bierzo",
     "link": "https://www.elbierzodigital.com/sanidad-adjudica-nueve-plazas-de-medicos-en-el-bierzo/",
     "desc": "Sacyl ha adjudicado nueve plazas de médicos para el área de salud del Bierzo , tres de ellas correspondientes al Hospital El Bierzo. En concreto, se ha nombrado a un cardiólogo , una psicóloga…",
@@ -37,14 +77,6 @@
     "desc": "El programa fue presentado este martes por la tarde",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/29/88/3/universidadexperiencia.jpeg",
     "pub": 1791302837,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PSOE reclama servicios de fisioterapia y urgencias para Pinilla: \"La Junta jamás tuvo la intención de recuperarlos\"",
-    "link": "https://www.lanuevacronica.com/actualidad/psoe-reclama-servicios-fisioterapia-urgencias-pinilla-la-junta-jamas-tuvo-intencion-recuperarlos_204140_102.html",
-    "desc": "El consejero de Sanidad, Alejandro Vázquez, ha asegurado que antes de fin de año estará en funcionamiento el servicio de fisioterapia, ubicada en una sala municipal alejada del propio Centro de Salud",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/76/6/whatsapp-image-2026-10-06-at-17-37-48.jpeg",
-    "pub": 1791302356,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -117,30 +149,6 @@
     "desc": "El municipio instala paneles fotovoltaicos en sus edificios públicos con el objetivo de reducir el gasto energético y avanzar hacia el autoabastecimiento",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/29/58/5/el-ayuntamiento-extiende-las-placas-solares-por-sus-inmuebles-municipales-para-abaratar-el-coste-del-alumbrado-ayto-marana-6.jpeg",
     "pub": 1791296700,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "'Mucheres ya rurales', un calecho para compartir historias y miradas",
-    "link": "https://www.lanuevacronica.com/actualidad/mucheres-ya-rurales-calecho-compartir-historias-miradas_204133_102.html",
-    "desc": "El encuentro, abierto a mujeres y hombres, se celebrará el 15 de octubre en la Fundación Sierra Pambley de Villablino",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/62/1/se-desarrollara-en-las-instalaciones-de-la-fundacion-sierra-pambley-de-villablino-daniel-martin.jpeg",
-    "pub": 1791292500,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Intoxicada una persona tras el incendio de una panadería en Llamas de la Ribera",
-    "link": "https://www.lanuevacronica.com/actualidad/intoxicada-persona-incendio-panaderia-en-llamas-ribera_204129_102.html",
-    "desc": "El suceso se produjo en torno a las 10:00 horas, cuando se recibió un aviso por un incendio originado en el horno de una panadería y que afectaba también a la chimenea del establecimiento",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/54/7/imagen-de-archivo-de-llamas-de-la-ribera.jpeg",
-    "pub": 1791289931,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El nuevo espacio del grupo Inditex en el centro de León abrirá esta misma semana",
-    "link": "https://www.lanuevacronica.com/actualidad/nuevo-espacio-grupo-inditex-en-centro-leon-abrira-esta-misma-semana_204113_102.html",
-    "desc": "La marca Stradivarius reabrirá su local en León tras una importante reforma que ha supuesto también una ampliación",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/53/1/stradivarius-reabrira-sus-puertas-en-el-centro-de-leon-este-jueves.jpeg",
-    "pub": 1791288014,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "El presidente de la Diputación de León y dirigente del PSOE, Gerardo Álvarez Courel , ha valorado este lunes el adelanto de las elecciones generales al próximo 29 de noviembre , una convocatoria…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/09/courel-defiende-la-inversion-en-prevencion-de-incendios-y-critica-la-deslealtad-institucional-del-pp-el-bierzo-digital-2-scaled.jpeg",
     "pub": 1791196560,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Castilla y León elegirá 31 diputados en las elecciones del 29N",
-    "link": "https://www.elbierzodigital.com/castilla-y-leon-elegira-31-diputados-en-las-elecciones-del-29n/",
-    "desc": "Castilla y León elegirá en las elecciones generales del próximo 29 de noviembre un total de 31 diputados , los mismos que en los anteriores comicios, celebrados en julio de 2023. El actual reparto…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-23-at-11.07.36-1.jpeg",
-    "pub": 1791195084,
     "fuente": "El Bierzo Digital"
   },
   {
