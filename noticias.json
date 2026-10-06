@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "La identidad de la Deportiva sigue intacta",
+    "link": "https://www.lanuevacronica.com/deportes/identidad-deportiva-sigue-intacta_204108_102.html",
+    "desc": "Los bercianos son uno de los cinco equipos que todavía no ha recibido gol como local, el equipo con más porterías a cero y el segundo menos goleado de la categoría, sumando 11 de 18 puntos y en…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/26/34/2/la-deportiva-no-fallo-en-otra-de-las-grandes-citas-en-el-toralin-quinito-36.jpeg",
+    "pub": 1791281874,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Pozo Julia y los Museos de Fabero abren este 12 de octubre con visitas guiadas",
+    "link": "https://www.elbierzodigital.com/el-pozo-julia-y-los-museos-de-fabero-abren-este-12-de-octubre-con-visitas-guiadas/",
+    "desc": "El Pozo Julia y los Museos de Fabero mantendrán un horario especial de visitas con motivo de la festividad del 12 de octubre . Los visitantes podrán participar en dos visitas guiadas a lo largo de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/10/fabero-se-llena-de-sabor-con-la-ruta-de-las-tapas-de-otono-el-bierzo-digital.jpg",
+    "pub": 1791281683,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La ULE acelera en su estrategia de IA y no penalizará su uso en docencia e investigación",
+    "link": "https://www.lanuevacronica.com/actualidad/ule-acelera-en-su-estrategia-ia-no-penalizara-su-uso-en-docencia-investigacion_204104_102.html",
+    "desc": "El profesor Rodríguez Lera se pondrá al frente de un nuevo área dirigido a la implantación de esta tecnología en el día a día de la institución académica leonesa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/28/96/0/universidadia.jpeg",
+    "pub": 1791281090,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Astorga vuelve a rugir con medio centenar de coches y sabor a Cocido Maragato",
+    "link": "https://www.lanuevacronica.com/actualidad/astorga-vuelve-rugir-con-medio-centenar-coches-sabor-cocido-maragato_204107_102.html",
+    "desc": "La avenida Mérida Pérez acogerá este domindo 11 de octubre desde las 11:00 horas la concentración del VII Cocido Maragato, una cita que combina motor, gastronomía y patrimonio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/28/92/8/astorga-vuelve-a-rugir-con-medio-centenar-de-coches-y-sabor-a-cocido-maragato.jpeg",
+    "pub": 1791280840,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Los leoneses ya pueden solicitar el voto por correo para las Elecciones Generales del 29 de noviembre",
     "link": "https://www.lanuevacronica.com/actualidad/leoneses-ya-pueden-solicitar-voto-por-correo-elecciones-generales-29-noviembre_204106_102.html",
     "desc": "La solicitud puede realizarse hasta el día 19 de noviembre de forma telemática en la web de Correos o presencialmente en cualquier oficina postal",
@@ -157,30 +189,6 @@
     "desc": "Cifra en seis los examinadores activos en León ante la pregunta formulada por las diputadas del PP Silvia Franco y Ester Muñoz",
     "img": "https://www.lanuevacronica.com/uploads/s1/31/08/22/6/autoescuelas.jpeg",
     "pub": 1791252600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León, a contrapié ante las nuevas elecciones",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/leon-contrapie-nuevas-elecciones_204094_102.html",
-    "desc": "El adelanto electoral abre una campaña inesperada en una provincia donde los grandes partidos llegan sin hacer los deberes y el PSOE, además, atrapado en unas guerras internas que amenazan con…",
-    "img": null,
-    "pub": 1791252000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204093_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/28/76/7/la-vineta-de-canton-06-10-2026.jpeg",
-    "pub": 1791252000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Las solicitudes de residencia por arraigo se han cuadruplicado desde 2021 en León",
-    "link": "https://www.lanuevacronica.com/actualidad/solicitudes-residencia-por-arraigo-se-han-cuadruplicado-2021-en-leon_204089_102.html",
-    "desc": "Los datos del Gobierno reflejan que se ha pasado de 521 procesos iniciados por personas extranjeras en 2021 a 2.020 el año pasado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/23/80/33/7/dsf2548-1.jpeg",
-    "pub": 1791252000,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "El vocal del Partido Popular en la Junta Vecinal de Magaz de Abajo, Pablo González Basante , ha vuelto a reclamar explicaciones al alcalde pedáneo, Jonathan López, sobre la situación económica de la…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/05/el-pp-pide-cuentas-a-la-junta-vecinal-de-magaz-de-abajo-el-bierzo-digital.jpg",
     "pub": 1791180000,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Atlético Bembibre manda en el derbi ante La Virgen y se instala en la cuarta plaza (2-0)",
-    "link": "https://www.elbierzodigital.com/el-atletico-bembibre-manda-en-el-derbi-ante-la-virgen-y-se-instala-en-la-cuarta-plaza-2-0/",
-    "desc": "El Atlético Bembibre salió reforzado del derbi provincial ante La Virgen del Camino . El conjunto berciano se impuso por 2-0 en el Jesús Esteban , sumó tres puntos de peso y, de paso, adelantó a su…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-atletico-bembibre-manda-en-el-derbi-ante-la-virgen-y-se-instala-en-la-cuarta-plaza-2-0-el-bierzo-digital.jpeg",
-    "pub": 1791137841,
     "fuente": "El Bierzo Digital"
   },
   {
