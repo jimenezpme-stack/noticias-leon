@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "Aspace León sale a la calle para pedir apoyos \"de por vida\" para las personas con parálisis cerebral",
+    "link": "https://www.lanuevacronica.com/actualidad/aspace-leon-sale-calle-pedir-apoyos-de-por-vida-personas-con-paralisis-cerebral_204109_102.html",
+    "desc": "La asociación leonesa ha organizado una marcha solidaria por el centro de la ciudad para reclamar \"mayor compromiso\" por parte de las administraciones públicas con los cuidadores",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/39/7/frame-06aspace.jpeg",
+    "pub": 1791285590,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Pacios acusa a Ramón de \"meter mierda\" y le amenaza con \"mirar\" otros expedientes",
+    "link": "https://www.lanuevacronica.com/el-bierzo/pacios-acusa-ramon-meter-mierda-amenaza-con-mirar-otros-expedientes_204121_102.html",
+    "desc": "El concejal de Comercio defiende que la polémica por la subvención del club que presidió responde a un trámite iniciado en 2021 y 2022 y asegura que los 15 clubes afectados están en una situación…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/38/2/dacid-pacios.jpeg",
+    "pub": 1791285362,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La música que cura también suena en el Hospital El Bierzo",
+    "link": "https://www.elbierzodigital.com/la-musica-que-cura-tambien-suena-en-el-bierzo/",
+    "desc": "El Hospital El Bierzo cambió este martes el sonido de sus pasillos por el de la música clásica . El Quinteto Duer o, integrado por músicos de la Orquesta Sinfónica de Castilla y León (OSCyL) ,…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-musica-que-cura-tambien-suena-en-el-bierzo-el-bierzo-digital.jpg",
+    "pub": 1791285178,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El universo simbólico de Israel Nicolás llega al Cara B de Sorbeda",
+    "link": "https://www.lanuevacronica.com/el-bierzo/universo-simbolico-israel-nicolas-llega-cara-sorbeda_204117_102.html",
+    "desc": "El artista alicantino inaugura el 8 de octubre una exposición en la que fusiona memoria, arquetipos y simbolismo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/18/9/nicolas.jpeg",
+    "pub": 1791284947,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La música vuelve al Hospital El Bierzo para acompañar a los pacientes",
+    "link": "https://www.lanuevacronica.com/el-bierzo/musica-vuelve-hospital-bierzo-acompanar-pacientes_204118_102.html",
+    "desc": "El Quinteto Duero ofreció este martes un concierto en el vestíbulo y en la segunda planta del centro dentro de la 'Maratón Social Musical'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/16/7/la-oscyl-en-el-hospital-el-bierzo-3.jpeg",
+    "pub": 1791284831,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La ULE pone la inteligencia artificial bajo lupa para transformar su Universidad",
     "link": "https://www.elbierzodigital.com/la-ule-pone-la-inteligencia-artificial-bajo-lupa-para-transformar-su-universidad/",
     "desc": "La Universidad de León quiere adelantarse al impacto de la inteligencia artificial y prepara una estrategia institucional para incorporarla de forma transversal a la docencia, la investigación y la…",
@@ -104,14 +144,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Astorga vuelve a rugir con medio centenar de coches y sabor a Cocido Maragato",
-    "link": "https://www.lanuevacronica.com/actualidad/astorga-vuelve-rugir-con-medio-centenar-coches-sabor-cocido-maragato_204107_102.html",
-    "desc": "La avenida Mérida Pérez acogerá este domindo 11 de octubre desde las 11:00 horas la concentración del VII Cocido Maragato, una cita que combina motor, gastronomía y patrimonio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/28/92/8/astorga-vuelve-a-rugir-con-medio-centenar-de-coches-y-sabor-a-cocido-maragato.jpeg",
-    "pub": 1791280840,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Los leoneses ya pueden solicitar el voto por correo para las Elecciones Generales del 29 de noviembre",
     "link": "https://www.lanuevacronica.com/actualidad/leoneses-ya-pueden-solicitar-voto-por-correo-elecciones-generales-29-noviembre_204106_102.html",
     "desc": "La solicitud puede realizarse hasta el día 19 de noviembre de forma telemática en la web de Correos o presencialmente en cualquier oficina postal",
@@ -168,14 +200,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Conceyu pide \"una gran coalición leonesista\" para buscar un diputado en el Congreso",
-    "link": "https://www.lanuevacronica.com/actualidad/conceyu-pide-gran-coalicion-leonesista-buscar-diputado-en-congreso_204102_102.html",
-    "desc": "Afirman que debería estar liderada por UPL y reunir el voto pro autonomía leonesa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/24/52/27/9/leonesismo-17-11-20-1.jpeg",
-    "pub": 1791275795,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ponferrada se prepara para una tarde de paraguas: la lluvia gana fuerza en el Bierzo",
     "link": "https://www.elbierzodigital.com/ponferrada-se-prepara-para-una-tarde-de-paraguas-la-lluvia-gana-fuerza-en-el-bierzo/",
     "desc": "El tiempo volverá a experimentar un cambio repentino en Ponferrada y el Bierzo . La Agencia Estatal de Meteorología (Aemet) mantiene este martes, 6 de octubre, el aviso amarillo por lluvias intensas…",
@@ -190,22 +214,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/02/el-psoe-denuncia-falta-de-mantenimiento-y-usos-irregulares-en-el-centro-de-dia-de-flores-del-sil-el-bierzo-digital-1.jpeg",
     "pub": 1791274795,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "PCE Bierzo: \"56 lanzamientos demuestran que el problema de la vivienda no es el origen de quien la solicita\"",
-    "link": "https://www.lanuevacronica.com/el-bierzo/pce-bierzo-56-lanzamientos-demuestran-problema-vivienda-no-es-origen-quien-solicita_204101_102.html",
-    "desc": "Cuestiona la \"prioridad nacional\" para acceder a viviendas sociales aprobada en Ponferrada y reclama que sea la necesidad económica la que lo determine",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/50/58/1/whatsapp-image-2026-03-25-at-10-56-32-4-1000x563.jpeg",
-    "pub": 1791273807,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ponferrada activa las actividades para mayores con gimnasia, memoria y cine",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-activa-actividades-mayores-con-gimnasia-memoria-cine_204100_102.html",
-    "desc": "Las inscripciones para Actívate serán el 21 y 22 de octubre y las de Memoria Mejor, el 15 y 16",
-    "img": "https://www.lanuevacronica.com/uploads/s1/25/58/57/3/mayores.jpeg",
-    "pub": 1791273004,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Junta convoca 32 plazas para Inspectores de Educación en Castilla y León",
@@ -349,14 +357,6 @@
     "desc": "Ponferrada se prepara para una semana en la que el arte, la ciencia y la memoria industrial se vuelven a dar la mano. La Fundación Ciudad de la Energía ( Ciuden ) ha diseñado una agenda cultural con…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/del-arte-de-chillida-a-la-ciencia-para-ninos-ciuden-llena-de-cultura-la-semana-del-12-de-octubre-el-bierzo-digital.jpg",
     "pub": 1791188145,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Embutidos Pajariel 6,25 cae en el último minuto en su estreno liguero",
-    "link": "https://www.elbierzodigital.com/el-embutidos-pajariel-625-cae-en-el-ultimo-minuto-en-su-estreno-liguero/",
-    "desc": "El Embutidos Pajariel 6,25 comenzó con derrota la temporada en la Primera División Femenina en un partido vibrante ante el Clínica Baltar Peleteiro que acabó decantándose del lado de las gallegas en…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-embutidos-pajariel-625-cae-en-el-ultimo-minuto-en-su-estreno-liguero-el-bierzo-digital.jpg",
-    "pub": 1791187284,
     "fuente": "El Bierzo Digital"
   },
   {
