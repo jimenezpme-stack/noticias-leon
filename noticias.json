@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "San Froilan aguantó",
+    "link": "https://www.lanuevacronica.com/opinion/san-froilan-aguanto_204096_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791254400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Dudas, preguntas y cacao",
+    "link": "https://www.lanuevacronica.com/opinion/dudas-preguntas-cacao_204092_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791254400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La paradoja industrial de la cerveza y el lúpulo de León como «tierra quemada»",
     "link": "https://www.lanuevacronica.com/opinion/tribuna-de-opinion/paradoja-industrial-cerveza-lupulo-leon-como-tierra-quemada_204097_102.html",
     "desc": "",
@@ -96,27 +112,11 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "El Ayuntamiento de La Bañeza continúa con las labores de mantenimiento y mejora de sus zonas verdes",
-    "link": "https://www.lanuevacronica.com/actualidad/ayuntamiento-baneza-continua-con-labores-mantenimiento-mejora-sus-zonas-verdes_204084_102.html",
-    "desc": "Las actuaciones continuarán próximamente con una intervención destinada a mejorar la zona de aparcamiento, especialmente el espacio utilizado por los profesionales que desarrollan su actividad en el…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/28/57/1/las-labores-de-mantenimiento-y-mejora-de-los-diferentes-parques-y-zonas-verdes-de-la-ciudad.jpeg",
-    "pub": 1791224333,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León reúne a expertos para abordar los retos de la contratación pública cultural",
     "link": "https://www.lanuevacronica.com/actualidad/leon-reune-expertos-abordar-retos-contratacion-publica-cultural_204087_102.html",
     "desc": "El Auditorio Ciudad de León ha acogido la primera jornada del I Congreso Nacional de Contratación Cultura",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/28/65/4/el-auditorio-ciudad-de-leon-ha-acogido-la-primera-jornada-del-i-congreso-nacional-de-contratacion-cultura.jpeg",
     "pub": 1791222648,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La reforma del Museo del Ferroviario Primeros de Cistierna da sus primeros pasos",
-    "link": "https://www.lanuevacronica.com/actualidad/reforma-museo-ferroviario-primeros-cistierna-da-sus-primeros-pasos_204083_102.html",
-    "desc": "El proyecto básico y de ejecución para el acondicionamiento de los espacios del Museo Ferroviario de Cistierna fue puesto a disposición de la Diputación de León por el Ayuntamiento de Cistierna",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/28/54/9/imagen-del-interior-del-museo-del-ferroviario-de-cistierna.jpeg",
-    "pub": 1791217932,
     "fuente": "La Nueva Crónica"
   },
   {
