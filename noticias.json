@@ -1,5 +1,61 @@
 [
   {
+    "titulo": "Feijóo elige a la leonesa Ester Muñoz como portavoz de campaña de cara a las elecciones generales",
+    "link": "https://www.lanuevacronica.com/actualidad/feijoo-elige-leonesa-ester-munoz-como-portavoz-campana-cara-elecciones-generales_204214_102.html",
+    "desc": "El candidato popular elevará los nombramientos a la Junta Directiva de este jueves",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/45/3/el-lider-del-pp-alberto-nunez-feijoo-junto-a-ester-munoz.jpeg",
+    "pub": 1791386894,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La feria Apiastur de Astorga estrecha lazos con Zamora para promocionar la apicultura",
+    "link": "https://www.lanuevacronica.com/actualidad/feria-apiastur-astorga-estrecha-lazos-con-zamora-promocionar-apicultura_204212_102.html",
+    "desc": "La Diputación zamorana colaborará con la muestra que acoge la ciudad astorgana, que reunirá 24 expositores del 30 de octubre al 1 de noviembre y contará con presencia de productores zamoranos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/39/6/la-feria-apiastur-de-astorga-estrecha-lazos-con-zamora-para-promocionar-la-apicultura.jpeg",
+    "pub": 1791386287,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Donación de sangre junto al IESVE, este viernes",
+    "link": "https://www.elbierzodigital.com/donacion-de-sangre-junto-al-iesve-este-viernes/",
+    "desc": "El autobús de la Hermandad de Donantes de Sangre estará este viernes, 9 de octubre, junto al IES Virgen de la Encina de Ponferrada en horario de 8.45 a 14.15 horas para todas aquellas personas que…",
+    "img": null,
+    "pub": 1791385639,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El Festival de Cine de Ponferrada proyecta seis cortometrajes internacionales este jueves",
+    "link": "https://www.elbierzodigital.com/el-festival-de-cine-de-ponferrada-proyecta-seis-cortometrajes-internacionales-este-jueves/",
+    "desc": "El Festival Internacional de Cine de Ponferrada continúa con las proyecciones de las secciones oficiales a concurso de su 24ª edición con una nueva sesión de Miradas en corto. Concurso Internacional…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-festival-de-cine-de-ponferrada-proyecta-seis-cortometrajes-internacionales-este-jueves-el-bierzo-digital.jpg",
+    "pub": 1791385270,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "León afila sus cuchillos para elegir al mejor cortador de jamón de España",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-afila-sus-cuchillos-elegir-mejor-cortador-jamon-espana_204209_102.html",
+    "desc": "La novena edición del concurso organizado por Agustín Risueño se celebra este domingo en el Palacio de Congresos y Exposiciones dentro de la Feria de los Productos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/33/2/cortadores-de-jamon.jpeg",
+    "pub": 1791384818,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El PSOE denuncia el \"fracaso de planificación\" de la Junta en el renovado centro de salud de Pinilla",
+    "link": "https://www.lanuevacronica.com/actualidad/psoe-denuncia-fracaso-planificacion-junta-en-centro-salud-pinilla_204199_102.html",
+    "desc": "El procurador Benjamín Fernández señala que la Junta conocía la situación cuando decidió rehabilitar el edificio y cuestiona que no haya espacio para Fisioterapia o Urgencias",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/20/7/benjamin-fernandez-psoe-centro-salud-pinilla.jpeg",
+    "pub": 1791384677,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El tejido empresarial leonés y la Junta analizan el potencial industrial de la provincia para atraer inversiones",
+    "link": "https://www.lanuevacronica.com/actualidad/tejido-empresarial-leones-junta-analizan-potencial-industrial-leon-atraer-inversiones_204197_102.html",
+    "desc": "Fele, CEOE y la Junta presentan el primer avance del análisis de los polígonos y espacios industriales de la provincia, que incluirá un mapa interactivo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/16/9/fele-junta-potencial-industrial-leon.jpeg",
+    "pub": 1791384644,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Las Cortes aprueban un techo de gasto de 15.104 millones para Castilla y León en 2027",
     "link": "https://www.elbierzodigital.com/las-cortes-aprueban-un-techo-de-gasto-de-15-104-millones-para-castilla-y-leon-en-2027/",
     "desc": "Las Cortes de Castilla y León han aprobado este miércoles un límite de gasto no financiero de 15.104,54 millones de euros para 2027 , un 6,5% más que el fijado para el ejercicio actual, que servirá…",
@@ -72,22 +128,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "El PSOE denuncia el fracaso de planificación de la Junta en el Centro de Salud de Pinilla",
-    "link": "https://www.lanuevacronica.com/actualidad/psoe-denuncia-fracaso-planificacion-junta-en-centro-salud-pinilla_204199_102.html",
-    "desc": "El procurador Benjamín Fernández señala que la Junta conocía la situación cuando decidió rehabilitar el edificio y cuestiona que no haya espacio para Fisioterapia o Urgencias",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/20/7/benjamin-fernandez-psoe-centro-salud-pinilla.jpeg",
-    "pub": 1791379615,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PP de Carucedo afea que no se haya ejecutado ni la mitad del Plan de Sostenibilidad Turística",
-    "link": "https://www.lanuevacronica.com/el-bierzo/pp-carucedo-afea-no-se-haya-ejecutado-ni-mitad-plan-sostenibilidad-turistica_204191_102.html",
-    "desc": "Piden explicaciones por invertirse solo el 45,23% de los 1,1 millones concedidos y cuestionan el uso de los vehículos eléctricos para Las Médulas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/23/48/66/4/www-carucedo-1-4-1000x563-4-1000x563.jpeg",
-    "pub": 1791375827,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La FEB mantiene, de momento, el baloncesto en abierto",
     "link": "https://www.lanuevacronica.com/deportes/feb-mantiene-momento-baloncesto-en-abierto_204198_102.html",
     "desc": "Aplaza el inicio de las emisiones de pago hasta que finalice el periodo de pruebas de Sportway, después de las numerosas quejas por sus precios y la Cultural, Clínica Ponferrada y BF León se podrán…",
@@ -101,14 +141,6 @@
     "desc": "El consejero de Industria sostiene que las huelgas deben responder a reivindicaciones laborales y reclama comparar las viviendas comprometidas y ejecutadas por el Gobierno y la Junta",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/21/90/3/suarez-quinones-sanchez.jpeg",
     "pub": 1791375348,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El tejido empresarial leonés y la Junta analizan el potencial industrial de León para atraer inversiones",
-    "link": "https://www.lanuevacronica.com/actualidad/tejido-empresarial-leones-junta-analizan-potencial-industrial-leon-atraer-inversiones_204197_102.html",
-    "desc": "Fele, CEOE y la Junta presentan el primer avance del análisis de los polígonos y espacios industriales de la provincia, que incluirá un mapa interactivo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/16/9/fele-junta-potencial-industrial-leon.jpeg",
-    "pub": 1791375140,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -134,22 +166,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-mirandes-26-27-el-bierzo-digital-62.jpeg",
     "pub": 1791374774,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Queda desierta la obra de renovación de la calle Camino de Santiago de Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/queda-desierta-obra-renovacion-calle-camino-santiago-ponferrada_204192_102.html",
-    "desc": "El contrato, con un presupuesto de 130.000 euros, no recibe ninguna oferta para mejorar el alumbrado y el mobiliario en el tramo comprendido entre las avenidas de Valdés y La Libertad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/08/4/calle-camino-de-santiago-ponferrada.jpeg",
-    "pub": 1791374746,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Trasladan a León a un motorista herido tras chocar con un corzo en una carretera zamorana",
-    "link": "https://www.lanuevacronica.com/sucesos/trasladan-leon-motorista-herido-chocar-con-corzo-en-carretera-zamorana_204193_102.html",
-    "desc": "Los hechos ocurrieron en la localidad de Burganes del Valverde",
-    "img": "https://www.lanuevacronica.com/uploads/s1/29/05/62/4/helicoptero-sacyl-14102022-4-1000x563.jpeg",
-    "pub": 1791374509,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "De Sarria a Portomarín, un nuevo paso del Bierzo hacia Santiago",
@@ -349,22 +365,6 @@
     "desc": "La situación de la Sanidad en las provincias de León, Zamora y Salamanca volvió este martes al debate de las Cortes de Castilla y León, con un enfrentamiento entre el presidente de la Junta, Alfonso…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/upl-denuncia-el-deterioro-de-la-sanidad-en-leon-y-reprocha-a-la-junta-los-anos-de-espera-por-la-radioterapia-en-el-bierzo-el-bierzo-digital.jpeg",
     "pub": 1791303588,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Sanidad adjudica nueve plazas de médicos en el Bierzo",
-    "link": "https://www.elbierzodigital.com/sanidad-adjudica-nueve-plazas-de-medicos-en-el-bierzo/",
-    "desc": "Sacyl ha adjudicado nueve plazas de médicos para el área de salud del Bierzo , tres de ellas correspondientes al Hospital El Bierzo. En concreto, se ha nombrado a un cardiólogo , una psicóloga…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/02/Centro-de-salud-de-Cuatrovientos-9.jpeg",
-    "pub": 1791303114,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "“Miradas en corto” pone el foco en el talento internacional en el festival de cine",
-    "link": "https://www.elbierzodigital.com/miradas-en-corto-pone-el-foco-en-el-talento-internacional/",
-    "desc": "El 24º Festival Internacional de Cine de Ponferrada continúa esta semana con las proyecciones de las secciones oficiales a concurso. Este miércoles, 7 de octubre, a las 19:00 horas, la Biblioteca…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/miradas-en-corto-pone-el-foco-en-el-talento-internacional-el-bierzo-digital.jpg",
-    "pub": 1791298159,
     "fuente": "El Bierzo Digital"
   },
   {
