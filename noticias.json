@@ -1,10 +1,42 @@
 [
   {
+    "titulo": "León supera los 20.000 desempleados y mantiene una de las tasas de actividad más bajas del país",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-supera-20000-desempleados-mantiene-tasas-actividad-mas-bajas-pais_204183_102.html",
+    "desc": "CCOO denuncia que 333 categorías laborales en la provincia \"siguen por debajo del SMI\" y reclama medidas frente al encarecimiento de la vivienda y el aumento de la siniestralidad laboral",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/67/2/jesus-nunez-secretario-de-insitucional-y-politicas-publicas-y-sociales-de-ccoo-leon-junto-a-elena-blasco-secetaria-general-de-ccoo-leon.jpeg",
+    "pub": 1791368320,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "De la moto a una silla de ruedas para toda la vida por una conductora drogada",
+    "link": "https://www.lanuevacronica.com/actualidad/moto-silla-ruedas-toda-vida-por-conductora-drogada_204184_102.html",
+    "desc": "Usuarios de Aspaym acompañan a la Guardia Civil en una campaña de tráfico hasta el 11 de octubre para concienciar sobre el consumo de alcohol y las distracciones al volante",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/63/2/campana-de-trafico-en-leon-6.jpeg",
+    "pub": 1791368110,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Los sindicatos médicos aplazan la huelga indefinida del 28 de octubre por el adelanto electoral",
     "link": "https://www.elbierzodigital.com/los-sindicatos-medicos-aplazan-la-huelga-indefinida-del-28-de-octubre-por-el-adelanto-electoral/",
     "desc": "El Comité de Huelga integrado por la Confederación Española de Sindicatos Médicos (CESM), el Sindicato Médico Andaluz (SMA) y el Sindicato Médico de Euskadi (SME) ha decidido aplazar los paros…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/los-sindicatos-medicos-aplazan-la-huelga-indefinida-del-28-de-octubre-por-el-adelanto-electoral-el-bierzo-digital.jpeg",
     "pub": 1791367748,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Cortes de tráfico en el acceso a Toral de Merayo este jueves y viernes",
+    "link": "https://www.lanuevacronica.com/el-bierzo/cortes-trafico-en-acceso-toral-merayo-este-jueves-viernes_204185_102.html",
+    "desc": "Las restricciones se producirán por obras de mejora del firme entre las 8:00 y las 18:00 horas y también afectarán al servicio de transporte municipal",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/69/4/glorieta-toral-4-1000x563.jpeg",
+    "pub": 1791367497,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Solito Trovador ofrece dos conciertos en el Bierzo durante el mes de octubre",
+    "link": "https://www.elbierzodigital.com/el-solito-trovador-ofrece-dos-conciertos-en-el-bierzo-durante-el-mes-de-octubre/",
+    "desc": "El Solito Trovador, el proyecto musical del astorgano Carlos Huerta, ofrecerá dos conciertos en el Bierzo durante el mes de octubre acompañado por Diego Rebaque. Así, el día 9 a las 20.00 horas…",
+    "img": null,
+    "pub": 1791367453,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -112,14 +144,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El Cocodrilo Negro reúne a Black Bomber, Grapeshot y No One Alive en una noche de rock y metal",
-    "link": "https://www.lanuevacronica.com/el-bierzo/cocodrilo-negro-reune-black-bomber-grapeshot-no-one-alive-en-noche-rock-metal_204175_102.html",
-    "desc": "El concierto se celebrará el sábado 10 de octubre en el local ponferradino, con entradas a 10 euros en venta anticipada y 12 en taquilla",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/45/6/no-one-alive.jpeg",
-    "pub": 1791363350,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Cocodrilo Negro propone una noche de metal con Black Bomber, Grapeshot y No One Alive",
     "link": "https://www.elbierzodigital.com/el-cocodrilo-negro-propone-una-noche-de-metal-con-black-bomber-grapeshot-y-no-one-alive/",
     "desc": "El Cocodrilo Negro Bar de Ponferrada acogerá este sábado, 10 de octubre, una noche dedicada al rock y al metal con las actuaciones de Black Bomber, Grapeshot y No One Alive . La apertura de puertas…",
@@ -200,14 +224,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Ciuden prepara actividades para el puente del Pilar",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ciuden-prepara-actividades-puente-pilar_204152_102.html",
-    "desc": "Las visitas dialogadas a las exposiciones de Marina Núñez y Eduardo Chillida, un taller familiar y 'Paseo entre centrales' completan la programación",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/12/4/paseo-entre-centrales.jpeg",
-    "pub": 1791358558,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Cuándo merece la pena contratar un seguro de viaje",
     "link": "https://www.elbierzodigital.com/cuando-merece-la-pena-contratar-un-seguro-de-viaje/",
     "desc": "Decidir si contratar un seguro depende mucho del tipo de viaje que estés organizando. Cuanto mayores sean la distancia, el coste total y las reservas que ya has pagado, más sentido puede tener…",
@@ -230,14 +246,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/10/feria-de-la-miel-de-camponaraya-2025-el-bierzo-digital-13.jpg",
     "pub": 1791356791,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Elecciones",
-    "link": "https://www.lanuevacronica.com/opinion/elecciones_204163_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791342000,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Borja Valle, capitán sin brazalete",
@@ -349,14 +357,6 @@
     "desc": "El Pozo Julia y los Museos de Fabero mantendrán un horario especial de visitas con motivo de la festividad del 12 de octubre . Los visitantes podrán participar en dos visitas guiadas a lo largo de…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/10/fabero-se-llena-de-sabor-con-la-ruta-de-las-tapas-de-otono-el-bierzo-digital.jpg",
     "pub": 1791281683,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Clínica Ponferrada SDP mete a dos jugadores en el quinteto ideal de la primera jornada",
-    "link": "https://www.elbierzodigital.com/el-clinica-ponferrada-sdp-mete-a-dos-jugadores-en-el-quinteto-ideal-de-la-primera-jornada/",
-    "desc": "El Clínica Ponferrada SDP firmó un brillante inicio de temporada en el grupo A de Segunda FEB y, a su victoria por 94-86 ante el Spanish Basketball Academy en el Lydia Valentín, sumó la presencia de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-clinica-ponferrada-sdp-mete-a-dos-jugadores-en-el-quinteto-ideal-de-la-primera-jornada-el-bierzo-digital.jpeg",
-    "pub": 1791278721,
     "fuente": "El Bierzo Digital"
   },
   {
