@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "Queda desierta la obra de renovación de la calle Camino de Santiago de Ponferrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/queda-desierta-obra-renovacion-calle-camino-santiago-ponferrada_204192_102.html",
+    "desc": "El contrato, con un presupuesto de 130.000 euros, no recibe ninguna oferta para mejorar el alumbrado y el mobiliario en el tramo comprendido entre las avenidas de Valdés y La Libertad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/08/4/calle-camino-de-santiago-ponferrada.jpeg",
+    "pub": 1791374299,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Suárez-Quiñones cuestiona la huelga por la vivienda al considerar que tiene un carácter político",
+    "link": "https://www.lanuevacronica.com/el-bierzo/suarez-quinones-cuestiona-huelga-por-vivienda-considerar-tiene-caracter-politico_204194_102.html",
+    "desc": "El consejero de Industria sostiene que las huelgas deben responder a reivindicaciones laborales y reclama comparar las viviendas comprometidas y ejecutadas por el Gobierno y la Junta",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/21/90/3/suarez-quinones-sanchez.jpeg",
+    "pub": 1791374290,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Trasladan a León a un motorista herido tras chocar con un Corzo en una carretera zamorana",
+    "link": "https://www.lanuevacronica.com/sucesos/trasladan-leon-motorista-herido-chocar-con-corzo-en-carretera-zamorana_204193_102.html",
+    "desc": "Los hechos ocurrieron en la localidad de Burganes del Valverde",
+    "img": "https://www.lanuevacronica.com/uploads/s1/29/05/62/4/helicoptero-sacyl-14102022-4-1000x563.jpeg",
+    "pub": 1791374194,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "De Sarria a Portomarín, un nuevo paso del Bierzo hacia Santiago",
+    "link": "https://www.elbierzodigital.com/de-sarria-a-portomarin-un-nuevo-paso-del-bierzo-hacia-santiago/",
+    "desc": "El Camino de Santiago vuelve a llamar a la puerta de los bercianos . El próximo domingo 18 de octubre , las asociaciones de Amigos del Camino de Santiago de Astorga y El Bierzo afrontarán una de las…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/06/Compostilla-1-el-bierzo-digital-scaled.jpg",
+    "pub": 1791373826,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Morala pide un nuevo grado para el Campus de Ponferrada y rebaja el tono sobre Medicina",
+    "link": "https://www.lanuevacronica.com/el-bierzo/morala-pide-nuevo-grado-campus-ponferrada-rebaja-tono-sobre-medicina_204186_102.html",
+    "desc": "El alcalde apuesta por seguir trabajando con la Universidad de León mientras la rectora anuncia que la policlínica estará inaugurada en 2029",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/96/9/inicio-curso-1.jpeg",
+    "pub": 1791373800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El PP reclama explicaciones por los fondos turísticos que Carucedo podría tener que devolver",
     "link": "https://www.elbierzodigital.com/el-pp-reclama-explicaciones-por-los-fondos-turisticos-que-carucedo-podria-tener-que-devolver/",
     "desc": "El PP de Carucedo ha reclamado explicaciones al Ayuntamiento por la ejecución del Plan de Sostenibilidad Turística , dotado con 1,1 millones de euros de fondos europeos Next Generation. Según los…",
@@ -13,14 +53,6 @@
     "desc": "El Museo de la Emigración Leonesa expondrá el elemento fundamental de la tradición mexicana hasta el próximo 15 de noviembre",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/31/04/9/frame-07altar.jpeg",
     "pub": 1791373071,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Morala pide un nuevo grado para el Campus de Ponferrada y rebaja el tono sobre Medicina",
-    "link": "https://www.lanuevacronica.com/el-bierzo/morala-pide-nuevo-grado-campus-ponferrada-rebaja-tono-sobre-medicina_204186_102.html",
-    "desc": "El alcalde apuesta por seguir trabajando con la Universidad de León mientras la rectora anuncia que la policlínica estará inaugurada en 2029",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/96/9/inicio-curso-1.jpeg",
-    "pub": 1791372976,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -168,36 +200,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "CHD abre la puerta a ampliar el riego más allá del 15 de octubre solo en casos excepcionales",
-    "link": "https://www.lanuevacronica.com/actualidad/chd-abre-puerta-ampliar-riego-mas-alla-15-octubre-solo-en-casos-excepcionales_204178_102.html",
-    "desc": "Barrios de Luna ya tiene autorizado un primer riego hasta el día 9 y deberá justificar de nuevo el previsto para los días 21, 22 y 23 en caso de ser necesario",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/52/0/estado-que-presenta-actualmente-el-embalse-de-barrios-de-luna-fernando-otero.jpeg",
-    "pub": 1791364969,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Las Cortes de Castilla y León rechazan 150 millones para el campo tras una votación secreta y en urna",
     "link": "https://www.elbierzodigital.com/las-cortes-de-castilla-y-leon-rechazan-150-millones-para-el-campo-tras-una-votacion-secreta-y-en-urna/",
     "desc": "Las Cortes de Castilla y León rechazaron este martes la propuesta del PSOE para crear un fondo extraordinario de 150 millones de euros en ayudas directas al campo y establecer un pacto de Comunidad…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/las-cortes-de-castilla-y-leon-rechazan-150-millones-para-el-campo-tras-una-votacion-secreta-y-en-urna-el-bierzo-digital.jpg",
     "pub": 1791364746,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Detenido un hombre cuando intentaba introducir 130 trankimazines en la cárcel de Mansilla",
-    "link": "https://www.lanuevacronica.com/sucesos/detenido-hombre-cuando-intentaba-introducir-130-trankimazines-en-carcel-mansilla_204177_102.html",
-    "desc": "Un perro de la Unidad Canina Penitenciaria señaló en varias ocasiones al visitante, que se negó a que los funcionarios le cacheasen",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/48/7/ansioliticos-intervenidos-en-la-carcel-de-mansilla.jpeg",
-    "pub": 1791364640,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Diputación de León respalda a 45 municipios para mantener sus ferias agropecuarias en 2026",
-    "link": "https://www.lanuevacronica.com/actualidad/diputacion-leon-respalda-45-municipios-mantener-sus-ferias-agropecuarias-en-2026_204176_102.html",
-    "desc": "La ayuda global concedida alcanza los 400.000 euros",
-    "img": "https://www.lanuevacronica.com/uploads/s1/95/22/6/ganaderia-oseja-sajambre-261019.jpeg",
-    "pub": 1791363439,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El Bierzo cambia la mirada sobre la salud mental: una semana para derribar prejuicios",
@@ -357,14 +365,6 @@
     "desc": "La Universidad de León quiere adelantarse al impacto de la inteligencia artificial y prepara una estrategia institucional para incorporarla de forma transversal a la docencia, la investigación y la…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-ule-pone-la-inteligencia-artificial-bajo-lupa-para-transformar-su-universidad-el-bierzo-digital.jpeg",
     "pub": 1791284222,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PSOE denuncia el abandono de las obras en la plaza de Cuatrovientos",
-    "link": "https://www.elbierzodigital.com/el-psoe-denuncia-el-abandono-de-las-obras-en-la-plaza-de-cuatrovientos/",
-    "desc": "El PSOE de Ponferrada denunció este martes en un comunicado el \"abandono\" de la plaza aledaña a la de los Cantos en Cuatrovientos , así como las \"deficiencias\" en las obras que se han llevado a cabo…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-denuncia-el-abandono-de-las-obras-en-la-plaza-de-cuatrovientos-el-bierzo-digital.jpg",
-    "pub": 1791283628,
     "fuente": "El Bierzo Digital"
   },
   {
