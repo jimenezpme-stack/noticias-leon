@@ -1,10 +1,34 @@
 [
   {
-    "titulo": "León supera los 20.000 desempleados y mantiene una de las tasas de actividad más bajas del país",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-supera-20000-desempleados-mantiene-tasas-actividad-mas-bajas-pais_204183_102.html",
-    "desc": "CCOO denuncia que 333 categorías laborales en la provincia \"siguen por debajo del SMI\" y reclama medidas frente al encarecimiento de la vivienda y el aumento de la siniestralidad laboral",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/67/2/jesus-nunez-secretario-de-insitucional-y-politicas-publicas-y-sociales-de-ccoo-leon-junto-a-elena-blasco-secetaria-general-de-ccoo-leon.jpeg",
-    "pub": 1791368320,
+    "titulo": "Pasa a la reserva el coronel jefe de la Guardia Civil de León, Julio Andrés Gutiérrez",
+    "link": "https://www.lanuevacronica.com/actualidad/pasa-reserva-coronel-jefe-guardia-civil-leon-julio-andres-gutierrez_204188_102.html",
+    "desc": "Asumió la Jefatura de la Comandancia de la capital en 2014 y suma más de 42 años de servicio en el instituto armado",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/01/3/un-instante-de-la-despedida-al-coronel-jefe-de-la-guardia-civil.jpeg",
+    "pub": 1791369325,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Unicaja reúne a 160 profesionales para impulsar el asesoramiento especializado de su Banca Privada",
+    "link": "https://www.lanuevacronica.com/panorama/unicaja-reune-160-profesionales-impulsar-asesoramiento-especializado-su-banca-privada_204187_102.html",
+    "desc": "La entidad avanza en el desarrollo de un modelo de atención especializada con la planificación financiera y patrimonial como eje diferencial",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/92/5/unicaja-convencion-banca-privada-2026.jpeg",
+    "pub": 1791369043,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La DGT intensifica en León la vigilancia de las distracciones con 189 patrullas",
+    "link": "https://www.elbierzodigital.com/la-dgt-intensifica-en-leon-la-vigilancia-de-las-distracciones-con-189-patrullas/",
+    "desc": "La Dirección General de Tráfico (DGT) ha intensificado esta semana la vigilancia de las distracciones al volante en la provincia de León , con una campaña especial que se prolongará hasta el próximo…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-dgt-intensifica-en-leon-la-vigilancia-de-las-distracciones-con-189-patrullas-el-bierzo-digital.jpeg",
+    "pub": 1791368994,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Morala pide un nuevo grado para el Campus de Ponferrada y rebaja el tono sobre Medicina",
+    "link": "https://www.lanuevacronica.com/el-bierzo/morala-pide-nuevo-grado-campus-ponferrada-rebaja-tono-sobre-medicina_204186_102.html",
+    "desc": "El alcalde apuesta por seguir trabajando con la Universidad de León mientras la rectora anuncia que la policlínica estará inaugurada en 2029",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/96/9/inicio-curso-1.jpeg",
+    "pub": 1791368974,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -12,7 +36,15 @@
     "link": "https://www.lanuevacronica.com/actualidad/moto-silla-ruedas-toda-vida-por-conductora-drogada_204184_102.html",
     "desc": "Usuarios de Aspaym acompañan a la Guardia Civil en una campaña de tráfico hasta el 11 de octubre para concienciar sobre el consumo de alcohol y las distracciones al volante",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/30/63/2/campana-de-trafico-en-leon-6.jpeg",
-    "pub": 1791368110,
+    "pub": 1791368787,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León supera los 20.000 desempleados y mantiene una de las tasas de actividad más bajas del país",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-supera-20000-desempleados-mantiene-tasas-actividad-mas-bajas-pais_204183_102.html",
+    "desc": "CCOO denuncia que 333 categorías laborales en la provincia \"siguen por debajo del SMI\", reclama medidas frente al encarecimiento de la vivienda y pone el foco en el aumento de la siniestralidad…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/67/2/jesus-nunez-secretario-de-insitucional-y-politicas-publicas-y-sociales-de-ccoo-leon-junto-a-elena-blasco-secetaria-general-de-ccoo-leon.jpeg",
+    "pub": 1791368524,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -128,14 +160,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Arganza eleva hasta 100 euros las ayudas para libros y material escolar",
-    "link": "https://www.lanuevacronica.com/el-bierzo/arganza-eleva-hasta-100-euros-ayudas-libros-material-escolar_204169_102.html",
-    "desc": "El Ayuntamiento destina una partida de 2.000 euros y mantiene abierto hasta el 15 de octubre el plazo para solicitar las subvenciones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/32/48/89/2/r6s984r-5-659x371.jpeg",
-    "pub": 1791363426,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Bierzo cambia la mirada sobre la salud mental: una semana para derribar prejuicios",
     "link": "https://www.elbierzodigital.com/el-bierzo-cambia-la-mirada-sobre-la-salud-mental-una-semana-para-derribar-prejuicios/",
     "desc": "El Hospital El Bierzo se convierte esta segunda semana de octubre en un escaparate de historias, creatividad y esperanza con motivo del Día Mundial de la Salud Mental . El Servicio de Psiquiatría de…",
@@ -152,27 +176,11 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Bembibre reparte 1.500 euros para elegir el cartel y el texto literario del Festival del Botillo 2027",
-    "link": "https://www.lanuevacronica.com/el-bierzo/bembibre-reparte-1500-euros-elegir-cartel-texto-literario-festival-botillo-2027_204170_102.html",
-    "desc": "Se abren las convocatorias de sendos concursos y se admitirán trabajos hasta el 30 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/27/31/02/0/botillo-autoridades.jpeg",
-    "pub": 1791363048,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Junta abre el trámite para buscar víctimas en el cementerio de Trabadelo",
     "link": "https://www.lanuevacronica.com/el-bierzo/junta-abre-tramite-buscar-victimas-en-cementerio-trabadelo_204172_102.html",
     "desc": "La ARMH solicita autorización para realizar trabajos de localización en el camposanto vecinal e inicia un periodo de 20 días hábiles para presentar alegaciones",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/30/41/9/img-9009-4-1000x563.jpeg",
     "pub": 1791362944,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Una nueva senda une Espinoso de Compludo y San Cristóbal de Valdueza a través de una cascada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/nueva-senda-une-espinoso-compludo-san-cristobal-valdueza-traves-cascada_204171_102.html",
-    "desc": "La ruta circular, apta para senderismo y bicicleta de montaña, recupera antiguos caminos y atraviesa zonas de bosque de ribera hasta la cascada de La Igualta",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/40/5/foto-ivan-y-alberto-lopez-vale.jpeg",
-    "pub": 1791362906,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "El capitán José Manuel López Santiso es el nuevo jefe de la 3ª Compañía de la Guardia Civil de Ponferrada , unidad que asume esta semana tras una amplia trayectoria profesional dentro del Cuerpo. El…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/jose-manuel-lopez-santiso-nuevo-capitan-al-frente-de-la-guardia-civil-en-ponferrada-el-bierzo-digital.jpeg",
     "pub": 1791282215,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Pozo Julia y los Museos de Fabero abren este 12 de octubre con visitas guiadas",
-    "link": "https://www.elbierzodigital.com/el-pozo-julia-y-los-museos-de-fabero-abren-este-12-de-octubre-con-visitas-guiadas/",
-    "desc": "El Pozo Julia y los Museos de Fabero mantendrán un horario especial de visitas con motivo de la festividad del 12 de octubre . Los visitantes podrán participar en dos visitas guiadas a lo largo de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/10/fabero-se-llena-de-sabor-con-la-ruta-de-las-tapas-de-otono-el-bierzo-digital.jpg",
-    "pub": 1791281683,
     "fuente": "El Bierzo Digital"
   },
   {
