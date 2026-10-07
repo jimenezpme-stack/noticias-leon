@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Villafranca abre la puerta de ‘El desván de los payasos olvidados’ este Halloween",
+    "link": "https://www.elbierzodigital.com/villafranca-abre-la-puerta-de-el-desvan-de-los-payasos-olvidados-este-halloween/",
+    "desc": "Villafranca del Bierzo se prepara para vivir un Halloween terrorífico en el convento de la Divina Pastora, que para la ocasión se convertirá en El desván de los payasos olvidados . Bajo la premisa…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/villafranca-abre-la-puerta-de-el-desvan-de-los-payasos-olvidados-este-halloween-el-bierzo-digital-1.jpg",
+    "pub": 1791362324,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Espinoso y San Cristóbal estrenan un camino entre bosques, puentes y cascadas",
+    "link": "https://www.elbierzodigital.com/espinoso-y-san-cristobal-estrenan-un-camino-entre-bosques-puentes-y-cascadas/",
+    "desc": "La naturaleza del medio rural de Ponferrada gana un nuevo recorrido . Espinoso de Compludo y San Cristóbal de Valdueza quedan unidos por una nueva senda circular , una ruta pensada para disfrutar…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/04/camino-para-cambiar-la-diabetes-el-bierzo-digital-4.jpeg",
+    "pub": 1791361964,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "León necesita nueve examinadores para acabar con el colapso en los exámenes de conducir",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-necesita-nueve-examinadores-acabar-con-colapso-en-examenes-conducir_204174_102.html",
+    "desc": "El sindicato apunta que el retraso acumulado en la provincia hará inviable que los aspirantes jóvenes accedan a la subvención de la Junta",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/18/41/1/autoescuelas.jpeg",
+    "pub": 1791361953,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El Hospital El Bierzo convierte la salud mental en protagonista de una semana de actividades",
     "link": "https://www.lanuevacronica.com/el-bierzo/hospital-bierzo-convierte-salud-mental-en-protagonista-semana-actividades_204173_102.html",
     "desc": "Psiquiatría organiza hasta el viernes propuestas con pacientes y profesionales para combatir el estigma y visibilizar los procesos de recuperación",
@@ -48,14 +72,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Ocho municipios del Bierzo reciben apoyo de la Diputación para mantener sus ferias agropecuarias",
-    "link": "https://www.elbierzodigital.com/ocho-municipios-del-bierzo-reciben-apoyo-de-la-diputacion-para-mantener-sus-ferias-agropecuarias/",
-    "desc": "Ocho municipios del Bierzo recibirán el respaldo de la Diputación de León para mantener durante 2026 sus ferias y celebraciones vinculadas al sector agropecuario y a los productos del medio rural.…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/10/feria-de-la-miel-de-camponaraya-2025-el-bierzo-digital-13.jpg",
-    "pub": 1791360391,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Arganza eleva hasta 100 euros las ayudas para libros y material escolar",
     "link": "https://www.lanuevacronica.com/el-bierzo/arganza-eleva-hasta-100-euros-ayudas-libros-material-escolar_204169_102.html",
     "desc": "El Ayuntamiento destina una partida de 2.000 euros y mantiene abierto hasta el 15 de octubre el plazo para solicitar las subvenciones",
@@ -93,6 +109,14 @@
     "desc": "Un resguardo acertante de segunda categoría del Joker dejó un premio de 10.000 euros en Cabañas Raras en el sorteo celebrado el pasado sábado 3 de octubre. El boleto fue validado en el punto de…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/un-acertante-del-joker-gana-10-000-euros-en-cabanas-raras-el-bierzo-digital.jpg",
     "pub": 1791357872,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Ocho municipios del Bierzo reciben apoyo de la Diputación para mantener sus ferias agropecuarias",
+    "link": "https://www.elbierzodigital.com/ocho-municipios-del-bierzo-reciben-apoyo-de-la-diputacion-para-mantener-sus-ferias-agropecuarias/",
+    "desc": "Ocho municipios del Bierzo recibirán el respaldo de la Diputación de León para mantener durante 2026 sus ferias y celebraciones vinculadas al sector agropecuario y a los productos del medio rural.…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/10/feria-de-la-miel-de-camponaraya-2025-el-bierzo-digital-13.jpg",
+    "pub": 1791356791,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -155,14 +179,6 @@
     "titulo": "Peligro rodado por la Plaza Mayor",
     "link": "https://www.lanuevacronica.com/opinion/la-negrilla/peligro-rodado-por-plaza-mayor_204165_102.html",
     "desc": "",
-    "img": null,
-    "pub": 1791338400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "De promesas a realidades",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/promesas-realidades_204164_102.html",
-    "desc": "León acumula proyectos estatales por 1.750 millones de euros cuya ejecución no puede volver a quedar aplazada por un cambio de Gobierno tras las elecciones",
     "img": null,
     "pub": 1791338400,
     "fuente": "La Nueva Crónica"
@@ -341,22 +357,6 @@
     "desc": "Mucho antes de ponerse al frente de una farmacia, María José Salgado ya guardaba recuerdos de aquel lugar al que acompañaba a su madre siendo niña. Recuerda las visitas, a las profesionales que…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/maria-jose-salgado-volver-a-sus-raices-para-cuidar-de-los-demas-el-bierzo-digital-2.jpeg",
     "pub": 1791270008,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Signos acoge una nueva edición de ‘Afinidades electivas’ con Yolanda Castaño y Abel Aparicio",
-    "link": "https://www.elbierzodigital.com/signos-acoge-una-nueva-edicion-de-afinidades-electivas-con-yolanda-castano-y-abel-aparicio/",
-    "desc": "La librería Signos de Ponferrada acoge este miércoles, 7 de octubre, a las 19.00 horas una nueva edición del programa Afinidades electivas, que en esta ocasión contará con la presencia de los…",
-    "img": null,
-    "pub": 1791215971,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Festival de Cine proyecta seis nuevos cortometrajes finalistas de su 24ª edición",
-    "link": "https://www.elbierzodigital.com/el-festival-de-cine-de-ponferrada-proyecta-seis-nuevos-cortometrajes-finalistas-de-su-24a-edicion/",
-    "desc": "El Festival Internacional de Cine de Ponferrada continúa este martes, 6 de octubre, con las proyecciones de las secciones oficiales a concurso de su 24ª edición . La cita tendrá lugar a las 19.00…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-festival-de-cine-de-ponferrada-proyecta-seis-nuevos-cortometrajes-finalistas-de-su-24a-edicion-el-bierzo-digital-1.jpg",
-    "pub": 1791210753,
     "fuente": "El Bierzo Digital"
   },
   {
