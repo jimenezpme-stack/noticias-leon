@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Por otoño",
+    "link": "https://www.lanuevacronica.com/opinion/por-otono_204161_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791340200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Por fin. Esperanza por fin",
+    "link": "https://www.lanuevacronica.com/opinion/por-fin-esperanza-por-fin_204160_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791339600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Irmandiños en Ponferrada",
     "link": "https://www.lanuevacronica.com/opinion/irmandinos-en-ponferrada_204159_102.html",
     "desc": "",
@@ -96,14 +112,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Arte, cine y 'power pop' con León es Acción",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/arte-cine-power-pop-con-leon-es-accion_204147_102.html",
-    "desc": "La asociación cultural León Ciudad Púrpura programa para este mes una serie de actividades que arrancará este jueves de la mano de la inauguración de 'Retrospective!'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/94/5/el-teatro-albeitar-acogera-este-viernes-la-proyeccion-del-documental-back-in-time-de-malas-companias-pc.jpeg",
-    "pub": 1791307891,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Otro concierto cofrade volverá a unir a León y Sevilla en 2027",
     "link": "https://www.lanuevacronica.com/semana-santa/otro-concierto-cofrade-volvera-unir-leon-sevilla-en-2027_204151_102.html",
     "desc": "La Agrupación Musical de la Cofradía de Angustias y Soledad celebrará sus 35 años el 27 de febrero con un concierto con la Redención en el Palacio de Exposiciones",
@@ -118,14 +126,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-mirandes-26-27-el-bierzo-digital-23.jpeg",
     "pub": 1791304570,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "UPL pide recuperar la personalidad jurídica de las nuevas entidades locales menores",
-    "link": "https://www.lanuevacronica.com/actualidad/upl-pide-recuperar-personalidad-juridica-nuevas-entidades-locales-menores_204146_102.html",
-    "desc": "González Gago reprocha a Santos que le pida a la Junta elevar la petición a Madrid y que no sean ellos los que lo hagan a través de sus \"socios\" en la Diputación y en el Ayuntamiento",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/92/8/el-procurador-de-upl-en-las-ccyl-luis-mariano-santos-2.jpeg",
-    "pub": 1791303881,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "UPL denuncia el deterioro de la Sanidad en León y reprocha a la Junta los años de espera por la radioterapia en el Bierzo",
