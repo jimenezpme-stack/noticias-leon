@@ -1,5 +1,69 @@
 [
   {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204166_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/32/7/07-10-2026-canton.jpeg",
+    "pub": 1791338400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Peligro rodado por la Plaza Mayor",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/peligro-rodado-por-plaza-mayor_204165_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791338400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "De promesas a realidades",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/promesas-realidades_204164_102.html",
+    "desc": "León acumula proyectos estatales por 1.750 millones de euros cuya ejecución no puede volver a quedar aplazada por un cambio de Gobierno tras las elecciones",
+    "img": null,
+    "pub": 1791338400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León, a contrapié",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-contrapie_204158_102.html",
+    "desc": "PP y PSOE se repartirán los diputados por esta provincia según las encuestas, con incógnitas que tienen más que ver con los nombres que los resultados",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/31/1/imagen-cendon-y-ester.png",
+    "pub": 1791338400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Marina Díez: \"La memoria sigue ahí; a veces sólo necesita que alguien haga la pregunta\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/marina-diez-memoria-sigue-ahi-veces-solo-necesita-alguien-haga-pregunta_204157_102.html",
+    "desc": "La autora presenta este jueves en el ILC (19 horas) su libro 'Cada planta, una historia', en el que recopila su brillante colaboración sobre plantas de León y sus historias en este periódico",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/27/3/marina-diez-es-tambien-columnista-de-este-periodico-y-trata-siempre-sobre-feminismo-pagina-web-de-la-autora.jpeg",
+    "pub": 1791338400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los deberes del Gobierno tras el 29-N en León",
+    "link": "https://www.lanuevacronica.com/actualidad/deberes-gobierno-29-n-en-leon_204136_102.html",
+    "desc": "La provincia tiene en marcha o pendientes de iniciarse proyectos estatales por valor de 1.750 millones de euros que a partir de ahora quedan pendientes del resultado de las urnas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/68/7/proyectos-pendientes-leon.png",
+    "pub": 1791338400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Centenarios",
+    "link": "https://www.lanuevacronica.com/opinion/centenarios_204139_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791338400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las detenciones de jóvenes de grupos violentos se mutiplican por seis en León en el último año",
+    "link": "https://www.lanuevacronica.com/actualidad/detenciones-jovenes-grupos-violentos-se-mutiplican-por-seis-en-leon-en-ultimo-ano_204125_102.html",
+    "desc": "El Gobierno atribuye este incremento \"a un mayor seguimiento policial\" y señala que son valores \"reducidos\" frente a la incidencia de los principales focos nacionales",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/73/2/policia-nacional.jpeg",
+    "pub": 1791338400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Lucha Leonesa: La desidia y abandono del luchódromo, lleno de goteras, la pagaron los chavales de la base",
     "link": "https://www.lanuevacronica.com/deportes/lucha-leonesa-desidia-abandono-luchodromo-lleno-goteras-pagaron-chavales-base_204168_102.html",
     "desc": "El corro de San Froilán de base, que se llevó a este recinto ante la previsión de lluvias, tuvo que suspenderse por las goteras y charcos en el pabellón",
@@ -32,59 +96,11 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "CreAcción Mental entregó los premios de su concurso literario en el Albéitar leonés",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/creaccion-mental-entrego-premios-su-concurso-literario-en-albeitar-leones_204149_102.html",
-    "desc": "Las propuestas del colectivo enmarcadas en el Día de la Salud Mental continuarán este miércoles con la proyección de 'Incontrolable'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/08/4/una-imagen-de-la-entrega-de-premios-de-creaccion-mental-l-n-c.jpeg",
-    "pub": 1791307823,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La restauración de la Casa de Doña Josefina de La Bañeza encara su recta final",
-    "link": "https://www.lanuevacronica.com/actualidad/restauracion-casa-dona-josefina-baneza-encara-su-recta-final_204143_102.html",
-    "desc": "La Escuela Taller de Carpintería avanza en la recuperación de la fachada de este edificio modernista de la ciudad bañezana, cuyos trabajos podrían concluir a finales de octubre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/86/1/restauracion-casa-dona-josefina.jpeg",
-    "pub": 1791307627,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Las XVIII Jornadas Micológicas dan la bienvenida al otoño en Puebla de Lillo",
     "link": "https://www.lanuevacronica.com/actualidad/xviii-jornadas-micologicas-dan-bienvenida-otono-en-puebla-lillo_204134_102.html",
     "desc": "El programa para este fin de semana contempla salidas al campo, clasificación de especies, conferencia y propuestas culinarias en la hostelería local",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/29/63/6/las-jornadas-incluyen-salida-al-monte-y-exposicion-y-clasificacion-de-las-setas-recogidas-l-n-c.jpeg",
     "pub": 1791307474,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León lleva su despensa a Gijón con 23 productores y un gran desfile de pendones",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-lleva-su-despensa-gijon-con-23-productores-gran-desfile-pendones_204141_102.html",
-    "desc": "La IV Feria de Productos de León llenará la Plaza Mayor gijonesa del 23 al 25 de octubre con catas, degustaciones, venta directa y folclore leonés",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/78/4/leon-lleva-su-despensa-a-gijon-con-23-productores-y-un-gran-desfile-de-pendones.jpeg",
-    "pub": 1791307398,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Piex vuelve a León: otro curso más en el que la experiencia es 'un grado'",
-    "link": "https://www.lanuevacronica.com/actualidad/piex-vuelve-leon-otro-curso-mas-en-experiencia-es-grado_204144_102.html",
-    "desc": "El programa fue presentado este martes por la tarde",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/88/3/universidadexperiencia.jpeg",
-    "pub": 1791307234,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Sanidad pondrá en funcionamiento el servicio de fisioterapia vinculado al Centro de Salud de Pinilla",
-    "link": "https://www.lanuevacronica.com/actualidad/psoe-reclama-servicios-fisioterapia-urgencias-pinilla-la-junta-jamas-tuvo-intencion-recuperarlos_204140_102.html",
-    "desc": "El PSOE critica un \"recorte premeditado\" de la Junta al proyectar un edificio sin el suficiente espacio: \"Nunca tuvieron la intención de recuperar fisioterapia ni urgencias\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/76/6/whatsapp-image-2026-10-06-at-17-37-48.jpeg",
-    "pub": 1791307098,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Nuria Rubio reprocha a Pollán que difunda \"soflamas racistas\" en lugar de proteger a los más vulnerables",
-    "link": "https://www.lanuevacronica.com/actualidad/nuria-rubio-reprocha-pollan-difunda-soflamas-racistas-en-lugar-proteger-mas-vulnerables_204142_102.html",
-    "desc": "La vicepresidenta de las Cortes acusa homólogo en la Junta de \"alimentar el odio\" hacia los menores no acompañados y le pregunta a qué dedica su Consejería",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/83/9/pollan-durante-el-pleno-de-este-martes-en-las-cortes.jpeg",
-    "pub": 1791306986,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -102,14 +118,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-mirandes-26-27-el-bierzo-digital-23.jpeg",
     "pub": 1791304570,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Cunca, pulpo y El Morrosko",
-    "link": "https://www.lanuevacronica.com/extras/a-la-contra/cunca-pulpo-morrosko_204145_102.html",
-    "desc": "La última de La Nueva Crónica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/90/1/contra.jpeg",
-    "pub": 1791304200,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "UPL pide recuperar la personalidad jurídica de las nuevas entidades locales menores",
@@ -134,14 +142,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/02/Centro-de-salud-de-Cuatrovientos-9.jpeg",
     "pub": 1791303114,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "De las montañas del Rif a las estepas nevadas de Finlandia, en San Feliz de Torío",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/montanas-rif-estepas-nevadas-finlandia-en-san-feliz-torio_204138_102.html",
-    "desc": "Manuel Ángel Morales Escudero recala este miércoles en La Casona para presentar su obra 'Johatsu y otros cuentos'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/29/75/0/el-berciano-manuel-angel-morales-escudero-y-la-portada-de-su-publicacion.jpeg",
-    "pub": 1791300881,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "“Miradas en corto” pone el foco en el talento internacional en el festival de cine",
