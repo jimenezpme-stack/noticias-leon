@@ -1,26 +1,66 @@
 [
   {
-    "titulo": "Queda desierta la obra de renovación de la calle Camino de Santiago de Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/queda-desierta-obra-renovacion-calle-camino-santiago-ponferrada_204192_102.html",
-    "desc": "El contrato, con un presupuesto de 130.000 euros, no recibe ninguna oferta para mejorar el alumbrado y el mobiliario en el tramo comprendido entre las avenidas de Valdés y La Libertad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/08/4/calle-camino-de-santiago-ponferrada.jpeg",
-    "pub": 1791374299,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Suárez-Quiñones cuestiona la huelga por la vivienda al considerar que tiene un carácter político",
     "link": "https://www.lanuevacronica.com/el-bierzo/suarez-quinones-cuestiona-huelga-por-vivienda-considerar-tiene-caracter-politico_204194_102.html",
     "desc": "El consejero de Industria sostiene que las huelgas deben responder a reivindicaciones laborales y reclama comparar las viviendas comprometidas y ejecutadas por el Gobierno y la Junta",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/21/90/3/suarez-quinones-sanchez.jpeg",
-    "pub": 1791374290,
+    "pub": 1791375348,
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Trasladan a León a un motorista herido tras chocar con un Corzo en una carretera zamorana",
+    "titulo": "El tejido empresarial leonés y la Junta analizan el potencial industrial de León para atraer inversiones",
+    "link": "https://www.lanuevacronica.com/actualidad/tejido-empresarial-leones-junta-analizan-potencial-industrial-leon-atraer-inversiones_204197_102.html",
+    "desc": "Fele, CEOE y la Junta presentan el primer avance del análisis de los polígonos y espacios industriales de la provincia, que incluirá un mapa interactivo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/16/9/fele-junta-potencial-industrial-leon.jpeg",
+    "pub": 1791375140,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Quicala: \"La mejor noticia es ganar sin haber estado todos al 100%\"",
+    "link": "https://www.lanuevacronica.com/deportes/quicala-mejor-noticia-es-ganar-sin-haber-estado-todos-100_204196_102.html",
+    "desc": "El extremo de la Deportiva afirma encontrarse \"para competir\", que le gusta \"exigirme, espero ver mi mejor versión\", además explica que la gran intensidad de los entrenamientos les ayudan para…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/10/4/quicala-bari-durante-el-partido-ante-el-mirandes-en-el-toralin-quinito.jpeg",
+    "pub": 1791374982,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los Giros se unen al Purple Weekend: toda la programación diaria del festival",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/giros-se-unen-purple-weekend-toda-programacion-diaria-festival_204195_102.html",
+    "desc": "Tanto el abono completo como las entradas diarias ya pueden adquirirse a través de la plataforma habilitada",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/14/2/los-integrantes-de-la-banda-alicantina-los-giros-l-n-c.jpeg",
+    "pub": 1791374949,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un acertante del Joker gana 10.000 euros en Cabañas Raras",
+    "link": "https://www.lanuevacronica.com/el-bierzo/acertante-joker-gana-10000-euros-en-cabanas-raras_204182_102.html",
+    "desc": "El resguardo premiado, de segunda categoría, fue validado en el Café Bar del Puerto",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/61/4/joker-cabanas.jpeg",
+    "pub": 1791374892,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Quicala está listo para recibir a su exequipo: “Ya estoy al cien por cien”",
+    "link": "https://www.elbierzodigital.com/quicala-esta-listo-para-recibir-a-su-exequipo-ya-estoy-al-cien-por-cien/",
+    "desc": "La Ponferradina regresó este miércoles a los entrenamientos después de los dos días de descanso concedidos por Nafti tras la victoria ante el Mirandés. Tras la intensa sesión de trabajo llevada a…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-mirandes-26-27-el-bierzo-digital-62.jpeg",
+    "pub": 1791374774,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Queda desierta la obra de renovación de la calle Camino de Santiago de Ponferrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/queda-desierta-obra-renovacion-calle-camino-santiago-ponferrada_204192_102.html",
+    "desc": "El contrato, con un presupuesto de 130.000 euros, no recibe ninguna oferta para mejorar el alumbrado y el mobiliario en el tramo comprendido entre las avenidas de Valdés y La Libertad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/08/4/calle-camino-de-santiago-ponferrada.jpeg",
+    "pub": 1791374746,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Trasladan a León a un motorista herido tras chocar con un corzo en una carretera zamorana",
     "link": "https://www.lanuevacronica.com/sucesos/trasladan-leon-motorista-herido-chocar-con-corzo-en-carretera-zamorana_204193_102.html",
     "desc": "Los hechos ocurrieron en la localidad de Burganes del Valverde",
     "img": "https://www.lanuevacronica.com/uploads/s1/29/05/62/4/helicoptero-sacyl-14102022-4-1000x563.jpeg",
-    "pub": 1791374194,
+    "pub": 1791374509,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -136,14 +176,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Cortes de tráfico en el acceso a Toral de Merayo este jueves y viernes",
-    "link": "https://www.lanuevacronica.com/el-bierzo/cortes-trafico-en-acceso-toral-merayo-este-jueves-viernes_204185_102.html",
-    "desc": "Las restricciones se producirán por obras de mejora del firme entre las 8:00 y las 18:00 horas y también afectarán al servicio de transporte municipal",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/69/4/glorieta-toral-4-1000x563.jpeg",
-    "pub": 1791367497,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Toral de Merayo se prepara para dos días de cortes de tráfico por obras",
     "link": "https://www.elbierzodigital.com/toral-de-merayo-se-prepara-para-dos-dias-de-cortes-de-trafico-por-obras/",
     "desc": "Los accesos viales a Toral de Merayo sufrirán cortes de tráfico este jueves 8 y viernes 9 de octubre, aproximadamente entre las 8.00 y las 18.00 horas, debido a los trabajos de mejora del firme. La…",
@@ -160,36 +192,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Un acertante del Joker gana 10.000 euros en Cabañas Raras",
-    "link": "https://www.lanuevacronica.com/el-bierzo/acertante-joker-gana-10000-euros-en-cabanas-raras_204182_102.html",
-    "desc": "El resguardo premiado, de segunda categoría, fue validado en el Café Bar del Puerto",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/61/4/joker-cabanas.jpeg",
-    "pub": 1791366480,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Rescatan a una senderista con un esguince de tobillo en la Majada las Merinas, en Boca de Huérgano",
-    "link": "https://www.lanuevacronica.com/sucesos/rescatan-senderista-con-esguince-tobillo-en-majada-merinas-en-boca-huergano_204180_102.html",
-    "desc": "Especialistas del Greim de Sabero evacuaron a la mujer, de 56 años, hasta Portilla de la Reina después de que un tropiezo le impidiera continuar la ruta",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/55/6/image.jpeg",
-    "pub": 1791365805,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Bembibre abre los concursos de cartel y literatura del LIV Festival del Botillo",
     "link": "https://www.elbierzodigital.com/bembibre-abre-los-concursos-de-cartel-y-literatura-del-liv-festival-del-botillo/",
     "desc": "Bembibre ya tiene en marcha los concursos vinculados al LIV Festival Internacional de Exaltación del Botillo , que se celebrará el 30 de enero de 2027 . La convocatoria incluye un certamen para…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/bembibre-abre-los-concursos-de-cartel-y-literatura-del-liv-festival-del-botillo-el-bierzo-digital.jpg",
     "pub": 1791365322,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Corta sin miedo que queda gocho",
-    "link": "https://www.lanuevacronica.com/extras/a-la-contra/corta-sin-miedo-queda-gocho_204179_102.html",
-    "desc": "La última de La Nueva Crónica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/53/8/contra.jpeg",
-    "pub": 1791365251,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La tormenta pone a O Barco de Valdeorras contra las cuerdas: el río Mariñán se desborda",
@@ -357,14 +365,6 @@
     "desc": "El Hospital El Bierzo cambió este martes el sonido de sus pasillos por el de la música clásica . El Quinteto Duer o, integrado por músicos de la Orquesta Sinfónica de Castilla y León (OSCyL) ,…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-musica-que-cura-tambien-suena-en-el-bierzo-el-bierzo-digital.jpg",
     "pub": 1791285178,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La ULE pone la inteligencia artificial bajo lupa para transformar su Universidad",
-    "link": "https://www.elbierzodigital.com/la-ule-pone-la-inteligencia-artificial-bajo-lupa-para-transformar-su-universidad/",
-    "desc": "La Universidad de León quiere adelantarse al impacto de la inteligencia artificial y prepara una estrategia institucional para incorporarla de forma transversal a la docencia, la investigación y la…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-ule-pone-la-inteligencia-artificial-bajo-lupa-para-transformar-su-universidad-el-bierzo-digital.jpeg",
-    "pub": 1791284222,
     "fuente": "El Bierzo Digital"
   },
   {
