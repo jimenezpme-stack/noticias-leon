@@ -1,10 +1,50 @@
 [
   {
+    "titulo": "El vaciado de pisos en Madrid agiliza las mudanzas, los cambios de oficina y potencia la sostenibilidad y la economía circular",
+    "link": "https://www.lanuevacronica.com/estilo-vida/vaciado-pisos-en-madrid-agiliza-mudanzas-cambios-oficina-potencia-sostenibilidad-economia-circular_204265_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/04/3/img-0.jpeg",
+    "pub": 1791455996,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las leyendas celtas cobran vida en Narayola para celebrar el Samhain",
+    "link": "https://www.elbierzodigital.com/las-leyendas-celtas-cobran-vida-en-narayola-para-celebrar-el-samhain/",
+    "desc": "La Asociación Millares de Narayola vuelve a dar un paso adelante en su tradicional celebración de Halloween y, tras su descanso el año pasado, vuelve este 2026 con su apuesta más espectacular hasta…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/las-leyendas-celtas-cobran-vida-en-narayola-para-celebrar-el-samhain-el-bierzo-digital-2.jpg",
+    "pub": 1791455830,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Operativo especial de Tráfico por el puente del Pilar con 76.000 desplazamientos en León",
+    "link": "https://www.lanuevacronica.com/actualidad/operativo-especial-trafico-por-puente-pilar-con-57-millones-desplazamientos_204256_102.html",
+    "desc": "Hasta el domingo se mantiene activa una campaña especial de vigilancia y control de distracciones al volante",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/74/5/campana-de-trafico-en-leon-3.jpeg",
+    "pub": 1791455328,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "San Marcos se convierte este sábado en una pista de atletismo",
+    "link": "https://www.lanuevacronica.com/deportes/san-marcos-se-convierte-este-sabado-en-pista-atletismo_204263_102.html",
+    "desc": "La VI edición de 'Atletismo en la calle' reunirá en León durante tres horas desde las categorías para menores de 8 años hasta las de élite con atletas de primer nivel",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/02/8/atletismoenlacatedral-4-4-1000x563.jpeg",
+    "pub": 1791455235,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Bierzo refuerza la lucha contra los incendios con 420.000 euros y una nueva cuadrilla forestal",
+    "link": "https://www.elbierzodigital.com/el-bierzo-refuerza-la-lucha-contra-los-incendios-con-420-000-euros-y-una-nueva-cuadrilla-forestal/",
+    "desc": "La Junta de Castilla y León destinará 419.936 euros a reforzar la prevención y extinción de incendios forestales en cuatro municipios del Bierzo y su entorno. El Consejo de Gobierno ha autorizado un…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/04/trabajos-de-desbroce-en-el-medio-rural-de-ponferrada-refuerzan-la-prevencion-de-incendios-el-bierzo-digital.jpeg",
+    "pub": 1791455019,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Muere un hombre tras ser arrollado por un tren en León",
     "link": "https://www.lanuevacronica.com/sucesos/muere-hombre-ser-arrollado-por-tren-en-leon_204262_102.html",
     "desc": "Un hombre ha perdido la vida tras haber sido arrollado por un tren en la entrada a la estación de la localidad leonesa de El Burgo Ranero",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/33/01/9/estacion-tren-el-burgo-ranero-leon.png",
-    "pub": 1791454793,
+    "pub": 1791454821,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -61,14 +101,6 @@
     "desc": "El Ayuntamiento organiza un curso de primeros auxilios pediátricos en el que los participantes recibieron formación sobre reanimación cardiopulmonar, atragantamientos y otras situaciones de urgencia",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/32/86/7/mas-de-40-familias-aprenden-en-valencia-de-don-juan-a-actuar-ante-emergencias-infantiles.jpeg",
     "pub": 1791453235,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Operativo especial de Tráfico por el puente del Pilar con 5,7 millones de desplazamientos",
-    "link": "https://www.lanuevacronica.com/actualidad/operativo-especial-trafico-por-puente-pilar-con-57-millones-desplazamientos_204256_102.html",
-    "desc": "Hasta el domingo se mantiene activa una campaña especial de vigilancia y control de distracciones al volante",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/74/5/campana-de-trafico-en-leon-3.jpeg",
-    "pub": 1791453107,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -152,14 +184,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La calle Bolo de Villanueva de Valdueza estrena mejoras",
-    "link": "https://www.lanuevacronica.com/el-bierzo/calle-bolo-villanueva-valdueza-estrena-mejoras_204250_102.html",
-    "desc": "La actuación ha permitido mejorar el firme y reparar elementos del puente, las arquetas y los servicios generales de la vía del pueblo ponferradino",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/82/1/villanueva.jpeg",
-    "pub": 1791449956,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "CCOO reclama al PP y Vox que dejen de cuestionar el voto por correo",
     "link": "https://www.elbierzodigital.com/ccoo-reclama-al-pp-y-vox-que-dejen-de-cuestionar-el-voto-por-correo/",
     "desc": "CCOO reclamó al PP y a Vox que dejen de poner en duda la seguridad del voto por correo y rechazó las declaraciones en las que se habría instado a la ciudadanía a no utilizar este servicio. El…",
@@ -197,14 +221,6 @@
     "desc": "El Consejo General del partido leonesista se reunió este miércoles para fijar su postura, pero finalmente optó por esperar y analizar los distintos escenarios",
     "img": "https://www.lanuevacronica.com/uploads/s1/31/75/77/6/alicia-gallego-es-la-candidata-de-upl-en-las-elecciones-autonomicas-de-2026.jpeg",
     "pub": 1791446827,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ya lo dice el Informe Pisa",
-    "link": "https://www.lanuevacronica.com/extras/a-la-contra/ya-dice-informe-pisa_204244_102.html",
-    "desc": "La última de La Nueva Crónica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/74/4/contra.jpeg",
-    "pub": 1791445920,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -349,22 +365,6 @@
     "desc": "El ciclista berciano Enol Torre , campeón de Europa júnior de descenso Down Hill, ha recibido el reconocimiento de la Diputación de León por los resultados cosechados durante una temporada en la que…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-berciano-enol-torre-campeon-de-europa-junior-de-descenso-recibe-el-reconocimiento-de-la-diputacion-el-bierzo-digital.jpeg",
     "pub": 1791370237,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La DGT intensifica en León la vigilancia de las distracciones con 189 patrullas",
-    "link": "https://www.elbierzodigital.com/la-dgt-intensifica-en-leon-la-vigilancia-de-las-distracciones-con-189-patrullas/",
-    "desc": "La Dirección General de Tráfico (DGT) ha intensificado esta semana la vigilancia de las distracciones al volante en la provincia de León , con una campaña especial que se prolongará hasta el próximo…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-dgt-intensifica-en-leon-la-vigilancia-de-las-distracciones-con-189-patrullas-el-bierzo-digital.jpeg",
-    "pub": 1791368994,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Los sindicatos médicos aplazan la huelga indefinida del 28 de octubre por el adelanto electoral",
-    "link": "https://www.elbierzodigital.com/los-sindicatos-medicos-aplazan-la-huelga-indefinida-del-28-de-octubre-por-el-adelanto-electoral/",
-    "desc": "El Comité de Huelga integrado por la Confederación Española de Sindicatos Médicos (CESM), el Sindicato Médico Andaluz (SMA) y el Sindicato Médico de Euskadi (SME) ha decidido aplazar los paros…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/los-sindicatos-medicos-aplazan-la-huelga-indefinida-del-28-de-octubre-por-el-adelanto-electoral-el-bierzo-digital.jpeg",
-    "pub": 1791367748,
     "fuente": "El Bierzo Digital"
   },
   {
