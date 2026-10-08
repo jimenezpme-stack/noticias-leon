@@ -4,8 +4,24 @@
     "link": "https://www.lanuevacronica.com/actualidad/mas-500-puestos-vuelta-mantequera-leonesa-en-feriona-villablino_204281_102.html",
     "desc": "Una cita reunirá el lunes tradición ganadera, comercio, gastronomía y artesanía, con la raza bovina autóctona como protagonista",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/33/42/9/la-muestra-ganadera-sera-uno-de-los-ejes-de-la-jornada-en-villablino-e-nino.jpeg",
-    "pub": 1791471900,
+    "pub": 1791474230,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El trono del Nazareno de León no estará completamente restaurado hasta 2028",
+    "link": "https://www.lanuevacronica.com/semana-santa/trono-nazareno-leon-no-estara-completamente-restaurado-hasta-2028_204288_102.html",
+    "desc": "La Cofradía del Dulce Nombre de Jesús Nazareno amplía a tres las fases el proyecto de dorado porque los trabajos están siendo más complejos de lo previsto",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/49/29/6/procesion-pasion-leon.jpeg",
+    "pub": 1791474171,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Muere un hombre tras ser arrollado por un tren en el pueblo leonés El Burgo Ranero",
+    "link": "https://www.20minutos.es/castilla-y-leon/leon/muere-un-hombre-tras-ser-arrollado-por-un-tren-pueblo-leones-burgo-ranero_7046684_0.html",
+    "desc": "Hasta el lugar del accidente se han movilizado personal médico y un helicóptero medicalizado.",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/08/6ac762a84da9a2-47852186.jpeg",
+    "pub": 1791471928,
+    "fuente": "20minutos"
   },
   {
     "titulo": "Ponferrada desactiva la alerta por riesgo meteorológico",
@@ -94,14 +110,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/12/huelga-de-autoescuelas-el-bierzo-digital-13.jpeg",
     "pub": 1791459864,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Brais se pierde el regreso a Ponferrada",
-    "link": "https://www.lanuevacronica.com/deportes/brais-se-pierde-regreso-ponferrada_204274_102.html",
-    "desc": "El mediapunta, que militó temporada y media en la Deportiva y había sido titular en todos los partidos esta campaña, será baja este domingo en el Avilés por un esguince de rodilla",
-    "img": "https://www.lanuevacronica.com/uploads/s1/26/86/71/4/img-8658.jpeg",
-    "pub": 1791459768,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Tres exposiciones en uno: el Albéitar muestra el arte que construyen las asociaciones",
@@ -557,14 +565,6 @@
     "desc": "El sospechoso fue localizado oculto en una caseta con cuatro mecheros y el juez ha decretado su entrada en la cárcel.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/06/24/coches-de-policia-nacional-y-policia-local-en-ponferrada-leon-en-una-imagen-de-archivo.jpeg",
     "pub": 1785324578,
-    "fuente": "20minutos"
-  },
-  {
-    "titulo": "Hallan restos que confirman un asentamiento prerromano en el Castro de los Judíos de León",
-    "link": "https://www.20minutos.es/castilla-y-leon/leon/hallan-restos-que-confirman-un-asentamiento-prerromano-castro-los-judios-leon_7018105_0.html",
-    "desc": "Las nuevas dataciones por carbono 14 confirman la presencia humana en el yacimiento durante la Edad del Hierro.",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/23/6a61ed281b6755-00942095.jpeg",
-    "pub": 1784808536,
     "fuente": "20minutos"
   }
 ]
