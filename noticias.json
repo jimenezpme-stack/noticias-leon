@@ -1,10 +1,26 @@
 [
   {
-    "titulo": "Aránzazu Santiago y Raquel Dávila recibirán el Premio Mujer Rural 2026",
-    "link": "https://www.lanuevacronica.com/actualidad/aranzazu-santiago-raquel-davila-recibiran-premio-mujer-rural-2026_204270_102.html",
-    "desc": "Las dos galardonadas recibirán sus reconocimientos de la Diputación de León en un acto institucional que se celebrará en Cacabelos el miércoles 15 de octubre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/18/7/premio-mujer-rural-2026-leon.jpeg",
-    "pub": 1791458078,
+    "titulo": "Diez pruebas, no doce: las autoescuelas cuestionan las cifras oficiales sobre Ponferrada",
+    "link": "https://www.elbierzodigital.com/diez-pruebas-no-doce-las-autoescuelas-cuestionan-las-cifras-oficiales-sobre-ponferrada/",
+    "desc": "La Asociación Provincial de Autoescuelas de León ha rebatido las cifras del Gobierno sobre los exámenes de conducir y pone el foco en Ponferrada , donde sostiene que la capacidad real del servicio…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/12/huelga-de-autoescuelas-el-bierzo-digital-13.jpeg",
+    "pub": 1791459864,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Tres exposiciones en uno: el Albéitar muestra el arte que construyen las asociaciones",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/tres-exposiciones-en-uno-albeitar-muestra-arte-construyen-asociaciones_204268_102.html",
+    "desc": "El Ateneo Cultural de la ULE inauguró este jueves su temporada expositiva con las propuestas de Diart, León Ciudad Púrpura, León Jam y Fiestizaje",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/22/6/frame-08exposicion.jpeg",
+    "pub": 1791459259,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Mantienen los seis años y medio de cárcel a un condenado por tráfico de drogas en Ponferrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/mantienen-seis-anos-medio-carcel-condenado-por-trafico-drogas-en-ponferrada_204271_102.html",
+    "desc": "El TSJ rechaza aplicar el subtipo atenuado al considerar que la variedad y cantidad de sustancias, junto con el material intervenido, evidencian una actividad de venta organizada",
+    "img": "https://www.lanuevacronica.com/uploads/s1/13/71/22/tsjcyl-1.jpeg",
+    "pub": 1791459236,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -12,7 +28,15 @@
     "link": "https://www.lanuevacronica.com/el-bierzo/xx-marcha-solidaria-ponferrada-recaudara-fondos-construir-dos-aulas-en-turkana_204269_102.html",
     "desc": "La cita recorrerá 12 kilómetros por el Pajariel el 18 de octubre y tendrá como novedad la salida desde el Castillo; la recaudación se destinará a un proyecto de Manos Unidas",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/33/26/1/marcha-presentacion.jpeg",
-    "pub": 1791458067,
+    "pub": 1791459228,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El PP señala al alcalde de León por incumplir sus promesas electorales sobre vivienda",
+    "link": "https://www.lanuevacronica.com/actualidad/pp-senala-alcalde-leon-por-incumplir-sus-promesas-electorales-sobre-vivienda_204273_102.html",
+    "desc": "David Fernández recupera las medidas no ejecutadas y que sí recogía el programa de José Antonio Diez, como la bolsa municipal de viviendas vacías o un comité de emergencias",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/27/9/david-fernandez-pp-leon.jpeg",
+    "pub": 1791459200,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -20,7 +44,47 @@
     "link": "https://www.lanuevacronica.com/el-bierzo/coche-pierde-control-se-estampa-contra-floristeria-bardon-ponferrada_204266_102.html",
     "desc": "El suceso ocurrió este jueves a mediodía y ha quedado grabado por las cámaras de seguridad del establecimiento",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/33/08/0/whatsapp-image-2026-10-08-at-12-28-42-1.jpeg",
-    "pub": 1791458063,
+    "pub": 1791458901,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Guzmán: \"Hay que enganchar a la afición a creer en el proyecto\"",
+    "link": "https://www.lanuevacronica.com/deportes/guzman-hay-enganchar-aficion-creer-en-proyecto_204264_102.html",
+    "desc": "El lateral de la Cultural cree que \"tenemos un equipazo individualmente y hemos demostrado que podemos ser rocosos\" y asegura que \"confiamos en Jandro, en su idea y su modelo\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/24/19/0/guzmanunionistas.jpeg",
+    "pub": 1791458782,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Muere un hombre tras ser arrollado por un tren en la provincia de León",
+    "link": "https://www.lanuevacronica.com/sucesos/muere-hombre-ser-arrollado-por-tren-en-leon_204262_102.html",
+    "desc": "Un hombre ha perdido la vida tras haber sido arrollado por un tren en la entrada a la estación de la localidad leonesa de El Burgo Ranero",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/01/9/estacion-tren-el-burgo-ranero-leon.png",
+    "pub": 1791458705,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Detenido un joven por cuatro delitos de daños a vehículos aparcados en Villaquilambre",
+    "link": "https://www.lanuevacronica.com/sucesos/detenido-joven-por-cuatro-delitos-danos-vehiculos-aparcados-en-villaquilambre_204267_102.html",
+    "desc": "El análisis de las imágenes obtenidas por las cámaras de seguridad han sido clave para identificar al autor de varios hechos denunciados en Navatejera y Villarrodrigo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/14/7/danos-vehiculos-villaquilambre-detenido-1.jpeg",
+    "pub": 1791458439,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Pillan a un patinete que circulaba a 88 kilómetros por hora en el alfoz de León",
+    "link": "https://www.lanuevacronica.com/sucesos/pillan-patinete-circulaba-88-kilometros-por-hora-en-alfoz-leon_204272_102.html",
+    "desc": "La nueva normativa de VMP se estrena en el municipio de San Andrés del Rabanedo con 35 denuncias y 13 vehículos retirados",
+    "img": "https://www.lanuevacronica.com/uploads/s1/29/26/44/0/pl-sar-patinete.jpeg",
+    "pub": 1791458412,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Aránzazu Santiago y Raquel Dávila recibirán el Premio Mujer Rural 2026",
+    "link": "https://www.lanuevacronica.com/actualidad/aranzazu-santiago-raquel-davila-recibiran-premio-mujer-rural-2026_204270_102.html",
+    "desc": "Las dos galardonadas recibirán sus reconocimientos de la Diputación de León en un acto institucional que se celebrará en Cacabelos el miércoles 15 de octubre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/18/7/premio-mujer-rural-2026-leon.jpeg",
+    "pub": 1791458078,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -30,14 +94,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-diputacion-reconoce-a-aranzazu-santiago-y-raquel-davila-con-sus-galardones-a-la-mujer-rural-el-bierzo-digital.jpg",
     "pub": 1791457439,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Detenido un joven por cuatro delitos de daños a vehículos aparcados en Villaquilambre",
-    "link": "https://www.lanuevacronica.com/sucesos/detenido-joven-por-cuatro-delitos-danos-vehiculos-aparcados-en-villaquilambre_204267_102.html",
-    "desc": "El análisis de las imágenes obtenidas por las cámaras de seguridad han sido clave para identificar al autor de varios hechos denunciados en Navatejera y Villarrodrigo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/14/7/danos-vehiculos-villaquilambre-detenido-1.jpeg",
-    "pub": 1791456518,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Junta destina 93,6 millones a contratar 30 medios aéreos contra los incendios",
@@ -80,14 +136,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Muere un hombre tras ser arrollado por un tren en León",
-    "link": "https://www.lanuevacronica.com/sucesos/muere-hombre-ser-arrollado-por-tren-en-leon_204262_102.html",
-    "desc": "Un hombre ha perdido la vida tras haber sido arrollado por un tren en la entrada a la estación de la localidad leonesa de El Burgo Ranero",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/01/9/estacion-tren-el-burgo-ranero-leon.png",
-    "pub": 1791454821,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "650 entradas para la afición de la Cultural ante el Logroñés",
     "link": "https://www.lanuevacronica.com/deportes/650-entradas-aficion-cultural-logrones_204259_102.html",
     "desc": "El horario, pues se disputa el domingo 18 de octubre a las 20:30, complica que se agoten / La visita a Ourense, donde hace dos años hubo un millar de desplazados, será el domingo 1 de noviembre a…",
@@ -120,28 +168,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Más de 40 familias aprenden en Valencia de Don Juan a actuar ante emergencias infantiles",
-    "link": "https://www.lanuevacronica.com/actualidad/mas-40-familias-aprenden-en-valencia-don-juan-actuar-emergencias-infantiles_204252_102.html",
-    "desc": "El Ayuntamiento organiza un curso de primeros auxilios pediátricos en el que los participantes recibieron formación sobre reanimación cardiopulmonar, atragantamientos y otras situaciones de urgencia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/86/7/mas-de-40-familias-aprenden-en-valencia-de-don-juan-a-actuar-ante-emergencias-infantiles.jpeg",
-    "pub": 1791453235,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Térmica Cultural se llena de rock, jazz y swing con música, cine y actividades para todos",
     "link": "https://www.elbierzodigital.com/la-termica-cultural-se-llena-de-rock-jazz-y-swing-con-musica-cine-y-actividades-para-todos/",
     "desc": "La Fundación Ciudad de la Energía (Ciuden) y Ritmo y Blues Eventos han presentado la segunda edición de los ciclos ‘Cine + Rock &amp; Roll’ y ‘Del Jazz al Swing’ , que se celebrarán durante los…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-termica-cultural-se-llena-de-rock-jazz-y-swing-con-musica-cine-y-actividades-para-todos-el-bierzo-digital.jpg",
     "pub": 1791453043,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PSOE alerta de que el retraso en las obras de Montes de Valdueza pone en riesgo su ejecución",
-    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-alerta-retraso-en-obras-montes-valdueza-pone-en-riesgo-su-ejecucion_204255_102.html",
-    "desc": "Los socialistas critican que los trabajos de urbanización de las calles Real, El Teso y Mateo Garza, presupuestados en unos 230.000 euros, comenzaron ocho meses después de lo anunciado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/95/1/ivan-alonso-con-pedaneo-y-tecnicos-4-1000x563.jpeg",
-    "pub": 1791452804,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El PSOE alerta del riesgo de paralización de las obras en Montes de Valdueza",
@@ -166,14 +198,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ugt-alerta-solo-dos-convenios-de-castilla-y-leon-incluyen-medidas-frente-a-las-adicciones-y-los-riesgos-psicosociales-el-bierzo-digital.jpeg",
     "pub": 1791452031,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La leonesa Nerea Fernández busca desde este viernes ser 'La Voz'",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/leonesa-nerea-fernandez-viernes-ser-la-voz-antena-3_204251_102.html",
-    "desc": "La joven participará a partir de las 22:00 horas en las audiciones a ciegas del programa musical de Antena 3 y reconoce estar viviendo una experiencia \"grande y bonita\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/83/4/nerea-leonesa-la-voz.jpeg",
-    "pub": 1791451929,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Ponferrada revive la historia medieval y abre sus museos durante el Puente del Pilar",
@@ -216,28 +240,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La primera fase para eliminar aguas limpias del saneamiento del Bierzo Bajo sale a licitación por 6,4 millones",
-    "link": "https://www.lanuevacronica.com/el-bierzo/primera-fase-eliminar-aguas-limpias-saneamiento-bierzo-bajo-sale-licitacion-por-64-millones_204248_102.html",
-    "desc": "La actuación de la Confederación Hidrográfica del Miño-Sil afectará a Cabañas Raras, Cacabelos, Camponaraya, Carracedelo y Cubillos del Sil",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/77/6/aguas-4-1000x563.jpeg",
-    "pub": 1791448468,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La primera fase para eliminar las aguas limpias del saneamiento del Bierzo Bajo sale a licitación por 6,4 millones",
     "link": "https://www.elbierzodigital.com/la-primera-fase-para-eliminar-las-aguas-limpias-del-saneamiento-del-bierzo-bajo-sale-a-licitacion-por-64-millones/",
     "desc": "El Boletín Oficial del Estado (BOE) ha publicado este jueves el anuncio de licitación de la primera fase del proyecto para eliminar la entrada de aguas limpias en el saneamiento del Bierzo Bajo ,…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/07/el-proyecto-para-eliminar-aguas-limpias-del-saneamiento-del-bierzo-bajo-inicia-su-informacion-publica-el-bierzo-digital-scaled.jpg",
     "pub": 1791447973,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "UPL aplaza la decisión de concurrir o no a las elecciones generales",
-    "link": "https://www.lanuevacronica.com/actualidad/upl-aplaza-decision-concurrir-no-elecciones-generales_204245_102.html",
-    "desc": "El Consejo General del partido leonesista se reunió este miércoles para fijar su postura, pero finalmente optó por esperar y analizar los distintos escenarios",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/75/77/6/alicia-gallego-es-la-candidata-de-upl-en-las-elecciones-autonomicas-de-2026.jpeg",
-    "pub": 1791446827,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El Festival de Otoño en Las Médulas llega a su ecuador con teatro, música y poesía",
@@ -349,14 +357,6 @@
     "desc": "La Ponferradina regresó este miércoles a los entrenamientos después de los dos días de descanso concedidos por Nafti tras la victoria ante el Mirandés. Tras la intensa sesión de trabajo llevada a…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-mirandes-26-27-el-bierzo-digital-62.jpeg",
     "pub": 1791374774,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "De Sarria a Portomarín, un nuevo paso del Bierzo hacia Santiago",
-    "link": "https://www.elbierzodigital.com/de-sarria-a-portomarin-un-nuevo-paso-del-bierzo-hacia-santiago/",
-    "desc": "El Camino de Santiago vuelve a llamar a la puerta de los bercianos . El próximo domingo 18 de octubre , las asociaciones de Amigos del Camino de Santiago de Astorga y El Bierzo afrontarán una de las…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/06/Compostilla-1-el-bierzo-digital-scaled.jpg",
-    "pub": 1791373826,
     "fuente": "El Bierzo Digital"
   },
   {
