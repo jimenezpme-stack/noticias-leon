@@ -1,10 +1,122 @@
 [
   {
-    "titulo": "Muere Maricarmen Abascal, convertida en símbolo de la lucha por la vivienda tras su desahucio",
-    "link": "https://www.lanuevacronica.com/actualidad/muere-maricarmen-abascal-convertida-en-simbolo-lucha-por-vivienda-su-desahucio_204233_102.html",
-    "desc": "La mujer estaba ingresada en el hospital Gregorio Marañón desde el pasado día 23 de septiembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/67/2/maricarmen-celebra-el-aplazamiento-del-desahucio-a-29-de-octubre-de-2025-en-madrid.jpeg",
-    "pub": 1791413277,
+    "titulo": "«Eh, yah-yah, eh, yah-yah, uh, ah, eh, yah-yah»",
+    "link": "https://www.lanuevacronica.com/opinion/eh-yah-yah-eh-yah-yah-uh-ah-eh-yah-yah_204208_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791425400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un vermut que ha decidido tomarse la tradición con rebeldía muy berciana",
+    "link": "https://www.lanuevacronica.com/especiales/vermut-ha-decidido-tomarse-tradicion-con-rebeldia-muy-berciana_204203_102.html",
+    "desc": "Uva Doña Blanca, doce botánicos e identidad propia para reinterpretar una bebida de siempre: Vermouth Forzudo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/27/8/dos-referencias-una-misma-filosofia-y-varios-reconocimientos-internacionales.jpeg",
+    "pub": 1791425100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los Productos de León vuelven a su gran cita del Pilar",
+    "link": "https://www.lanuevacronica.com/especiales/productos-leon-vuelven-su-gran-cita-pilar_204202_102.html",
+    "desc": "El Palacio de Congresos se prepara para cuatro días de gastronomía, producto local y cita con los productores",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/26/3/la-xxxii-edicion-recupera-el-calendario-del-pilar-alcanza-los-108-expositores-e-incorpora-nuevos-concursos.jpeg",
+    "pub": 1791425100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El ponferradino Will Anthony se mete en el Top 10 mundial del culturismo adaptado en el Mister Olympia",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ponferradino-will-anthony-se-mete-en-top-10-mundial-culturismo-adaptado-en-mister-olympia_203898_102.html",
+    "desc": "El culturista, que llegó a la máxima competición tras pasar de la tetraplejia a la élite deportiva, regresa de Estados Unidos escalando puestos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/21/69/3/anthony.jpeg",
+    "pub": 1791425100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204242_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/69/2/08-10-2026-canton.jpeg",
+    "pub": 1791424800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León tiene otras prioridades",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/leon-tiene-otras-prioridades_204241_102.html",
+    "desc": "El aumento de la oferta de alquiler demuestra que la provincia no comparte el problema de Madrid y necesita que la campaña electoral atienda sus propias urgencias en lugar de debatir sobre problemas…",
+    "img": null,
+    "pub": 1791424800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "¿Cuánto dices que vale eso?",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/cuanto-dices-vale-eso_204240_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791424800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las administraciones asumirán los impagos de inquilinos vulnerables para evitar los desahucios",
+    "link": "https://www.lanuevacronica.com/actualidad/administraciones-asumiran-impagos-inquilinos-vulnerables-impedir-haya-desahucios_204211_102.html",
+    "desc": "La Cámara de la Propiedad Urbana de León afirma que las medidas del Gobierno \"no van a servir para resolver el problema de oferta de inmuebles\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/28/33/48/2/compraventa-de-vivienda.jpeg",
+    "pub": 1791424800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Aller confía en que el 'Amazon leonés' sea licitado este mes: \"Lo creo firmemente\"",
+    "link": "https://www.lanuevacronica.com/actualidad/aller-confia-en-amazon-leones-sea-licitado-este-mes-creo-firmemente_204231_102.html",
+    "desc": "El diputado atribuye el retraso en su puesta en marcha a las \"dos velocidades\" existentes \"dentro de las instituciones\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/97/6/el-diputado-roberto-aller-llanos-en-el-espacio-de-cope-leon-entre-nosotras-l-n-c.jpeg",
+    "pub": 1791424800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cine y mujeres rurales en León: siete títulos para una veintena de localidades",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/cine-mujeres-rurales-en-leon-siete-titulos-veintena-localidades_204230_102.html",
+    "desc": "La novena edición de la iniciativa impulsada por el Ministerio de Agricultura, Pesca y Alimentación arrancará el 15 de octubre y se prolongará durante un mes",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/95/3/un-fotograma-de-la-buena-letra-una-de-las-peliculas-que-podran-verse-en-leon.jpeg",
+    "pub": 1791424800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Mda lleva el nombre de Ponferrada a las Gallery Sessions",
+    "link": "https://www.lanuevacronica.com/el-bierzo/mda-lleva-nombre-ponferrada-gallery-sessions_204224_102.html",
+    "desc": "El artista criado en El Bierzo protagoniza una de las famosas sesiones con 'Amigos', una canción que presenta en exclusiva en este formato por el que han pasado J Balvin, Duki o Peso Pluma",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/73/4/gallery-mda.jpeg",
+    "pub": 1791424800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León se desmarca de la tendencia general y gana oferta de viviendas en alquiler",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-se-desmarca-tendencia-general-gana-oferta-viviendas-en-alquiler_204210_102.html",
+    "desc": "La Cámara de la Propiedad Urbana lo atribuye a que el mercado está menos tensionado por la falta de empleo de calidad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/37/3/radiografia-de-la-oferta-de-alquiler-en-leon.png",
+    "pub": 1791424800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La nueva aplicación de IA que propone \"el plan perfecto\" para cada día en León",
+    "link": "https://www.lanuevacronica.com/actualidad/nueva-aplicacion-ia-propone-plan-perfecto-cada-dia-en-leon_204213_102.html",
+    "desc": "Cazurronics, desarrollada por un joven de Boñar, ofrece al usuario propuestas de ocio en la provincia en base a sus gustos, presupuesto y disponibilidad horaria",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/43/7/planesleon.jpeg",
+    "pub": 1791424800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "IGP Alubia La Bañeza-León: Una campaña estable para seguir poniendo en valor un producto de calidad",
+    "link": "https://www.lanuevacronica.com/especiales/igp-alubia-baneza-leon-campana-estable-seguir-poniendo-en-valor-producto-calidad_204181_102.html",
+    "desc": "El Consejo Regulador espera unos rendimientos similares a los del pasado año en las cerca de 310 hectáreas cultivadas y estará presente en la Feria de Productos y hará una degustación el viernes 9…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/57/6/igp-alubia-la-baneza-leon-una-campana-estable-para-seguir-poniendo-en-valor-un-producto-de-calidad.jpeg",
+    "pub": 1791424800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La DO León se exhibirá en la feria de Productos de León en uno de sus mejores momentos",
+    "link": "https://www.lanuevacronica.com/especiales/do-leon-se-exhibira-en-feria-productos-leon-en-sus-mejores-momentos_204155_102.html",
+    "desc": "Los vinos amparados por la denominación estarán presentes del 9 al 12 de octubre en la muestra tras conseguir nuevamente una añada 2025 \"excelente\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/30/79/60/3/botellas-y-copas.jpeg",
+    "pub": 1791424800,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -16,86 +128,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El cementerio de León vuelve a escena con sus rutas culturales",
-    "link": "https://www.lanuevacronica.com/actualidad/cementerio-leon-vuelve-escena-con-sus-rutas-culturales_204235_102.html",
-    "desc": "Ayuntamiento y Serfunle iniciaron este miércoles un año más otra edición de estas visitas que devuelven a la memoria colectiva a diferentes personajes",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/44/0/frame-07cementerio.jpeg",
-    "pub": 1791400351,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La UME cumple 21 años honrando a su patrona",
-    "link": "https://www.lanuevacronica.com/actualidad/ume-cumple-21-anos-honrando-su-patrona_204232_102.html",
-    "desc": ". El jefe del Estado Mayor de la UME, coronel Alberto Salas Méndez fue el encargado de presidir la ceremonia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/22/3/xxi-aniversario-de-la-unidad-militar-de-emergencias-ume-en-imagenes-11.jpeg",
-    "pub": 1791399840,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El clásico mesón de León que busca nuevo propietario",
-    "link": "https://www.lanuevacronica.com/actualidad/clasico-meson-leon-busca-nuevo-propietario_204234_102.html",
-    "desc": "Los responsables de Los Amigos, abierto desde 1983 en la calle Pendón de Baeza, traspasan por jubilación un negocio que forma parte de la memoria sentimental de varias generaciones de leoneses",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/02/3/los-responsables-de-los-amigos-abierto-desde-1983-en-la-calle-pendon-de-baeza-traspasan-el-negocio-por-jubilacion.jpeg",
-    "pub": 1791399179,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Las firmas leonesas tomarán la Plaza Mayor con su 'Moda en la calle'",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/firmas-leonesas-tomaran-plaza-mayor-con-su-moda-en-calle_204229_102.html",
-    "desc": "El enclave capitalino acogerá este fin de semana un desfile de León Artymoda y la Asociación de Diseñadores y Artesanos Textiles de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/92/6/imagen-de-archivo-de-un-desfile-de-moda-celebrado-ante-el-museo-casa-botines-de-la-capital-leonesa-saul-aren.jpeg",
-    "pub": 1791395724,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Marea Palestina de León vuelve a las calles (y al cine)",
-    "link": "https://www.lanuevacronica.com/actualidad/marea-palestina-leon-vuelve-calles-y-cine_204227_102.html",
-    "desc": "La marcha recorrió Ordoño II y La Pícara antes de finalizar en el Teatro El Albéitar, donde se proyectó el documental 'This is Gaza'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/78/3/un-instante-de-la-manifestacion-en-favor-de-palestina-celebrada-por-el-centro-de-leon.jpeg",
-    "pub": 1791395436,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Últimos días para disfrutar de las muestras temporales del Musac",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/ultimos-dias-disfrutar-muestras-temporales-musac_204228_102.html",
-    "desc": "Tras su clausura, el museo permanecerá cerrado hasta el 6 de noviembre para el montaje de la exposición de Michelangelo Pistoletto",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/90/3/una-imagen-de-la-exposicion-casi-sistemas-coleccion-musac-musac.jpeg",
-    "pub": 1791395390,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cerca de cien músicos sonarán junto al Palacio Episcopal de Astorga",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/cerca-cien-musicos-sonaran-junto-palacio-episcopal-astorga_204225_102.html",
-    "desc": "La Banda Municipal de Música de Astorga y la Unidad de Música de la Academia Básica del Aire y del Espacio ofrecen un recital este sábado en la plaza Eduardo de Castro",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/71/8/un-instante-de-la-presentacion-del-concierto-que-tendra-lugar-este-sabado-en-astorga-l-n-c.jpeg",
-    "pub": 1791393822,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Una Premio Nacional de Poesía recala en San Feliz",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/premio-nacional-poesia-recala-en-san-feliz_204223_102.html",
-    "desc": "Miriam Reyes ofrecerá este jueves un recital y una performance visual y poética en La Casona",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/69/5/la-galardonada-poeta-miriam-reyes-es-la-autora-de-nunca-muere-obra-con-la-que-este-jueves-llega-a-la-casona-de-san-feliz-l-n-c.jpeg",
-    "pub": 1791393517,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un evento de citas a ciegas regresa a León bajo el lema 'amor y lo que surja'",
-    "link": "https://www.lanuevacronica.com/actualidad/evento-citas-ciegas-regresa-leon-bajo-lema-amor-surja_204215_102.html",
-    "desc": "La iniciativa, que surgió del proyecto de un alumno de la Universidad de León, junta a los candidatos según el perfil que han trasladado previamente",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/47/3/las-citas-a-ciegas-regresan-a-leon.jpeg",
-    "pub": 1791392861,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Segundo día de huelga en el sector leonés de las conservas vegetales",
-    "link": "https://www.lanuevacronica.com/actualidad/segundo-dia-huelga-en-sector-leones-conservas-vegetales_204219_102.html",
-    "desc": "La convocatoria afecta a unos mil trabajadores de en torno a 30 empresas de la provincia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/58/3/image.jpeg",
-    "pub": 1791390852,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Mañueco abre la precampaña del 29N: “Por fin el cambio va a llegar a España”",
     "link": "https://www.elbierzodigital.com/manueco-abre-la-precampana-del-29n-por-fin-el-cambio-va-a-llegar-a-espana/",
     "desc": "El presidente del PP de Castilla y León, Alfonso Fernández Mañueco, ha abierto la precampaña de las elecciones generales del 29 de noviembre con un vídeo difundido en redes sociales en el que…",
@@ -104,44 +136,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Shakira hace un paréntesis en sus conciertos de Madrid para enfrentarse a Piqué en los juzgados de Barcelona",
-    "link": "https://www.lanuevacronica.com/gente/shakira-hace-un-parentesis-en-sus-conciertos-de-madrid-para-enfrentarse-a-pique-en-los-juzgados-de-barcelona_204218_102.html",
-    "desc": "El objetivo, según ha explicado su representación, es evitar que los menores tengan que realizar viajes transatlánticos de corta duración y los consiguientes cambios horarios",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/55/6/fotonoticia-20261006191614-1920.jpeg",
-    "pub": 1791389592,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Mario Vaquerizo sorprende con un cambio de look radical",
-    "link": "https://www.lanuevacronica.com/gente/mario-vaquerizo-se-despide-de-su-iconica-melena-morena-y-sorprende-con-un-cambio-de-look-radical_204217_102.html",
-    "desc": "Debuta como protagonista del emblemático musical 'Cabaret' interpretando a uno de sus personajes más populares, el MC, Maestro de Ceremonias",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/52/9/fotonoticia-20261007150930-1920.jpeg",
-    "pub": 1791389285,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Gobierno inicia el proceso para subir el SMI de 2027 antes de las elecciones",
     "link": "https://www.elbierzodigital.com/el-gobierno-inicia-el-proceso-para-subir-el-smi-de-2027-antes-de-las-elecciones/",
     "desc": "El Gobierno pondrá este jueves en marcha el procedimiento para actualizar el salario mínimo interprofesional (SMI) de cara a 2027, con la vista puesta en que la nueva cuantía pueda quedar fijada…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-gobierno-inicia-el-proceso-para-subir-el-smi-de-2027-antes-de-las-elecciones-el-bierzo-digital.jpg",
     "pub": 1791388579,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Otro curso de matemáticas 'nivel experto' en León",
-    "link": "https://www.lanuevacronica.com/actualidad/otro-curso-matematicas-nivel-experto-en-leon_204216_102.html",
-    "desc": "El Instituto Juan del Enzina comenzó este miércoles por la tarde con las clases de Estalmat, el programa que busca potenciar los mayores talentos matemáticos de la provincia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/49/3/estalmatleon.jpeg",
-    "pub": 1791388554,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Feijóo elige a la leonesa Ester Muñoz como portavoz de campaña de cara a las elecciones generales",
-    "link": "https://www.lanuevacronica.com/actualidad/feijoo-elige-leonesa-ester-munoz-como-portavoz-campana-cara-elecciones-generales_204214_102.html",
-    "desc": "El candidato popular elevará los nombramientos a la Junta Directiva de este jueves",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/31/45/3/el-lider-del-pp-alberto-nunez-feijoo-junto-a-ester-munoz.jpeg",
-    "pub": 1791386894,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Donación de sangre junto al IESVE, este viernes",
