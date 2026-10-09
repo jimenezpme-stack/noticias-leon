@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "IU pide a Pedro Sánchez avances en la A-76, el Manzanal y fondos de Transición Justa",
+    "link": "https://www.lanuevacronica.com/el-bierzo/iu-pide-a-pedro-sanchez-avances-en-a-76-manzanal-fondos-transicion-justa_204291_102.html",
+    "desc": "La formación berciana aprovecha la visita electoral del presidente del Gobierno a Ponferrada para exigirle que comprometa plazos y refuerce la vigilancia sobre los fondos europeos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/30/39/03/3/bano-de-masas-de-pedro-sanchez-en-leon-26.jpeg",
+    "pub": 1791532672,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "231 grandes propietarios acumulan más de 6.000 viviendas en la provincia de León",
+    "link": "https://www.lanuevacronica.com/actualidad/231-grandes-propietarios-acumulan-mas-6000-viviendas-en-provincia-leon_204300_102.html",
+    "desc": "Los decretos-ley que ponen especialmente el foco en los grandes tenedores afectarían solo al 1,8% del total de las viviendas leonesas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/36/6/la-manifestacion-por-la-vivienda-celebrada-en-leon-en-imagenes-6.jpeg",
+    "pub": 1791532604,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los buenos, los malos y viceversa",
+    "link": "https://www.lanuevacronica.com/extras/a-la-contra/buenos-malos-viceversa_204317_102.html",
+    "desc": "La última de La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/30/8/contra.jpeg",
+    "pub": 1791532480,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Campus de Ponferrada celebra los 25 años de Fisioterapia con unas jornadas nacionales",
+    "link": "https://www.elbierzodigital.com/el-campus-de-ponferrada-celebra-los-25-anos-de-fisioterapia-con-unas-jornadas-nacionales/",
+    "desc": "El Campus de Ponferrada celebrará los 25 años de los estudios de Fisioterapia con unas jornadas nacionales que reunirán los días 15 y 16 de octubre a más de un centenar de profesionales, estudiantes…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/11/ponferrada-acoge-las-i-jornadas-nacionales-de-campus-perifericos-para-analizar-retos-comunes-en-la-universidad-espanola-el-bierzo-digital.jpg",
+    "pub": 1791532417,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "La viñeta de Cantón",
     "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204316_102.html",
     "desc": "",
@@ -104,34 +136,10 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "231 grandes propietarios acumulan más de 6.000 viviendas en la provincia de León",
-    "link": "https://www.lanuevacronica.com/actualidad/231-grandes-propietarios-acumulan-mas-6000-viviendas-en-provincia-leon_204300_102.html",
-    "desc": "Los decretos-ley que ponen especialmente el foco en los grandes tenedores afectarían solo al 1,8% del total de las viviendas leonesas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/23/36/6/la-manifestacion-por-la-vivienda-celebrada-en-leon-en-imagenes-6.jpeg",
-    "pub": 1791511200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León llevará al desfile del 12 de octubre en Madrid 87 militares del Ejército del Aire",
     "link": "https://www.lanuevacronica.com/actualidad/leon-llevara-desfile-12-octubre-en-madrid-87-militares-ejercito-aire_204298_102.html",
     "desc": "La Academia Básica de La Virgen del Camino será este año la única unidad de la provincia presente en la parada del Día de la Fiesta Nacional",
     "img": "https://www.lanuevacronica.com/uploads/s1/33/92/40/2/graduacion-militar-de-los-nuevos-sargentos-en-la-academia-basica-del-aire-65.jpeg",
-    "pub": 1791511200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "'Sé dónde fuisteis el último verano': El INE publica los viajes al extranjero de los leoneses",
-    "link": "https://www.lanuevacronica.com/actualidad/se-donde-fuisteis-ultimo-verano-ine-publica-viajes-extranjero-leoneses_204285_102.html",
-    "desc": "Europa acapara las escapadas internacionales desde la provincia en agosto",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/34/94/3/pisosturisticos.jpeg",
-    "pub": 1791511200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El agosto del eclipse atrajo a León más de 100.000 visitantes del centro y el sur peninsular",
-    "link": "https://www.lanuevacronica.com/actualidad/agosto-eclipse-atrajo-leon-mas-100000-visitantes-centro-sur-peninsular_204284_102.html",
-    "desc": "Incremento de turistas y pernoctaciones en la provincia durante el mes central del verano",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/47/3/eclipseleon.jpeg",
     "pub": 1791511200,
     "fuente": "La Nueva Crónica"
   },
@@ -357,14 +365,6 @@
     "desc": "Alzheimer Bierzo ha presentado este jueves 8 de octubre en el Palacio de Canedo los resultados de una experiencia pionera que ha llevado las terapias no farmacológicas al corazón de la naturaleza .…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-12.38.08-el-bierzo-digital.jpeg",
     "pub": 1791440910,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Fallece a los 87 años Maricarmen Abascal, la mujer desahuciada de su vivienda en Madrid",
-    "link": "https://www.elbierzodigital.com/fallece-a-los-87-anos-maricarmen-abascal-la-mujer-desahuciada-de-su-vivienda-en-madrid/",
-    "desc": "Maricarmen Abascal, la mujer de 87 años que fue desahuciada el pasado 23 de septiembre de su vivienda en la calle Alcalde Sainz de Baranda de Madrid, ha fallecido este miércoles en el Hospital…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/fallece-a-los-87-anos-maricarmen-abascal-la-mujer-desahuciada-de-su-vivienda-en-madrid-el-bierzo-digital.jpg",
-    "pub": 1791402991,
     "fuente": "El Bierzo Digital"
   },
   {
