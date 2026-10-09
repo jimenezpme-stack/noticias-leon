@@ -1,5 +1,61 @@
 [
   {
+    "titulo": "Dos jóvenes de unos 20 años, heridos por arma blanca en una agresión en León",
+    "link": "https://www.lanuevacronica.com/sucesos/dos-jovenes-20-anos-heridos-por-arma-blanca-en-agresion-en-leon_204322_102.html",
+    "desc": "El suceso ocurrió a las cuatro de la madrugada en el entorno de San Pedro y los afectados fueron trasladados al Hospital por los servicios sanitarios de emergencias",
+    "img": "https://www.lanuevacronica.com/uploads/s1/48/21/0/parking-san-pedro-22617.jpeg",
+    "pub": 1791533997,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Juan Echanove trea su \"Esencia\" al Bergidum para dejar huella",
+    "link": "https://www.lanuevacronica.com/el-bierzo/juan-echanove-trea-su-esencia-bergidum-para-dejar-huella_204323_102.html",
+    "desc": "El actor protagoniza junto a Joaquín Climent el montaje de Ignacio García May, que llegará a Ponferrada los días 16 y 17 de octubre; ambos intérpretes mantendrán además un encuentro con el público…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/32/8/echanove.jpeg",
+    "pub": 1791533951,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada pone el foco en la salud mental: prevención, apoyo y adiós al estigma",
+    "link": "https://www.elbierzodigital.com/ponferrada-pone-el-foco-en-la-salud-mental-prevencion-apoyo-y-adios-al-estigma/",
+    "desc": "El Ayuntamiento de Ponferrada ha comunicado que se sumará a la conmemoración del Día Mundial de la Salud Mental con un mensaje claro: el bienestar psicológico también se construye cada día . Bajo el…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2018/02/WhatsApp-Image-2018-02-07-at-12.55.36.jpeg",
+    "pub": 1791533738,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La DO Bierzo cierra la vendimia con 10,3 millones de kilos de uva, un 3% menos que en 2025",
+    "link": "https://www.lanuevacronica.com/el-bierzo/do-bierzo-cierra-vendimia-con-103-millones-kilos-uva-3-menos-en-2025_204318_102.html",
+    "desc": "La campaña se adelantó al 5 de agosto y la producción queda un 6,69% por debajo de la media de las últimas cinco cosechas, pero con una calidad excelente",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/80/18/0/vendimia-3.jpeg",
+    "pub": 1791533431,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Campus de Ponferrada celebra los 25 años de Fisioterapia con unas jornadas nacionales",
+    "link": "https://www.lanuevacronica.com/el-bierzo/campus-ponferrada-celebra-25-anos-fisioterapia-con-jornadas-nacionales_204319_102.html",
+    "desc": "Más de un centenar de profesionales, estudiantes y antiguos alumnos analizarán los días 15 y 16 de octubre los retos de la especialidad, con un homenaje a la primera promoción",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/58/96/4/campus-ponferrada-ule-4-1000x563-4-1000x563.jpeg",
+    "pub": 1791533260,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La vendimia del Bierzo cierra con más de 10,3 millones de kilos de uva",
+    "link": "https://www.elbierzodigital.com/la-vendimia-del-bierzo-cierra-con-mas-de-103-millones-de-kilos-de-uva/",
+    "desc": "La Denominación de Origen Bierzo ha cerrado la vendimia de 2026 con una producción total de 10.364.298 kilos de uva controlada , un 3,02% menos que en la campaña anterior. De esa cantidad, 9.839.340…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-vendimia-del-bierzo-cierra-con-mas-de-103-millones-de-kilos-de-uva-el-bierzo-digital-1.jpg",
+    "pub": 1791533083,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El agosto del eclipse atrajo a León más de 100.000 visitantes del centro y el sur peninsular",
+    "link": "https://www.lanuevacronica.com/actualidad/agosto-eclipse-atrajo-leon-mas-100000-visitantes-centro-sur-peninsular_204284_102.html",
+    "desc": "Incremento de turistas y pernoctaciones en la provincia durante el mes central del verano",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/47/3/eclipseleon.jpeg",
+    "pub": 1791532814,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "IU pide a Pedro Sánchez avances en la A-76, el Manzanal y fondos de Transición Justa",
     "link": "https://www.lanuevacronica.com/el-bierzo/iu-pide-a-pedro-sanchez-avances-en-a-76-manzanal-fondos-transicion-justa_204291_102.html",
     "desc": "La formación berciana aprovecha la visita electoral del presidente del Gobierno a Ponferrada para exigirle que comprometa plazos y refuerce la vigilancia sobre los fondos europeos",
@@ -100,46 +156,6 @@
     "link": "https://www.lanuevacronica.com/opinion/la-negrilla/gigante-en-grada_204315_102.html",
     "desc": "",
     "img": null,
-    "pub": 1791511200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Una realidad diferente para los leoneses",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/realidad-diferente-leoneses_204314_102.html",
-    "desc": "Los grandes tenedores apenas controlan el 1,8 % de las viviendas leonesas, lo que obliga a plantear políticas adaptadas a los verdaderos problemas de la provincia, que no son los mismos que en Madrid",
-    "img": null,
-    "pub": 1791511200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "\"La escultura se llama 1863, año en que el ferrocarril llegó a León\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/escultura-se-llama-1863-ano-en-ferrocarril-llego-leon_204308_102.html",
-    "desc": "Conrado Zurdo, autor de la escultura de la glorieta de Pinilla, explica sus características",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/21/7/viandantes-y-vehiculos-en-su-recorrido-circular-van-descubriendo-la-geometria-cambiante-de-la-pieza-fernando-otero.jpeg",
-    "pub": 1791511200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "De Tendal a Villaseca por los caminos de la Sobarriba",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/tendal-villaseca-por-caminos-sobarriba_204305_102.html",
-    "desc": "Un recorrido circular por diferentes lugares de la zona sur de la comarca tradicional leonesa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/85/2/03-pasando-el-arroyo-carcavo-n-tras-salir-de-valdefresno.jpeg",
-    "pub": 1791511200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ponferrada adjudica a Excarbi la mejora de tres de sus entradas principales por 335.320 euros",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-adjudica-excarbi-mejora-tres-sus-entradas-principales_204297_102.html",
-    "desc": "La empresa ejecutará la segunda fase de Ciudad de Bérgida y Camino Francés y las renovaciones de la avenida de Astorga y la avenida de Galicia con plazos de entre dos y tres meses",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/60/9/ciudad-de-bergida-4-1000x563.jpeg",
-    "pub": 1791511200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León llevará al desfile del 12 de octubre en Madrid 87 militares del Ejército del Aire",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-llevara-desfile-12-octubre-en-madrid-87-militares-ejercito-aire_204298_102.html",
-    "desc": "La Academia Básica de La Virgen del Camino será este año la única unidad de la provincia presente en la parada del Día de la Fiesta Nacional",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/92/40/2/graduacion-militar-de-los-nuevos-sargentos-en-la-academia-basica-del-aire-65.jpeg",
     "pub": 1791511200,
     "fuente": "La Nueva Crónica"
   },
@@ -349,22 +365,6 @@
     "desc": "Los apellidos de Hilda Preguntegui Nieri ya cuentan una parte de su historia. Uno es vasco y el otro italiano. Ella, sin embargo, nació en Lima, en Perú, igual que sus padres. Fueron sus abuelos…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/hilda-preguntegui-ciudadana-del-mundo-con-raices-en-peru-y-hogar-en-fresnedo-el-bierzo-digital-6.jpeg",
     "pub": 1791442821,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ponferrada lleva a pleno el martes el convenio con Endesa para cubrir el Canal de Cornatel",
-    "link": "https://www.elbierzodigital.com/ponferrada-lleva-a-pleno-el-martes-el-convenio-con-endesa-para-cubrir-el-canal-de-cornatel/",
-    "desc": "El Ayuntamiento de Ponferrada celebrará el próximo martes, 13 de octubre, un pleno extraordinario para aprobar el convenio a suscribir con Endesa para la cubrición del Canal de Cornatel en la zona…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/04/ponferrada-pide-un-compromiso-firme-a-endesa-para-cubrir-el-canal-de-cornatel-el-bierzo-digital-1.jpg",
-    "pub": 1791441171,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El bosque entra en la lucha contra el Alzheimer: más bienestar en un estudio pionero en el Bierzo",
-    "link": "https://www.elbierzodigital.com/bosque-lucha-alzheimer-estudio-ionero-alzheimer-bierzo/",
-    "desc": "Alzheimer Bierzo ha presentado este jueves 8 de octubre en el Palacio de Canedo los resultados de una experiencia pionera que ha llevado las terapias no farmacológicas al corazón de la naturaleza .…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-08-at-12.38.08-el-bierzo-digital.jpeg",
-    "pub": 1791440910,
     "fuente": "El Bierzo Digital"
   },
   {
