@@ -1,18 +1,58 @@
 [
   {
-    "titulo": "La Santa Compaña recorrerá las calles de Fabero en la noche de Halloween",
-    "link": "https://www.lanuevacronica.com/el-bierzo/santa-compana-recorrera-calles-fabero-en-noche-halloween_204326_102.html",
-    "desc": "La representación comenzará a las 23:00 horas y llevará a los participantes desde el Ayuntamiento hasta el Pozo Julia en una cita inspirada en las leyendas populares",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/38/7/whatsapp-image-2026-10-09-at-10-30-45.jpeg",
-    "pub": 1791534884,
+    "titulo": "Basurco lleva la causa de Oncobierzo a Asia con un nuevo reto",
+    "link": "https://www.elbierzodigital.com/basurco-lleva-la-causa-de-oncobierzo-a-asia-con-un-nuevo-reto/",
+    "desc": "Miguel Martínez Basurco afrontará la próxima semana un nuevo desafío acuático para visibilizar la causa de Oncobierzo . Tras ver frustrada su intención de cruzar el Canal de la Mancha, el…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/05/prueba-conseguida-basurco-conquista-el-estrecho-a-brazadas-por-la-sanidad-del-bierzo-el-bierzo-digital.jpg",
+    "pub": 1791537333,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Aprender a cepillarse bien los dientes también se enseña en clase",
+    "link": "https://www.lanuevacronica.com/el-bierzo/aprender-cepillarse-bien-dientes-tambien-se-ensena-en-clase_204329_102.html",
+    "desc": "La Gerencia de Asistencia Sanitaria del Bierzo retoma sus charlas escolares con actividades prácticas para que los niños incorporen hábitos saludables desde pequeños",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/45/3/charla-bucodental-de-la-gasbi-en-el-ceip-campo-de-la-cruz-2.jpeg",
+    "pub": 1791536741,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "UPL lleva los recortes en las escuelas rurales de Toreno y Carucedo a las Cortes autonómicas",
+    "link": "https://www.elbierzodigital.com/upl-lleva-los-recortes-en-las-escuelas-rurales-de-toreno-y-carucedo-a-las-cortes-autonomicas/",
+    "desc": "La educación rural del Bierzo vuelve al centro del debate político. Unión del Pueblo Leonés (UPL) ha registrado dos preguntas parlamentarias para exigir a la Junta de Castilla y León que rectifique…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/09/educacion-incorporara-el-lunes-un-maestro-a-media-jornada-en-el-cra-de-carucedo-el-bierzo-digital.jpg",
+    "pub": 1791536499,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "La Primitiva deja 32.000 euros en Veguellina de Órbigo",
     "link": "https://www.lanuevacronica.com/actualidad/primitiva-deja-32000-euros-en-veguellina-orbigo_204325_102.html",
     "desc": "Se validó su boleto acertante de segunda categoría en un establecimiento ubicado en la Plaza de España de la localidad leonesa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/26/09/48/4/primitiva-loterias-9218-1-4-1000x563.jpeg",
-    "pub": 1791534527,
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/41/7/primitiva-veguellina.jpeg",
+    "pub": 1791536329,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "UPL exige a la Junta recuperar el maestro de apoyo a jornada completa en Carucedo y el aula de infantil en Toreno",
+    "link": "https://www.lanuevacronica.com/el-bierzo/upl-exige-junta-recuperar-maestro-apoyo-en-carucedo-aula-infantil-en-toreno_204327_102.html",
+    "desc": "La formación leonesista registra dos preguntas en las Cortes para reclamar la restitución de ambos recursos educativos, mientras el AMPA del colegio de Toreno ya ha entregado 2.282 firmas contra el…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/40/2/toreno-colegio.jpeg",
+    "pub": 1791536295,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los mutualistas del Bierzo piden reunirse con Pedro Sánchez para reclamar una pasarela justa al Reta",
+    "link": "https://www.lanuevacronica.com/el-bierzo/mutualistas-bierzo-piden-reunirse-con-pedro-sanchez-reclamar-pasarela-justa-reta_204320_102.html",
+    "desc": "La plataforma berciana reclama que el reglamento de la Ley 2/2026 garantice pensiones dignas y evite que los profesionales pierdan parte de los ahorros acumulados durante décadas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/91/42/2/sanchez-leon.jpeg",
+    "pub": 1791536083,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Santa Compaña recorrerá las calles de Fabero en la noche de Halloween",
+    "link": "https://www.lanuevacronica.com/el-bierzo/santa-compana-recorrera-calles-fabero-en-noche-halloween_204326_102.html",
+    "desc": "La representación comenzará a las 23:00 horas y llevará a los participantes desde el Ayuntamiento hasta el Pozo Julia en una cita inspirada en las leyendas populares",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/38/7/whatsapp-image-2026-10-09-at-10-30-45.jpeg",
+    "pub": 1791534884,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -37,14 +77,6 @@
     "desc": "La empresa ejecutará la segunda fase de Ciudad de Bérgida y Camino Francés y las renovaciones de la avenida de Astorga y la avenida de Galicia con plazos de entre dos y tres meses",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/33/60/9/ciudad-de-bergida-4-1000x563.jpeg",
     "pub": 1791534344,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los mutualistas del Bierzo piden reunirse con Pedro Sánchez para reclamar una pasarela justa al Reta",
-    "link": "https://www.lanuevacronica.com/el-bierzo/mutualistas-bierzo-piden-reunirse-con-pedro-sanchez-reclamar-pasarela-justa-reta_204320_102.html",
-    "desc": "La plataforma berciana reclama que el reglamento de la Ley 2/2026 garantice pensiones dignas y evite que los profesionales pierdan parte de los ahorros acumulados durante décadas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/91/42/2/sanchez-leon.jpeg",
-    "pub": 1791534342,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -149,22 +181,6 @@
     "desc": "",
     "img": null,
     "pub": 1791514800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Oferta en diferido",
-    "link": "https://www.lanuevacronica.com/opinion/oferta-en-diferido_204312_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791514200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Agricultura y elecciones",
-    "link": "https://www.lanuevacronica.com/opinion/agricultura-elecciones_204311_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791513600,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -339,7 +355,7 @@
     "titulo": "Villanueva de Valdueza estrena una renovada calle Bolo tras una actuación muy demandada por los vecinos",
     "link": "https://www.elbierzodigital.com/villanueva-de-valdueza-estrena-una-renovada-calle-bolo-tras-una-actuacion-muy-demandada-por-los-vecinos/",
     "desc": "Villanueva de Valdueza ya disfruta de la actuación de renovación en la calle Bolo , según han informado las autoridades políticas locales . Se trata de una obra muy demandada por los vecinos y que…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2021/11/1280px-Villanueva_de_valdueza-e1791449820767.jpg",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/villanueva-de-valdueza-estrena-una-renovada-calle-bolo-tras-una-actuacion-muy-demandada-por-los-vecinos-el-bierzo-digital.jpg",
     "pub": 1791450205,
     "fuente": "El Bierzo Digital"
   },
@@ -349,22 +365,6 @@
     "desc": "CCOO reclamó al PP y a Vox que dejen de poner en duda la seguridad del voto por correo y rechazó las declaraciones en las que se habría instado a la ciudadanía a no utilizar este servicio. El…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/03/elecciones-autonomicas-castilla-y-leon-2026-el-bierzo-digital-13.jpeg",
     "pub": 1791449540,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La primera fase para eliminar las aguas limpias del saneamiento del Bierzo Bajo sale a licitación por 6,4 millones",
-    "link": "https://www.elbierzodigital.com/la-primera-fase-para-eliminar-las-aguas-limpias-del-saneamiento-del-bierzo-bajo-sale-a-licitacion-por-64-millones/",
-    "desc": "El Boletín Oficial del Estado (BOE) ha publicado este jueves el anuncio de licitación de la primera fase del proyecto para eliminar la entrada de aguas limpias en el saneamiento del Bierzo Bajo ,…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/07/el-proyecto-para-eliminar-aguas-limpias-del-saneamiento-del-bierzo-bajo-inicia-su-informacion-publica-el-bierzo-digital-scaled.jpg",
-    "pub": 1791447973,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Festival de Otoño en Las Médulas llega a su ecuador con teatro, música y poesía",
-    "link": "https://www.elbierzodigital.com/el-festival-de-otono-en-las-medulas-llega-a-su-ecuador-con-teatro-musica-y-poesia/",
-    "desc": "El II Festival de Otoño en Las Médulas alcanza este fin de semana su ecuador con dos nuevas propuestas teatrales y musicales que llevarán el certamen hasta Priaranza del Bierzo y el Monasterio de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-festival-de-otono-en-las-medulas-llega-a-su-ecuador-con-teatro-musica-y-poesia-el-bierzo-digital.jpeg",
-    "pub": 1791444642,
     "fuente": "El Bierzo Digital"
   },
   {
