@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204316_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/26/7/09-10-2026-canton.jpeg",
+    "pub": 1791532159,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Juan Echanove y Joaquín Climent protagonizan un duelo escénico en el Bergidum con ‘Esencia’",
+    "link": "https://www.elbierzodigital.com/juan-echanove-y-joaquin-climent-protagonizan-un-duelo-escenico-en-el-bergidum-con-esencia/",
+    "desc": "El Teatro Bergidum de Ponferrada recibirá los días 16 y 17 de octubre Esencia , una obra de Ignacio García May protagonizada por Juan Echanove y Joaquín Climent. El montaje propone un intenso duelo…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/juan-echanove-y-joaquin-climent-protagonizan-un-duelo-escenico-en-el-bergidum-con-esencia-el-bierzo-digital.jpg",
+    "pub": 1791532062,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El Embutidos Pajariel 6,25 visita al recién ascendido Ensino",
+    "link": "https://www.elbierzodigital.com/el-embutidos-pajariel-625-visita-al-recien-ascendido-ensino/",
+    "desc": "El Embutidos Pajariel 6,25 visita este sábado al recién ascendido Café Candelas Ensino de Lugo en la segunda jornada de liga en Primera Femenina con la intención de sacarse la espina de la derrota…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-embutidos-pajariel-625-visita-al-recien-ascendido-ensino-el-bierzo-digital-1.jpg",
+    "pub": 1791531718,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Un término medio",
     "link": "https://www.lanuevacronica.com/opinion/termino-medio_204313_102.html",
     "desc": "",
@@ -37,14 +61,6 @@
     "desc": "",
     "img": null,
     "pub": 1791511800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204316_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/26/7/09-10-2026-canton.jpeg",
-    "pub": 1791511200,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -349,22 +365,6 @@
     "desc": "Maricarmen Abascal, la mujer de 87 años que fue desahuciada el pasado 23 de septiembre de su vivienda en la calle Alcalde Sainz de Baranda de Madrid, ha fallecido este miércoles en el Hospital…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/fallece-a-los-87-anos-maricarmen-abascal-la-mujer-desahuciada-de-su-vivienda-en-madrid-el-bierzo-digital.jpg",
     "pub": 1791402991,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Mañueco abre la precampaña del 29N: “Por fin el cambio va a llegar a España”",
-    "link": "https://www.elbierzodigital.com/manueco-abre-la-precampana-del-29n-por-fin-el-cambio-va-a-llegar-a-espana/",
-    "desc": "El presidente del PP de Castilla y León, Alfonso Fernández Mañueco, ha abierto la precampaña de las elecciones generales del 29 de noviembre con un vídeo difundido en redes sociales en el que…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/manueco-abre-la-precampana-del-29n-por-fin-el-cambio-va-a-llegar-a-espana-el-bierzo-digital.jpg",
-    "pub": 1791389693,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Gobierno inicia el proceso para subir el SMI de 2027 antes de las elecciones",
-    "link": "https://www.elbierzodigital.com/el-gobierno-inicia-el-proceso-para-subir-el-smi-de-2027-antes-de-las-elecciones/",
-    "desc": "El Gobierno pondrá este jueves en marcha el procedimiento para actualizar el salario mínimo interprofesional (SMI) de cara a 2027, con la vista puesta en que la nueva cuantía pueda quedar fijada…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-gobierno-inicia-el-proceso-para-subir-el-smi-de-2027-antes-de-las-elecciones-el-bierzo-digital.jpg",
-    "pub": 1791388579,
     "fuente": "El Bierzo Digital"
   },
   {
