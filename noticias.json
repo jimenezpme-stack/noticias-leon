@@ -1,19 +1,27 @@
 [
   {
-    "titulo": "AFA Bierzo y SCN organizan aulas de actividad física para mayores en Molinaseca",
-    "link": "https://www.elbierzodigital.com/afa-bierzo-y-scn-organizan-aulas-de-actividad-fisica-para-mayores-en-molinaseca/",
-    "desc": "AFA Bierzo y la Academia Deportiva SCN organizan a partir del mes de noviembre sendas aulas de actividad física para adultos y personas mayores que se desarrollarán en la Casa de Cultura Daniel…",
-    "img": null,
-    "pub": 1791557530,
-    "fuente": "El Bierzo Digital"
+    "titulo": "El observatorio solar de La Sobarriba conquista tres reconocimientos nacionales de arquitectura",
+    "link": "https://www.lanuevacronica.com/actualidad/observatorio-solar-sobarriba-conquista-tres-reconocimientos-nacionales-arquitectura_204352_102.html",
+    "desc": "'Solaridades', diseñado por María Auxiliadora Gálvez, recibe una Mención de Honor en los Premios COAM y es seleccionado en los Premios FAD y los del Consejo Superior de los Colegios de Arquitectos…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/94/7/05-solaridades.jpeg",
+    "pub": 1791558437,
+    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La miel leonesa de Los Izanes se corona con el máximo premio nacional a la innovación agraria",
     "link": "https://www.lanuevacronica.com/actualidad/miel-leonesa-izanes-se-corona-con-maximo-premio-nacional-innovacion-agraria_204351_102.html",
     "desc": "La apicultora Raquel Fernández González recibe el primer premio a la Excelencia en la Innovación Agraria que entrega el Ministerio de Agricultura por su proyecto apícola en Soto y Amío",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/34/90/9/raquel-fernandez-ha-sido-reconocida-por-el-ministerio.jpeg",
-    "pub": 1791554888,
+    "pub": 1791558272,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "AFA Bierzo y SCN organizan aulas de actividad física para mayores en Molinaseca",
+    "link": "https://www.elbierzodigital.com/afa-bierzo-y-scn-organizan-aulas-de-actividad-fisica-para-mayores-en-molinaseca/",
+    "desc": "AFA Bierzo y la Academia Deportiva SCN organizan a partir del mes de noviembre sendas aulas de actividad física para adultos y personas mayores que se desarrollarán en la Casa de Cultura Daniel…",
+    "img": null,
+    "pub": 1791557530,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Un 'puente' hacia los mejores sabores: \"León no tiene un único producto emblemático, tiene muchos\"",
@@ -206,14 +214,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/09/educacion-incorporara-el-lunes-un-maestro-a-media-jornada-en-el-cra-de-carucedo-el-bierzo-digital.jpg",
     "pub": 1791536499,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Primitiva deja 32.000 euros en Veguellina de Órbigo",
-    "link": "https://www.lanuevacronica.com/actualidad/primitiva-deja-32000-euros-en-veguellina-orbigo_204325_102.html",
-    "desc": "Se validó su boleto acertante de segunda categoría en un establecimiento ubicado en la Plaza de España de la localidad leonesa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/41/7/primitiva-veguellina.jpeg",
-    "pub": 1791536329,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Escolares de Toral de los Vados plantan un centenar de árboles en la cantera de Corullón",
