@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Esto de la vivienda es un ciempiés",
+    "link": "https://www.lanuevacronica.com/opinion/esto-vivienda-es-ciempies_204310_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791512400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "(Mi) viaje a Atenas",
+    "link": "https://www.lanuevacronica.com/opinion/mi-viaje-atenas_204309_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791511800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La viñeta de Cantón",
     "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204316_102.html",
     "desc": "",
@@ -88,14 +104,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "A la calle en Ponferrada: por la vivienda y por Mari Carmen",
-    "link": "https://www.lanuevacronica.com/el-bierzo/calle-en-ponferrada-por-vivienda-por-mari-carmen_204280_102.html",
-    "desc": "El Colectivo ProVivienda Bierzo se manifestó en la plaza del Ayuntamiento en apoyo a las movilizaciones a nivel estatal y también para homenajear a la anciana desahuciada, símbolo de la protesta",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/64/1/manifa-ponferrada.jpeg",
-    "pub": 1791484476,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Una sidra leonesa conquista dos medallas de plata en un certamen internacional",
     "link": "https://www.lanuevacronica.com/actualidad/sidra-leonesa-conquista-dos-medallas-plata-en-certamen-internacional_204307_102.html",
     "desc": "Sidra Carral logra dos reconocimientos en el Salón Internacional de Sidras de Gala con su sidra natural artesana y su vermut de sidra Verminio Carral",
@@ -126,14 +134,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-sale-a-la-calle-por-el-derecho-a-la-vivienda-el-bierzo-digital-6.jpeg",
     "pub": 1791483289,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Leny Pellitero expone en León: \"En cada momento miramos las cosas de una manera diferente\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/leny-pellitero-expone-en-leon-en-cada-momento-miramos-cosas-manera-diferente_204304_102.html",
-    "desc": "La artista paramesa inaugura este viernes una exposición de fotografías en blanco y negro en el Centro Leonés de Arte",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/33/77/2/presentando-una-de-sus-fotos-de-santiago-de-cuba-vicente-garcia.jpeg",
-    "pub": 1791482510,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Noceda del Bierzo estrena su primer trail con un recorrido de 10 kilómetros",
