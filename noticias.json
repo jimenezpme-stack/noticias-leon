@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Un fallecido y ocho heridos en un accidente múltiple entre camiones y dos furgonetas en Valladolid",
+    "link": "https://www.lanuevacronica.com/sucesos/fallecido-ocho-heridos-en-accidente-multiple-entre-camiones-dos-furgonetas-en-valladolid_204362_102.html",
+    "desc": "En el siniestro, ocurrido en Tordesillas, se vieron implicados tres camiones y dos turismos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/19/1/accidente-valladolid-2.jpeg",
+    "pub": 1791565772,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada firma una ocupación hotelera del 75% durante el puente del Pilar",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-firma-ocupacion-hotelera-75-durante-puente-pilar_204361_102.html",
+    "desc": "Abre Ponfevin para darle contenido con 23 participantes, tres más que el año pasado y creciendo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/16/9/brindis.jpeg",
+    "pub": 1791565746,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Dos pianos de cola para León: la música sonará en la calle el 15 de octubre",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/dos-pianos-cola-leon-musica-sonara-en-calle-15-octubre_204360_102.html",
+    "desc": "La jornada forma parte de la programación especial por el 30º aniversario de la Fundación Ricardo Delgado Vizcaíno",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/14/4/como-cierre-de-la-jornada-esta-prevista-la-participacion-del-pianista-alberto-de-paz-facebook-del-pianista.jpeg",
+    "pub": 1791564686,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Nafti huye \"de todos esos halagos y ese 'mundito' de Yupi\"",
     "link": "https://www.lanuevacronica.com/deportes/nafti-huye-todos-esos-halagos-ese-mundito-yupi_204356_102.html",
     "desc": "El técnico de la Deportiva señala que \"prefiero que la gente me pare para invitarme a una Coca-Cola a que me diga a ver cuándo espabiláis, pero dentro debemos tener aún más intensidad y concentración\"",
@@ -120,14 +144,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Vuelve la Feria del Libro Antiguo y de Ocasión: \"En León, la cultura es el eje esencial\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/vuelve-feria-libro-antiguo-ocasion-en-leon-cultura-es-eje-esencial_204343_102.html",
-    "desc": "Desde este viernes y hasta el próximo 25 de octubre, la plaza de San Marcelo es escenario para las casetas de nueve librerías",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/69/1/el-alcalde-de-leon-y-la-concejala-de-cultura-visitaron-la-feria-en-compania-del-vicepresidente-de-alvacal-saul-aren.jpeg",
-    "pub": 1791545907,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Transportes anuncia nuevas obras en los túneles de la autopista León-Asturias",
     "link": "https://www.lanuevacronica.com/actualidad/transportes-anuncia-nuevas-obras-en-tuneles-autopista-leon-asturias_204347_102.html",
     "desc": "Los trabajos se llevarán a cabo a partir del martes 13 de octubre en los túneles de Entrerregueras, Pando, Vegaviesga y Oblanca y se cortarán alternativamente cada una de las calzadas",
@@ -149,22 +165,6 @@
     "desc": "El mediapunta de la Cultural no tiene \"nada grave\" pero está descartado contra Arenas y \"ya veremos si el siguiente\" partido contra el Logroñés está / Iago aún no entrena al 100% con el grupo",
     "img": "https://www.lanuevacronica.com/uploads/s1/34/51/08/1/jongarcia18826.jpeg",
     "pub": 1791545089,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los bomberos 'salvan' la bandera de León antes de que caiga al Bernesga",
-    "link": "https://www.lanuevacronica.com/actualidad/bomberos-salvan-bandera-leon-antes-caiga-bernesga_204344_102.html",
-    "desc": "La enseña se había soltado de las anillas que la sujetan al mástil inclinado del Puente de los Leones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/73/4/bandera-leon-puente-leones.jpeg",
-    "pub": 1791544896,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León roza el lleno en el puente del Pilar con una ocupación hotelera de hasta el 95%",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-roza-lleno-en-puente-pilar-con-ocupacion-hotelera-hasta-95_204342_102.html",
-    "desc": "Las reservas se sitúan en el 70% en los alojamientos rurales en un fin de semana con una amplia programación cultural y gastronómica en toda la provincia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/15/23/6/hosteleria-terrazas-camareros.jpeg",
-    "pub": 1791544304,
     "fuente": "La Nueva Crónica"
   },
   {
