@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Un término medio",
+    "link": "https://www.lanuevacronica.com/opinion/termino-medio_204313_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791514800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Oferta en diferido",
     "link": "https://www.lanuevacronica.com/opinion/oferta-en-diferido_204312_102.html",
     "desc": "",
@@ -108,14 +116,6 @@
     "link": "https://www.lanuevacronica.com/actualidad/agosto-eclipse-atrajo-leon-mas-100000-visitantes-centro-sur-peninsular_204284_102.html",
     "desc": "Incremento de turistas y pernoctaciones en la provincia durante el mes central del verano",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/33/47/3/eclipseleon.jpeg",
-    "pub": 1791511200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Tradición, devoción y baile maragato para honrar a la Virgen de los Remedios en Luyego",
-    "link": "https://www.lanuevacronica.com/actualidad/tradicion-devocion-baile-maragato-honrar-virgen-remedios-en-luyego_204122_102.html",
-    "desc": "Procesiones, canto de los ramos, bailes maragatos y la orquesta Radar protagonizan unos festejos que se prolongarán hasta el martes 13 de octubre, con la romería del domingo como acto más esperado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/20/32/8/luyego-de-somoza-mantiene-fiel-devocion-por-la-virgen-de-los-remedios.jpeg",
     "pub": 1791511200,
     "fuente": "La Nueva Crónica"
   },
