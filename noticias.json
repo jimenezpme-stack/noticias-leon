@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Huelga de ideas",
+    "link": "https://www.lanuevacronica.com/opinion/huelga-ideas_204376_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791599400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Polarizados",
+    "link": "https://www.lanuevacronica.com/opinion/polarizados_204375_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791598800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Dos meses para el cambio",
     "link": "https://www.lanuevacronica.com/opinion/dos-meses-cambio_204374_102.html",
     "desc": "",
@@ -110,22 +126,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/inauguracion-ponfevin-2026-el-bierzo-digital-13.jpeg",
     "pub": 1791566832,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Jandro: \"Mis jugadores me tienen que ver bien y fuerte, y es como estoy\"",
-    "link": "https://www.lanuevacronica.com/deportes/jandro-mis-jugadores-me-tienen-ver-bien-fuerte-es-como-estoy_204346_102.html",
-    "desc": "El técnico de la Cultural señala que \"no ha habido nada diferente\" con el club esta semana y apunta que \"como jugador he sido muy criticado y como entrenador sabemos a lo que nos exponemos\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/77/6/jandrocultural.jpeg",
-    "pub": 1791566326,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un fallecido y ocho heridos en un accidente múltiple entre camiones y dos furgonetas en Valladolid",
-    "link": "https://www.lanuevacronica.com/sucesos/fallecido-ocho-heridos-en-accidente-multiple-entre-camiones-dos-furgonetas-en-valladolid_204362_102.html",
-    "desc": "En el siniestro, ocurrido en Tordesillas, se vieron implicados tres camiones y dos turismos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/19/1/accidente-valladolid-2.jpeg",
-    "pub": 1791565805,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Un niño de Ponferrada pone nombre a uno de los satélites de la Constelación Atlántica",
