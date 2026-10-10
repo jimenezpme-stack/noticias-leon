@@ -1,18 +1,10 @@
 [
   {
-    "titulo": "El Atlético Bembibre remonta en Salamanca y se coloca segundo en la clasificación",
-    "link": "https://www.elbierzodigital.com/el-atletico-bembibre-remonta-en-salamanca-y-se-coloca-segundo-en-la-clasificacion/",
-    "desc": "El Atlético Bembibre logró este sábado una importante victoria ante el Unionistas B en las Pistas del Helmántico de Salamanca, en el encuentro correspondiente a la sexta jornada del grupo VIII de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-atletico-bembibre-remonta-en-salamanca-y-se-coloca-segundo-en-la-clasificacion-el-bierzo-digital-e1791651172885.jpeg",
-    "pub": 1791651094,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Los Irmandiños vuelven a intentar tomar el Castillo",
     "link": "https://www.lanuevacronica.com/el-bierzo/irmandinos-vuelven-intentar-tomar-castillo_204398_102.html",
     "desc": "Más de 60 recreadores participaron en la batalla que cumple su octava edición y que es excepcional en España",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/36/68/7/batalla-0.jpeg",
-    "pub": 1791650997,
+    "pub": 1791651291,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -20,8 +12,16 @@
     "link": "https://www.lanuevacronica.com/actualidad/otro-otono-en-puebla-lillo-se-puebla-setas_204407_102.html",
     "desc": "El municipio acoge este fin de semana sus XVIII Jornadas Micológicas en una cita que combina las salidas al campo con la divulgación y la gastronomía",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/36/70/9/otro-otono-en-el-que-puebla-de-lillo-se-puebla-de-setas.jpeg",
-    "pub": 1791650847,
+    "pub": 1791651097,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Atlético Bembibre remonta en Salamanca y se coloca segundo en la clasificación",
+    "link": "https://www.elbierzodigital.com/el-atletico-bembibre-remonta-en-salamanca-y-se-coloca-segundo-en-la-clasificacion/",
+    "desc": "El Atlético Bembibre logró este sábado una importante victoria ante el Unionistas B en las Pistas del Helmántico de Salamanca, en el encuentro correspondiente a la sexta jornada del grupo VIII de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-atletico-bembibre-remonta-en-salamanca-y-se-coloca-segundo-en-la-clasificacion-el-bierzo-digital-e1791651172885.jpeg",
+    "pub": 1791651094,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Detenido uno de los camioneros implicados en el accidente mortal de la A-62 en Tordesillas",
