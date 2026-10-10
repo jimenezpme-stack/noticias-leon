@@ -1,10 +1,26 @@
 [
   {
+    "titulo": "El IES Fernando I de Coyanza se convierte en Escuela Mentora del Parlamento Europeo",
+    "link": "https://www.lanuevacronica.com/actualidad/ies-fernando-coyanza-se-convierte-en-escuela-mentora-parlamento-europeo_204399_102.html",
+    "desc": "El centro de Valencia de Don Juan es el segundo de la provincia leonesa que logra el reconocimiento después del IESO de La Pola de Gordón",
+    "img": "https://www.lanuevacronica.com/uploads/s1/14/29/11/iesfernandoi-6102022.jpeg",
+    "pub": 1791632750,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Herida una joven de 25 años en un accidente entre un coche y un tractor en Santa María del Páramo",
+    "link": "https://www.lanuevacronica.com/sucesos/herida-joven-25-anos-en-accidente-entre-coche-tractor-en-santa-maria-paramo_204388_102.html",
+    "desc": "La colisión se ha producido en la carretera de circunvalación de la localidad este sábado a las 10:02 horas y la afectada ha sufrido dolor en la espalda",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/36/03/8/herida-una-joven-de-25-anos-en-un-accidente-entre-un-coche-y-un-tractor-en-santa-maria-del-paramo.jpeg",
+    "pub": 1791632520,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El PP acusa a Sánchez de \"engañar\" a los bercianos incumpliendo sus compromisos con la zona",
     "link": "https://www.lanuevacronica.com/el-bierzo/pp-acusa-sanchez-enganar-bercianos-incumpliendo-sus-compromisos-con-zona_204397_102.html",
     "desc": "Denuncian que la provincia ha sido «invisible» para el Gobierno y señalan los retrasos de la A-76, el lazo del Manzanal y la ronda sur de Ponferrada",
     "img": "https://www.lanuevacronica.com/uploads/s1/30/39/28/9/bano-de-masas-de-pedro-sanchez-en-leon-11.jpeg",
-    "pub": 1791631349,
+    "pub": 1791632017,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -104,14 +120,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Herida una joven de 25 años en un accidente entre un coche y un tractor en Santa María del Páramo",
-    "link": "https://www.lanuevacronica.com/sucesos/herida-joven-25-anos-en-accidente-entre-coche-tractor-en-santa-maria-paramo_204388_102.html",
-    "desc": "La colisión se ha producido en la carretera de circunvalación de la localidad este sábado a las 10:02 horas y la afectada ha sufrido dolor en la espalda",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/36/03/8/herida-una-joven-de-25-anos-en-un-accidente-entre-un-coche-y-un-tractor-en-santa-maria-del-paramo.jpeg",
-    "pub": 1791625649,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Hospital El Bierzo invita a reflexionar sobre el valor de cuidar a través de un mural participativo",
     "link": "https://www.elbierzodigital.com/el-hospital-el-bierzo-invita-a-reflexionar-sobre-el-valor-de-cuidar-a-traves-de-un-mural-participativo/",
     "desc": "El Hospital El Bierzo ha puesto en marcha una iniciativa para dar visibilidad al valor de los cuidados paliativos y al acompañamiento de las personas con enfermedades avanzadas y sus familias. Con…",
@@ -182,14 +190,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/09/Cristina-Blanco-7-el-bierzo-digital.jpeg",
     "pub": 1791615641,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La tradición",
-    "link": "https://www.lanuevacronica.com/opinion/tradicion_204379_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791601200,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Ponfevin abre sus puertas en La Rosaleda con 23 bodegas",
