@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Dos jóvenes heridos por arma blanca tras una pelea multitudinaria en Ponferrada",
+    "link": "https://www.lanuevacronica.com/sucesos/dos-jovenes-heridos-por-arma-blanca-pelea-multitudinaria-en-ponferrada_204382_102.html",
+    "desc": "Los dos varones, de unos 25 años, fueron trasladados al Hospital del Bierzo desde el cruce de las calles República Argentina y Ramón y Cajal",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/47/37/2/ambulancia-4-1000x563-4-1000x563-4-1000x563-4-1000x563-1.jpeg",
+    "pub": 1791625702,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Herida una joven de 25 años en un accidente entre un coche y un tractor en Santa María del Páramo",
+    "link": "https://www.lanuevacronica.com/sucesos/herida-joven-25-anos-en-accidente-entre-coche-tractor-en-santa-maria-paramo_204388_102.html",
+    "desc": "La colisión se ha producido en la carretera de circunvalación de la localidad este sábado a las 10:02 horas y la afectada ha sufrido dolor en la espalda",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/36/03/8/herida-una-joven-de-25-anos-en-un-accidente-entre-un-coche-y-un-tractor-en-santa-maria-del-paramo.jpeg",
+    "pub": 1791625649,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada rinde homenaje a La Carrasca en su centenario",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-rinde-homenaje-carrasca-en-su-centenario_204387_102.html",
+    "desc": "Una visita guiada por el Plantío y una ofrenda floral recuerdan los cien años del monumento dedicado a Enrique Gil y Carrasco",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/36/02/0/visita-guiada-ante-la-carrasca.jpeg",
+    "pub": 1791625299,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Mensajes para paliar el dolor en el Hospital El Bierzo",
     "link": "https://www.lanuevacronica.com/el-bierzo/mensajes-paliar-dolor-en-hospital-bierzo_204386_102.html",
     "desc": "Profesionales, pacientes y familiares, dejan sus frases de ánimo con motivo del Día Mundial de los Cuidados Paliativos",
@@ -80,14 +104,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Dos jóvenes heridos por arma blanca tras una pelea multitudinaria en Ponferrada",
-    "link": "https://www.lanuevacronica.com/sucesos/dos-jovenes-heridos-por-arma-blanca-pelea-multitudinaria-en-ponferrada_204382_102.html",
-    "desc": "Los dos varones, de unos 25 años, fueron trasladados al Hospital del Bierzo desde el cruce de las calles República Argentina y Ramón y Cajal",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/47/37/2/ambulancia-4-1000x563-4-1000x563-4-1000x563-4-1000x563-1.jpeg",
-    "pub": 1791618955,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Cristina Blanco, más de 30 años atendiendo en el Camino desde Molinaseca",
     "link": "https://www.elbierzodigital.com/cristina-blanco-mas-de-30-anos-atendiendo-en-el-camino-desde-molinaseca/",
     "desc": "Cuando se abren las puertas del albergue Santa Marina de Molinaseca , el primero en recibirnos es Sanau , el perro de la familia. Tras él aparece Cristina Blanco , la hospitalera que, junto a…",
@@ -156,22 +172,6 @@
     "link": "https://www.lanuevacronica.com/lnc-culturas/carta-mierda-documentos-mas-peculiares-archivo-historico-provincial-leon_204372_102.html",
     "desc": "\"Esta mierda se la envío a don Lino Fernández, que vive en Madrid\", comienza la misiva cuyo origen explica la directora del centro, Eva Merino",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/35/82/3/maxresdefault.jpeg",
-    "pub": 1791597600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Las cucerías de Cantón",
-    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_204367_102.html",
-    "desc": "El humorista gráfico Rubén Cantón lanza una nueva pregunta sobre curiosidades de la provincia de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/63/4/10-10-2026-las-cucerias-de-canton.jpeg",
-    "pub": 1791597600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Diego Montero, maestro berciano: \"Ahora que la IA genera incertidumbre sobre hacia dónde va, el maestro no podrá ser sustituido\"",
-    "link": "https://www.lanuevacronica.com/el-bierzo/diego-montero-maestro-berciano-ahora-ia-genera-incertidumbre-sobre-hacia-donde-va-maestro-no-podra-ser-sustituido_204246_102.html",
-    "desc": "Entrevista al creador de Simulaula, una plataforma de enseñanza de ayuda al alumno y al docente que comienza a rodar",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/79/1/profe-simularia-otra.jpeg",
     "pub": 1791597600,
     "fuente": "La Nueva Crónica"
   },
