@@ -1,5 +1,69 @@
 [
   {
+    "titulo": "Dos meses para el cambio",
+    "link": "https://www.lanuevacronica.com/opinion/dos-meses-cambio_204374_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791598200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Fogón de Isi, el mejor sabor de Trobajo",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/fogon-isi-mejor-sabor-trobajo_204373_102.html",
+    "desc": "Sus carnes y platos de cuchara y más de dos décadas sirviendo la mejor cocina tradicional del alfoz de León avalan a este restaurante, en el que la torrija es la reina",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/83/9/el-fogon-de-isi-restaurante-trobajo.jpeg",
+    "pub": 1791597600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La 'Carta de la mierda', uno de los documentos más peculiares del Archivo Histórico Provincial de León",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/carta-mierda-documentos-mas-peculiares-archivo-historico-provincial-leon_204372_102.html",
+    "desc": "\"Esta mierda se la envío a don Lino Fernández, que vive en Madrid\", comienza la misiva cuyo origen explica la directora del centro, Eva Merino",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/82/3/maxresdefault.jpeg",
+    "pub": 1791597600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_204367_102.html",
+    "desc": "El humorista gráfico Rubén Cantón lanza una nueva pregunta sobre curiosidades de la provincia de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/63/4/10-10-2026-las-cucerias-de-canton.jpeg",
+    "pub": 1791597600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Diego Montero, maestro berciano: \"Ahora que la IA genera incertidumbre sobre hacia dónde va, el maestro no podrá ser sustituido\"",
+    "link": "https://www.lanuevacronica.com/el-bierzo/diego-montero-maestro-berciano-ahora-ia-genera-incertidumbre-sobre-hacia-donde-va-maestro-no-podra-ser-sustituido_204246_102.html",
+    "desc": "Entrevista al creador de Simulaula, una plataforma de enseñanza de ayuda al alumno y al docente que comienza a rodar",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/79/1/profe-simularia-otra.jpeg",
+    "pub": 1791597600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León recuperó empleadores en primavera, pero la capital pierde tejido empresarial",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-recupero-empleadores-en-primavera-pero-capital-pierde-tejido-empresarial_204365_102.html",
+    "desc": "La provincia sumó 110 empresas con asalariados y 183 autónomos entre abril y junio, si bien el municipio de León encadena dos trimestres a la baja y acumula una década de pérdidas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/72/67/3/emprendimiento.jpeg",
+    "pub": 1791597600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Más de 700 carreras de los niños y niñas de León contra la leucemia",
+    "link": "https://www.lanuevacronica.com/actualidad/mas-700-carreras-ninos-ninas-leon-contra-leucemia_204355_102.html",
+    "desc": "Siete colegios de la provincia leonesa participarán el próximo viernes en la iniciativa solidaria de la Fundación Unoentrecienmil",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/08/5/carreraleucemia.jpeg",
+    "pub": 1791597600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los personajes del tío Ful: 'El Rápido de San Cipriano', exluchador",
+    "link": "https://www.lanuevacronica.com/extras/los-personajes-de-ful/personajes-tio-ful-rapido-san-cipriano-exluchador_204358_102.html",
+    "desc": "Es uno de esos luchadores que todo el mundo recuerda porque en su apodo llevaba su definición; marcó una época, después fue taxista y ahora jubilado con huerto",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/12/6/frame-09personaje.jpeg",
+    "pub": 1791597600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Lucha Leonesa: El Campeonato Provincial, el único corro que ofrece la gloria y el cinto en una tarde",
     "link": "https://www.lanuevacronica.com/deportes/lucha-leonesa-campeonato-provincial-unico-corro-ofrece-gloria-cinto-en-tarde_204380_102.html",
     "desc": "El pabellón de Navatejera acoge este sábado una nueva edición del torneo más histórico de la lucha, el Provincial, que arrancó en el año 1931",
@@ -48,14 +112,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Nafti huye \"de todos esos halagos y ese 'mundito' de Yupi\"",
-    "link": "https://www.lanuevacronica.com/deportes/nafti-huye-todos-esos-halagos-ese-mundito-yupi_204356_102.html",
-    "desc": "El técnico de la Deportiva señala que \"prefiero que la gente me pare para invitarme a una Coca-Cola a que me diga a ver cuándo espabiláis, pero dentro debemos tener aún más intensidad y concentración\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/26/76/6/la-deportiva-no-fallo-en-otra-de-las-grandes-citas-en-el-toralin-quinito-103.jpeg",
-    "pub": 1791566803,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Jandro: \"Mis jugadores me tienen que ver bien y fuerte, y es como estoy\"",
     "link": "https://www.lanuevacronica.com/deportes/jandro-mis-jugadores-me-tienen-ver-bien-fuerte-es-como-estoy_204346_102.html",
     "desc": "El técnico de la Cultural señala que \"no ha habido nada diferente\" con el club esta semana y apunta que \"como jugador he sido muy criticado y como entrenador sabemos a lo que nos exponemos\"",
@@ -72,22 +128,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Dos pianos de cola para León: la música sonará en la calle el 15 de octubre",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/dos-pianos-cola-leon-musica-sonara-en-calle-15-octubre_204360_102.html",
-    "desc": "La jornada forma parte de la programación especial por el 30º aniversario de la Fundación Ricardo Delgado Vizcaíno",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/14/4/como-cierre-de-la-jornada-esta-prevista-la-participacion-del-pianista-alberto-de-paz-facebook-del-pianista.jpeg",
-    "pub": 1791564686,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El mural del Mundial de Ciclismo aparece destapado inmediatamente después de la denuncia del PSOE",
-    "link": "https://www.lanuevacronica.com/el-bierzo/mural-mundial-ciclismo-sigue-tapado-casi-ano-despues-su-llegada_204336_102.html",
-    "desc": "Los socialistas de Ponferrada habían criticado que la obra conmemorativa de la cita de 2014 llevara casi un año cubierta por una lona junto al estadio Colomán Trabado sin ser estrenada",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/02/3/whatsapp-image-2026-10-09-at-17-45-14.jpeg",
-    "pub": 1791563588,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Un niño de Ponferrada pone nombre a uno de los satélites de la Constelación Atlántica",
     "link": "https://www.elbierzodigital.com/un-nino-de-ponferrada-pone-nombre-a-uno-de-los-satelites-de-la-constelacion-atlantica/",
     "desc": "Un niño de Ponferrada, César Martínez , de 11 años, es uno de los escolares que han contribuido a poner nombre a uno de los satélites de la futura Constelación Atlántica , una iniciativa espacial…",
@@ -96,52 +136,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La miel leonesa de Los Izanes se corona con el máximo premio nacional a la innovación agraria",
-    "link": "https://www.lanuevacronica.com/actualidad/miel-leonesa-izanes-se-corona-con-maximo-premio-nacional-innovacion-agraria_204351_102.html",
-    "desc": "La apicultora Raquel Fernández González recibe el primer premio a la Excelencia en la Innovación Agraria que entrega el Ministerio de Agricultura por su proyecto apícola en Soto y Amío",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/90/9/raquel-fernandez-ha-sido-reconocida-por-el-ministerio.jpeg",
-    "pub": 1791562022,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El observatorio solar de La Sobarriba conquista tres reconocimientos nacionales de arquitectura",
-    "link": "https://www.lanuevacronica.com/actualidad/observatorio-solar-sobarriba-conquista-tres-reconocimientos-nacionales-arquitectura_204352_102.html",
-    "desc": "'Solaridades', diseñado por María Auxiliadora Gálvez, recibe una Mención de Honor en los Premios COAM y es seleccionado en los Premios FAD y los del Consejo Superior de los Colegios de Arquitectos…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/94/7/05-solaridades.jpeg",
-    "pub": 1791561995,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ademar - Nava: 'Con la obligación de no fallar'",
-    "link": "https://www.lanuevacronica.com/deportes/ademar-nava-con-obligacion-no-fallar_204334_102.html",
-    "desc": "El equipo leonés, con la duda de Edu, recibe este sábado a un colista que ha perdido todos sus partidos y acaba de despedir por motivos disciplinarios a Hugo Lima",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/99/12/6/eduademarnava.jpeg",
-    "pub": 1791561396,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Diseño gráfico y literatura se citan en Santa Colomba de Somoza",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/diseno-grafico-literatura-se-citan-en-santa-colomba-somoza_204354_102.html",
-    "desc": "La Fundación Club 45 inaugura este sábado la exposición 'Black Eyes Series' y programa un encuentro con el librero David Lera para el domingo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/29/90/11/7/el-exterior-del-enclave-de-santa-colomba-de-somoza-fundacion-club-45.jpeg",
-    "pub": 1791560721,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Un fallecido y ocho heridos en un accidente con tres camiones y dos turismos en la A-62",
     "link": "https://www.elbierzodigital.com/un-fallecido-y-ocho-heridos-en-un-accidente-con-tres-camiones-y-dos-turismos-en-la-a-62/",
     "desc": "Una persona ha fallecido y otras ocho han resultado heridas en un accidente de tráfico registrado este mediodía en la autovía A-62, a la altura de Tordesillas (Valladolid). El siniestro, en el que…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Accidente-A-62-5-el-bierzo-digital.jpeg",
     "pub": 1791560571,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Un leonés se alza con el Premio de las Letras Ciudad de Santander",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/leones-se-alza-con-premio-letras-ciudad-santander_204353_102.html",
-    "desc": "El galardón ha caído en manos de Enrique Álvarez por su \"dilatada trayectoria, la singularidad de su obra narrativa\" y \"la solidez\" de su producción literaria",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/98/5/imagen-de-archivo-del-escritor-leones-enrique-alvarez-menoscuarto-ediciones.jpeg",
-    "pub": 1791560185,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "AFA Bierzo y SCN organizan aulas de actividad física para mayores en Molinaseca",
