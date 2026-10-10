@@ -1,11 +1,27 @@
 [
   {
+    "titulo": "Las grandes fortunas de Castilla y León elevan su patrimonio un 57,7% en diez años",
+    "link": "https://www.elbierzodigital.com/las-grandes-fortunas-de-castilla-y-leon-elevan-su-patrimonio-un-577-en-diez-anos/",
+    "desc": "Las grandes fortunas de Castilla y León han aumentado su patrimonio declarado un 57,7% en la última década, pese a que el número de contribuyentes apenas creció un 5,3%. En 2024, la Comunidad…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/las-grandes-fortunas-de-castilla-y-leon-elevan-su-patrimonio-un-577-en-diez-anos-el-bierzo-digital-1.jpg",
+    "pub": 1791622127,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Herido un camionero tras un accidente en Vega de Valcarce",
     "link": "https://www.elbierzodigital.com/herido-un-camionero-tras-un-accidente-en-vega-de-valcarce/",
     "desc": "Un camionero resultó herido este sábado tras sufrir un accidente en la autovía A-6 a su paso por el municipio berciano de Vega de Valcarce. Según informa la oficina de Emergencias 112, el camión que…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/herido-un-camionero-tras-un-accidente-en-vega-de-valcarce-el-bierzo-digital.jpg",
     "pub": 1791621674,
     "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Dos jóvenes heridos por arma blanca en una pelea multitudinaria en Ponferrada",
+    "link": "https://www.20minutos.es/castilla-y-leon/leon/dos-jovenes-heridos-por-arma-blanca-una-pelea-multitudinaria-ponferrada_7047397_0.html",
+    "desc": "Dos hombres de unos 25 años han resultado heridos durante una pelea en la que participaron alrededor de ocho personas.",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2023/05/09/ambulancia-castilla-y-leon.r_d.509-209.jpeg",
+    "pub": 1791621235,
+    "fuente": "20minutos"
   },
   {
     "titulo": "‘Una vocal’ y ‘Nåde (Mercy)’ ganan los premios Retina del Festival de Cine de Ponferrada",
@@ -352,14 +368,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Ponferrada sale a la calle por el derecho a la vivienda",
-    "link": "https://www.elbierzodigital.com/ponferrada-sale-a-la-calle-por-el-derecho-a-la-vivienda/",
-    "desc": "Más de medio millar de personas se concentraron en la tarde de este jueves en la Plaza del Ayuntamiento de Ponferrada reclamar medidas que protejan el derecho a la vivienda recogido en la…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-sale-a-la-calle-por-el-derecho-a-la-vivienda-el-bierzo-digital-6.jpeg",
-    "pub": 1791483289,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Muere un hombre tras ser arrollado por un tren en el pueblo leonés El Burgo Ranero",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/muere-un-hombre-tras-ser-arrollado-por-un-tren-pueblo-leones-burgo-ranero_7046684_0.html",
     "desc": "Hasta el lugar del accidente se han movilizado personal médico y un helicóptero medicalizado.",
@@ -557,14 +565,6 @@
     "desc": "El detenido aprovechó que ya se había declarado un fuego para provocar otro en una zona de masa forestal cercana.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/30/6a6b53d450be63-92953048.r_d.892-881.jpeg",
     "pub": 1785437716,
-    "fuente": "20minutos"
-  },
-  {
-    "titulo": "Ingresa en prisión un varón por varios incendios forestales en Ponferrada",
-    "link": "https://www.20minutos.es/castilla-y-leon/leon/ingresa-prision-un-varon-por-varios-incendios-forestales-ponferrada_7020337_0.html",
-    "desc": "El sospechoso fue localizado oculto en una caseta con cuatro mecheros y el juez ha decretado su entrada en la cárcel.",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/06/24/coches-de-policia-nacional-y-policia-local-en-ponferrada-leon-en-una-imagen-de-archivo.jpeg",
-    "pub": 1785324578,
     "fuente": "20minutos"
   }
 ]
