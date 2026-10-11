@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Abiertos los actos de los 25 años del teléfono 1-1-2 con un concurso artístico para niños",
+    "link": "https://www.lanuevacronica.com/actualidad/abiertos-actos-25-anos-telefono-1-1-2-con-concurso-artistico-ninos_204434_102.html",
+    "desc": "Los interesados pueden presentar sus dibujos, vídeos o canciones hasta el 16 de noviembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/20/26/74/7/cce-02.jpeg",
+    "pub": 1791714494,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Arranque de campaña",
+    "link": "https://www.lanuevacronica.com/opinion/arranque-campana_204409_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791714216,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Val de San Lorenzo revive 25 años después un verano que dejó huella en su historia cultural",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/val-san-lorenzo-revive-25-anos-despues-verano-dejo-huella-en-su-historia-cultural_204432_102.html",
+    "desc": "El Museo de La Comunal acoge hasta el 29 de noviembre una exposición que recuerda el curso de verano de 2001 de la Escuela de Cerámica de la Moncloa y recupera las obras realizadas por sus alumnos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/37/96/5/val-de-san-lorenzo-revive-25-anos-despues-un-verano-que-dejo-huella-en-su-historia-cultural.jpeg",
+    "pub": 1791713572,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Abren una nueva vía contra una bacteria que causa miles de muertes y esquiva los antibióticos",
     "link": "https://www.lanuevacronica.com/actualidad/abren-nueva-via-contra-bacteria-causa-miles-muertes-esquiva-antibioticos_204430_102.html",
     "desc": "Investigadores de la ULE desarrollan a partir del garbanzo un péptido circular capaz de penetrar en las células humanas y combatir una bacteria especialmente resistente a los tratamientos…",
@@ -64,6 +88,14 @@
     "fuente": "El Bierzo Digital"
   },
   {
+    "titulo": "Las Médulas corta su acceso por carretera para denunciar el abandono del pueblo y del Patrimonio Mundial",
+    "link": "https://www.elbierzodigital.com/las-medulas-corta-su-acceso-por-carretera-para-denunciar-el-abandono-del-pueblo-y-del-patrimonio-mundial/",
+    "desc": "Los vecinos de Las Médulas han llevado a cabo este domingo un corte intermitente de carretera para denunciar las carencias que, según la Asociación de Vecinos, sufren tanto la población como el…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/las-medulas-corta-su-acceso-por-carretera-para-denunciar-el-abandono-del-pueblo-y-del-patrimonio-mundial-el-bierzo-digital-3.jpeg",
+    "pub": 1791703818,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "La historia de un superviviente de la tragedia del grisú en Fabero, José Lindoso",
     "link": "https://www.lanuevacronica.com/el-bierzo/historia-superviviente-tragedia-grisu-en-fabero-jose-lindoso_204120_102.html",
     "desc": "Con 95 años recuerda el accidente mortal que esquivó tras ver el humo y refugiarse en la zona de ventilación",
@@ -77,14 +109,6 @@
     "desc": "",
     "img": null,
     "pub": 1791687600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Arranque de campaña",
-    "link": "https://www.lanuevacronica.com/opinion/arranque-campana_204409_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791687300,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -125,22 +149,6 @@
     "desc": "",
     "img": null,
     "pub": 1791685800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cosas de sufragio electoral",
-    "link": "https://www.lanuevacronica.com/opinion/cosas-sufragio-electoral_204418_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791685200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Oh, sí, campaña electoral",
-    "link": "https://www.lanuevacronica.com/opinion/oh-si-campana-electoral_204417_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791684900,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -357,14 +365,6 @@
     "desc": "La salud bucodental también se aprende en clase. La Gerencia de Asistencia Sanitaria del Bierzo (Gasbi) ha puesto en marcha una nueva edición de su campaña de educación sanitaria en los colegios del…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Charla-bucodental-de-la-Gasbi-en-el-CEIP-Campo-de-la-Cruz-6-el-bierzo-digital.jpeg",
     "pub": 1791537720,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Basurco lleva la causa de Oncobierzo a Asia con un nuevo reto",
-    "link": "https://www.elbierzodigital.com/basurco-lleva-la-causa-de-oncobierzo-a-asia-con-un-nuevo-reto/",
-    "desc": "Miguel Martínez Basurco afrontará la próxima semana un nuevo desafío acuático para visibilizar la causa de Oncobierzo . Tras ver frustrada su intención de cruzar el Canal de la Mancha, el…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/05/prueba-conseguida-basurco-conquista-el-estrecho-a-brazadas-por-la-sanidad-del-bierzo-el-bierzo-digital.jpg",
-    "pub": 1791537333,
     "fuente": "El Bierzo Digital"
   },
   {
