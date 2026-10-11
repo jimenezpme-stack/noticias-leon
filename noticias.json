@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Tiempos modernos",
+    "link": "https://www.lanuevacronica.com/opinion/tiempos-modernos_204419_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791685800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cosas de sufragio electoral",
+    "link": "https://www.lanuevacronica.com/opinion/cosas-sufragio-electoral_204418_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791685200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Oh, sí, campaña electoral",
+    "link": "https://www.lanuevacronica.com/opinion/oh-si-campana-electoral_204417_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791684900,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Columnas",
     "link": "https://www.lanuevacronica.com/opinion/columnas_204416_102.html",
     "desc": "",
@@ -125,30 +149,6 @@
     "desc": "Se trata de hombre de unos 70 años que tuvo que ser trasladado al hospital de León tras sufrir un traumatismo en la cabeza a causa de la caída",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/36/66/3/el-grupo-de-rescate-auxiliando-este-sabado-al-hombre-herido.jpeg",
     "pub": 1791649385,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ponfevin reúne a más de 5.000 personas en su estreno en La Rosaleda",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ponfevin-reune-mas-5000-personas-en-su-estreno-en-rosaleda_204402_102.html",
-    "desc": "La feria del vino de Ponferrada congrega a cerca de un centenar de participantes en una cata dirigida por Dani Giganto, Mejor Sumiller de España 2026",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/36/22/5/cata-con-giganto.jpeg",
-    "pub": 1791649364,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El manejo del dolor: una parte esencial de los cuidados paliativos",
-    "link": "https://www.lanuevacronica.com/opinion/tribuna-de-opinion/manejo-dolor-parte-esencial-cuidados-paliativos_204405_102.html",
-    "desc": "Artículo escrito por Abilio Fernández, responsable del Servicio de Atención Espiritual y Religiosa (SAER) del Hospital San Juan de Dios de León, con motivo del Día Mundial de los Cuidados Paliativos",
-    "img": null,
-    "pub": 1791647024,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Del mejor corte de jamón a una queimada popular: León se prepara para un domingo de mucho sabor",
-    "link": "https://www.lanuevacronica.com/actualidad/mejor-corte-jamon-queimada-popular-leon-se-prepara-domingo-mucho-sabor_204401_102.html",
-    "desc": "La Feria de los Productos de León celebra este 11 de octubre su penúltima jornada con concursos, degustaciones, cocina en directo y talleres para los más pequeños",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/36/20/9/del-mejor-corte-de-jamon-a-una-queimada-popular-leon-se-prepara-para-un-domingo-de-mucho-sabor.jpeg",
-    "pub": 1791645358,
     "fuente": "La Nueva Crónica"
   },
   {
