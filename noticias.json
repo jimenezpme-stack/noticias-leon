@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Columnas",
+    "link": "https://www.lanuevacronica.com/opinion/columnas_204416_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791684600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Julio Llamazares, embajador de emociones",
+    "link": "https://www.lanuevacronica.com/opinion/a-pie-de-calle/julio-llamazares-embajador-emociones_204415_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791684300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "'Digger'",
+    "link": "https://www.lanuevacronica.com/opinion/digger_204410_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791684300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El Parque de los Reyes: el espacio verde que León le ganó al asfalto",
     "link": "https://www.lanuevacronica.com/lnc-culturas/parque-reyes-espacio-verde-leon-gano-asfalto_204411_102.html",
     "desc": "Proyectado inicialmente como un aparcamiento de camiones, fue inaugurado en 1982 por la que entonces era reina de España",
@@ -72,14 +96,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Otro otoño en el que Puebla de Lillo se 'puebla' de setas",
-    "link": "https://www.lanuevacronica.com/actualidad/otro-otono-en-puebla-lillo-se-puebla-setas_204407_102.html",
-    "desc": "El municipio acoge este fin de semana sus XVIII Jornadas Micológicas en una cita que combina las salidas al campo con la divulgación y la gastronomía",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/36/70/9/otro-otono-en-el-que-puebla-de-lillo-se-puebla-de-setas.jpeg",
-    "pub": 1791651097,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Atlético Bembibre remonta en Salamanca y se coloca segundo en la clasificación",
     "link": "https://www.elbierzodigital.com/el-atletico-bembibre-remonta-en-salamanca-y-se-coloca-segundo-en-la-clasificacion/",
     "desc": "El Atlético Bembibre logró este sábado una importante victoria ante el Unionistas B en las Pistas del Helmántico de Salamanca, en el encuentro correspondiente a la sexta jornada del grupo VIII de…",
@@ -133,22 +149,6 @@
     "desc": "La Feria de los Productos de León celebra este 11 de octubre su penúltima jornada con concursos, degustaciones, cocina en directo y talleres para los más pequeños",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/36/20/9/del-mejor-corte-de-jamon-a-una-queimada-popular-leon-se-prepara-para-un-domingo-de-mucho-sabor.jpeg",
     "pub": 1791645358,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Este multitudinario festival de un pueblo de León ya tiene fecha",
-    "link": "https://www.lanuevacronica.com/actualidad/este-multitudinario-festival-pueblo-leon-ya-tiene-fecha_204394_102.html",
-    "desc": "Es una de las fiestas más esperadas de cada invierno en las comarcas de la Montaña Oriental y Tierra de Campos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/36/09/1/winterpueblosalmanza.jpeg",
-    "pub": 1791644400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Las cuatro manos del erotismo leonés",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/cuatro-manos-erotismo-leones_204400_102.html",
-    "desc": "Ana Rocío Madruga y Marcos Castro publican, bajo el seudónimo Maro Valnal, la novela erótica 'Quédate', la segunda parte de 'Hoy ya es mañana', disponible en Amazon desde finales de junio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/36/16/3/las-cuatro-manos-del-erotismo-leones.jpeg",
-    "pub": 1791643756,
     "fuente": "La Nueva Crónica"
   },
   {
