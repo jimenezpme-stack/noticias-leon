@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "SBA 77 - Cultural 84: 'La Cultural confirma que va muy en serio'",
+    "link": "https://www.lanuevacronica.com/deportes/sba-77-cultural-84-cultural-confirma-va-muy-en-serio_204461_102.html",
+    "desc": "Tras un partido muy igualado donde nadie ganó nunca de más de 8 y con otra exhibición defensiva. el equipo leonés gana en una prórroga en la que se desmelenó en ataque y metió 17 puntos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/41/05/2/huye1tbxaaav0we.jpeg",
+    "pub": 1791750984,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Erice: \"Goiria ha hecho un trabajo sensacional\"",
+    "link": "https://www.lanuevacronica.com/deportes/erice-goiria-ha-hecho-trabajo-sensacional_204449_102.html",
+    "desc": "El técnico del Arenas cree que \"con un proyecto tan ambicioso, el aficionado de la Cultural lo que quiere es verse primero. Podemos un encontrar un ambiente tenso si llevamos el partido a nuestro…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/12/40/8/cultural-coria-12.jpeg",
+    "pub": 1791750976,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El PSOE de León compara a Sánchez ante el 29-N con \"Tom Cruise en 'Misión Imposible'\"",
+    "link": "https://www.20minutos.es/castilla-y-leon/leon/psoe-leon-compara-sanchez-29-n-tom-cruise-mision-imposible_7047701_0.html",
+    "desc": "Carlos Martínez pide el voto para Sánchez y ensalza su \"valentía\" para hacer por la vivienda \"a través del BOE\".",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/11/6acbea0ff36a31-43688625.jpeg",
+    "pub": 1791748644,
+    "fuente": "20minutos"
+  },
+  {
     "titulo": "Cultural - Arenas: 'Ganar y convencer para apagar el ruido'",
     "link": "https://www.lanuevacronica.com/deportes/cultural-arenas-ganar-convencer-apagar-ruido_204443_102.html",
     "desc": "Con la obligación de reaccionar, la Cultural recibe este lunes a un Arenas que es el colista con dos puntos y el equipo más goleado del Grupo tras perder ya 3 partidos por 3 goles de diferencia",
@@ -37,14 +61,6 @@
     "desc": "La protesta, celebrada este domingo entre las 11:00 y las 13:00 horas, reclama mejoras en las comunicaciones, el saneamiento, la seguridad y la gestión del espacio protegido",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/39/94/8/los-vecinos-de-las-medulas-cortan-la-carretera-hacia-las-medulas-para-denunciar-su-abandono.jpeg",
     "pub": 1791739425,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Erice: \"Goiria ha hecho un trabajo sensacional\"",
-    "link": "https://www.lanuevacronica.com/deportes/erice-goiria-ha-hecho-trabajo-sensacional_204449_102.html",
-    "desc": "El técnico del Arenas cree que \"con un proyecto tan ambicioso, el aficionado de la Cultural lo que quiere es verse primero. Podemos un encontrar un ambiente tenso si llevamos el partido a nuestro…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/12/40/8/cultural-coria-12.jpeg",
-    "pub": 1791739422,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -198,14 +214,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/acto-pedro-sanchez-ponferrada-11-10-26-el-bierzo-digital-5.jpeg",
     "pub": 1791720121,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ester Muñoz carga contra Sánchez en León y denuncia que los impuestos no mejoran los servicios públicos",
-    "link": "https://www.lanuevacronica.com/actualidad/ester-munoz-carga-contra-sanchez-en-leon-denuncia-impuestos-no-mejoran-servicios-publicos_204439_102.html",
-    "desc": "La portavoz de la campaña electoral del PP evita confirmar si será cabeza de lista por León el 29N, aunque asegura que quiere seguir representando a los leoneses",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/38/34/5/ester-munoz-carga-contra-sanchez-en-leon-y-denuncia-que-los-impuestos-no-mejoran-los-servicios-publicos.jpeg",
-    "pub": 1791719901,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Junta instala 114 pantallas interactivas en asociaciones de jubilados de la provincia de León",
@@ -557,14 +565,6 @@
     "desc": "El accidente se ha producido en la carretera LE-941 y los sanitarios desplazados al lugar solo han podido confirmar el fallecimiento de la víctima.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/16/6a311a5ce77977-81090626.jpeg",
     "pub": 1785921571,
-    "fuente": "20minutos"
-  },
-  {
-    "titulo": "Detenido un joven de 22 años por provocar un incendio forestal en Castropodame",
-    "link": "https://www.20minutos.es/castilla-y-leon/leon/detenido-un-joven-22-anos-por-provocar-un-incendio-forestal-castropodame_7021049_0.html",
-    "desc": "El detenido aprovechó que ya se había declarado un fuego para provocar otro en una zona de masa forestal cercana.",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/30/6a6b53d450be63-92953048.r_d.892-881.jpeg",
-    "pub": 1785437716,
     "fuente": "20minutos"
   }
 ]
