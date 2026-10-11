@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "El Parque de los Reyes: el espacio verde que León le ganó al asfalto",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/parque-reyes-espacio-verde-leon-gano-asfalto_204411_102.html",
+    "desc": "Proyectado inicialmente como un aparcamiento de camiones, fue inaugurado en 1982 por la que entonces era reina de España",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/37/27/8/fueron-los-vecinos-de-la-zona-quienes-propusieron-e-instaron-a-la-construccion-de-un-parque-y-no-de-un-aparcamiento.jpeg",
+    "pub": 1791684000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "\"Salir fuera con Productos de León no es postureo, es una necesidad económica\"",
+    "link": "https://www.lanuevacronica.com/actualidad/salir-fuera-con-productos-leon-no-es-postureo-es-necesidad-economica_204408_102.html",
+    "desc": "Entrevista a Roberto Aller, vicepresidente de la Diputación y responsable del área de Productos de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/37/26/0/robertoaller.jpeg",
+    "pub": 1791684000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Navidades en Almanza: fecha del encendido y novedades de 2026 en el 'Pueblo Europeo de la Navidad'",
+    "link": "https://www.lanuevacronica.com/actualidad/navidades-en-almanza-fecha-encendido-novedades-2026-en-pueblo-europeo-navidad_204395_102.html",
+    "desc": "Los vecinos ya trabajan en el decorado de las calles",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/36/10/6/almanzanavidad.jpeg",
+    "pub": 1791684000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_204368_102.html",
+    "desc": "El humorista gráfico Rubén Cantón responde a la pregunta de este sábado sobre una curiosidad de la provincia de León.",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/65/6/11-10-2026-las-cucerias-de-canton.jpeg",
+    "pub": 1791684000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Campeonato Provincial 2026 (f): La Dinamita no estaba mojada y resucitó Rebeca",
     "link": "https://www.lanuevacronica.com/deportes/campeonato-provincial-2026-f-dinamita-no-estaba-mojada-resucito-rebeca_204425_102.html",
     "desc": "La luchadora de Matallana, que había tenido una mala temporada, gana el Provincial con 'La princesa María' y 'La gemela' Edi",
@@ -21,14 +53,6 @@
     "desc": "El Nava deja tocado a Puertas y saca los colores a un Ademar sin portería ni defensa y que llegó a ir 6 abajo en el ecuador de la segunda parte, cuando firmó una reacción que le puso a uno pero que…",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/37/47/2/ademar-nava-7.jpeg",
     "pub": 1791665489,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "SBA - Cultural: 'A confirmar las grandes sensaciones del estreno'",
-    "link": "https://www.lanuevacronica.com/deportes/sba-cultural-a-confirmar-grandes-sensaciones-estreno_204404_102.html",
-    "desc": "El equipo leonés, aún con la baja de Traoré, visita este domingo a un equipo que el año pasado fue cuarto y vuelve a ser este uno de los fijos en las quinielas del 'playoff'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/26/98/0/cultural-moron-6.jpeg",
-    "pub": 1791659962,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -134,30 +158,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/cacabelos-celebrara-la-iv-noche-del-terror-los-dias-30-y-31-de-octubre-y-1-y-2-de-noviembre-el-bierzo-digital-1.jpg",
     "pub": 1791635058,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ponferradina - Real Avilés: 'En busca de un Toralín todavía más fuerte'",
-    "link": "https://www.lanuevacronica.com/deportes/ponferradina-real-aviles-en-busca-toralin-todavia-mas-fuerte_204381_102.html",
-    "desc": "La Ponferradina recibe este domingo (16:30 horas) al Real Avilés en el segundo partido seguido en casa donde los bercianos han cedido solo dos puntos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/26/66/0/la-deportiva-no-fallo-en-otra-de-las-grandes-citas-en-el-toralin-quinito-67.jpeg",
-    "pub": 1791633600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PP acusa a Sánchez de \"engañar\" a los bercianos incumpliendo sus compromisos con la zona",
-    "link": "https://www.lanuevacronica.com/el-bierzo/pp-acusa-sanchez-enganar-bercianos-incumpliendo-sus-compromisos-con-zona_204397_102.html",
-    "desc": "Denuncian que la provincia ha sido «invisible» para el Gobierno y señalan los retrasos de la A-76, el lazo del Manzanal y la ronda sur de Ponferrada",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/39/28/9/bano-de-masas-de-pedro-sanchez-en-leon-11.jpeg",
-    "pub": 1791632017,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Bañeza acerca la atención a los pacientes con esclerosis múltiple para evitar viajes a León",
-    "link": "https://www.lanuevacronica.com/actualidad/baneza-acerca-atencion-pacientes-con-esclerosis-multiple-evitar-viajes-leon_204396_102.html",
-    "desc": "El nuevo servicio, ubicado en el Hogar del Jubilado, ofrece fisioterapia, rehabilitación y atención especializada a los pacientes de la ciudad y la comarca",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/36/12/1/la-baneza-acerca-la-atencion-a-los-pacientes-con-esclerosis-multiple-para-evitar-viajes-a-leon.jpeg",
-    "pub": 1791630357,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Castilla y León amplía hasta los 11 años la vacunación infantil contra la gripe",
