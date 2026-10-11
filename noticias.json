@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "El extraño enigma de «lo bajero» del obispo de Oviedo",
+    "link": "https://www.lanuevacronica.com/opinion/extrano-enigma-lo-bajero-obispo-oviedo_204423_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791687000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las baldosas de la paz",
+    "link": "https://www.lanuevacronica.com/opinion/baldosas-paz_204421_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791686700,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ojo avizor",
+    "link": "https://www.lanuevacronica.com/opinion/ojo-avizor_204420_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791686400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las viejas minas de Valdefrancos",
+    "link": "https://www.lanuevacronica.com/el-bierzo/viejas-minas-valdefrancos_204153_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/15/7/mina-aspecto-de-una-galeria.jpeg",
+    "pub": 1791686100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Tiempos modernos",
     "link": "https://www.lanuevacronica.com/opinion/tiempos-modernos_204419_102.html",
     "desc": "",
@@ -88,36 +120,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Campeonato Provincial 2026 (m): Chelo remata su año de arte junto a La Saeta, Tomasuco y Pedro El Kamikaze",
-    "link": "https://www.lanuevacronica.com/deportes/campeonato-provincial-m-chelo-remata-su-ano-arte-junto-saeta-tomasuco-pedro-kamikaze_204424_102.html",
-    "desc": "El luchador de Puente Almuhey se toma la revancha del año pasado frente a Gasi;Sergio muestra su recuperación y Tomás y Pedro su poderío",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/37/71/6/1-lucha-familia.jpeg",
-    "pub": 1791678908,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ademar 36 - Nava 38: 'Condenados a sufrir para no descender'",
-    "link": "https://www.lanuevacronica.com/deportes/ademar-36-nava-38-condenados-sufrir-no-descender_204412_102.html",
-    "desc": "El Nava deja tocado a Puertas y saca los colores a un Ademar sin portería ni defensa y que llegó a ir 6 abajo en el ecuador de la segunda parte, cuando firmó una reacción que le puso a uno pero que…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/37/47/2/ademar-nava-7.jpeg",
-    "pub": 1791665489,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ponferrada revive la batalla que frenó la Revuelta Irmandiña en su castillo",
     "link": "https://www.elbierzodigital.com/ponferrada-revive-la-batalla-que-freno-la-revuelta-irmandina-en-su-castillo/",
     "desc": "El Castillo de Ponferrada regresó este sábado a 1467 para recrear uno de los episodios más singulares de la historia medieval del Bierzo: la batalla que puso freno al avance de la Revuelta Irmandiña…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/irmandinos-2026-el-bierzo-digital-12.jpeg",
     "pub": 1791654490,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Los Irmandiños vuelven a intentar tomar el Castillo",
-    "link": "https://www.lanuevacronica.com/el-bierzo/irmandinos-vuelven-intentar-tomar-castillo_204398_102.html",
-    "desc": "Más de 60 recreadores participaron en la batalla que cumple su octava edición y que es excepcional en España",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/36/68/7/batalla-0.jpeg",
-    "pub": 1791651291,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El Atlético Bembibre remonta en Salamanca y se coloca segundo en la clasificación",
@@ -142,14 +150,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/dani-giganto-reune-a-casi-un-centenar-de-personas-en-ponfevin-el-bierzo-digital.jpeg",
     "pub": 1791650405,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Rescatado un jinete herido tras caer de un caballo en una zona de montaña de San Emiliano",
-    "link": "https://www.lanuevacronica.com/sucesos/rescatado-jinete-herido-caer-caballo-en-zona-montana-san-emiliano_204406_102.html",
-    "desc": "Se trata de hombre de unos 70 años que tuvo que ser trasladado al hospital de León tras sufrir un traumatismo en la cabeza a causa de la caída",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/36/66/3/el-grupo-de-rescate-auxiliando-este-sabado-al-hombre-herido.jpeg",
-    "pub": 1791649385,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Cacabelos celebrará la IV Noche del Terror los días 30 y 31 de octubre y 1 y 2 de noviembre",
