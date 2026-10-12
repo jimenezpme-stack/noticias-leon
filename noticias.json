@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204460_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/41/01/1/12-10-2026-canton.jpeg",
+    "pub": 1791770400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León no está en la agenda para estas elecciones",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/leon-no-esta-en-agenda-estas-elecciones_204458_102.html",
+    "desc": "La visita del presidente del Gobierno a Ponferrada y las declaraciones de la portavoz de campaña del PP evidencian que los problemas de las pequeñas y medianas provincias no figuran entre las…",
+    "img": null,
+    "pub": 1791770400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Lucha leonesa: El corro del Pilar cierra la liga con la mirada y la emoción puesta en Florián y Sergio",
     "link": "https://www.lanuevacronica.com/deportes/lucha-leonesa-corro-pilar-cierra-liga-con-mirada-emocion-puesta-en-florian-sergio_204462_102.html",
     "desc": "El último corro de la liga decide el único título aún en juego, ligeros masculino, con dos aspirantes separados solamente por dos pLa Liga de Verano de Lucha senior baja esta tarde el telón, a las…",
@@ -104,14 +120,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Tradición viva, un año más, en Cármenes",
-    "link": "https://www.lanuevacronica.com/actualidad/tradicion-viva-ano-mas-en-carmenes_204446_102.html",
-    "desc": "La XXVI Feria Tradicional reunió ganado, artesanía y productos agroalimentarios en una jornada con desfile de pendones, pregón y música",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/39/87/6/la-feria-de-carmenes-combino-artesania-ganaderia-y-cultura-popular-e-nino-11.jpeg",
-    "pub": 1791736878,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Avilés acaba con el fortín de la Deportiva",
     "link": "https://www.elbierzodigital.com/ponferradina-aviles-cronica-2627/",
     "desc": "La Ponferradina cosechó su primera derrota en casa desde que cayera ante Osasuna Promesas el pasado mes de marzo (partido que Nafti había recordado en la previa). Los blanquiazules perdieron 0-2…",
@@ -149,14 +157,6 @@
     "desc": "Fulgencio Fernández se asoma a una ventana en la que tendrán cabida los personajes que nunca llegaron a pensar que sus historias le podían llegar a interesar a alguien",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/39/04/4/frame-11cataplasma.jpeg",
     "pub": 1791732894,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Detenido un octogenario reincidente por rayar de nuevo varios coches en Ponferrada",
-    "link": "https://www.lanuevacronica.com/sucesos/detenido-octogenario-reincidente-por-rayar-nuevo-varios-coches-en-ponferrada_204441_102.html",
-    "desc": "La Policía Municipal sorprendió al sospechoso en el aparcamiento de Ciuden, donde se habían denunciado daños en nueve vehículos durante las últimas semanas y que tenían antecedentes desde 2024",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/38/99/8/detenido-un-octogenario-reincidente-por-rayar-de-nuevo-varios-coches-en-ponferrada.jpeg",
-    "pub": 1791732323,
     "fuente": "La Nueva Crónica"
   },
   {
