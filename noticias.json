@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Diálogos con el pasado, 5 (El miedo de Julio)",
+    "link": "https://www.lanuevacronica.com/opinion/dialogos-con-pasado-5-el-miedo-julio_204456_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791771600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Bierzo necesita otra Mirada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/bierzo-necesita-otra-mirada_204328_102.html",
+    "desc": "Turismo, conservación y el futuro de las montañas del Bierzo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/43/5/manso-sendas.jpeg",
+    "pub": 1791771300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La IA asusta",
+    "link": "https://www.lanuevacronica.com/opinion/ia-asusta_204455_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791771000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La ciencia vuelve a mirar Peña do Seo como activo estratégico por sus reservas de wolframio",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ciencia-vuelve-mirar-pena-do-seo-como-activo-estrategico-por-sus-reservas-wolframio_203274_102.html",
+    "desc": "La ULE y el IGME-CSIC reivindican su potencial y plantean reevaluar el histórico distrito minero del Bierzo para orientar nuevas campañas de exploración",
+    "img": "https://www.lanuevacronica.com/uploads/s1/14/92/61/pena-del-seo-web.jpeg",
+    "pub": 1791771000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La viñeta de Cantón",
     "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204460_102.html",
     "desc": "",
@@ -104,14 +136,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Devoción por la patrona de la Maragatería un año más en Luyego de Somoza",
-    "link": "https://www.lanuevacronica.com/actualidad/devocion-por-patrona-maragateria-ano-mas-en-luyego-somoza_204448_102.html",
-    "desc": "La localidad celebra este fin de semana los actos en honor a Nuestra Señora de los Remedios, con la tradicional romería como eje central de los mismo que tuvo lugar este domingo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/39/89/6/devocion-por-la-patrona-de-la-maragateria-un-ano-mas-en-luyego-de-somoza.jpeg",
-    "pub": 1791738018,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Tres mujeres denuncian insultos y empujones durante el mitin de Pedro Sánchez en Ponferrada",
     "link": "https://www.elbierzodigital.com/tres-mujeres-denuncian-insultos-y-empujones-durante-el-mitin-de-pedro-sanchez-en-ponferrada/",
     "desc": "Tres mujeres de origen ceutí denuncian haber sufrido insultos, empujones e intentos de intimidación este domingo en el exterior de la Térmica Cultural de Ponferrada, durante el acto de precampaña…",
@@ -128,36 +152,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El equipo del presidente del Gobierno recibe distintas peticiones bercianas",
-    "link": "https://www.lanuevacronica.com/el-bierzo/equipo-presidente-gobierno-recibe-distintas-peticiones-bercianas_204444_102.html",
-    "desc": "Desde la Asociación Ciudadana Bierzo Ya piden la instalación de una fábrica de Indra en el Polígono del Bayo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/39/40/4/bierzoya.jpeg",
-    "pub": 1791736315,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "FOTOGALERÍA | Ponferradina-Real Avilés",
     "link": "https://www.elbierzodigital.com/fotogaleria-ponferradina-aviles-2627/",
     "desc": "Revive los mejores momentos del Ponferradina-Real Avilés Industrial de la séptima jornada de liga en el grupo 1 de Primera RFEF disputado este domingo, 11 de octubre, en El Toralín. [foogallery…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-aviles-26-27-el-bierzo-digital-36.jpeg",
     "pub": 1791736292,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "\"Salir fuera con Productos de León no es postureo, es una necesidad económica\"",
-    "link": "https://www.lanuevacronica.com/actualidad/salir-fuera-con-productos-leon-no-es-postureo-es-necesidad-economica_204408_102.html",
-    "desc": "Entrevista a Roberto Aller, vicepresidente de la Diputación y responsable del área de Productos de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/37/26/0/robertoaller.jpeg",
-    "pub": 1791733059,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Cataplasma: Los pinchos en las fiestas",
-    "link": "https://www.lanuevacronica.com/extras/la-cataplasma/cataplasma-pinchos-en-fiestas_204442_102.html",
-    "desc": "Fulgencio Fernández se asoma a una ventana en la que tendrán cabida los personajes que nunca llegaron a pensar que sus historias le podían llegar a interesar a alguien",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/39/04/4/frame-11cataplasma.jpeg",
-    "pub": 1791732894,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Detenido un octogenario acusado de rayar nueve vehículos en el aparcamiento del Museo de la Energía",
