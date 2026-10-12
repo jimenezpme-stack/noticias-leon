@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "La ULE aborda la inmigración con la proyección del 'Polígono X' de Néstor López",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/ule-aborda-inmigracion-con-proyeccion-poligono-nestor-lopez_204474_102.html",
+    "desc": "El Ateneo Cultural del Albéitar acogerá este martes la proyección del cortometraje en un evento de acceso libre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/41/36/2/juan-jose-ballesta-a-la-derecha-protagoniza-el-cortometraje-del-leones-nestor-lopez.jpeg",
+    "pub": 1791803987,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Guardia Civil de Castilla y León registra en los primeros ocho meses del año 21.000 delitos",
+    "link": "https://www.lanuevacronica.com/actualidad/guardia-civil-castilla-leon-registra-en-primeros-ocho-meses-ano-21000-delitos_204471_102.html",
+    "desc": "También contabiliza más de 6.000 ciberdelitos, según destaca el general de brigada Miguel Sánchez Guerrero, jefe de la 12 Zona de la Guardia Civil, durante la celebración del acto institucional en…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/41/34/4/la-guardia-civil-de-castilla-y-leon-registra-en-los-primeros-ocho-meses-del-ano-21-2.jpeg",
+    "pub": 1791803669,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Vibra Mahou amplía su programación en León con sesiones DJ",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/vibra-mahou-amplia-su-programacion-en-leon-con-sesiones-dj_204473_102.html",
+    "desc": "Dani del Lío recalará el próximo 23 de octubre en El Gran Café con su particular forma de entender la música",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/41/31/0/la-sesion-de-dani-del-lio-tendra-lugar-en-el-gran-cafe-de-leon.jpeg",
+    "pub": 1791803187,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Morala considera que la visita de Sánchez al Bierzo “es el epílogo de lo que pudo ser y no fue”",
+    "link": "https://www.elbierzodigital.com/morala-considera-que-la-visita-de-sanchez-al-bierzo-es-el-epilogo-de-lo-que-pudo-ser-y-no-fue/",
+    "desc": "El alcalde de Ponferrada, Marco Morala, valoró este lunes la visita de Pedro Sánchez el día anterior asegurando que \"es el epílogo de lo que pudo ser y no fue\" , señalando que \"el futuro del Bierzo…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/morala-considera-que-la-visita-de-sanchez-al-bierzo-es-el-epilogo-de-lo-que-pudo-ser-y-no-fue-el-bierzo-digital.jpg",
+    "pub": 1791803096,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Danza inclusiva para subir el telón del Auditorio leonés",
     "link": "https://www.lanuevacronica.com/lnc-culturas/danza-inclusiva-subir-telon-auditorio-leones_204472_102.html",
     "desc": "El taller impartido por Ángel Zotes e Isabel Álvarez arrancó el pasado 6 de octubre y se desarrollará todos los martes",
@@ -141,30 +173,6 @@
     "desc": "",
     "img": null,
     "pub": 1791772800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Paolo Rumiz y el hilo invisible que todavía une Europa",
-    "link": "https://www.lanuevacronica.com/el-bierzo/paolo-rumiz-hilo-invisible-todavia-une-europa_204332_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/55/1/el-hilo-infinito.jpeg",
-    "pub": 1791772800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Diálogos con el pasado, 5 (El miedo de Julio)",
-    "link": "https://www.lanuevacronica.com/opinion/dialogos-con-pasado-5-el-miedo-julio_204456_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791771600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Bierzo necesita otra Mirada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/bierzo-necesita-otra-mirada_204328_102.html",
-    "desc": "Turismo, conservación y el futuro de las montañas del Bierzo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/43/5/manso-sendas.jpeg",
-    "pub": 1791771300,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -357,14 +365,6 @@
     "desc": "El Hospital El Bierzo ha puesto en marcha una iniciativa para dar visibilidad al valor de los cuidados paliativos y al acompañamiento de las personas con enfermedades avanzadas y sus familias. Con…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-hospital-el-bierzo-invita-a-reflexionar-sobre-el-valor-de-cuidar-a-traves-de-un-mural-participativo-el-bierzo-digital.jpg",
     "pub": 1791623199,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Tres detenidos por la pelea que acabó con dos heridos por arma blanca en Ponferrada",
-    "link": "https://www.elbierzodigital.com/dos-heridos-por-arma-blanca-en-una-pelea-multitudinaria-en-ponferrada/",
-    "desc": "La Policía Nacional, en colaboración con la Policía Municipal, ha detenido a tres jóvenes por su presunta implicación en una pelea registrada en el centro de Ponferrada en la madrugada de este…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/11/una-conductora-resulta-herida-tras-colisionar-su-vehiculo-con-un-osezno-en-la-cl-626-el-bierzo-digital.jpg",
-    "pub": 1791622532,
     "fuente": "El Bierzo Digital"
   },
   {
