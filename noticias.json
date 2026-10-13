@@ -1,10 +1,26 @@
 [
   {
+    "titulo": "MonteLeón ya tiene finalistas de su primer certamen de teatro",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/monteleon-ya-tiene-finalistas-su-primer-certamen-teatro_204557_102.html",
+    "desc": "Compañías de León, Burgos, Valladolid y Extremadura subirán a las tablas del Teatro San Francisco entre el 25 de octubre y el 15 de noviembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/46/6/imagen-promocional-de-la-obra-madre-no-hay-mas-que-muchas-actuarte.jpeg",
+    "pub": 1791909586,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los presupuestos de Castilla y León 2027, partida a partida: Vivienda y Educación, principales subidas",
+    "link": "https://www.lanuevacronica.com/cyl/presupuestos-castilla-leon-2027-partida-partida-vivienda-educacion-principales-subidas_204555_102.html",
+    "desc": "La deuda pública es la única sección que reduce su dotación respecto a los últimos presupuestos, si bien es la tercera por volumen",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/44/4/manueco-y-pollan-castilla-y-leon.jpeg",
+    "pub": 1791909209,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El presupuesto de Castilla y León para 2027 se eleva un 13% y supera los 16.470 millones de euros",
     "link": "https://www.lanuevacronica.com/cyl/presupuesto-castilla-leon-2027-se-eleva-13-supera-16470-millones-euros_204534_102.html",
     "desc": "Las primeras cuentas del nuevo gobierno de coalición de PP y Vox se convierten en las más elevadas de la historia de la comunidad autónoma",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/44/02/9/pollan-y-manueco-presupuestos.jpeg",
-    "pub": 1791908363,
+    "pub": 1791908902,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -12,7 +28,7 @@
     "link": "https://www.lanuevacronica.com/cyl/recorte-4-millones-sindicatos-patronal-en-cuentas-castilla-leon_204554_102.html",
     "desc": "Pollán deja claro que cumplirán la ley y los convenios con las ONG pero advierte que vigilarán donde dirigen los fondos para decidir en futuros acuerdos",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/44/42/2/pollan-castilla-y-leon.jpeg",
-    "pub": 1791908321,
+    "pub": 1791908870,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -20,7 +36,7 @@
     "link": "https://www.lanuevacronica.com/deportes/luis-puertas-se-queda-sin-red_204547_102.html",
     "desc": "El Ademar ha perdido nueve de sus 11 últimos partidos entre el final de la temporada pasada y el inicio de la actual, dejando cuestionado al entrenador y señalada la confección de la plantilla",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/37/40/0/ademar-nava-3.jpeg",
-    "pub": 1791907909,
+    "pub": 1791908496,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -160,28 +176,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Detenido por tráfico de hachís e identificado un joven que realizaba graffitis en Ponferrada",
-    "link": "https://www.lanuevacronica.com/sucesos/detenido-por-trafico-hachis-identificado-joven-realizaba-graffitis-en-ponferrada_204528_102.html",
-    "desc": "Tenía nueve envoltorios de hachís en el momento de la detención y el investigado también portaba drogas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/13/24/02/www-iesve-fotoarchivo-1.jpeg",
-    "pub": 1791890041,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Una fotografía de la laguna de As Charcas, en Porcarizas, gana el concurso de los Ancares Leoneses",
     "link": "https://www.elbierzodigital.com/una-fotografia-de-la-laguna-de-as-charcas-en-porcarizas-gana-el-concurso-de-los-ancares-leoneses/",
     "desc": "Una fotografía de la l aguna de As Charcas, en el valle de Porcarizas , en Villafranca del Bierzo, se ha alzado con el primer premio del VIII Concurso de Fotografía de la Reserva de la Biosfera de…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/una-fotografia-de-la-laguna-de-as-charcas-en-porcarizas-gana-el-concurso-de-los-ancares-leoneses-el-bierzo-digital.jpeg",
     "pub": 1791890028,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Ayuntamiento de León presenta la nueva ordenanza de basuras: El recibo sube a 95 euros de media",
-    "link": "https://www.lanuevacronica.com/actualidad/ayuntamiento-leon-presenta-nueva-ordenanza-basuras-con-coste-11-millones-euros_204532_102.html",
-    "desc": "La propuesta del equipo de gobierno irá a pleno este mes de octubre con el objetivo de que entre en vigor el 1 de enero y tendrá un coste total de 11 millones de euros",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/05/1/tasa-basuras-contenedores-leon.jpeg",
-    "pub": 1791890015,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Cruz de Ferro recuperará su montículo de piedras con una inversión de 89.400 euros",
