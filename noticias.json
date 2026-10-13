@@ -1,5 +1,61 @@
 [
   {
+    "titulo": "Ponferrada encarga a Excarbi la mejora de los accesos a sus barrios por 120.760 euros",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-encarga-excarbi-mejora-accesos-sus-barrios-por-120760-euros_204536_102.html",
+    "desc": "La actuación incluye la reparación de viales deteriorados, mejoras en aceras y servicios urbanos y nueva señalización, con un plazo de ejecución de tres meses",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/10/4/fuentesnuevas.jpeg",
+    "pub": 1791890900,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El desgaste docente y la falta de apoyos especiales, lleva a la huelga en educación el 4 de noviembre",
+    "link": "https://www.lanuevacronica.com/el-bierzo/degaste-docente-falta-apoyos-especiales-lleva-huelga-en-educacion-4-noviembre_204518_102.html",
+    "desc": "Los docentes piden mayor retribución y más efectivos y sobre todo que se escuchen sus necesidades pensando más en las peculiaridades que en las ratios",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/84/1/delegados-ugt.jpeg",
+    "pub": 1791890865,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Caja Rural busca en León al autónomo más destacado por su trayectoria e impacto social",
+    "link": "https://www.elbierzodigital.com/caja-rural-busca-en-leon-al-autonomo-mas-destacado-por-su-trayectoria-e-impacto-social/",
+    "desc": "Caja Rural busca a los profesionales autónomos más destacados de la provincia de León con el Premio Autónomos Fuera de Serie , una iniciativa que reconoce la trayectoria, la capacidad de superación…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/caja-rural-busca-en-leon-al-autonomo-mas-destacado-por-su-trayectoria-e-impacto-social-el-bierzo-digital.jpg",
+    "pub": 1791890293,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Donlin, de pretendido por el Ademar a fichaje del Valladolid",
+    "link": "https://www.lanuevacronica.com/deportes/donlin-pretendido-por-ademar-fichaje-valladolid_204533_102.html",
+    "desc": "El pivote norteamericano, que jugó dos temporadas en León y estuvo cerca de regresar este verano, refuerza a un conjunto pucelano que lidera la Asobal",
+    "img": "https://www.lanuevacronica.com/uploads/s1/12/27/01/donlin26521.jpeg",
+    "pub": 1791890178,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Corro del Pilar en Boñar (m): Florián sufre la maldición de la remontada y Sergio se lleva la Liga en el último tren",
+    "link": "https://www.lanuevacronica.com/deportes/corro-pilar-en-bonar-m-florian-sufre-maldicion-remontada-sergio-se-lleva-liga-en-ultimo-tren_204499_102.html",
+    "desc": "La Saeta de Grandoso tuvo el sorteo que necesitaba y derrotó a Florián, que pierde su segunda Liga de idéntica manera; Samuel ganó su primer corro en semipesados y El Canario anunció su retirada…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/27/8/manteo-2.jpeg",
+    "pub": 1791890171,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "De la Barrera sólo dura nueve jornadas en Las Palmas",
+    "link": "https://www.lanuevacronica.com/deportes/barrera-solo-dura-nueve-jornadas-en-palmas_204512_102.html",
+    "desc": "El técnico, que dirigió el año pasado a la Cultural y cuya salida de León provocó una gran división entre la afición, es cesado en el equipo canario yendo 15º a 5 puntos del 'playoff'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/82/54/2/de-la-barrera-durante-uno-de-los-momentos-previos-ante-el-cordoba-fernando-otero.jpeg",
+    "pub": 1791890165,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Detenido por tráfico de hachís e identificado un joven que realizaba graffitis en Ponferrada",
+    "link": "https://www.lanuevacronica.com/sucesos/detenido-por-trafico-hachis-identificado-joven-realizaba-graffitis-en-ponferrada_204528_102.html",
+    "desc": "Tenía nueve envoltorios de hachís en el momento de la detención y el investigado también portaba drogas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/13/24/02/www-iesve-fotoarchivo-1.jpeg",
+    "pub": 1791890041,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Una fotografía de la laguna de As Charcas, en Porcarizas, gana el concurso de los Ancares Leoneses",
     "link": "https://www.elbierzodigital.com/una-fotografia-de-la-laguna-de-as-charcas-en-porcarizas-gana-el-concurso-de-los-ancares-leoneses/",
     "desc": "Una fotografía de la l aguna de As Charcas, en el valle de Porcarizas , en Villafranca del Bierzo, se ha alzado con el primer premio del VIII Concurso de Fotografía de la Reserva de la Biosfera de…",
@@ -8,28 +64,28 @@
     "fuente": "El Bierzo Digital"
   },
   {
+    "titulo": "El Ayuntamiento de León presenta la nueva ordenanza de basuras: El recibo sube a 95 euros de media",
+    "link": "https://www.lanuevacronica.com/actualidad/ayuntamiento-leon-presenta-nueva-ordenanza-basuras-con-coste-11-millones-euros_204532_102.html",
+    "desc": "La propuesta del equipo de gobierno irá a pleno este mes de octubre con el objetivo de que entre en vigor el 1 de enero y tendrá un coste total de 11 millones de euros",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/05/1/tasa-basuras-contenedores-leon.jpeg",
+    "pub": 1791890015,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El presupuesto de Castilla y León para 2027 se eleva un 13% y supera los 16.470 millones de euros",
+    "link": "https://www.lanuevacronica.com/cyl/presupuesto-castilla-leon-2027-se-eleva-13-supera-16470-millones-euros_204534_102.html",
+    "desc": "Las primeras cuentas del nuevo gobierno de coalición de PP y Vox se convierten en las más elevadas de la historia de la comunidad autónoma",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/02/9/pollan-y-manueco-presupuestos.jpeg",
+    "pub": 1791889928,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La Cruz de Ferro recuperará su montículo de piedras con una inversión de 89.400 euros",
     "link": "https://www.elbierzodigital.com/la-cruz-de-ferro-recuperara-su-monticulo-de-piedras-con-una-inversion-de-89-400-euros/",
     "desc": "La Cruz de Ferro , uno de los enclaves más emblemáticos del Camino de Santiago en la provincia de León, recuperará la configuración tradicional de su montículo de piedras con unas obras que…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-cruz-de-ferro-recuperara-su-monticulo-de-piedras-con-una-inversion-de-89-400-euros-el-bierzo-digital.jpeg",
     "pub": 1791889694,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PP de Castropodame reclama a Confederación una actuación urgente en el Boeza",
-    "link": "https://www.lanuevacronica.com/el-bierzo/pp-castropodame-reclama-confederacion-actuacion-urgente-en-boeza_204531_102.html",
-    "desc": "Los populares alertan de la acumulación de vegetación y áridos en el cauce y advierten de que las crecidas ya han provocado inundaciones en bajos y cocheras",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/01/3/tramo-del-boeza-a-su-paso-por-villaerde-de-los-cestos.jpeg",
-    "pub": 1791889631,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Ayuntamiento de León presenta la nueva ordenanza de basuras: El recibo sube a 95 euros de media",
-    "link": "https://www.lanuevacronica.com/actualidad/ayuntamiento-leon-presenta-nueva-ordenanza-basuras-con-coste-11-millones-euros_204532_102.html",
-    "desc": "La propuesta del equipo de gobierno irá a pleno este mes de octubre con el objetivo de que entre en vigor el 1 de enero y tendrá un coste total de 11 millones de euros",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/73/35/9/el-calor-de-la-noche-de-san-juan-en-leon-propicio-un-macrobotellon-que-deja-toneladas-de-basura.jpeg",
-    "pub": 1791889254,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Los Presupuestos de Castilla y León se elevan un 13 % hasta los 16.471,9 millones",
@@ -54,14 +110,6 @@
     "img": null,
     "pub": 1791888447,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Detenido por tráfico de hachís e identificado un joven que realizaba graffitis en Ponferrada",
-    "link": "https://www.lanuevacronica.com/sucesos/detenido-por-trafico-hachis-identificado-joven-realizaba-graffitis-en-ponferrada_204528_102.html",
-    "desc": "Tenía nueve envoltorios de hachís en el momento de la detención y el investigado también portaba drogas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/13/24/02/www-iesve-fotoarchivo-1.jpeg",
-    "pub": 1791888247,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "UGT denuncia en Ponferrada la falta de profesores y los bajos salarios en Castilla y León",
@@ -120,6 +168,14 @@
     "fuente": "La Nueva Crónica"
   },
   {
+    "titulo": "El PP de Castropodame pide limpiar el río Boeza en Villaverde de los Cestos ante el riesgo de crecidas",
+    "link": "https://www.elbierzodigital.com/el-pp-de-castropodame-pide-limpiar-el-rio-boeza-en-villaverde-de-los-cestos-ante-el-riesgo-de-crecidas/",
+    "desc": "El PP de Castropodame reclama a la Confederación Hidrográfica del Miño-Sil una actuación urgente en el río Boeza a su paso por Villaverde de los Cestos ante la acumulación de vegetación, maleza y…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-pp-de-castropodame-pide-limpiar-el-rio-boeza-en-villaverde-de-los-cestos-ante-el-riesgo-de-crecidas-el-bierzo-digital.jpeg",
+    "pub": 1791886805,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Ponferrada garantiza la continuidad de su Agente Local de Innovación con una nueva ayuda estatal",
     "link": "https://www.elbierzodigital.com/ponferrada-garantiza-la-continuidad-de-su-agente-local-de-innovacion-con-una-nueva-ayuda-estatal/",
     "desc": "El Ayuntamiento de Ponferrada podrá seguir contando en 2027 con un Agente Local de Innovación tras obtener nuevamente la subvención estatal destinada a financiar estas contrataciones dentro de la…",
@@ -144,14 +200,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "El desgaste docente y la falta de apoyos especiales, lleva a la huelga en educación el 4 de noviembre",
-    "link": "https://www.lanuevacronica.com/el-bierzo/degaste-docente-falta-apoyos-especiales-lleva-huelga-en-educacion-4-noviembre_204518_102.html",
-    "desc": "Los docentes piden mayor retribución y más efectivos y sobre todo que se escuchen sus necesidades pensando más en las peculiaridades que en las ratios",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/84/1/delegados-ugt.jpeg",
-    "pub": 1791884396,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León es la provincia de la comunidad que menos vacuna a los mayores de 60 años",
     "link": "https://www.lanuevacronica.com/actualidad/leon-es-provincia-comunidad-menos-vacuna-mayores-60-anos_204516_102.html",
     "desc": "Si se unifican todas las edades fue la segunda que más lo hizo en números brutos la pasada campaña, pero la última porcentualmente",
@@ -160,36 +208,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "De la Barrera sólo dura nueve jornadas en Las Palmas",
-    "link": "https://www.lanuevacronica.com/deportes/barrera-solo-dura-nueve-jornadas-en-palmas_204512_102.html",
-    "desc": "El técnico, que dirigió el año pasado a la Cultural y cuya salida de León provocó una gran división entre la afición, es cesado en el equipo canario yendo 15º a 5 puntos del 'playoff'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/32/82/54/2/de-la-barrera-durante-uno-de-los-momentos-previos-ante-el-cordoba-fernando-otero.jpeg",
-    "pub": 1791883647,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Corro del Pilar en Boñar (m): Florián sufre la maldición de la remontada y Sergio se lleva la Liga en el último tren",
-    "link": "https://www.lanuevacronica.com/deportes/corro-pilar-en-bonar-m-florian-sufre-maldicion-remontada-sergio-se-lleva-liga-en-ultimo-tren_204499_102.html",
-    "desc": "La Saeta de Grandoso tuvo el sorteo que necesitaba y derrotó a Florián, que pierde su segunda Liga de idéntica manera; Samuel ganó su primer corro en semipesados y El Canario anunció su retirada…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/27/8/manteo-2.jpeg",
-    "pub": 1791882625,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Herido un joven tras chocar con su patinete contra un jabalí en San Andrés",
-    "link": "https://www.lanuevacronica.com/sucesos/herido-joven-chocar-con-su-patinete-contra-jabali-en-san-andres_204511_102.html",
-    "desc": "El suceso ocurrió a primera hora de la mañana de este martes, cuando el animal invadió la calzada en el kilómetro siete de la LE-441",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/47/37/2/ambulancia-4-1000x563-4-1000x563-4-1000x563-4-1000x563-1.jpeg",
-    "pub": 1791882210,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Rescatan en helicóptero a una mujer que cayó a una poza de agua en el Faedo de Ciñera",
-    "link": "https://www.lanuevacronica.com/sucesos/rescatan-en-helicoptero-mujer-cayo-poza-agua-en-faedo-cinera_204510_102.html",
-    "desc": "La aeronave la trasladó hasta La Robla, donde la recogió una ambulancia y, tras ser atendida en el centro de salud, fue trasladada al Hospital de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/62/3/rescate-faedo-cinera-leon.png",
-    "pub": 1791882025,
-    "fuente": "La Nueva Crónica"
+    "titulo": "El DevFest regresa a Ponferrada el 22 de octubre con la inteligencia artificial como protagonista",
+    "link": "https://www.elbierzodigital.com/el-devfest-regresa-a-ponferrada-el-22-de-octubre-con-la-inteligencia-artificial-como-protagonista/",
+    "desc": "El Campus de Ponferrada celebrará el próximo 22 de octubre una nueva edición del DevFest , el encuentro tecnológico organizado por GDG Ponferrada (Google Developer Group) con el apoyo de la Cátedra…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/09/-el-bierzo-digital-203-e1727443765852.jpeg",
+    "pub": 1791883503,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Ponferrada se vuelca con la cubrición del Canal de Cornatel: unanimidad para cerrar una herida urbana",
@@ -341,30 +365,6 @@
     "desc": "Mehdi Nafti se remitió a su rueda de prensa previa al partido para iniciar la posterior a la derrota ante el Avilés , asegurando que \"tendremos más piedras en el camino. Si queremos hacer un…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-aviles-26-27-el-bierzo-digital-13.jpeg",
     "pub": 1791738745,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Tres mujeres denuncian insultos y empujones durante el mitin de Pedro Sánchez en Ponferrada",
-    "link": "https://www.elbierzodigital.com/tres-mujeres-denuncian-insultos-y-empujones-durante-el-mitin-de-pedro-sanchez-en-ponferrada/",
-    "desc": "Tres mujeres de origen ceutí denuncian haber sufrido insultos, empujones e intentos de intimidación este domingo en el exterior de la Térmica Cultural de Ponferrada, durante el acto de precampaña…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/tres-mujeres-denuncian-insultos-y-empujones-durante-el-mitin-de-pedro-sanchez-en-ponferrada-el-bierzo-digital.jpeg",
-    "pub": 1791737560,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Avilés acaba con el fortín de la Deportiva",
-    "link": "https://www.elbierzodigital.com/ponferradina-aviles-cronica-2627/",
-    "desc": "La Ponferradina cosechó su primera derrota en casa desde que cayera ante Osasuna Promesas el pasado mes de marzo (partido que Nafti había recordado en la previa). Los blanquiazules perdieron 0-2…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-aviles-acaba-con-el-fortin-de-la-deportiva-el-bierzo-digital.jpeg",
-    "pub": 1791736418,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "FOTOGALERÍA | Ponferradina-Real Avilés",
-    "link": "https://www.elbierzodigital.com/fotogaleria-ponferradina-aviles-2627/",
-    "desc": "Revive los mejores momentos del Ponferradina-Real Avilés Industrial de la séptima jornada de liga en el grupo 1 de Primera RFEF disputado este domingo, 11 de octubre, en El Toralín. [foogallery…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-aviles-26-27-el-bierzo-digital-36.jpeg",
-    "pub": 1791736292,
     "fuente": "El Bierzo Digital"
   },
   {
