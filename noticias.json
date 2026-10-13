@@ -1,11 +1,83 @@
 [
   {
+    "titulo": "Los Presupuestos de Castilla y León se elevan un 13 % hasta los 16.471,9 millones",
+    "link": "https://www.elbierzodigital.com/los-presupuestos-de-castilla-y-leon-se-elevan-un-13-hasta-los-16-4719-millones/",
+    "desc": "Los Presupuestos Generales de la Castilla y León para 2027 alcanzarán los 16.471,94 millones de euros al incrementarse un 13,11 por ciento en relación a las últimas cuentas aprobadas de 2024, lo que…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/los-presupuestos-de-castilla-y-leon-se-elevan-un-13-hasta-los-16-4719-millones-el-bierzo-digital-1.jpeg",
+    "pub": 1791889055,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La Peña Ciclista Villanueva celebra su 46 aniversario con una marcha de bicicletas antiguas",
+    "link": "https://www.elbierzodigital.com/la-pena-ciclista-villanueva-celebra-su-46-aniversario-con-una-marcha-de-bicicletas-antiguas/",
+    "desc": "La Peña Ciclista Villanueva celebrará el próximo 25 de octubre su 46 aniversario con una jornada organizada en colaboración con la Concejalía de Deportes de Ponferrada y la Asociación de Vecinos de…",
+    "img": null,
+    "pub": 1791888644,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Bembibre celebra el sábado su mercadillo de otoño",
+    "link": "https://www.elbierzodigital.com/bembibre-celebra-el-sabado-su-mercadillo-de-otono/",
+    "desc": "El Ayuntamiento de Bembibre celebrará este sábado, 17 de octubre, su mercadillo de otoño, que contará con más de 30 establecimientos participantes en la Plaza Santa Bárbara. El mercadillo abrirá de…",
+    "img": null,
+    "pub": 1791888447,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El PP de Castropodame reclama a Confederación una actuación urgente en el Boeza",
+    "link": "https://www.lanuevacronica.com/el-bierzo/pp-castropodame-reclama-confederacion-actuacion-urgente-en-boeza_204531_102.html",
+    "desc": "Los populares alertan de la acumulación de vegetación y áridos en el cauce y advierten de que las crecidas ya han provocado inundaciones en bajos y cocheras",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/01/3/tramo-del-boeza-a-su-paso-por-villaerde-de-los-cestos.jpeg",
+    "pub": 1791888386,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Detenido por tráfico de hachís e identificado un joven que realizaba graffitis en Ponferrada",
+    "link": "https://www.lanuevacronica.com/sucesos/detenido-por-trafico-hachis-identificado-joven-realizaba-graffitis-en-ponferrada_204528_102.html",
+    "desc": "Tenía nueve envoltorios de hachís en el momento de la detención y el investigado también portaba drogas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/13/24/02/www-iesve-fotoarchivo-1.jpeg",
+    "pub": 1791888247,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "UGT denuncia en Ponferrada la falta de profesores y los bajos salarios en Castilla y León",
+    "link": "https://www.elbierzodigital.com/ugt-denuncia-en-ponferrada-la-falta-de-profesores-y-los-bajos-salarios-en-castilla-y-leon/",
+    "desc": "UGT Enseñanza denuncia la falta de recursos humanos, los bajos salarios y la sobrecarga burocrática que soporta el profesorado de Castilla y León. Medio centenar de delegados sindicales se reúnen…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ugt-denuncia-en-ponferrada-la-falta-de-profesores-y-los-bajos-salarios-en-castilla-y-leon-el-bierzo-digital-1.jpeg",
+    "pub": 1791888188,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Una imagen de la laguna de As Charcas gana el VIII Concurso de Fotografía de los Ancares Leoneses",
+    "link": "https://www.lanuevacronica.com/el-bierzo/imagen-laguna-as-charcas-gana-viii-concurso-fotografia-ancares-leoneses_204530_102.html",
+    "desc": "El certamen, dedicado al agua, recibió 102 fotografías de 38 participantes y entregará sus premios el 2 de noviembre en el Ayuntamiento de Peranzanes",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/99/6/premio-1-laguna-de-as-charcas-evaristo-castedo-1536x1024.jpeg",
+    "pub": 1791888133,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Delgado: \"Ni hace dos semanas era malísimo ni ahora soy buenísimo\"",
+    "link": "https://www.lanuevacronica.com/deportes/delgado-ni-hace-dos-semanas-era-malisimo-ni-ahora-soy-buenisimo_204522_102.html",
+    "desc": "El delantero de la Cultural reconoce que \"ha sido complicado pero tenía la cabeza fría\" y señala que \"estaba acostumbrado a jugar con alguien al lado que me pueda ayudar en los desmarques y se ha…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/96/6/delgado131026.jpeg",
+    "pub": 1791888098,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La Policía Municipal de Ponferrada detiene a un hombre por presunto tráfico de hachís",
     "link": "https://www.elbierzodigital.com/la-policia-municipal-de-ponferrada-detiene-a-un-hombre-por-presunto-trafico-de-hachis/",
     "desc": "La Policía Municipal de Ponferrada detuvo durante la madrugada de este martes a un hombre de 26 años como presunto autor de un delito contra la salud pública por tráfico de drogas. Los agentes…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/06/Policia-Municipal-1-el-bierzo-digital.jpg",
     "pub": 1791887828,
     "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Astorga homenajea a las Franciscanas del Buen Consejo por sus 130 años de historia y servicio",
+    "link": "https://www.lanuevacronica.com/actualidad/astorga-homenajea-franciscanas-buen-consejo-por-sus-130-anos-historia-servicio_204527_102.html",
+    "desc": "El alcalde, José Luis Nieto, recibe a la superiora general de la Congregación, fundada en la ciudad en 1896, y reconoce su trayectoria educativa, pastoral y asistencial",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/94/6/astorga-homenajea-a-las-franciscanas-del-buen-consejo-por-sus-130-anos-de-historia-y-servicio.jpeg",
+    "pub": 1791887571,
+    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Comienza la campaña de vacunación en el Bierzo con perspectiva de alcanzar las 38.000 dosis",
@@ -21,14 +93,6 @@
     "desc": "El Ayuntamiento de San Andrés licita la gestión de la cafetería del Centro Municipal de Mayores de Trobajo del Camino",
     "img": "https://www.lanuevacronica.com/uploads/s1/40/93/9/centro-dia-16-02-17.jpeg",
     "pub": 1791886939,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Valencia de Don Juan se llena de sabores de caza y pesca con menús especiales y ruta de tapas",
-    "link": "https://www.lanuevacronica.com/actualidad/valencia-don-juan-se-llena-sabores-caza-pesca-con-menus-especiales-ruta-tapas_204521_102.html",
-    "desc": "La localidad celebra del 16 al 18 de octubre sus primeras jornadas gastronómicas dedicadas a estos productos, con menús a 38 euros y tapas a dos euros en siete propuestas hosteleras",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/87/8/valencia-de-don-juan-se-llena-de-sabores-de-caza-y-pesca-con-menus-especiales-y-ruta-de-tapas.jpeg",
-    "pub": 1791886668,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -53,14 +117,6 @@
     "desc": "Una nueva promoción de treinta profesionales de servicios centrales y de la red comercial participa en este programa",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/43/85/9/foto-1.jpeg",
     "pub": 1791884826,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ocho de los diez tintos mejor valorados del Bierzo en 2026 proceden de Corullón",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ocho-diez-tintos-mejor-valorados-bierzo-en-2026-proceden-corullon_204514_102.html",
-    "desc": "La Faraona 2024, de Descendientes de J. Palacios, logra los 100 puntos y es elegido tinto del año en el informe internacional elaborado por Beth Willard para Tim Atkin MW",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/74/2/corullon-10.jpeg",
-    "pub": 1791884553,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -136,36 +192,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Programa J1 o F1: cómo elegir un año escolar en Estados Unidos",
-    "link": "https://www.lanuevacronica.com/estilo-vida/programa-j1-f1-como-elegir-ano-escolar-en-estados-unidos_204508_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/41/2/ano-escolar-estados-unidos-j1-f1.jpeg",
-    "pub": 1791880449,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Peranzanes, Igüeña y Bembibre reciben ayudas para recuperar su patrimonio minero",
     "link": "https://www.elbierzodigital.com/peranzanes-iguena-y-bembibre-reciben-ayudas-para-recuperar-su-patrimonio-minero/",
     "desc": "Tres municipios bercianos recibirán financiación de la Diputación de León para recuperar y poner en valor su patrimonio industrial vinculado a la minería del carbón. Peranzanes, Igüeña y Bembibre se…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/peranzanes-iguena-y-bembibre-reciben-ayudas-para-recuperar-su-patrimonio-minero-el-bierzo-digital.jpeg",
     "pub": 1791880411,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Corro del Pilar de Boñar (f): Bea, Luzma y Edi, brillante final a un año extraño",
-    "link": "https://www.lanuevacronica.com/deportes/corro-pilar-bonar-f-bea-luzma-edi-brillante-final-ano-extrano_204500_102.html",
-    "desc": "Las que eran unas de las favoritas para ganar la Liga al inicio de la temporada se imponen en un vibrante último corro",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/31/8/luzma-rebe.jpeg",
-    "pub": 1791879634,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un libro para ver, conocer y entender nuestro Prerrománico",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/libro-ver-conocer-entender-nuestro-prerromanico_204507_102.html",
-    "desc": "'El Prerrománico Leonés. Arte en el Reino de León', es una gran obra divulgativa y colectiva en la que participan 14 grandes expertos y que se presenta este miércoles",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/37/0/san-miguel-escalada-leon-prerromanico.jpeg",
-    "pub": 1791879612,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Feria de Productos de León bate su récord con 45.000 visitantes y 108 expositores",
@@ -333,38 +365,6 @@
     "desc": "Sigue en directo el Ponferradina-Real Avilés Industrial de la séptima jornada de liga en el grupo 1 de Primera RFEF. El partido comienza a las 16.30 horas en El Toralín. La entrada EN DIRECTO |…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/en-directo-ponferradina-real-aviles-industrial-el-bierzo-digital.jpg",
     "pub": 1791728106,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Las Médulas corta su acceso por carretera para denunciar el abandono del pueblo y del Patrimonio Mundial",
-    "link": "https://www.elbierzodigital.com/las-medulas-corta-su-acceso-por-carretera-para-denunciar-el-abandono-del-pueblo-y-del-patrimonio-mundial/",
-    "desc": "Los vecinos de Las Médulas han llevado a cabo este domingo un corte intermitente de carretera para denunciar las carencias que, según la Asociación de Vecinos, sufren tanto la población como el…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/las-medulas-corta-su-acceso-por-carretera-para-denunciar-el-abandono-del-pueblo-y-del-patrimonio-mundial-el-bierzo-digital-3.jpeg",
-    "pub": 1791727398,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Clínica Ponferrada SDP se atasca en Melilla",
-    "link": "https://www.elbierzodigital.com/el-clinica-ponferrada-sdp-se-atasca-en-melilla/",
-    "desc": "El Clínica Ponferrada SDP no pudo con uno de los favoritos al ascenso, el Melilla Ciudad del Deporte, y cayó en el pabellón Javier Imbroda de la ciudad norteafricana por 82-69 en un partido en el…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-clinica-ponferrada-sdp-se-atasca-en-melilla-el-bierzo-digital-1.jpg",
-    "pub": 1791722943,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ester Muñoz acusa al Gobierno de subir los impuestos sin mejorar los servicios públicos",
-    "link": "https://www.elbierzodigital.com/ester-munoz-acusa-al-gobierno-de-subir-los-impuestos-sin-mejorar-los-servicios-publicos/",
-    "desc": "&nbsp; La portavoz del PP en el Congreso y de la campaña electoral para el 29N, Ester Muñoz, acusó este domingo al Gobierno de Pedro Sánchez de aumentar la presión fiscal sin mejorar los servicios…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ester-munoz-acusa-al-gobierno-de-subir-los-impuestos-sin-mejorar-los-servicios-publicos-el-bierzo-digital.jpg",
-    "pub": 1791720964,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Carlos Martínez llama en Ponferrada a responder con votos a los “insultos” de la derecha y la ultraderecha",
-    "link": "https://www.elbierzodigital.com/carlos-martinez-llama-en-ponferrada-a-responder-con-votos-a-los-insultos-de-la-derecha-y-la-ultraderecha/",
-    "desc": "El secretario general del PSOE de Castilla y León, Carlos Martínez, llamó este domingo en Ponferrada a movilizar al electorado progresista de cara a las próximas elecciones generales del 29N y…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/carlos-martinez-llama-en-ponferrada-a-responder-con-votos-a-los-insultos-de-la-derecha-y-la-ultraderecha-el-bierzo-digital.jpeg",
-    "pub": 1791720376,
     "fuente": "El Bierzo Digital"
   },
   {
