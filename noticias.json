@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Dónde está el límite",
+    "link": "https://www.lanuevacronica.com/opinion/donde-esta-limite_204490_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791858600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La autoridad del Rey Felipe",
+    "link": "https://www.lanuevacronica.com/opinion/autoridad-rey-felipe_204489_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791858000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "León no se resigna",
     "link": "https://www.lanuevacronica.com/opinion/tribuna-de-opinion/leon-no-se-resigna_204491_102.html",
     "desc": "",
@@ -96,27 +112,11 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La Feriona 'saca pecho' en Laciana",
-    "link": "https://www.lanuevacronica.com/actualidad/feriona-saca-pecho-en-laciana_204483_102.html",
-    "desc": "La gran cita de Villablino combinó este lunes más de 500 puestos en el gran mercado con la exposición de razas autóctonas y la reivindicación de la Mantequera Leonesa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/42/30/4/img-20261012-124738-1.jpeg",
-    "pub": 1791826684,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El rock más leonés regresa a la plaza de Don Gutierre",
     "link": "https://www.lanuevacronica.com/lnc-culturas/rock-mas-leones-regresa-plaza-don-gutierre_204486_102.html",
     "desc": "TumamuT, Meji y la Banda y Quercus completan el cartel de la novena edición del festival Llión Rock",
     "img": "https://www.lanuevacronica.com/uploads/s1/11/43/92/plaza-don-guitierre-5112020.jpeg",
     "pub": 1791826626,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Las 'Quimeras' de Sierra i Fabra y Ruiz Garzón en León: de la literatura que viene a la que ya llegó",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/quimeras-sierra-fabra-ruiz-garzon-en-leon-literatura-viene-ya-llego_204481_102.html",
-    "desc": "La cuarta edición del festival arranca este martes con una jornada matutina dedicada al alumnado leonés y una tarde dirigida al público general",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/42/27/7/jordi-sierra-i-fabra-y-ricard-ruiz-garzon-protagonistas-del-primer-dia-del-festival-leones-quimeras-francesc-gomez-celsius-232.jpeg",
-    "pub": 1791822276,
     "fuente": "La Nueva Crónica"
   },
   {
