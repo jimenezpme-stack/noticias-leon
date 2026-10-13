@@ -1,5 +1,61 @@
 [
   {
+    "titulo": "León no se resigna",
+    "link": "https://www.lanuevacronica.com/opinion/tribuna-de-opinion/leon-no-se-resigna_204491_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791857400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204497_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/12/0/13-10-2026-canton.jpeg",
+    "pub": 1791856800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un futuro que se vacía",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/futuro-se-vacia_204496_102.html",
+    "desc": "Las previsiones demográficas advierten de que tres de cada cuatro pueblos leoneses podrían desaparecer antes de un siglo y obligan a actuar con urgencia para lograr un no solo deseable sino…",
+    "img": null,
+    "pub": 1791856800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Así es la vida entre palmeros",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/es-vida-entre-palmeros_204495_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791856800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Consulta la vida que le queda a tu pueblo: solo uno de cada cuatro en León sobrevive más de un siglo",
+    "link": "https://www.lanuevacronica.com/actualidad/consulta-vida-queda-tu-pueblo-solo-cada-cuatro-en-leon-sobrevive-mas-siglo_204484_102.html",
+    "desc": "CON LISTADO | Un estudio de Axa y Correos apunta a que tres de cada cuatro localidades de la provincia desaparecerán en menos de 100 años, un drama social y cultural ante el que urge actuar",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/42/34/6/esperanzapueblos.jpeg",
+    "pub": 1791856800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Transición Justa pone 30,38 millones de euros en el tablero de Laciana",
+    "link": "https://www.lanuevacronica.com/actualidad/transicion-justa-pone-3038-millones-euros-en-tablero-laciana_204482_102.html",
+    "desc": "La respuesta a las preguntas del PP cifra en 18 los proyectos financiados en el área de Laciana-Alto Sil y detalla su grado de ejecución",
+    "img": "https://www.lanuevacronica.com/uploads/s1/30/70/25/6/frame-19ponfeblino.jpeg",
+    "pub": 1791856800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los amigos del barrio vuelven a reunirse para recuperar el \"¿Te acuerdas de…?\" de los años 50",
+    "link": "https://www.lanuevacronica.com/el-bierzo/amigos-barrio-vuelven-reunirse-recuperar-te-acuerdas-de-anos-50_204296_102.html",
+    "desc": "Desde hace 23 años celebran una comida anual para recuperar las historias con las que crecieron en las calles que entonces se llamaban General Moscardó, General Sanjurjo y Ramón y Cajal en Ponferrada",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/35/61/9/xxii-aniversario-amigos-de-barrio-2025.png",
+    "pub": 1791856800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Corro del Pilar en Boñar (m): Florián sufre la maldición de la remontada y Sergio se lleva la Liga en el último tren",
     "link": "https://www.lanuevacronica.com/deportes/corro-pilar-en-bonar-m-florian-sufre-maldicion-remontada-sergio-se-lleva-liga-en-ultimo-tren_204499_102.html",
     "desc": "La Saeta de Grandoso tuvo el sorteo que necesitaba y derrotó a Florián, que pierde su segunda Liga de idéntica manera; Samuel ganó su primer corro en semipesados y El Canario anunció su retirada…",
@@ -56,35 +112,11 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La ULE aborda la inmigración con la proyección del 'Polígono X' de Néstor López",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/ule-aborda-inmigracion-con-proyeccion-poligono-nestor-lopez_204474_102.html",
-    "desc": "El Ateneo Cultural del Albéitar acogerá este martes la proyección del cortometraje en un evento de acceso libre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/41/36/2/juan-jose-ballesta-a-la-derecha-protagoniza-el-cortometraje-del-leones-nestor-lopez.jpeg",
-    "pub": 1791826182,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Las 'Quimeras' de Sierra i Fabra y Ruiz Garzón en León: de la literatura que viene a la que ya llegó",
     "link": "https://www.lanuevacronica.com/lnc-culturas/quimeras-sierra-fabra-ruiz-garzon-en-leon-literatura-viene-ya-llego_204481_102.html",
     "desc": "La cuarta edición del festival arranca este martes con una jornada matutina dedicada al alumnado leonés y una tarde dirigida al público general",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/42/27/7/jordi-sierra-i-fabra-y-ricard-ruiz-garzon-protagonistas-del-primer-dia-del-festival-leones-quimeras-francesc-gomez-celsius-232.jpeg",
     "pub": 1791822276,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Una tierra y su rugido eterno por España",
-    "link": "https://www.lanuevacronica.com/actualidad/tierra-su-rugido-eterno-por-espana_204479_102.html",
-    "desc": "León celebró este lunes la Virgen del Pilar con actos institucionales y el tradicional desfile de la Benemérita en la explanada de San Marcos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/41/70/4/la-guardia-civil-de-leon-celebra-el-dia-del-pilar-24.jpeg",
-    "pub": 1791821704,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La literatura sale al encuentro del público en los 'Lunes con Letra'",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/literatura-sale-encuentro-publico-en-lunes-con-letra_204480_102.html",
-    "desc": "El ciclo puesto en marcha por investigadores de la ULE ofrecerá ocho conferencias entre el 19 de octubre y el 21 de diciembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/22/45/6/el-palacio-del-conde-luna-guarece-el-centro-de-interpretacion-del-reino-de-leon.jpeg",
-    "pub": 1791821525,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -94,30 +126,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/las-cortes-de-castilla-y-leon-reivindican-la-fiesta-nacional-como-jornada-de-encuentro-y-respeto-institucional-el-bierzo-digital-3.jpeg",
     "pub": 1791818913,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Guardia Civil de Ponferrada celebra el Pilar con seis condecoraciones y un homenaje a los caídos",
-    "link": "https://www.lanuevacronica.com/el-bierzo/guardia-civil-ponferrada-celebra-pilar-con-seis-condecoraciones-homenaje-caidos_204478_102.html",
-    "desc": "El subdelegado del Gobierno, Héctor Alaiz, preside los actos en el acuartelamiento berciano, que también han servido para reconocer la trayectoria de un agente veterano y dar la bienvenida al nuevo…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/42/21/7/la-guardia-civil-de-ponferrada-celebra-el-pilar-con-seis-condecoraciones-y-un-homenaje-a-los-caidos.jpeg",
-    "pub": 1791817121,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Emotivo homenaje en La Pola de Gordón al capitán Saúl Gómez y el teniente coronel Juan Villa",
-    "link": "https://www.lanuevacronica.com/actualidad/emotivo-homenaje-en-pola-gordon-capitan-saul-gomez-teniente-coronel-juan-villa_204477_102.html",
-    "desc": "El capitán, afincado en la localidad, había fallecido hace tan solo unos días, y villa, hijo del pueblo, se jubilaba precisamente este 12 de octubre tras 48 años en el cuerpo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/42/20/0/emotivo-homenaje-en-la-pola-de-gordon-al-capitan-saul-gomez-y-el-teniente-coronel-juan-villa.jpeg",
-    "pub": 1791817103,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Dos mujeres heridas en un accidente entre dos coches en la A-6 a su paso por Vega de Valcarce",
-    "link": "https://www.lanuevacronica.com/sucesos/dos-mujeres-heridas-en-accidente-entre-dos-coches-en-a-6-su-paso-por-vega-valcarce_204476_102.html",
-    "desc": "Una de las afectadas, de unos 75 años, presentaba dolor en el pecho, mientras que la otra, de unos 40, sufrió contusiones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/82/83/3/ambulancia-soporte-vital-basico-sacyl-4-1000x563.jpeg",
-    "pub": 1791814811,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Dos heridas tras una colisión de dos vehículos en la A-6",
@@ -142,14 +150,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/dia-del-pilar-2026-el-bierzo-digital-81.jpg",
     "pub": 1791809013,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Un motorista resulta herido inconsciente tras sufrir un accidente en una rotonda de León",
-    "link": "https://www.lanuevacronica.com/sucesos/motorista-resulta-herido-inconsciente-sufrir-accidente-en-rotonda-leon_204475_102.html",
-    "desc": "El suceso ha tenido lugar este lunes en la LE-11, a la altura del acceso al mercado de ganado, y ha obligado a movilizar a los servicios de emergencia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/28/3/ambulancia.jpeg",
-    "pub": 1791804348,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Morala considera que la visita de Sánchez al Bierzo “es el epílogo de lo que pudo ser y no fue”",
