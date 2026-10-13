@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Denuncian la corta en el pinar centenario de Piedrafita",
+    "link": "https://www.lanuevacronica.com/actualidad/denuncian-corta-en-pinar-centenario-piedrafita_204544_102.html",
+    "desc": "La organización Babia Trail cuestiona esta actuación y recuerda que la Junta le denegó el paso por motivos de conservación",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/22/7/la-denuncia-de-ha-difundido-en-redes-sociales-y-acompanada-de-fotografias-y-videos-sobre-la-intervencion-forestal-en-el-pinar-de-piedrafita-babia-trail-trail-facebook-2.jpeg",
+    "pub": 1791903331,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Fallece a los 100 años el jurista Juan Rodríguez, padre de Zapatero",
+    "link": "https://www.elbierzodigital.com/fallece-a-los-100-anos-el-jurista-juan-rodriguez-padre-de-zapatero/",
+    "desc": "El abogado leonés Juan Rodríguez García-Lozano falleció este lunes en León a los cien años . Padre del expresidente del Gobierno José Luis Rodríguez Zapatero , desarrolló una larga trayectoria…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/05/la-audiencia-nacional-imputa-a-jose-luis-rodriguez-zapatero-en-el-caso-plus-ultra-el-bierzo-digital.jpeg",
+    "pub": 1791903239,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Los bercianos en Cataluña celebran su Castañada Popular el 7 de noviembre en Barcelona",
+    "link": "https://www.elbierzodigital.com/los-bercianos-en-cataluna-celebran-su-castanada-popular-el-7-de-noviembre-en-barcelona/",
+    "desc": "La Asociación de Bercianos en Cataluña (Asobecat) celebrará el sábado 7 de noviembre su Castañada Popular 2026 con una cena de convivencia en el Asador El Bierzo de Barcelona. El encuentro comenzará…",
+    "img": null,
+    "pub": 1791903060,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Los impuestos aportarán más de la mitad de los ingresos previstos por Castilla y León en 2027",
     "link": "https://www.elbierzodigital.com/los-impuestos-aportaran-mas-de-la-mitad-de-los-ingresos-previstos-por-castilla-y-leon-en-2027/",
     "desc": "Los impuestos directos e indirectos concentrarán el 55,47% de los 16.471,94 millones de euros previstos en el proyecto de Presupuestos Generales de Castilla y León para 2027. La recaudación por…",
@@ -69,14 +93,6 @@
     "desc": "Los extranjeros supusieron el 80 por ciento del total, encabezados por Estados Unidos, Francia e Italia, y los nacionales procedieron en su mayoría del País Vasco, Madrid y Cataluña",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/44/17/8/peregrinos-camino-santiago-leon.jpeg",
     "pub": 1791893100,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Donlin, de pretendido por el Ademar a fichaje del Valladolid",
-    "link": "https://www.lanuevacronica.com/deportes/donlin-pretendido-por-ademar-fichaje-valladolid_204533_102.html",
-    "desc": "El pivote norteamericano, que jugó dos temporadas en León y estuvo cerca de regresar este verano, refuerza a un conjunto pucelano que lidera la Asobal",
-    "img": "https://www.lanuevacronica.com/uploads/s1/12/27/01/donlin26521.jpeg",
-    "pub": 1791892537,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -341,22 +357,6 @@
     "desc": "La Junta de Castilla y León ha aprobado ayudas por valor de 928.361 euros para impulsar 14 proyectos de investigación, desarrollo e innovación (I+D+i) promovidos por ocho agrupaciones empresariales…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-junta-destina-928-000-euros-a-14-proyectos-de-innovacion-empresarial-en-castilla-y-leon-el-bierzo-digital.jpg",
     "pub": 1791797279,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Las Cortes desbloquean la continuidad de Tomás Quintana como procurador del Común",
-    "link": "https://www.elbierzodigital.com/las-cortes-desbloquean-la-continuidad-de-tomas-quintana-como-procurador-del-comun/",
-    "desc": "Las Cortes de Castilla y León avanzan en la renovación de Tomás Quintana como procurador del Común después de que PP y PSOE hayan pactado su continuidad. La Comisión de Relaciones con el Procurador…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/las-cortes-desbloquean-la-continuidad-de-tomas-quintana-como-procurador-del-comun-el-bierzo-digital.jpeg",
-    "pub": 1791796558,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PSOE anuncia su voto a favor de cubrir el Canal de Cornatel",
-    "link": "https://www.elbierzodigital.com/el-psoe-anuncia-su-voto-a-favor-de-cubrir-el-canal-de-cornatel/",
-    "desc": "El PSOE de Ponferrada anunció este lunes que votará a favor del proyecto de cubrición del Canal de Cornatel a su paso por la zona alta de la ciudad que se va a llevar a pleno extraordinario el…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/07/ponferrada-borra-una-de-sus-grandes-cicatrices-urbanas-ayuntamiento-y-endesa-sellan-el-acuerdo-para-cubrir-el-canal-de-cornatel-el-bierzo-digital.jpeg",
-    "pub": 1791796255,
     "fuente": "El Bierzo Digital"
   },
   {
