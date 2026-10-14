@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Cenadores de jardín - no todos crean el mismo tipo de espacio exterior",
+    "link": "https://www.lanuevacronica.com/panorama/cenadores-jardin-no-todos-crean-mismo-tipo-espacio-exterior_204619_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/72/1/image.jpeg",
+    "pub": 1791995157,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La leonesa Margarita Robles será la 'número 2' de Sánchez al Congreso por Madrid",
+    "link": "https://www.lanuevacronica.com/actualidad/leonesa-margarita-robles-sera-numero-2-sanchez-congreso-por-madrid_204621_102.html",
+    "desc": "La actual ministra de Defensa estará seguida de Félix Bolaños, Grande Marlaska, Borja Cabezón y Rafael Simancas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/30/15/50/3/margarita-robles-ministra-de-defensa-en-su-visita-a-astorga.jpeg",
+    "pub": 1791993670,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Diócesis de León recibe la Medalla de Oro de la ciudad",
+    "link": "https://www.lanuevacronica.com/actualidad/diocesis-leon-recibe-medalla-oro-ciudad_204609_102.html",
+    "desc": "El Ayuntamiento entrega su máximo galardón a la institución religiosa por su servicio pastoral, su atención a los colectivos vulnerables y su contribución a la conservación del patrimonio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/47/0/la-diocesis-de-leon-recibe-la-medalla-de-oro-de-la-ciudad-7.jpeg",
+    "pub": 1791993631,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La Bañeza adjudica por más de 15.000 euros las obras de pavimentación de la calle Antonio Palau",
     "link": "https://www.lanuevacronica.com/actualidad/baneza-adjudica-por-mas-15000-euros-obras-pavimentacion-calle-antonio-palau_204620_102.html",
     "desc": "El Ayuntamiento bañezano contrata a la empresa Exfamex para renovar el firme de la calzada y mejorar la seguridad vial ante el deterioro que presenta actualmente",
@@ -62,22 +86,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Calle-Alcon-el-bierzo-digital.jpg",
     "pub": 1791985063,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Diócesis de León recibe la Medalla de Oro de la ciudad",
-    "link": "https://www.lanuevacronica.com/actualidad/diocesis-leon-recibe-medalla-oro-ciudad_204609_102.html",
-    "desc": "El Ayuntamiento entrega su máximo galardón a la institución religiosa por su servicio pastoral, su atención a los colectivos vulnerables y su contribución a la conservación del patrimonio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/47/0/la-diocesis-de-leon-recibe-la-medalla-de-oro-de-la-ciudad-7.jpeg",
-    "pub": 1791981526,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "OncoBierzo lleva su reivindicación a las puertas del Hospital de León",
-    "link": "https://www.lanuevacronica.com/el-bierzo/oncobierzo-lleva-su-reivindicacion-puertas-hospital-leon_204604_102.html",
-    "desc": "La asociación denuncia que vivir en El Bierzo, Laciana o La Cabrera no puede traducirse en menos garantías sanitarias y reclama, con una pancarta, que la atención no dependa del código postal",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/38/5/cartel-oncobierzo-en-leon-vale.jpeg",
-    "pub": 1791981362,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Confederación ya tiene prevista la actuación en el Boeza en Villaverde que reclamaba el PP",
@@ -150,14 +158,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/turbina-aterriza-en-ponferrada-con-una-descarga-de-rock-salvaje-junto-a-princesas-el-bierzo-digital.jpg",
     "pub": 1791977555,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Arrancan las obras del nuevo instituto de Villaquilambre",
-    "link": "https://www.lanuevacronica.com/actualidad/arrancan-obras-nuevo-instituto-villaquilambre_204603_102.html",
-    "desc": "Este martes comenzaron los trabajos de construcción que esperan estar finalizados en un plazo de dos años para acoger a 690 alumnos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/30/75/9/obra-instituto-de-villaquilambre.jpeg",
-    "pub": 1791977121,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El Hospital El Bierzo enseña a cuidar la piel durante los tratamientos contra el cáncer",
