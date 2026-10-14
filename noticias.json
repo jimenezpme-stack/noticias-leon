@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "¿Qué sería de los de la Caja?",
+    "link": "https://www.lanuevacronica.com/a-la-contra-2/que-seria-caja_204633_102.html",
+    "desc": "La última de La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/97/4/que-seria-de-los-de-la-caja.jpeg",
+    "pub": 1791998705,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Colegio Espíritu Santo: 75 años de misión y educación en Ponferrada",
+    "link": "https://www.elbierzodigital.com/colegio-espiritu-santo-75-anos-de-mision-y-educacion-en-ponferrada/",
+    "desc": "Las Misioneras Siervas del Espíritu Santo cumplen 75 años de presencia en Ponferrada y en España. Para conmemorar esta efeméride, el Colegio Espíritu Santo celebrará una eucaristía el próximo 25 de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/colegio-espiritu-santo-75-anos-de-mision-y-educacion-en-ponferrada-el-bierzo-digital.jpg",
+    "pub": 1791998516,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Cuenta atrás para convertir a León en epicentro de las letras",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/cuenta-atras-convertir-leon-en-epicentro-letras_204632_102.html",
+    "desc": "El Festival Palabra arrancará este viernes su programación, que se prolongará hasta el día 25 con Joan Manuel Serrat como ganador del Premio Leteo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/94/4/la-concejala-elena-aguado-y-el-director-del-festival-rafael-saravia-l-n-c.jpeg",
+    "pub": 1791997636,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La cineasta Anna Cornudella recala en el Musac con su primer largometraje",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/cineasta-anna-cornudella-recala-en-musac-con-su-primer-largometraje_204630_102.html",
+    "desc": "El encuentro contará con la proyección de 'The Human Hibernation' y un posterior coloquio con la directora",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/90/6/un-fotograma-del-largometraje-the-human-hibernation-de-anna-cornudella.jpeg",
+    "pub": 1791997376,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El documental en homenaje a Hermino Valbuena llega a El Crucero",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/documental-en-homenaje-hermino-valbuena-llega-crucero_204629_102.html",
+    "desc": "La cinta de Valentín Costo en recuerdo al montañero leonés podrá verse este jueves",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/54/31/1/collado-jermoso-foto-valenti-n-costo.jpeg",
+    "pub": 1791997209,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Pepa Mayo y Andrés Guerrero cerrarán la tercera jornada de Quimeras",
     "link": "https://www.lanuevacronica.com/lnc-culturas/pepa-mayo-andres-guerrero-cerraran-tercera-jornada-quimeras_204606_102.html",
     "desc": "El festival leonés continúa este jueves con dos nuevas citas para el alumnado de Secundaria y un encuentro abierto al público general",
@@ -117,38 +157,6 @@
     "desc": "El centrocampista de la Ponferradina tiene una rotura en una falange de su mano izquierda que le obligará a operarse este jueves con un tiempo de baja de alrededor de las 3 o 4 semanas, lo que le…",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/26/25/2/la-deportiva-no-fallo-en-otra-de-las-grandes-citas-en-el-toralin-quinito-30.jpeg",
     "pub": 1791979355,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Estos son los proyectos del Bierzo en los que la Junta prevé invertir en 2027",
-    "link": "https://www.lanuevacronica.com/el-bierzo/estos-son-los-proyectos-del-bierzo-en-los-que-la-junta-preve-invertir-en-2027_204596_102.html",
-    "desc": "Las cuentas reservan dos millones de euros para vivienda y 1,42 millones para Radioterapia, mientras la cuantía total planificada alcanza los 29,2 millones, un 24,6% más que en 2024",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/36/2/ubicacion-de-la-futura-unidad-satelite-de-radioterapia-del-hospital-el-bierzo-4-1000x563.jpeg",
-    "pub": 1791979200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Así se reparten los 240,5 millones que la Junta reserva para inversiones en la provincia de León",
-    "link": "https://www.lanuevacronica.com/actualidad/se-reparten-2405-millones-euros-junta-presupuesta-inversiones-en-leon_204584_102.html",
-    "desc": "Suponen un incremento del 4,5% y se centran principalmente en suelo industrial, vivienda, regadíos, la red de calor y el instituto de Villaquilambre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/34/0/presupuestos-2027.jpeg",
-    "pub": 1791979200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Detenido en Madrid tras intentar sacar de la carretera a una compañera de trabajo en Astorga",
-    "link": "https://www.lanuevacronica.com/sucesos/detenido-en-madrid-intentar-sacar-carretera-companera-trabajo-en-astorga_204610_102.html",
-    "desc": "El hombre, con numerosos antecedentes policiales, huyó de la ciudad tras embestir presuntamente en repetidas ocasiones el vehículo de la víctima por unas discrepancias económicas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/45/1/detenido-en-madrid-tras-intentar-sacar-de-la-carretera-a-una-companera-de-trabajo-en-astorga.jpeg",
-    "pub": 1791979144,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Monoloco anuncia su próxima fecha en León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/monoloco-anuncia-su-proxima-fecha-en-leon_204608_102.html",
-    "desc": "La organización del festival apostará a partir de ahora por una única edición al año",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/55/92/5/monoloco-fest-leon-2026-6.jpeg",
-    "pub": 1791979109,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "Una fotografía de la l aguna de As Charcas, en el valle de Porcarizas , en Villafranca del Bierzo, se ha alzado con el primer premio del VIII Concurso de Fotografía de la Reserva de la Biosfera de…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/una-fotografia-de-la-laguna-de-as-charcas-en-porcarizas-gana-el-concurso-de-los-ancares-leoneses-el-bierzo-digital.jpeg",
     "pub": 1791890028,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Cruz de Ferro recuperará su montículo de piedras con una inversión de 89.400 euros",
-    "link": "https://www.elbierzodigital.com/la-cruz-de-ferro-recuperara-su-monticulo-de-piedras-con-una-inversion-de-89-400-euros/",
-    "desc": "La Cruz de Ferro , uno de los enclaves más emblemáticos del Camino de Santiago en la provincia de León, recuperará la configuración tradicional de su montículo de piedras con unas obras que…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-cruz-de-ferro-recuperara-su-monticulo-de-piedras-con-una-inversion-de-89-400-euros-el-bierzo-digital.jpeg",
-    "pub": 1791889694,
     "fuente": "El Bierzo Digital"
   },
   {
