@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "Ponferrada lleva las aulas digitales al medio rural para que sus mayores no se queden atrás",
+    "link": "https://www.elbierzodigital.com/ponferrada-lleva-las-aulas-digitales-al-medio-rural-para-que-sus-mayores-no-se-queden-atras/",
+    "desc": "Aprender a manejar WhatsApp , pedir una cita médica o realizar gestiones bancarias desde el teléfono móvil es el objetivo de los talleres gratuitos que el Ayuntamiento de Ponferrada ha puesto en…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-lleva-las-aulas-digitales-al-medio-rural-para-que-sus-mayores-no-se-queden-atras-el-bierzo-digital-e1791965978605.jpeg",
+    "pub": 1791966321,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La Santa Compaña volverá a recorrer las calles de Fabero este Halloween",
+    "link": "https://www.elbierzodigital.com/la-santa-compana-volvera-a-recorrer-las-calles-de-fabero-este-halloween/",
+    "desc": "Como cada noche de Halloween, la Santa Compaña volverá a recorrer el próximo 31 de octubre las calles de Fabero con la recreación teatralizada de la funesta comitiva, que partirá desde el…",
+    "img": null,
+    "pub": 1791966257,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La vida en Kaikoura, el lugar más alejado a León de todo el planeta",
+    "link": "https://www.lanuevacronica.com/actualidad/vida-en-kaikoura-lugar-mas-alejado-leon-todo-planeta_204513_102.html",
+    "desc": "CON GALERÍA | A 20.000 kilómetros de distancia, esta pequeña ciudad entre el Pacífico y la alta montaña vive del turismo vinculado al avistamiento de ballenas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/47/9/antipodasleon.jpeg",
+    "pub": 1791965567,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Alimerka cierra uno de sus supermercados en León y reduce los servicios en El Ejido y Santa Ana",
+    "link": "https://www.lanuevacronica.com/actualidad/alimerka-cierra-sus-supermercados-en-leon-reduce-servicios-en-ejido-santa-ana_204580_102.html",
+    "desc": "La cadena asturiana echa el cierre a su establecimiento de la avenida Reino de León en plena polémica laboral por los cambios de turnos y la reducción de los descansos de sus trabajadores",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/71/1/alimerka-cierre-supermercado-reino-de-leon.jpeg",
+    "pub": 1791965545,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Bembibre celebra su magosto popular el 24 de octubre",
+    "link": "https://www.elbierzodigital.com/bembibre-celebra-su-magosto-popular-el-24-de-octubre/",
+    "desc": "El Ayuntamiento de Bembibre organiza el próxio 24 de octubre su , que tendrá lugar en el pabellón Manuel Marqués &#8216;Patarita&#8217; a partir de las 20.00 horas con castañas y empanada para todos…",
+    "img": null,
+    "pub": 1791964745,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Castilla y León registra un IPC del 5,4% en septiembre, cinco décimas por encima de la media nacional",
     "link": "https://www.elbierzodigital.com/castilla-y-leon-registra-un-ipc-del-54-en-septiembre-cinco-decimas-por-encima-de-la-media-nacional/",
     "desc": "La tasa anual del Índice de Precios de Consumo (IPC) alcanzó el 5,4% en Castilla y León durante el pasado mes de septiembre, cinco décimas por encima de la media nacional, que se situó en el 4,9%.…",
@@ -120,26 +160,10 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La vida en Kaikoura, el lugar más alejado a León de todo el planeta",
-    "link": "https://www.lanuevacronica.com/actualidad/vida-en-kaikoura-lugar-mas-alejado-leon-todo-planeta_204513_102.html",
-    "desc": "CON GALERÍA | A 20.000 kilómetros de distancia, esta pequeña ciudad entre el Pacífico y la alta montaña vive del turismo vinculado al avistamiento de ballenas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/47/9/antipodasleon.jpeg",
-    "pub": 1791943200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El último legado de Otto Schenk en la Ópera de Viena",
     "link": "https://www.lanuevacronica.com/lnc-culturas/ultimo-legado-otto-schenk-en-opera-viena_204559_102.html",
     "desc": "Cines Van Gogh retransmite este jueves 'L'elisir d'amore' en la versión del fallecido director de escena austriaco y con Maria Nazarova y Bogdan Volkov",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/44/49/6/un-instante-de-la-opera-l-elisir-d-amore-de-otto-schenk-cines-van-gogh.webp",
-    "pub": 1791943200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "¿Turismo \"de borrachera\"?: Los dueños de los pisos turísticos de León afirman que casi no hay quejas",
-    "link": "https://www.lanuevacronica.com/actualidad/turismo-borrachera-duenos-pisos-turisticos-leon-afirman-casi-no-hay-quejas_204553_102.html",
-    "desc": "Este tipo de alojamientos siguen sin tocar techo en la provincia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/40/0/turismoleon.jpeg",
     "pub": 1791943200,
     "fuente": "La Nueva Crónica"
   },
@@ -333,30 +357,6 @@
     "desc": "La Feria de los Productos de León despidió este lunes su trigésima segunda edición con cifras históricas. Más de 45.000 personas pasaron por el Palacio de Congresos y Exposiciones de la capital…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-feria-de-productos-de-leon-bate-su-record-con-45-000-visitantes-y-108-expositores-el-bierzo-digital.jpg",
     "pub": 1791876642,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Sagrario Rodríguez, la farmacéutica que eligió Corullón: 21 años cuidando de un pueblo que también es su casa",
-    "link": "https://www.elbierzodigital.com/sagrario-rodriguez-la-farmaceutica-que-eligio-corullon-21-anos-cuidando-de-un-pueblo-que-tambien-es-su-casa/",
-    "desc": "Hay lugares a los que uno vuelve porque los siente suyos , incluso antes de haber decidido quedarse . A Sagrario Rodríguez le ocurría cada verano desde cría. Aunque nació y creció en Madrid , el…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/entrevista-mujer-corullon-el-bierzo-digital-4.jpeg",
-    "pub": 1791874851,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Herido leve un niño de dos años tras ser atropellado por un turismo en Ponferrada",
-    "link": "https://www.elbierzodigital.com/herido-leve-un-nino-de-dos-anos-tras-ser-atropellado-por-un-turismo-en-ponferrada/",
-    "desc": "Un niño de dos años ha resultado herido leve este martes tras ser atropellado por un turismo en la calle General Gómez Núñez de Ponferrada, a la altura del número 28. Según ha informado el servicio…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/10/el-psoe-denuncia-que-el-ayuntamiento-de-ponferrada-no-ha-abonado-los-anticipos-del-programa-de-rehabilitacion-de-viviendas-errp-el-bierzo-digital.jpeg",
-    "pub": 1791874395,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Cuatro asociaciones ecologistas denuncian vertidos continuados de cenizas y lodos en los ríos Cabo y Cabrera",
-    "link": "https://www.elbierzodigital.com/cuatro-asociaciones-ecologistas-denuncian-vertidos-continuados-de-cenizas-y-lodos-en-los-rios-cabo-y-cabrera/",
-    "desc": "Cuatro asociaciones ecologistas han denunciado la continuidad de los vertidos de cenizas y lodos procedentes de la presa del salto de Boca del Casar, en el río Cabo, afluente del Cabrera. Según los…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/cuatro-asociaciones-ecologistas-denuncian-vertidos-continuados-de-cenizas-y-lodos-en-los-rios-cabo-y-cabrera-el-bierzo-digital.jpg",
-    "pub": 1791874380,
     "fuente": "El Bierzo Digital"
   },
   {
