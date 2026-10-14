@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "El Bierzo cuenta con 28 misioneros en activo en los cinco continentes",
+    "link": "https://www.lanuevacronica.com/el-bierzo/bierzo-cuenta-con-28-misioneros-en-activo-en-cinco-continentes_204586_102.html",
+    "desc": "La diócesis de Astorga presenta la campaña del Domund, cuya colecta se celebrará este domingo para financiar la labor evangelizadora y social de las misiones, en el año en que se cumple el…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/80/9/domund-1.jpeg",
+    "pub": 1791970167,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Arturo Molina tendrá que pasar por quirófano",
+    "link": "https://www.lanuevacronica.com/deportes/arturo-molina-tendra-pasar-por-quirofano_204588_102.html",
+    "desc": "El centrocampista de la Ponferradina tiene una rotura en una falange de su mano izquierda que le obligará a operarse este jueves con un tiempo de baja de alrededor de las 3 o 4 semanas, lo que le…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/26/25/2/la-deportiva-no-fallo-en-otra-de-las-grandes-citas-en-el-toralin-quinito-30.jpeg",
+    "pub": 1791969843,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ramoncín hará escala en León con una gira por sus 50 años de trayectoria",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/ramoncin-hara-escala-en-leon-con-gira-por-sus-50-anos-trayectoria_204585_102.html",
+    "desc": "El músico sonará en el Palacio de Exposiciones de la mano de su 'Tour Celebración 50/70'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/83/1/ramoncin-en-una-imagen-de-archivo-abc.webp",
+    "pub": 1791969491,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cómo evitar el bombardeo de propaganda electoral en tu buzón",
+    "link": "https://www.elbierzodigital.com/como-evitar-el-bombardeo-de-propaganda-electoral-en-tu-buzon/",
+    "desc": "Aunque vivimos en la era digital, las campañas electorales siguen teniendo mucho de analógico: los partidos mantienen la tradicional pegada de carteles a medianoche en la fecha que comienza la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/como-evitar-el-bombardeo-de-propaganda-electoral-en-tu-buzon-el-bierzo-digital.jpg",
+    "pub": 1791969412,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "¿Qué sería de los de la Caja?",
+    "link": "https://www.lanuevacronica.com/extras/a-la-contra/que-seria-caja_204583_102.html",
+    "desc": "La última de La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/79/1/contra.jpeg",
+    "pub": 1791968912,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Fabero convierte el cine en una ventana a la realidad de las mujeres rurales",
     "link": "https://www.elbierzodigital.com/fabero-convierte-el-cine-en-una-ventana-a-la-realidad-de-las-mujeres-rurales/",
     "desc": "Fabero se sumará a la IX Edición del Ciclo Nacional de Cine y Mujeres Rurales con una propuesta que invita a descubrir otras realidades a través de la gran pantalla . La localidad berciana…",
@@ -54,14 +94,6 @@
     "img": null,
     "pub": 1791966257,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La vida en Kaikoura, el lugar más alejado a León de todo el planeta",
-    "link": "https://www.lanuevacronica.com/actualidad/vida-en-kaikoura-lugar-mas-alejado-leon-todo-planeta_204513_102.html",
-    "desc": "CON GALERÍA | A 20.000 kilómetros de distancia, esta pequeña ciudad entre el Pacífico y la alta montaña vive del turismo vinculado al avistamiento de ballenas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/47/9/antipodasleon.jpeg",
-    "pub": 1791965567,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Alimerka cierra uno de sus supermercados en León y reduce los servicios en El Ejido y Santa Ana",
@@ -136,6 +168,22 @@
     "fuente": "El Bierzo Digital"
   },
   {
+    "titulo": "El PSOE de Ponferrada activa su maquinaria electoral con Lorena Valle y Eduardo Morán entre sus propuestas",
+    "link": "https://www.elbierzodigital.com/el-psoe-de-ponferrada-activa-su-maquinaria-electoral-con-lorena-valle-como-apuesta-para-el-congreso/",
+    "desc": "El PSOE de Ponferrada ha comenzado a preparar las elecciones generales del próximo 29 de noviembre con la constitución de su Comité Electoral y la propuesta de cuatro nombres para las candidaturas…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-de-ponferrada-activa-su-maquinaria-electoral-con-lorena-valle-y-eduardo-moran-entre-sus-propuestas-el-bierzo-digital.jpg",
+    "pub": 1791960944,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Alphonsine Kitumua: “Por poco que se tenga, siempre hay algo que dar”",
+    "link": "https://www.elbierzodigital.com/alphonsine-kitumua-por-poco-que-se-tenga-siempre-hay-algo-que-dar/",
+    "desc": "El aula magna del Colegio Diocesano San Ignacio de Ponferrada acogió la presentación de la Jornada del Domund 2026, que se celebrará el próximo domingo en el año en que se cumple el centenario de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/alphonsine-kitumua-por-poco-que-se-tenga-siempre-hay-algo-que-dar-el-bierzo-digital-1.jpeg",
+    "pub": 1791960611,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "La mentira del fútbol",
     "link": "https://www.lanuevacronica.com/opinion/mentira-futbol_204572_102.html",
     "desc": "",
@@ -166,38 +214,6 @@
     "img": null,
     "pub": 1791943800,
     "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El chivo de los tercios",
-    "link": "https://www.lanuevacronica.com/opinion/chivo-tercios_204570_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791943500,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204575_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/61/8/14-10-2026-canton.jpeg",
-    "pub": 1791943200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un servicio esencial",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/servicio-esencial_204574_102.html",
-    "desc": "La nueva ordenanza municipal del Ayuntamiento de León busca repartir con mayor justicia el coste real de un servicio esencial que, por imperativo legal, ya no puede ser deficitario",
-    "img": null,
-    "pub": 1791943200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PSOE de Ponferrada activa su maquinaria electoral con Lorena Valle y Eduardo Morán entre sus propuestas",
-    "link": "https://www.elbierzodigital.com/el-psoe-de-ponferrada-activa-su-maquinaria-electoral-con-lorena-valle-como-apuesta-para-el-congreso/",
-    "desc": "El PSOE de Ponferrada ha comenzado a preparar las elecciones generales del próximo 29 de noviembre con la constitución de su Comité Electoral y la propuesta de cuatro nombres para las candidaturas…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-de-ponferrada-activa-su-maquinaria-electoral-con-lorena-valle-y-eduardo-moran-entre-sus-propuestas-el-bierzo-digital.jpg",
-    "pub": 1791924524,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "UPL renuncia a las elecciones generales para volcarse en las municipales de mayo",
@@ -341,22 +357,6 @@
     "desc": "El Ayuntamiento de Ponferrada podrá seguir contando en 2027 con un Agente Local de Innovación tras obtener nuevamente la subvención estatal destinada a financiar estas contrataciones dentro de la…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-garantiza-la-continuidad-de-su-agente-local-de-innovacion-con-una-nueva-ayuda-estatal-el-bierzo-digital-1.jpg",
     "pub": 1791886634,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El DevFest regresa a Ponferrada el 22 de octubre con la inteligencia artificial como protagonista",
-    "link": "https://www.elbierzodigital.com/el-devfest-regresa-a-ponferrada-el-22-de-octubre-con-la-inteligencia-artificial-como-protagonista/",
-    "desc": "El Campus de Ponferrada celebrará el próximo 22 de octubre una nueva edición del DevFest , el encuentro tecnológico organizado por GDG Ponferrada (Google Developer Group) con el apoyo de la Cátedra…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/09/-el-bierzo-digital-203-e1727443765852.jpeg",
-    "pub": 1791883503,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ponferrada se vuelca con la cubrición del Canal de Cornatel: unanimidad para cerrar una herida urbana",
-    "link": "https://www.elbierzodigital.com/ponferrada-se-vuelca-con-la-cubricion-del-canal-de-cornatel-unanimidad-para-cerrar-una-herida-urbana-de-5-millones/",
-    "desc": "La cubrición del Canal de Cornatel dio este martes uno de los pasos decisivos para su ejecución con el respaldo unánime de la corporación municipal de Ponferrada . Todos los grupos políticos…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-se-vuelca-con-la-cubricion-del-canal-de-cornatel-unanimidad-para-cerrar-una-herida-urbana-el-bierzo-digital.jpeg",
-    "pub": 1791881646,
     "fuente": "El Bierzo Digital"
   },
   {
