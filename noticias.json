@@ -1,9 +1,25 @@
 [
   {
+    "titulo": "La cosecha de maíz avanza a un ritmo histórico en León y podría estar terminada en octubre",
+    "link": "https://www.lanuevacronica.com/actualidad/cosecha-maiz-avanza-ritmo-historico-en-leon-podria-estar-terminada-en-octubre_204616_102.html",
+    "desc": "La Lonja Agropecuaria destaca las condiciones óptimas del grano y mantiene su cotización en 250 euros por tonelada, mientras suben los precios del ovino, la alfalfa y la leche de vaca",
+    "img": "https://www.lanuevacronica.com/uploads/s1/23/74/93/4/saul-0113473.jpeg",
+    "pub": 1791986427,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Óscar Avendaño lleva su rock a Los Barrios de Gordón",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/oscar-avendano-lleva-su-rock-barrios-gordon_204614_102.html",
+    "desc": "El músico vigués actuará este viernes en el teleclub El Altico para presentar 'El huevo de la serpiente', su último trabajo discográfico",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/68/6/thumbnail.jpeg",
+    "pub": 1791986400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Fallece un hombre de 76 años tras sufrir un desvanecimiento en una cafetería de Ponferrada",
     "link": "https://www.elbierzodigital.com/fallece-un-hombre-de-76-anos-tras-sufrir-un-desvanecimiento-en-una-cafeteria-de-ponferrada/",
-    "desc": "Los servicios de emergencia realizaron maniobras de reanimación cardiopulmonar durante cerca de media hora, pero no pudieron salvar su vida La entrada Fallece un hombre de 76 años tras sufrir un…",
-    "img": null,
+    "desc": "Un hombre de 76 años ha fallecido este mediodía tras sufrir un desvanecimiento en una cafetería situada en la calle Alcón , en el centro de Ponferrada. Hasta el establecimiento se desplazaron varias…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Calle-Alcon-el-bierzo-digital.jpg",
     "pub": 1791985063,
     "fuente": "El Bierzo Digital"
   },
@@ -136,14 +152,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Ponferrada mejora la seguridad peatonal junto al centro de Asprona en Flores del Sil",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-mejora-seguridad-peatonal-junto-centro-asprona-en-flores-sil_204599_102.html",
-    "desc": "La Brigada de Obras instala barreras para impedir que los vehículos invadan la zona peatonal, rebaja la acera y reorganiza el estacionamiento en la calle Málaga",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/28/3/calle-malaga-2.jpeg",
-    "pub": 1791974936,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ponferrada refuerza la seguridad en el entorno de Asprona en Flores del Sil",
     "link": "https://www.elbierzodigital.com/ponferrada-refuerza-la-seguridad-en-el-entorno-de-asprona-en-flores-del-sil/",
     "desc": "El entorno del centro de Asprona en el barrio ponferradino de Flores del Sil ha estrenado nuevas medidas de segurida d tras los trabajos realizados en el aparcamiento de la calle Málaga . La…",
@@ -152,19 +160,19 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El PP asegura que Ester Muñoz \"quiere presentarse por León\" en las elecciones generales",
-    "link": "https://www.lanuevacronica.com/actualidad/pp-asegura-ester-munoz-quiere-presentarse-por-leon-en-elecciones-generales_204597_102.html",
-    "desc": "A pesar del deseo de la leonesa y portavoz de la campaña electoral del PP, la decisión final recaerá sobre la Vicesecretaría de Organización a nivel nacional",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/24/2/la-portavoz-del-grupo-parlamentario-popular-ester-munoz-durante-una-rueda-de-prensa-en-el-congreso-de-los-diputados.jpeg",
-    "pub": 1791974154,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El PP denuncia el retraso de las ayudas a los Ancares y al resto de Reservas de la Biosfera de León",
     "link": "https://www.elbierzodigital.com/el-pp-denuncia-el-retraso-de-las-ayudas-a-los-ancares-y-al-resto-de-reservas-de-la-biosfera-de-leon/",
     "desc": "Las Reservas de la Biosfera de León , entre ellas la de los Ancares Leoneses, continúan a la espera de las ayudas provinciales destinadas a cubrir sus gastos de funcionamiento . Así lo ha denunciado…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/09/Ancares-10-el-bierzo-digital-1.jpg",
     "pub": 1791973321,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Alphonsine Kitumua: “Por poco que se tenga, siempre hay algo que dar”",
+    "link": "https://www.elbierzodigital.com/alphonsine-kitumua-por-poco-que-se-tenga-siempre-hay-algo-que-dar/",
+    "desc": "El aula magna del Colegio Diocesano San Ignacio de Ponferrada acogió la presentación de la Jornada del Domund 2026, que se celebrará el próximo domingo en el año en que se cumple el centenario de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/alphonsine-kitumua-por-poco-que-se-tenga-siempre-hay-algo-que-dar-el-bierzo-digital-1.jpeg",
+    "pub": 1791971411,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -253,14 +261,6 @@
     "desc": "El PSOE de León ha concluido el proceso de primarias para elegir a sus representantes en las candidaturas a las Cortes Generales del próximo 29 de noviembre . Tras las asambleas celebradas en las…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/04/Cendon-el-bierzo-digital-scaled.jpg",
     "pub": 1791960934,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Alphonsine Kitumua: “Por poco que se tenga, siempre hay algo que dar”",
-    "link": "https://www.elbierzodigital.com/alphonsine-kitumua-por-poco-que-se-tenga-siempre-hay-algo-que-dar/",
-    "desc": "El aula magna del Colegio Diocesano San Ignacio de Ponferrada acogió la presentación de la Jornada del Domund 2026, que se celebrará el próximo domingo en el año en que se cumple el centenario de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/alphonsine-kitumua-por-poco-que-se-tenga-siempre-hay-algo-que-dar-el-bierzo-digital-1.jpeg",
-    "pub": 1791960611,
     "fuente": "El Bierzo Digital"
   },
   {
