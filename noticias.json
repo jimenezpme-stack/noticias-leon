@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "De lo emocional y la memoria",
+    "link": "https://www.lanuevacronica.com/opinion/emocional-memoria_204569_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791944400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Madreñada",
+    "link": "https://www.lanuevacronica.com/opinion/madrenada_204568_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791943800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El chivo de los tercios",
+    "link": "https://www.lanuevacronica.com/opinion/chivo-tercios_204570_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791943500,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La viñeta de Cantón",
     "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204575_102.html",
     "desc": "",
@@ -80,14 +104,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "MonteLeón ya tiene finalistas de su primer certamen de teatro",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/monteleon-ya-tiene-finalistas-su-primer-certamen-teatro_204557_102.html",
-    "desc": "Compañías de León, Burgos, Valladolid y Extremadura subirán a las tablas del Teatro San Francisco entre el 25 de octubre y el 15 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/46/6/imagen-promocional-de-la-obra-madre-no-hay-mas-que-muchas-actuarte.jpeg",
-    "pub": 1791912339,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Arantza Rodrigo: \"La cultura es un motor de desarrollo para los pueblos\"",
     "link": "https://www.lanuevacronica.com/lnc-culturas/arantza-rodrigo-cultura-es-motor-desarrollo-pueblos_204563_102.html",
     "desc": "La etnógrafa segoviana es la protagonista este miércoles de la última charla de 'Café Diálogo', que ha organizado la Fundación Jesús Pereda con la colaboración de La Nueva Crónica",
@@ -117,22 +133,6 @@
     "desc": "",
     "img": null,
     "pub": 1791910174,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los presupuestos de Castilla y León 2027, partida a partida: Vivienda y Educación, principales subidas",
-    "link": "https://www.lanuevacronica.com/cyl/presupuestos-castilla-leon-2027-partida-partida-vivienda-educacion-principales-subidas_204555_102.html",
-    "desc": "La deuda pública es la única sección que reduce su dotación respecto a los últimos presupuestos, si bien es la tercera por volumen",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/44/4/manueco-y-pollan-castilla-y-leon.jpeg",
-    "pub": 1791909209,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Recorte de 4 millones para los sindicatos y la patronal en las cuentas de Castilla y León",
-    "link": "https://www.lanuevacronica.com/cyl/recorte-4-millones-sindicatos-patronal-en-cuentas-castilla-leon_204554_102.html",
-    "desc": "Pollán deja claro que cumplirán la ley y los convenios con las ONG pero advierte que vigilarán donde dirigen los fondos para decidir en futuros acuerdos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/42/2/pollan-castilla-y-leon.jpeg",
-    "pub": 1791908870,
     "fuente": "La Nueva Crónica"
   },
   {
