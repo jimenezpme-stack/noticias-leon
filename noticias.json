@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "Fabero convierte el cine en una ventana a la realidad de las mujeres rurales",
+    "link": "https://www.elbierzodigital.com/fabero-convierte-el-cine-en-una-ventana-a-la-realidad-de-las-mujeres-rurales/",
+    "desc": "Fabero se sumará a la IX Edición del Ciclo Nacional de Cine y Mujeres Rurales con una propuesta que invita a descubrir otras realidades a través de la gran pantalla . La localidad berciana…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2020/07/plaza-eloy-terron-en-Fabero-1.jpg",
+    "pub": 1791968456,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Las bases del PSOE eligen a Cendón y Lorena Valle para el Congreso y a Vidal y Manuel Alfonso para el Senado",
+    "link": "https://www.lanuevacronica.com/actualidad/bases-psoe-eligen-cendon-lorena-valle-congreso-vidal-manuel-alfonso-senado_204581_102.html",
+    "desc": "El Comité Provincial ratificará este miércoles en Boñar unas candidaturas cuyos nombres ya había adelantado La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/77/5/cendon-valle-vidal-y-alfonso-son-los-candidatos-del-psoe-de-leon-en-las-elecciones-generales-del-29n.jpeg",
+    "pub": 1791967941,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "CCOO exige a Correos que rectifique una instrucción sobre las declaraciones de su plantilla ante los medios",
+    "link": "https://www.elbierzodigital.com/ccoo-exige-a-correos-que-rectifique-una-instruccion-sobre-las-declaraciones-de-su-plantilla-ante-los-medios/",
+    "desc": "CCOO exigió por escrito al presidente de Correos, Pedro Saura , que rectifique y delimite una instrucción dirigida a la plantilla sobre las declaraciones a los medios de comunicación y las…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/05/los-trabajadores-de-correos-piden-una-seccion-un-cartero-el-bierzo-digital.jpeg",
+    "pub": 1791967526,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Ponferrada acerca la formación digital a cinco pueblos en el Día Internacional de las Mujeres Rurales",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-acerca-formacion-digital-cinco-pueblos-en-el-dia-internacional-mujeres-rurales_204582_102.html",
+    "desc": "Los talleres gratuitos, dirigidos a personas de más de 60 años, enseñan a utilizar el móvil para realizar gestiones cotidianas y se prolongarán hasta noviembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/75/5/taller-san-andres.jpeg",
+    "pub": 1791967021,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El CIVI de Camponaraya acoge una cata solidaria a favor del Banco de Alimentos del Sil",
+    "link": "https://www.elbierzodigital.com/el-civi-de-camponaraya-acoge-una-cata-solidaria-a-favor-del-banco-de-alimentos-del-sil/",
+    "desc": "El Centro de Interpretación de la Vid y el Vino (CIVI) de Camponaraya acogerá el próximo viernes 23 de octubre una cata solidaria organizada por el Banco de Alimentos del Sil. La actividad comenzará…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2019/03/WhatsApp-Image-2019-03-05-at-12.01.24-2.jpeg",
+    "pub": 1791966688,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Ponferrada lleva las aulas digitales al medio rural para que sus mayores no se queden atrás",
     "link": "https://www.elbierzodigital.com/ponferrada-lleva-las-aulas-digitales-al-medio-rural-para-que-sus-mayores-no-se-queden-atras/",
     "desc": "Aprender a manejar WhatsApp , pedir una cita médica o realizar gestiones bancarias desde el teléfono móvil es el objetivo de los talleres gratuitos que el Ayuntamiento de Ponferrada ha puesto en…",
@@ -42,7 +82,7 @@
   {
     "titulo": "Castilla y León registra un IPC del 5,4% en septiembre, cinco décimas por encima de la media nacional",
     "link": "https://www.elbierzodigital.com/castilla-y-leon-registra-un-ipc-del-54-en-septiembre-cinco-decimas-por-encima-de-la-media-nacional/",
-    "desc": "La tasa anual del Índice de Precios de Consumo (IPC) alcanzó el 5,4% en Castilla y León durante el pasado mes de septiembre, cinco décimas por encima de la media nacional, que se situó en el 4,9%.…",
+    "desc": "El Índice de Precios de Consumo (IPC) alcanzó una tasa anual del 5,4% en Castilla y León durante septiembre, cinco décimas por encima de la media nacional, situada en el 4,9%. En la provincia de…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/castilla-y-leon-registra-un-ipc-del-54-en-septiembre-cinco-decimas-por-encima-de-la-media-nacional-el-bierzo-digital.jpg",
     "pub": 1791964449,
     "fuente": "El Bierzo Digital"
@@ -148,22 +188,6 @@
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/servicio-esencial_204574_102.html",
     "desc": "La nueva ordenanza municipal del Ayuntamiento de León busca repartir con mayor justicia el coste real de un servicio esencial que, por imperativo legal, ya no puede ser deficitario",
     "img": null,
-    "pub": 1791943200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Se acabó la guerra en el PSOE leones... bueno, una de ellas",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/se-acabo-guerra-en-psoe-leones-bueno-ellas_204573_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791943200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El último legado de Otto Schenk en la Ópera de Viena",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/ultimo-legado-otto-schenk-en-opera-viena_204559_102.html",
-    "desc": "Cines Van Gogh retransmite este jueves 'L'elisir d'amore' en la versión del fallecido director de escena austriaco y con Maria Nazarova y Bogdan Volkov",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/49/6/un-instante-de-la-opera-l-elisir-d-amore-de-otto-schenk-cines-van-gogh.webp",
     "pub": 1791943200,
     "fuente": "La Nueva Crónica"
   },
@@ -333,30 +357,6 @@
     "desc": "La cubrición del Canal de Cornatel dio este martes uno de los pasos decisivos para su ejecución con el respaldo unánime de la corporación municipal de Ponferrada . Todos los grupos políticos…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-se-vuelca-con-la-cubricion-del-canal-de-cornatel-unanimidad-para-cerrar-una-herida-urbana-el-bierzo-digital.jpeg",
     "pub": 1791881646,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "1.336 municipios sin cajero ni oficina: cómo Castilla y León resuelve a distancia lo que perdió en la calle",
-    "link": "https://www.elbierzodigital.com/1-336-municipios-sin-cajero-ni-oficina-como-castilla-y-leon-resuelve-a-distancia-lo-que-perdio-en-la-calle/",
-    "desc": "Cuando cierra la última sucursal de un pueblo, la lectura habitual es que el banco se ha ido para siempre y que solo queda el coche hasta la cabecera de comarca. El informe anual del Consejo…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/1-336-municipios-sin-cajero-ni-oficina-como-castilla-y-leon-resuelve-a-distancia-lo-que-perdio-en-la-calle-el-bierzo-digital.jpg",
-    "pub": 1791880699,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Peranzanes, Igüeña y Bembibre reciben ayudas para recuperar su patrimonio minero",
-    "link": "https://www.elbierzodigital.com/peranzanes-iguena-y-bembibre-reciben-ayudas-para-recuperar-su-patrimonio-minero/",
-    "desc": "Tres municipios bercianos recibirán financiación de la Diputación de León para recuperar y poner en valor su patrimonio industrial vinculado a la minería del carbón. Peranzanes, Igüeña y Bembibre se…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/peranzanes-iguena-y-bembibre-reciben-ayudas-para-recuperar-su-patrimonio-minero-el-bierzo-digital.jpeg",
-    "pub": 1791880411,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Feria de Productos de León bate su récord con 45.000 visitantes y 108 expositores",
-    "link": "https://www.elbierzodigital.com/feria-productos-leon-bate-record-5-000-visitantes-108-expositores/",
-    "desc": "La Feria de los Productos de León despidió este lunes su trigésima segunda edición con cifras históricas. Más de 45.000 personas pasaron por el Palacio de Congresos y Exposiciones de la capital…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-feria-de-productos-de-leon-bate-su-record-con-45-000-visitantes-y-108-expositores-el-bierzo-digital.jpg",
-    "pub": 1791876642,
     "fuente": "El Bierzo Digital"
   },
   {
