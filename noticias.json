@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Un desayuno para impulsar el empleo de las personas con discapacidad en León",
+    "link": "https://www.lanuevacronica.com/actualidad/desayuno-impulsar-empleo-personas-con-discapacidad-en-leon_204618_102.html",
+    "desc": "Inserta Empleo, entidad de la Fundación ONCE, organizó un evento para reunir a empresas, expertos y representantes institucionales para generar nuevas oportunidades",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/70/5/un-instante-de-la-jornada-celebrada-en-el-parador-de-san-marcos.jpeg",
+    "pub": 1791990562,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Junta prevé invertir casi 39 millones de euros en el Bierzo en 2027",
+    "link": "https://www.elbierzodigital.com/la-junta-preve-invertir-casi-39-millones-de-euros-en-el-bierzo-en-2027/",
+    "desc": "El proyecto de presupuestos de la Junta de Castilla y León para 2027 contempla una inversión de 38.762.731 euros en el Bierzo . La cifra se sitúa unos diez millones de euros por debajo de la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-junta-preve-invertir-casi-39-millones-de-euros-en-el-bierzo-en-2027-el-bierzo-digital.jpeg",
+    "pub": 1791989889,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El PP denuncia que la Diputación aún no ha convocado las ayudas a las reservas de la biosfera",
+    "link": "https://www.lanuevacronica.com/actualidad/pp-denuncia-diputacion-no-ha-convocado-ayudas-reservas-biosfera_204617_102.html",
+    "desc": "El portavoz popular, David Fernández, advierte de que el retraso hará que el dinero presupuestado para este año acabe en remanentes, como ya ocurrió en parte en 2025",
+    "img": "https://www.lanuevacronica.com/uploads/s1/27/81/89/5/reserva-biosfera.jpeg",
+    "pub": 1791989634,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La cosecha de maíz avanza a un ritmo histórico en León y podría estar terminada en octubre",
     "link": "https://www.lanuevacronica.com/actualidad/cosecha-maiz-avanza-ritmo-historico-en-leon-podria-estar-terminada-en-octubre_204616_102.html",
     "desc": "La Lonja Agropecuaria destaca las condiciones óptimas del grano y mantiene su cotización en 250 euros por tonelada, mientras suben los precios del ovino, la alfalfa y la leche de vaca",
@@ -14,6 +38,14 @@
     "img": "https://www.lanuevacronica.com/uploads/s1/35/45/68/6/thumbnail.jpeg",
     "pub": 1791986400,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cendón y Lorena Valle encabezan el respaldo del PSOE leonés para el Congreso",
+    "link": "https://www.elbierzodigital.com/cendon-y-lorena-valle-encabezan-el-respaldo-del-psoe-leones-para-el-congreso/",
+    "desc": "El PSOE de León ha concluido el proceso de primarias para elegir a sus representantes en las candidaturas a las Cortes Generales del próximo 29 de noviembre . Tras las asambleas celebradas en las…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/04/Cendon-el-bierzo-digital-scaled.jpg",
+    "pub": 1791986134,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Fallece un hombre de 76 años tras sufrir un desvanecimiento en una cafetería de Ponferrada",
@@ -45,14 +77,6 @@
     "desc": "La maquinaria llegará cuando concluyan los trabajos que se ejecutan actualmente en Bembibre y La Ribera de Folgoso",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/44/01/3/tramo-del-boeza-a-su-paso-por-villaerde-de-los-cestos.jpeg",
     "pub": 1791981188,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Aprender sobre el cuidado de la piel en tratamientos oncológicos en Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/aprender-sobre-cuidado-piel-en-tratamientos-oncologicos-en-ponferrada_204600_102.html",
-    "desc": "La charla, impartida por el farmacéutico David Garduño, se celebrará el 20 de octubre y estará abierta a profesionales sanitarios, pacientes y familiares",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/30/3/cartel-cuidados-piel-oncologicos.jpeg",
-    "pub": 1791979498,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -118,14 +142,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/turbina-aterriza-en-ponferrada-con-una-descarga-de-rock-salvaje-junto-a-princesas-el-bierzo-digital.jpg",
     "pub": 1791977555,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Fallece un hombre en un bar céntrico de Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/fallece-hombre-en-bar-centrico-ponferrada_204601_102.html",
-    "desc": "Los servicios sanitarios intentaron reanimarlo sin éxito este miércoles al mediodía en el interior del establecimiento",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/31/8/qp.jpeg",
-    "pub": 1791977500,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Arrancan las obras del nuevo instituto de Villaquilambre",
@@ -256,14 +272,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Cendón y Lorena Valle encabezan el respaldo del PSOE leonés para el Congreso",
-    "link": "https://www.elbierzodigital.com/cendon-y-lorena-valle-encabezan-el-respaldo-del-psoe-leones-para-el-congreso/",
-    "desc": "El PSOE de León ha concluido el proceso de primarias para elegir a sus representantes en las candidaturas a las Cortes Generales del próximo 29 de noviembre . Tras las asambleas celebradas en las…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/04/Cendon-el-bierzo-digital-scaled.jpg",
-    "pub": 1791960934,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "UPL renuncia a las elecciones generales para volcarse en las municipales de mayo",
     "link": "https://www.elbierzodigital.com/upl-renuncia-a-las-elecciones-generales-para-volcarse-en-las-municipales-de-mayo/",
     "desc": "Unión del Pueblo Leonés (UPL) no concurrirá a las próximas elecciones generales y centrará sus esfuerzos en los comicios municipales de mayo . Así lo ha decidido este martes el Consejo General del…",
@@ -349,14 +357,6 @@
     "desc": "La Cruz de Ferro , uno de los enclaves más emblemáticos del Camino de Santiago en la provincia de León, recuperará la configuración tradicional de su montículo de piedras con unas obras que…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-cruz-de-ferro-recuperara-su-monticulo-de-piedras-con-una-inversion-de-89-400-euros-el-bierzo-digital.jpeg",
     "pub": 1791889694,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Los Presupuestos de Castilla y León se elevan un 13 % hasta los 16.471,9 millones",
-    "link": "https://www.elbierzodigital.com/los-presupuestos-de-castilla-y-leon-se-elevan-un-13-hasta-los-16-4719-millones/",
-    "desc": "Los Presupuestos Generales de la Castilla y León para 2027 alcanzarán los 16.471,94 millones de euros al incrementarse un 13,11 por ciento en relación a las últimas cuentas aprobadas de 2024, lo que…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/los-presupuestos-de-castilla-y-leon-se-elevan-un-13-hasta-los-16-4719-millones-el-bierzo-digital-1.jpeg",
-    "pub": 1791889055,
     "fuente": "El Bierzo Digital"
   },
   {
