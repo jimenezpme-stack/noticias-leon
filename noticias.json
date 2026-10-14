@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Herido un hombre de unos 30 años tras volcar su coche en Villamañán",
+    "link": "https://www.lanuevacronica.com/actualidad/herido-hombre-30-anos-volcar-su-coche-en-villamanan_204638_102.html",
+    "desc": "El Centro de Emergencias 112 de Castilla y León ha recibido el aviso del accidente a las 19:37 horas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/10/0/imagen-de-la-le-654-a-su-paso-por-villamanan.jpeg",
+    "pub": 1792002309,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Condenado un alto cargo de Adif por vulnerar la libertad de expresión de un trabajador en León",
+    "link": "https://www.lanuevacronica.com/actualidad/condenado-alto-cargo-adif-por-vulnerar-libertad-expresion-trabajador-en-leon_204625_102.html",
+    "desc": "La Justicia obliga al subdirector de Circulación Noroeste a indemnizar con 7.500 euros a un empleado al que retiró la posibilidad de teletrabajar como represalia por una crítica a la empresa en…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/80/7/adif-centro-circulacion-leon.jpeg",
+    "pub": 1792002288,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Hospital de León acoge este jueves una campaña de donación de sangre",
+    "link": "https://www.lanuevacronica.com/actualidad/hospital-leon-acoge-este-jueves-campana-donacion-sangre_204637_102.html",
+    "desc": "La campaña se desarrollará entre las 8:45 y las 14:15 horas en el vestíbulo del salón de actos del complejo sanitario",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/45/81/8/el-hospital-de-leon-acoge-el-lunes-y-el-martes-un-maraton-de-donacion-de-sangre-4-1000x563.jpeg",
+    "pub": 1792001400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El Coal y el Instituto Concha Casado sellan su colaboración: nuevo convenio de cara a un próximo congreso",
     "link": "https://www.lanuevacronica.com/lnc-culturas/coal-instituto-concha-casado-sellan-su-colaboracion-nuevo-convenio-cara-proximo-congreso_204634_102.html",
     "desc": "ElColegio Oficial de Arquitectos, su Fundación y el Instituto de Estudios Patrimoniales Concha Casado ratificaron su compromiso mutuo de la mano de una firma que marcó un hito fundamental: la…",
@@ -14,14 +38,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/castilla-y-leon-lleva-a-bruselas-el-debate-sobre-la-innovacion-y-la-financiacion-regional-el-bierzo-digital.jpeg",
     "pub": 1791999697,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "¿Qué sería de los de la Caja?",
-    "link": "https://www.lanuevacronica.com/a-la-contra-2/que-seria-caja_204633_102.html",
-    "desc": "La última de La Nueva Crónica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/97/4/que-seria-de-los-de-la-caja.jpeg",
-    "pub": 1791999552,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Colegio Espíritu Santo: 75 años de misión y educación en Ponferrada",
@@ -64,14 +80,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Condenado un alto cargo de Adif por vulnerar la libertad de expresión de un trabajador en León",
-    "link": "https://www.lanuevacronica.com/actualidad/condenado-alto-cargo-adif-por-vulnerar-libertad-expresion-trabajador-en-leon_204625_102.html",
-    "desc": "La Justicia obliga al subdirector de Circulación Noroeste a indemnizar con 7.500 euros a un empleado al que retiró la posibilidad de teletrabajar como represalia por una crítica a la empresa en…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/80/7/adif-centro-circulacion-leon.jpeg",
-    "pub": 1791996632,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Cenadores de jardín - no todos crean el mismo tipo de espacio exterior",
     "link": "https://www.lanuevacronica.com/panorama/cenadores-jardin-no-todos-crean-mismo-tipo-espacio-exterior_204619_102.html",
     "desc": "",
@@ -85,14 +93,6 @@
     "desc": "La actual ministra de Defensa estará seguida de Félix Bolaños, Grande Marlaska, Borja Cabezón y Rafael Simancas",
     "img": "https://www.lanuevacronica.com/uploads/s1/30/15/50/3/margarita-robles-ministra-de-defensa-en-su-visita-a-astorga.jpeg",
     "pub": 1791993670,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Bañeza adjudica por más de 15.000 euros las obras de pavimentación de la calle Antonio Palau",
-    "link": "https://www.lanuevacronica.com/actualidad/baneza-adjudica-por-mas-15000-euros-obras-pavimentacion-calle-antonio-palau_204620_102.html",
-    "desc": "El Ayuntamiento bañezano contrata a la empresa Exfamex para renovar el firme de la calzada y mejorar la seguridad vial ante el deterioro que presenta actualmente",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/73/2/la-baneza-adjudica-por-mas-de-15-000-euros-las-obras-de-pavimentacion-de-la-calle-antonio-palau.jpeg",
-    "pub": 1791991847,
     "fuente": "La Nueva Crónica"
   },
   {
