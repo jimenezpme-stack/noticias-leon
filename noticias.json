@@ -1,10 +1,26 @@
 [
   {
+    "titulo": "El PP denuncia el retraso de las ayudas a los Ancares y al resto de Reservas de la Biosfera de León",
+    "link": "https://www.elbierzodigital.com/el-pp-denuncia-el-retraso-de-las-ayudas-a-los-ancares-y-al-resto-de-reservas-de-la-biosfera-de-leon/",
+    "desc": "Las Reservas de la Biosfera de León , entre ellas la de los Ancares Leoneses, continúan a la espera de las ayudas provinciales destinadas a cubrir sus gastos de funcionamiento . Así lo ha denunciado…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/09/Ancares-10-el-bierzo-digital-1.jpg",
+    "pub": 1791973321,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Crece el malestar por el cierre \"sin justificación\" del Centro de Formación de Adif en León",
     "link": "https://www.lanuevacronica.com/actualidad/crece-malestar-por-cierre-sin-justificacion-centro-formacion-adif-en-leon_204591_102.html",
     "desc": "Más de medio centenar de afectados se han congregado frente a las puertas de la antigua estación de la ciudad para mostrar su indignación por el traslado de la actividad formativa a Valladolid, una…",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/44/92/2/un-instante-de-la-protesta-llevada-a-cabo-tras-el-cierre-temporal-del-centro-de-formacion-de-adif.jpeg",
-    "pub": 1791971858,
+    "pub": 1791973242,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La miel de León y de Zamora, \"resistencia contra la despoblación\" en la III Feria Apiastur de Astorga",
+    "link": "https://www.lanuevacronica.com/actualidad/miel-leon-zamora-resistencia-contra-despoblacion-en-iii-feria-apiastur-astorga_204595_102.html",
+    "desc": "La feria, apoyada por diferentes instituciones y con presencia zamorana, se celebrará del 30 de octubre al 1 de noviembre en el Palacio Rectivía tras el éxito de la organizada recientemente de…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/17/6/whatsapp-image-2026-10-14-at-11-46-21.jpeg",
+    "pub": 1791973229,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -192,11 +208,11 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El PSOE de Ponferrada activa su maquinaria electoral con Lorena Valle y Eduardo Morán entre sus propuestas",
-    "link": "https://www.elbierzodigital.com/el-psoe-de-ponferrada-activa-su-maquinaria-electoral-con-lorena-valle-como-apuesta-para-el-congreso/",
-    "desc": "El PSOE de Ponferrada ha comenzado a preparar las elecciones generales del próximo 29 de noviembre con la constitución de su Comité Electoral y la propuesta de cuatro nombres para las candidaturas…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-de-ponferrada-activa-su-maquinaria-electoral-con-lorena-valle-y-eduardo-moran-entre-sus-propuestas-el-bierzo-digital.jpg",
-    "pub": 1791960944,
+    "titulo": "Cendón y Lorena Valle encabezan el respaldo del PSOE leonés para el Congreso",
+    "link": "https://www.elbierzodigital.com/cendon-y-lorena-valle-encabezan-el-respaldo-del-psoe-leones-para-el-congreso/",
+    "desc": "El PSOE de León ha concluido el proceso de primarias para elegir a sus representantes en las candidaturas a las Cortes Generales del próximo 29 de noviembre . Tras las asambleas celebradas en las…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/04/Cendon-el-bierzo-digital-scaled.jpg",
+    "pub": 1791960934,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -208,19 +224,19 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La mentira del fútbol",
-    "link": "https://www.lanuevacronica.com/opinion/mentira-futbol_204572_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1791946800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "UPL renuncia a las elecciones generales para volcarse en las municipales de mayo",
     "link": "https://www.elbierzodigital.com/upl-renuncia-a-las-elecciones-generales-para-volcarse-en-las-municipales-de-mayo/",
     "desc": "Unión del Pueblo Leonés (UPL) no concurrirá a las próximas elecciones generales y centrará sus esfuerzos en los comicios municipales de mayo . Así lo ha decidido este martes el Consejo General del…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/upl-renuncia-a-las-elecciones-generales-para-volcarse-en-las-municipales-de-mayo-el-bierzo-digital.jpeg",
     "pub": 1791922602,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El PSOE de Ponferrada activa su maquinaria electoral con Lorena Valle y Eduardo Morán entre sus propuestas",
+    "link": "https://www.elbierzodigital.com/el-psoe-de-ponferrada-activa-su-maquinaria-electoral-con-lorena-valle-como-apuesta-para-el-congreso/",
+    "desc": "El PSOE de Ponferrada ha comenzado a preparar las elecciones generales del próximo 29 de noviembre con la constitución de su Comité Electoral y la propuesta de cuatro nombres para las candidaturas…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-de-ponferrada-activa-su-maquinaria-electoral-con-lorena-valle-y-eduardo-moran-entre-sus-propuestas-el-bierzo-digital.jpg",
+    "pub": 1791921344,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -341,22 +357,6 @@
     "desc": "La Gerencia de Asistencia Sanitaria del Bierzo (Gasbi) dio comienzo este martes a la campaña de vacunación contra la gripe y el covid dirigida a la población general, después de hacerlo desde…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/comienza-la-campana-de-vacunacion-en-el-bierzo-con-perspectiva-de-alcanzar-las-38-000-dosis-el-bierzo-digital.jpeg",
     "pub": 1791887326,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PP de Castropodame pide limpiar el río Boeza en Villaverde de los Cestos ante el riesgo de crecidas",
-    "link": "https://www.elbierzodigital.com/el-pp-de-castropodame-pide-limpiar-el-rio-boeza-en-villaverde-de-los-cestos-ante-el-riesgo-de-crecidas/",
-    "desc": "El PP de Castropodame reclama a la Confederación Hidrográfica del Miño-Sil una actuación urgente en el río Boeza a su paso por Villaverde de los Cestos ante la acumulación de vegetación, maleza y…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-pp-de-castropodame-pide-limpiar-el-rio-boeza-en-villaverde-de-los-cestos-ante-el-riesgo-de-crecidas-el-bierzo-digital.jpeg",
-    "pub": 1791886805,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ponferrada garantiza la continuidad de su Agente Local de Innovación con una nueva ayuda estatal",
-    "link": "https://www.elbierzodigital.com/ponferrada-garantiza-la-continuidad-de-su-agente-local-de-innovacion-con-una-nueva-ayuda-estatal/",
-    "desc": "El Ayuntamiento de Ponferrada podrá seguir contando en 2027 con un Agente Local de Innovación tras obtener nuevamente la subvención estatal destinada a financiar estas contrataciones dentro de la…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-garantiza-la-continuidad-de-su-agente-local-de-innovacion-con-una-nueva-ayuda-estatal-el-bierzo-digital-1.jpg",
-    "pub": 1791886634,
     "fuente": "El Bierzo Digital"
   },
   {
