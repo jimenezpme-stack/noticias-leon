@@ -1,5 +1,61 @@
 [
   {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204575_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/61/8/14-10-2026-canton.jpeg",
+    "pub": 1791943200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un servicio esencial",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/servicio-esencial_204574_102.html",
+    "desc": "La nueva ordenanza municipal del Ayuntamiento de León busca repartir con mayor justicia el coste real de un servicio esencial que, por imperativo legal, ya no puede ser deficitario",
+    "img": null,
+    "pub": 1791943200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Se acabó la guerra en el PSOE leones... bueno, una de ellas",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/se-acabo-guerra-en-psoe-leones-bueno-ellas_204573_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1791943200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La vida en Kaikoura, el lugar más alejado a León de todo el planeta",
+    "link": "https://www.lanuevacronica.com/actualidad/vida-en-kaikoura-lugar-mas-alejado-leon-todo-planeta_204513_102.html",
+    "desc": "CON GALERÍA | A 20.000 kilómetros de distancia, esta pequeña ciudad entre el Pacífico y la alta montaña vive del turismo vinculado al avistamiento de ballenas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/47/9/antipodasleon.jpeg",
+    "pub": 1791943200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El último legado de Otto Schenk en la Ópera de Viena",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/ultimo-legado-otto-schenk-en-opera-viena_204559_102.html",
+    "desc": "Cines Van Gogh retransmite este jueves 'L'elisir d'amore' en la versión del fallecido director de escena austriaco y con Maria Nazarova y Bogdan Volkov",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/49/6/un-instante-de-la-opera-l-elisir-d-amore-de-otto-schenk-cines-van-gogh.webp",
+    "pub": 1791943200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "¿Turismo \"de borrachera\"?: Los dueños de los pisos turísticos de León afirman que casi no hay quejas",
+    "link": "https://www.lanuevacronica.com/actualidad/turismo-borrachera-duenos-pisos-turisticos-leon-afirman-casi-no-hay-quejas_204553_102.html",
+    "desc": "Este tipo de alojamientos siguen sin tocar techo en la provincia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/40/0/turismoleon.jpeg",
+    "pub": 1791943200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un leonés viviendo en las antípodas de su provincia: \"Es un paraíso. Es increíble\"",
+    "link": "https://www.lanuevacronica.com/actualidad/leones-viviendo-en-antipodas-su-provincia-es-paraiso-es-increible_204515_102.html",
+    "desc": "Javier Cachán, acompañado de su amigo Nizan Díaz, trabaja en un hotel de Kaikoura",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/76/9/leonesantipodas.jpeg",
+    "pub": 1791943200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El PSOE de Ponferrada activa su maquinaria electoral con Lorena Valle como apuesta para el Congreso",
     "link": "https://www.elbierzodigital.com/el-psoe-de-ponferrada-activa-su-maquinaria-electoral-con-lorena-valle-como-apuesta-para-el-congreso/",
     "desc": "El PSOE de Ponferrada ha comenzado a preparar las elecciones generales del próximo 29 de noviembre con la constitución de su Comité Electoral y la propuesta de cuatro nombres para las candidaturas…",
@@ -77,62 +133,6 @@
     "desc": "Pollán deja claro que cumplirán la ley y los convenios con las ONG pero advierte que vigilarán donde dirigen los fondos para decidir en futuros acuerdos",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/44/42/2/pollan-castilla-y-leon.jpeg",
     "pub": 1791908870,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Luis Puertas se queda sin red",
-    "link": "https://www.lanuevacronica.com/deportes/luis-puertas-se-queda-sin-red_204547_102.html",
-    "desc": "El Ademar ha perdido nueve de sus 11 últimos partidos entre el final de la temporada pasada y el inicio de la actual, dejando cuestionado al entrenador y señalada la confección de la plantilla",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/37/40/0/ademar-nava-3.jpeg",
-    "pub": 1791908496,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Bierzo inicia la vacunación contra la gripe y el covid con 38.000 dosis",
-    "link": "https://www.lanuevacronica.com/el-bierzo/bierzo-inicia-vacunacion-contra-gripe-covid-con-38000-dosis_204541_102.html",
-    "desc": "El centro de salud de Cuatrovientos ha comenzado a administrar las vacunas y se espera superar el 30% de vacunados de media de aquí hasta enero",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/20/0/vacunas.jpeg",
-    "pub": 1791907565,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El aeropuerto de León gana un 20% de pasajeros en septiembre",
-    "link": "https://www.lanuevacronica.com/actualidad/aeropuerto-leon-gana-20-pasajeros-en-septiembre_204550_102.html",
-    "desc": "El número de vuelos, sin embargo, se reduce un 2,6% frente al mismo mes de 2025",
-    "img": "https://www.lanuevacronica.com/uploads/s1/32/99/80/4/aeropuerto-de-leon.jpeg",
-    "pub": 1791907450,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Una alumna de Astorga gana la V edición de 'Mi libro preferido' en Castilla y León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/alumna-astorga-gana-edicion-mi-libro-preferido-en-castilla-leon_204543_102.html",
-    "desc": "A ella se suman dos leoneses de Santa María del Páramo que se han alzado con el galardón en la modalidad de pódcast",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/21/1/la-consejera-de-educacion-entrego-los-premios-en-valladolid.jpeg",
-    "pub": 1791907058,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Zapatero y Sonsoles, en el tanatorio de León para despedirse del padre del expresidente",
-    "link": "https://www.lanuevacronica.com/actualidad/zapatero-sonsoles-en-tanatorio-leon-despedirse-padre-expresidente_204549_102.html",
-    "desc": "El jurista leonés Juan Rodríguez García Lozano falleció este lunes, a los 100 años de edad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/32/1/zapatero-leon-tanatorio.jpeg",
-    "pub": 1791906765,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Denuncian la corta de árboles en el pinar centenario de Piedrafita",
-    "link": "https://www.lanuevacronica.com/actualidad/denuncian-corta-en-pinar-centenario-piedrafita_204544_102.html",
-    "desc": "La organización Babia Trail cuestiona esta actuación y recuerda que la Junta le denegó el paso por motivos de conservación",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/22/7/la-denuncia-de-ha-difundido-en-redes-sociales-y-acompanada-de-fotografias-y-videos-sobre-la-intervencion-forestal-en-el-pinar-de-piedrafita-babia-trail-trail-facebook-2.jpeg",
-    "pub": 1791906146,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Más de 10.000 peregrinos de 67 nacionalidades pasaron por León este verano",
-    "link": "https://www.lanuevacronica.com/actualidad/mas-10000-peregrinos-67-nacionalidades-pasaron-por-leon-este-verano_204539_102.html",
-    "desc": "Los extranjeros supusieron el 80 por ciento del total, encabezados por Estados Unidos, Francia e Italia, y los nacionales procedieron en su mayoría del País Vasco, Madrid y Cataluña",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/17/8/peregrinos-camino-santiago-leon.jpeg",
-    "pub": 1791906002,
     "fuente": "La Nueva Crónica"
   },
   {
