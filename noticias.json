@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "¿Con boina y paraguas?",
+    "link": "https://www.lanuevacronica.com/a-la-contra-2/con-boina-paraguas_204652_102.html",
+    "desc": "La última de La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/24/7/a-la-contra.jpeg",
+    "pub": 1792052888,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Teatro contra el olvido y viajes en el tiempo toman Las Médulas este fin de semana",
+    "link": "https://www.elbierzodigital.com/teatro-contra-el-olvido-y-viajes-en-el-tiempo-toman-las-medulas-este-fin-de-semana/",
+    "desc": "El teatro vuelve al Bierzo con dos propuestas que mezclan cultura, memoria y entretenimiento. El II Festival de Otoño en Las Médulas encara su penúltimo fin de semana con actuaciones los días 16 y…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/teatro-contra-el-olvido-y-viajes-en-el-tiempo-toman-las-medulas-este-fin-de-semana-el-bierzo-digital.jpg",
+    "pub": 1792052792,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La Brigada de Obras de Ponferrada cierra el verano con más de 1.150 actuaciones",
+    "link": "https://www.elbierzodigital.com/la-brigada-de-obras-de-ponferrada-cierra-el-verano-con-mas-de-1-150-actuaciones/",
+    "desc": "La maquinaria municipal no ha parado en Ponferrada durante el final del verano . La Brigada de Obras ha completado un total de 1.154 intervenciones en agosto y septiembre de 2026 , un balance que…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-brigada-de-obras-de-ponferrada-cierra-el-verano-con-mas-de-1-150-actuaciones-el-bierzo-digital-e1792051986725.jpg",
+    "pub": 1792052406,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Tana Rivera y Roca Rey, de los rumores de boda a su ruptura sorpresa",
     "link": "https://www.lanuevacronica.com/gente/tana-rivera-y-roca-rey-de-los-rumores-de-boda-a-su-ruptura-sorpresa_204651_102.html",
     "desc": "Habría sido el torero peruano el que habría tomado la decisión al verse \"sobrepasado\" por lo rápido que estaba yendo su noviazgo",
@@ -124,14 +148,6 @@
     "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204646_102.html",
     "desc": "",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/46/11/4/15-10-2026-canton.jpeg",
-    "pub": 1792029600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Mucha espera para pocas novedades",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/mucha-espera-pocas-novedades_204645_102.html",
-    "desc": "Las cuentas autonómicas elevan un 4,5 % las inversiones en León, pero buena parte de sus 240,5 millones se destina a proyectos ya conocidos",
-    "img": null,
     "pub": 1792029600,
     "fuente": "La Nueva Crónica"
   },
@@ -341,22 +357,6 @@
     "desc": "El presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco , destacó que las operaciones de capital previstas en los presupuestos autonómicos para 2027 alcanzarán los 2.528,47 millones…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/los-presupuestos-de-castilla-y-leon-se-elevan-un-13-hasta-los-16-4719-millones-el-bierzo-digital-3.jpeg",
     "pub": 1791904991,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Fallece a los 100 años el jurista Juan Rodríguez, padre de Zapatero",
-    "link": "https://www.elbierzodigital.com/fallece-a-los-100-anos-el-jurista-juan-rodriguez-padre-de-zapatero/",
-    "desc": "El abogado leonés Juan Rodríguez García-Lozano falleció este lunes en León a los cien años . Padre del expresidente del Gobierno José Luis Rodríguez Zapatero , desarrolló una larga trayectoria…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/fallece-a-los-100-anos-el-jurista-juan-rodriguez-padre-de-zapatero-el-bierzo-digital.jpg",
-    "pub": 1791903239,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Los bercianos en Cataluña celebran su Castañada Popular el 7 de noviembre en Barcelona",
-    "link": "https://www.elbierzodigital.com/los-bercianos-en-cataluna-celebran-su-castanada-popular-el-7-de-noviembre-en-barcelona/",
-    "desc": "La Asociación de Bercianos en Cataluña (Asobecat) celebrará el sábado 7 de noviembre su Castañada Popular 2026 con una cena de convivencia en el Asador El Bierzo de Barcelona. El encuentro comenzará…",
-    "img": null,
-    "pub": 1791903060,
     "fuente": "El Bierzo Digital"
   },
   {
