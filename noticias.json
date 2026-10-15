@@ -1,5 +1,93 @@
 [
   {
+    "titulo": "Elogio del averno",
+    "link": "https://www.lanuevacronica.com/opinion/elogio-averno_204639_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792030200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Lentejas, pan y buena mesa este fin de semana",
+    "link": "https://www.lanuevacronica.com/actualidad/lentejas-pan-buena-mesa-este-fin-semana_204615_102.html",
+    "desc": "La Feria del Pan y la Lenteja de Tierra de Campos regresa a Mayorga con propuestas culinarias, talleres infantiles y actuaciones",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/69/5/la-feria-reivindica-un-ano-mas-los-sabores-de-tierra-de-campos-lenteja-de-tierra-de-campos.jpeg",
+    "pub": 1792029900,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204646_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/11/4/15-10-2026-canton.jpeg",
+    "pub": 1792029600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Mucha espera para pocas novedades",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/mucha-espera-pocas-novedades_204645_102.html",
+    "desc": "Las cuentas autonómicas elevan un 4,5 % las inversiones en León, pero buena parte de sus 240,5 millones se destina a proyectos ya conocidos",
+    "img": null,
+    "pub": 1792029600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Se viene trallazo",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/se-viene-trallazo_204644_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792029600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Gonzalo Prieto expone en León: \"Estuve un mes y pico en el estudio y fue como un parto\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/gonzalo-prieto-expone-en-leon-estuve-mes-pico-en-estudio-fue-como-parto_204636_102.html",
+    "desc": "Los 'Mapas de mi memoria' del pintor leonés pueden verse en la vinoteca Amarone Vinalium, donde se exponen nueve obras realizadas por el leonés tras el fallecimiento de su padre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/03/3/gonzalo-prieto-ante-dos-obras-de-la-exposicion-vicente-garcia.jpeg",
+    "pub": 1792029600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los perros hablan de sus amos en León",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/perros-hablan-sus-amos-en-leon_204635_102.html",
+    "desc": "La adaptación de la obra de Cervantes por Morfeo Teatro sube este jueves el telón del espacio de la capital provincial de la mano de una sesión escolar y otra para público general",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/01/7/el-coloquio-de-los-perros-continua-hoy-con-la-programacion-escencia-de-este-semestre-en-el-auditorio-ciudad-de-leon-morfeo-teatro.jpeg",
+    "pub": 1792029600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "De las Heras sobre la Medalla de Oro: \"Es el reconocimiento a una labor en favor de los más necesitados\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/heras-sobre-medalla-oro-es-reconocimiento-labor-en-favor-mas-necesitados_204622_102.html",
+    "desc": "El obispo de León participó en el espacio 'Entre nosotras' emitido por Cope León en colaboración con La Nueva Crónica y 987Tv",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/74/0/el-obispo-de-leon-luis-angel-de-las-heras-en-el-espacio-entre-nosotras-l-n-c.jpeg",
+    "pub": 1792029600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Motáramo propone para este sábado una gran fiesta motera en Pobladura de Pelayo García",
+    "link": "https://www.lanuevacronica.com/actualidad/motaramo-propone-este-sabado-gran-fiesta-motera-en-pobladura-pelayo-garcia_204598_102.html",
+    "desc": "La localidad paramesa acogerá este 17 de octubre a partir de las 17:00 horas una concentración con motos clásicas, acrobacias, música en directo, una gran hoguera y un desfile de antorchas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/20/2/motaramo-propone-para-este-sabado-una-gran-fiesta-motera-en-pobladura-de-pelayo-garcia.jpeg",
+    "pub": 1792029600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Riego de la Vega vuelve a rendir homenaje a la patata con un fin de semana de feria",
+    "link": "https://www.lanuevacronica.com/actualidad/riego-vega-vuelve-rendir-homenaje-patata-con-fin-semana-feria_204359_102.html",
+    "desc": "La cuarta edición de la Feria de Productos Autóctonos y Exaltación de la Patata se celebrará los días 17 y 18 de octubre con catas de vino, charlas sobre agricultura, exposiciones, conciertos y una…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/25/78/85/0/riego-de-la-vega.jpeg",
+    "pub": 1792029600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Laguna de Negrillos dedicada una nueva semana a sus mayores repleta de cultura y ocio",
+    "link": "https://www.lanuevacronica.com/actualidad/laguna-negrillos-dedicada-nueva-semana-sus-mayores-repleta-cultura-ocio_204593_102.html",
+    "desc": "Del 19 al 25 de octubre, la Casa de Cultura de la localidad acogerá conferencias, actuaciones musicales, juegos y un homenaje a la vecina de mayor edad del municipio, de 96 años",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/12/9/laguna-de-negrillos-dedicada-una-nueva-semana-a-sus-mayores-repleta-de-cultura-y-ocio.jpeg",
+    "pub": 1792029300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Netflix lleva a Maxi Iglesias y Elena Rivera al valle de Fornela para rodar “La Dama del Norte”",
     "link": "https://www.elbierzodigital.com/netflix-lleva-a-maxi-iglesias-y-elena-rivera-al-valle-de-fornela-para-rodar-la-dama-del-norte/",
     "desc": "El valle de Fornela se prepara para convertirse en escenario de ficción. Netflix rodará en los próximos días parte de su nueva serie, \" La Dama del Norte\" , protagonizada por Maxi Iglesias y Elena…",
@@ -13,14 +101,6 @@
     "desc": "El Centro de Emergencias 112 de Castilla y León ha recibido el aviso del accidente a las 19:37 horas",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/46/10/0/imagen-de-la-le-654-a-su-paso-por-villamanan.jpeg",
     "pub": 1792002309,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Condenado un alto cargo de Adif por vulnerar la libertad de expresión de un trabajador en León",
-    "link": "https://www.lanuevacronica.com/actualidad/condenado-alto-cargo-adif-por-vulnerar-libertad-expresion-trabajador-en-leon_204625_102.html",
-    "desc": "La Justicia obliga al subdirector de Circulación Noroeste a indemnizar con 7.500 euros a un empleado al que retiró la posibilidad de teletrabajar como represalia por una crítica a la empresa en…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/80/7/adif-centro-circulacion-leon.jpeg",
-    "pub": 1792002288,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -64,54 +144,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La cineasta Anna Cornudella recala en el Musac con su primer largometraje",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/cineasta-anna-cornudella-recala-en-musac-con-su-primer-largometraje_204630_102.html",
-    "desc": "El encuentro contará con la proyección de 'The Human Hibernation' y un posterior coloquio con la directora",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/90/6/un-fotograma-del-largometraje-the-human-hibernation-de-anna-cornudella.jpeg",
-    "pub": 1791997376,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El documental en homenaje a Hermino Valbuena llega a El Crucero",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/documental-en-homenaje-hermino-valbuena-llega-crucero_204629_102.html",
-    "desc": "La cinta de Valentín Costo en recuerdo al montañero leonés podrá verse este jueves",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/54/31/1/collado-jermoso-foto-valenti-n-costo.jpeg",
-    "pub": 1791997209,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Pepa Mayo y Andrés Guerrero cerrarán la tercera jornada de Quimeras",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/pepa-mayo-andres-guerrero-cerraran-tercera-jornada-quimeras_204606_102.html",
-    "desc": "El festival leonés continúa este jueves con dos nuevas citas para el alumnado de Secundaria y un encuentro abierto al público general",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/40/1/chiki-fabregat-se-dio-cita-con-el-alumnado-leones-en-el-marco-del-festival-quimeras-l-n-c.jpeg",
-    "pub": 1791997200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cenadores de jardín - no todos crean el mismo tipo de espacio exterior",
-    "link": "https://www.lanuevacronica.com/panorama/cenadores-jardin-no-todos-crean-mismo-tipo-espacio-exterior_204619_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/72/1/image.jpeg",
-    "pub": 1791995157,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La leonesa Margarita Robles será la 'número 2' de Sánchez al Congreso por Madrid",
-    "link": "https://www.lanuevacronica.com/actualidad/leonesa-margarita-robles-sera-numero-2-sanchez-congreso-por-madrid_204621_102.html",
-    "desc": "La actual ministra de Defensa estará seguida de Félix Bolaños, Grande Marlaska, Borja Cabezón y Rafael Simancas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/15/50/3/margarita-robles-ministra-de-defensa-en-su-visita-a-astorga.jpeg",
-    "pub": 1791993670,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un desayuno para impulsar el empleo de las personas con discapacidad en León",
-    "link": "https://www.lanuevacronica.com/actualidad/desayuno-impulsar-empleo-personas-con-discapacidad-en-leon_204618_102.html",
-    "desc": "Inserta Empleo, entidad de la Fundación ONCE, organizó un evento para reunir a empresas, expertos y representantes institucionales para generar nuevas oportunidades",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/70/5/un-instante-de-la-jornada-celebrada-en-el-parador-de-san-marcos.jpeg",
-    "pub": 1791990562,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Junta prevé invertir casi 39 millones de euros en el Bierzo en 2027",
     "link": "https://www.elbierzodigital.com/la-junta-preve-invertir-casi-39-millones-de-euros-en-el-bierzo-en-2027/",
     "desc": "El proyecto de presupuestos de la Junta de Castilla y León para 2027 contempla una inversión de 38.762.731 euros en el Bierzo . La cifra se sitúa unos diez millones de euros por debajo de la…",
@@ -120,36 +152,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El PP denuncia que la Diputación aún no ha convocado las ayudas a las reservas de la biosfera",
-    "link": "https://www.lanuevacronica.com/actualidad/pp-denuncia-diputacion-no-ha-convocado-ayudas-reservas-biosfera_204617_102.html",
-    "desc": "El portavoz popular, David Fernández, advierte de que el retraso hará que el dinero presupuestado para este año acabe en remanentes, como ya ocurrió en parte en 2025",
-    "img": "https://www.lanuevacronica.com/uploads/s1/27/81/89/5/reserva-biosfera.jpeg",
-    "pub": 1791989634,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El PSOE leonés pone nombre a sus candidatos para el 29-N: Cendón al Congreso y Vidal Varela al Senado",
     "link": "https://www.elbierzodigital.com/el-psoe-leones-pone-nombre-a-sus-candidatos-para-el-29-n-cendon-al-congreso-y-vidal-varela-al-senado/",
     "desc": "El Comité Provincial del PSOE de León ha aprobado este miércoles en Boñar las candidaturas al Congreso de los Diputados y al Senado con las que concurrirá a las elecciones generales del próximo 29…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-leones-pone-nombre-a-sus-candidatos-para-el-29-n-cendon-al-congreso-y-vidal-varela-al-senado-el-bierzo-digital-e1792006418611.jpeg",
     "pub": 1791988431,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La cosecha de maíz avanza a un ritmo histórico en León y podría estar terminada en octubre",
-    "link": "https://www.lanuevacronica.com/actualidad/cosecha-maiz-avanza-ritmo-historico-en-leon-podria-estar-terminada-en-octubre_204616_102.html",
-    "desc": "La Lonja Agropecuaria destaca las condiciones óptimas del grano y mantiene su cotización en 250 euros por tonelada, mientras suben los precios del ovino, la alfalfa y la leche de vaca",
-    "img": "https://www.lanuevacronica.com/uploads/s1/23/74/93/4/saul-0113473.jpeg",
-    "pub": 1791986427,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Óscar Avendaño lleva su rock a Los Barrios de Gordón",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/oscar-avendano-lleva-su-rock-barrios-gordon_204614_102.html",
-    "desc": "El músico vigués actuará este viernes en el teleclub El Altico para presentar 'El huevo de la serpiente', su último trabajo discográfico",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/68/6/thumbnail.jpeg",
-    "pub": 1791986400,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Cendón y Lorena Valle encabezan el respaldo del PSOE leonés para el Congreso",
@@ -166,14 +174,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Calle-Alcon-el-bierzo-digital.jpg",
     "pub": 1791985063,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Confederación ya tiene prevista la actuación en el Boeza en Villaverde que reclamaba el PP",
-    "link": "https://www.lanuevacronica.com/el-bierzo/confederacion-ya-tiene-prevista-actuacion-en-boeza-en-villaverde-reclamaba-pp_204613_102.html",
-    "desc": "La maquinaria llegará cuando concluyan los trabajos que se ejecutan actualmente en Bembibre y La Ribera de Folgoso",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/44/01/3/tramo-del-boeza-a-su-paso-por-villaerde-de-los-cestos.jpeg",
-    "pub": 1791981188,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Koke apuesta por mirar hacia delante: “Tenemos la cabeza en el partido de Zamora”",
