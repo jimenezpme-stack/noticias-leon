@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "El 'Cuponazo' deja 40.000 euros a un afortunado leonés",
+    "link": "https://www.lanuevacronica.com/actualidad/cuponazo-deja-40000-euros-afortunado-leones_204661_102.html",
+    "desc": "El boleto premiado se vendió en la Calle Ancha de la capital",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/38/3/douglas-fue-el-encargado-de-repartir-suerte.jpeg",
+    "pub": 1792056248,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Presupuestos Autonómicos: Morala asegura que la Junta invierte más en Ponferrada que el Gobierno central en ocho años",
+    "link": "https://www.lanuevacronica.com/el-bierzo/presupuestos-autonomicos-morala-asegura-junta-invierte-mas-en-ponferrada-gobierno-central-en-ocho-anos_204658_102.html",
+    "desc": "El alcalde destaca los fondos previstos para mejorar la eficiencia energética o transformar La Llanada, aunque admite que «hay que pedir más»",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/05/17/3/morala3-1.jpeg",
+    "pub": 1792055958,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Primera ola: qué esperar de una escuela de surf para principiantes en Cantabria",
+    "link": "https://www.lanuevacronica.com/estilo-vida/primera-ola-esperar-escuela-surf-principiantes-en-cantabria_204659_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/36/7/image.jpeg",
+    "pub": 1792055778,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ramón alerta de que la Junta puede arrebatar al Consejo del Bierzo la competencia sobre prevención de incendios",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ramon-alerta-junta-puede-arrebatar-consejo-bierzo-competencia-sobre-prevencion-incendios_204660_102.html",
+    "desc": "El presidente comarcal reclama una reunión urgente con la consejera de Medio Ambiente por las trabas para contratar los equipos de prevención de incendios y denuncia un «récord de recortes» en los…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/29/29/08/6/brigadas-motel.jpeg",
+    "pub": 1792055718,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El piano de cola cambia los grandes auditorios por las calles de León",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/piano-cola-cambia-grandes-auditorios-por-calles-leon_204657_102.html",
+    "desc": "La iniciativa de la Fundación Ricardo Delgado Vizcaíno, en colaboración con Lactíber y el Ayuntamiento, ya puede disfrutarse en la plaza de las Cortes Leonesas y la calle Legión VII",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/33/2/frame-15pianosenlacalle.jpeg",
+    "pub": 1792055430,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cómo Editar Videos Rápida y Fácilmente",
+    "link": "https://www.lanuevacronica.com/estilo-vida/como-editar-videos-rapida-facilmente_204656_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/31/6/clideo.jpeg",
+    "pub": 1792054906,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "\"La facultad de Fisioterapia de Ponferrada ha sido un referente en el desarrollo de la profesión\"",
     "link": "https://www.lanuevacronica.com/el-bierzo/facultad-fisioterapia-ponferrada-ha-sido-referente-en-desarrollo-profesion_204655_102.html",
     "desc": "Ponferrada celebra los 25 años de esta especialidad con la vista puesta en la llegada de la Policlínica y en incrementar el número de plazas para estudiarla",
@@ -112,52 +160,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Los más ricos del cementerio",
-    "link": "https://www.lanuevacronica.com/opinion/mas-ricos-cementerio_204643_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792033200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Picos: reserva que no preserva",
-    "link": "https://www.lanuevacronica.com/opinion/picos-reserva-no-preserva_204642_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792032000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La red de amistad que nació en León y ahora quiere plantar cara a la soledad en Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/red-amistad-nacio-en-leon-ahora-quiere-plantar-cara-soledad-en-ponferrada_202637_102.html",
-    "desc": "Marta Autillo puso en marcha en 2022 un pequeño grupo para conocer gente y hoy nueve grupos reúnen en León a cientos de personas; ahora quiere trasladar la experiencia al Bierzo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/83/84/4/ruta.jpeg",
-    "pub": 1792031700,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Castilla y León se mantiene en el podio de honor de la educación en España",
-    "link": "https://www.lanuevacronica.com/opinion/castilla-leon-se-mantiene-en-podio-honor-educacion-en-espana_204641_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792031400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los castañicultores bercianos alertan de que sus sotos \"se mueren\" si no hay medidas para salvarlos",
-    "link": "https://www.lanuevacronica.com/el-bierzo/castanicultores-bercianos-alertan-sus-sotos-se-mueren-si-no-hay-medidas-salvarlos_204612_102.html",
-    "desc": "La Asociación Castañicultores Tres Valles lamenta la falta de cosecha en esta campaña y advierte del deterioro de los árboles sin ayudas para evitar su abandono",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/78/7/recogida-castanas.jpeg",
-    "pub": 1792031400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Roma",
-    "link": "https://www.lanuevacronica.com/opinion/roma_204640_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792030800,
-    "fuente": "La Nueva Crónica"
+    "titulo": "La Fisioterapia reclama especialidades oficiales y más autonomía para afrontar los retos sanitarios del futuro",
+    "link": "https://www.elbierzodigital.com/la-fisioterapia-reclama-especialidades-oficiales-y-mas-autonomia-para-afrontar-los-retos-sanitarios-del-futuro/",
+    "desc": "El grado de Fisioterapia del Campus de Ponferrada cumple 25 años de trayectoria con una celebración que mira tanto al camino recorrido como a los retos que afronta la profesión. Las jornadas ‘XXV…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-fisioterapia-reclama-especialidades-oficiales-y-mas-autonomia-para-afrontar-los-retos-sanitarios-del-futuro-el-bierzo-digital.jpeg",
+    "pub": 1792047203,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Netflix lleva a Maxi Iglesias y Elena Rivera al valle de Fornela para rodar “La Dama del Norte”",
@@ -349,14 +357,6 @@
     "desc": "Unión del Pueblo Leonés (UPL) no concurrirá a las próximas elecciones generales y centrará sus esfuerzos en los comicios municipales de mayo . Así lo ha decidido este martes el Consejo General del…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/upl-renuncia-a-las-elecciones-generales-para-volcarse-en-las-municipales-de-mayo-el-bierzo-digital.jpeg",
     "pub": 1791922602,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PSOE de Ponferrada activa su maquinaria electoral con Lorena Valle y Eduardo Morán entre sus propuestas",
-    "link": "https://www.elbierzodigital.com/el-psoe-de-ponferrada-activa-su-maquinaria-electoral-con-lorena-valle-como-apuesta-para-el-congreso/",
-    "desc": "El PSOE de Ponferrada ha comenzado a preparar las elecciones generales del próximo 29 de noviembre con la constitución de su Comité Electoral y la propuesta de cuatro nombres para las candidaturas…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-de-ponferrada-activa-su-maquinaria-electoral-con-lorena-valle-y-eduardo-moran-entre-sus-propuestas-el-bierzo-digital.jpg",
-    "pub": 1791921344,
     "fuente": "El Bierzo Digital"
   },
   {
