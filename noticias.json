@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "\"La facultad de Fisioterapia de Ponferrada ha sido un referente en el desarrollo de la profesión\"",
+    "link": "https://www.lanuevacronica.com/el-bierzo/facultad-fisioterapia-ponferrada-ha-sido-referente-en-desarrollo-profesion_204655_102.html",
+    "desc": "Ponferrada celebra los 25 años de esta especialidad con la vista puesta en la llegada de la Policlínica y en incrementar el número de plazas para estudiarla",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/29/4/campus-fisio.jpeg",
+    "pub": 1792054315,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Castañas, música y dulces artesanos: Bárcena del Bierzo calienta motores para un magosto muy especial",
+    "link": "https://www.elbierzodigital.com/castanas-musica-y-dulces-artesanos-barcena-del-bierzo-calienta-motores-para-un-magosto-muy-especial/",
+    "desc": "Bárcena del Bierzo ya tiene una cita marcada en rojo en el calendario otoñal . La Asociación de Vecinos La Magdalena ultima los preparativos de su Magosto Popular , una celebración que promete…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2015/10/img_6115b.jpg",
+    "pub": 1792053910,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Denuncian el impago de los salarios a los intérpretes de lengua de signos en los colegios de León",
+    "link": "https://www.lanuevacronica.com/actualidad/denuncian-impago-salarios-interpretes-lengua-signos-en-colegios-leon_204654_102.html",
+    "desc": "La provincia de León cuenta para este curso con nueve profesionales que siguen acudiendo a su puesto de trabajo sin cobrar para no perjudicar al alumnado con discapacidad auditiva",
+    "img": "https://www.lanuevacronica.com/uploads/s1/40/39/6/clasesignos.jpeg",
+    "pub": 1792053490,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los Saxos del Averno llevarán su rhythm & blues al Cocodrilo Negro el 23 de octubre",
+    "link": "https://www.lanuevacronica.com/el-bierzo/saxos-averno-llevaran-su-rhythm-blues-cocodrilo-negro-23-octubre_204653_102.html",
+    "desc": "La banda madrileña actuará en Ponferrada dentro del ciclo AIEnRUTa-Artistas, con una mezcla de rock and roll, soul, funk y ritmos latinos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/26/3/saxos-def.jpeg",
+    "pub": 1792053290,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Herido un motorista de unos 25 años en una colisión con un turismo en Ponferrada",
+    "link": "https://www.lanuevacronica.com/sucesos/herido-motorista-25-anos-en-colision-con-turismo-en-ponferrada_204649_102.html",
+    "desc": "El accidente se produjo a primera hora de la mañana en una estación de servicio de la avenida de la Constitución",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/51/92/7/112-la-nueva-cronica-4-1000x563-4-1000x563.jpeg",
+    "pub": 1792053285,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "¿Con boina y paraguas?",
     "link": "https://www.lanuevacronica.com/a-la-contra-2/con-boina-paraguas_204652_102.html",
     "desc": "La última de La Nueva Crónica",
@@ -37,14 +77,6 @@
     "desc": "El exfutbolista y la joven catalana han asistido al concierto de Le Oques Grasses en el Estadio Olímpico Lluis Companys de Barcelona",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/46/19/3/fotonoticia-20261014115753-1920.jpeg",
     "pub": 1792049712,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Herido un motorista de unos 25 años en una colisión con un turismo en Ponferrada",
-    "link": "https://www.lanuevacronica.com/sucesos/herido-motorista-25-anos-en-colision-con-turismo-en-ponferrada_204649_102.html",
-    "desc": "El accidente se produjo a primera hora de la mañana en una estación de servicio de la avenida de la Constitución",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/51/92/7/112-la-nueva-cronica-4-1000x563-4-1000x563.jpeg",
-    "pub": 1792049285,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -125,30 +157,6 @@
     "desc": "",
     "img": null,
     "pub": 1792030800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Elogio del averno",
-    "link": "https://www.lanuevacronica.com/opinion/elogio-averno_204639_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792030200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Lentejas, pan y buena mesa este fin de semana",
-    "link": "https://www.lanuevacronica.com/actualidad/lentejas-pan-buena-mesa-este-fin-semana_204615_102.html",
-    "desc": "La Feria del Pan y la Lenteja de Tierra de Campos regresa a Mayorga con propuestas culinarias, talleres infantiles y actuaciones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/69/5/la-feria-reivindica-un-ano-mas-los-sabores-de-tierra-de-campos-lenteja-de-tierra-de-campos.jpeg",
-    "pub": 1792029900,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204646_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/11/4/15-10-2026-canton.jpeg",
-    "pub": 1792029600,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "El PSOE de Ponferrada ha comenzado a preparar las elecciones generales del próximo 29 de noviembre con la constitución de su Comité Electoral y la propuesta de cuatro nombres para las candidaturas…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-de-ponferrada-activa-su-maquinaria-electoral-con-lorena-valle-y-eduardo-moran-entre-sus-propuestas-el-bierzo-digital.jpg",
     "pub": 1791921344,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La vivienda lidera el aumento de las inversiones en los presupuestos, seguida del suelo industrial y la agricultura",
-    "link": "https://www.elbierzodigital.com/la-vivienda-lidera-el-aumento-de-las-inversiones-seguida-del-suelo-industrial-y-la-agricultura/",
-    "desc": "El presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco , destacó que las operaciones de capital previstas en los presupuestos autonómicos para 2027 alcanzarán los 2.528,47 millones…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/los-presupuestos-de-castilla-y-leon-se-elevan-un-13-hasta-los-16-4719-millones-el-bierzo-digital-3.jpeg",
-    "pub": 1791904991,
     "fuente": "El Bierzo Digital"
   },
   {
