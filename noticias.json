@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Un debate sobre el futuro de la lectura para cerrar el festival leonés Quimeras",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/debate-sobre-futuro-lectura-cerrar-festival-leones-quimeras_204718_102.html",
+    "desc": "La iniciativa de la Academia de las Artes, las Letras y las Ciencias celebra este viernes su última jornada oficial, prolongando sus actividades hasta la semana que viene con la proyección de dos…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/75/1/el-encuentro-con-javier-fernandez-menudo-castillo-celebrado-este-jueves-en-el-marco-del-festival-quimeras-l-n-c.jpeg",
+    "pub": 1792085084,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Diez artistas leoneses 'dialogan' con las canciones de Serrat",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/diez-artista-leoneses-dialogan-con-canciones-serrat_204717_102.html",
+    "desc": "La galería Espacio E será este sábado escenario para la primera de las actividades del Festival Palabra",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/72/4/la-obra-y-el-amor-de-jose-luis-casas-formara-parte-de-la-exposicion-l-n-c.jpeg",
+    "pub": 1792085063,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Puente Almuhey vuelve a latir al ritmo de sus raíces",
+    "link": "https://www.lanuevacronica.com/actualidad/puente-almuhey-vuelve-latir-ritmo-sus-raices_204693_102.html",
+    "desc": "La XI Feria Multisectorial se celebra este fin de semana con pendones, mastines, exhibiciones ecuestres, música y gastronomía",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/22/9/puente-almuhey-recupera-el-pulso-de-las-ferias-de-antano-con-dos-jornadas-de-tradicion-cultura-y-gastronomia.jpeg",
+    "pub": 1792084988,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "En Chozas hay patata para rato",
+    "link": "https://www.lanuevacronica.com/actualidad/en-chozas-hay-patata-rato_204692_102.html",
+    "desc": "El programa mantiene el concurso a la patata más grande como uno de los grandes atractivos, comida popular, mercado y música",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/21/8/la-xxi-edicion-volvera-a-reunir-en-torno-a-la-patata-a-vecinos-productores-y-visitantes-en-una-jornada-de-tradicion-y-convivencia-fernando-otero.jpeg",
+    "pub": 1792084704,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La apicultora leonesa Raquel Fernández recoge el máximo premio nacional a la innovación agraria",
     "link": "https://www.lanuevacronica.com/actualidad/apicultora-leonesa-raquel-fernandez-recoge-maximo-premio-nacional-innovacion-agraria_204689_102.html",
     "desc": "La responsable de Los Izanes recibe el reconocimiento del Ministerio de Agricultura y reivindica la titularidad compartida de las explotaciones: \"No se trata de quitarle el sitio a nadie, se trata…",
@@ -24,14 +56,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Puente Almuhey vuelve a latir al ritmo de sus raíces",
-    "link": "https://www.lanuevacronica.com/actualidad/puente-almuhey-vuelve-latir-ritmo-sus-raices_204693_102.html",
-    "desc": "La XI Feria Multisectorial se celebra este fin de semana con pendones, mastines, exhibiciones ecuestres, música y gastronomía",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/22/9/puente-almuhey-recupera-el-pulso-de-las-ferias-de-antano-con-dos-jornadas-de-tradicion-cultura-y-gastronomia.jpeg",
-    "pub": 1792083000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El truco para ahorrar en la compra que empieza aprovechando la comida que ya tienes en casa",
     "link": "https://www.lanuevacronica.com/actualidad/truco-ahorrar-en-compra-empieza-aprovechando-comida-ya-tienes-en-casa_204701_102.html",
     "desc": "La planificación doméstica es una de las principales vías para reducir el desaprovechamiento de alimentos",
@@ -53,14 +77,6 @@
     "desc": "Todos los planes de los que disfrutar estos días en distintos rincones de la provincia",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/47/40/5/todos-los-planes-de-los-que-disfrutar-estos-dias-en-distintos-rincones-de-la-provincia-saul-aren-fernando-otero.jpeg",
     "pub": 1792081082,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "En Chozas hay patata para rato",
-    "link": "https://www.lanuevacronica.com/actualidad/en-chozas-hay-patata-rato_204692_102.html",
-    "desc": "El programa mantiene el concurso a la patata más grande como uno de los grandes atractivos, comida popular, mercado y música",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/21/8/la-xxi-edicion-volvera-a-reunir-en-torno-a-la-patata-a-vecinos-productores-y-visitantes-en-una-jornada-de-tradicion-y-convivencia-fernando-otero.jpeg",
-    "pub": 1792080300,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -104,27 +120,11 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Poeda impulsa el emprendimiento femenino para abrir nuevas oportunidades en los pueblos de León",
-    "link": "https://www.lanuevacronica.com/actualidad/poeda-impulsa-emprendimiento-femenino-abrir-nuevas-oportunidades-en-pueblos-leon_204690_102.html",
-    "desc": "La entidad reúne en Carrizo de la Ribera a mujeres emprendedoras de distintos sectores para compartir experiencias y fomentar la creación de negocios en el medio rural",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/16/7/poeda-impulsa-el-emprendimiento-femenino-para-abrir-nuevas-oportunidades-en-los-pueblos-de-leon.jpeg",
-    "pub": 1792071365,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Astorga pone rostro a la lucha de las mujeres por la igualdad con una exposición de Cruz Roja",
     "link": "https://www.lanuevacronica.com/actualidad/astorga-pone-rostro-lucha-mujeres-por-igualdad-con-exposicion-cruz-roja_204688_102.html",
     "desc": "La Biblioteca Municipal acoge hasta el 31 de octubre 'Mujeres del Mundo', una muestra de 21 fotografías y testimonios reales que visibiliza la desigualdad, la violencia y la capacidad de superación…",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/47/06/3/astorga-pone-rostro-a-la-lucha-de-las-mujeres-por-la-igualdad-con-una-exposicion-de-cruz-roja.jpeg",
     "pub": 1792069798,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ramón califica de \"afrenta insoportable\" los presupuestos de la Junta para El Bierzo",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ramon-califica-afrenta-insoportable-presupuestos-junta-bierzo_204687_102.html",
-    "desc": "El presidente del Consejo Comarcal denuncia una reducción del 41% respecto a las cuentas anteriores y confía en que las enmiendas permitan corregir los recortes",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/39/23/0/olegario-ramon-2.jpeg",
-    "pub": 1792067051,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -192,6 +192,14 @@
     "fuente": "El Bierzo Digital"
   },
   {
+    "titulo": "La Fisioterapia reclama especialidades oficiales y más autonomía para afrontar los retos sanitarios del futuro",
+    "link": "https://www.elbierzodigital.com/la-fisioterapia-reclama-especialidades-oficiales-y-mas-autonomia-para-afrontar-los-retos-sanitarios-del-futuro/",
+    "desc": "El grado de Fisioterapia del Campus de Ponferrada cumple 25 años de trayectoria con una celebración que mira tanto al camino recorrido como a los retos que afronta la profesión. Las jornadas ‘XXV…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-fisioterapia-reclama-especialidades-oficiales-y-mas-autonomia-para-afrontar-los-retos-sanitarios-del-futuro-el-bierzo-digital.jpeg",
+    "pub": 1792058003,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Morala defiende la inversión de la Junta en Ponferrada y reclama que aumente en futuros presupuestos",
     "link": "https://www.elbierzodigital.com/morala-defiende-la-inversion-de-la-junta-en-ponferrada-y-reclama-que-aumente-en-futuros-presupuestos/",
     "desc": "El alcalde de Ponferrada, Marco Morala , ha valorado positivamente los presupuestos de la Junta de Castilla y León y las inversiones previstas para la ciudad, aunque ha defendido la necesidad de…",
@@ -248,11 +256,11 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La Fisioterapia reclama especialidades oficiales y más autonomía para afrontar los retos sanitarios del futuro",
-    "link": "https://www.elbierzodigital.com/la-fisioterapia-reclama-especialidades-oficiales-y-mas-autonomia-para-afrontar-los-retos-sanitarios-del-futuro/",
-    "desc": "El grado de Fisioterapia del Campus de Ponferrada cumple 25 años de trayectoria con una celebración que mira tanto al camino recorrido como a los retos que afronta la profesión. Las jornadas ‘XXV…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-fisioterapia-reclama-especialidades-oficiales-y-mas-autonomia-para-afrontar-los-retos-sanitarios-del-futuro-el-bierzo-digital.jpeg",
-    "pub": 1792047203,
+    "titulo": "Conseguido: Basurco convierte su travesía entre Europa y Asia en un altavoz para Oncobierzo",
+    "link": "https://www.elbierzodigital.com/conseguido-basurco-convierte-su-travesia-entre-europa-y-asia-en-un-altavoz-para-oncobierzo/",
+    "desc": "Miguel Martínez Basurco ha vuelto a demostrar que sus retos deportivos van mucho más allá de la resistencia física. El deportista de Villafranca del Bierzo ha conquistado su meta en aguas abiertas…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/conseguido-basurco-convierte-su-travesia-entre-europa-y-asia-en-un-altavoz-para-oncobierzo-el-bierzo-digital-2-e1792085912997.jpeg",
+    "pub": 1792047030,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "Las Reservas de la Biosfera de León , entre ellas la de los Ancares Leoneses, continúan a la espera de las ayudas provinciales destinadas a cubrir sus gastos de funcionamiento . Así lo ha denunciado…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/09/Ancares-10-el-bierzo-digital-1.jpg",
     "pub": 1791973321,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Alphonsine Kitumua: “Por poco que se tenga, siempre hay algo que dar”",
-    "link": "https://www.elbierzodigital.com/alphonsine-kitumua-por-poco-que-se-tenga-siempre-hay-algo-que-dar/",
-    "desc": "El aula magna del Colegio Diocesano San Ignacio de Ponferrada acogió la presentación de la Jornada del Domund 2026, que se celebrará el próximo domingo en el año en que se cumple el centenario de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/alphonsine-kitumua-por-poco-que-se-tenga-siempre-hay-algo-que-dar-el-bierzo-digital-1.jpeg",
-    "pub": 1791971411,
     "fuente": "El Bierzo Digital"
   },
   {
