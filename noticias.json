@@ -1,10 +1,74 @@
 [
   {
+    "titulo": "Ademar - Aranda: 'Que esta vez el colista no se salga con la suya'",
+    "link": "https://www.lanuevacronica.com/deportes/ademar-aranda-esta-vez-colista-no-se-salga-con-suya_204684_102.html",
+    "desc": "El Ademar recibe a un Aranda, que no conoce la victoria, este viernes desde las 19 horas, buscando alejarse del descenso y despejar las dudas del último partido, pero con la baja de Juan Castro",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/37/45/4/ademar-nava-6.jpeg",
+    "pub": 1792064304,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada sienta a jóvenes y mayores a la misma mesa para compartir arte, café y experiencias",
+    "link": "https://www.elbierzodigital.com/ponferrada-sienta-a-jovenes-y-mayores-a-la-misma-mesa-para-compartir-arte-cafe-y-experiencias/",
+    "desc": "Ponferrada se prepara para demostrar que la edad no entiende de barreras cuando hay ganas de compartir. La Confederación Estatal de Mayores Activos (CONFEMAC) traerá el próximo viernes 30 de octubre…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/09/Turistas-plaza-de-la-Encina.jpg",
+    "pub": 1792063883,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El PP de León asegura que hay \"una plaga de ratas\" en la ciudad",
+    "link": "https://www.lanuevacronica.com/actualidad/pp-leon-asegura-hay-plaga-ratas-en-ciudad_204683_102.html",
+    "desc": "David Fernández asegura que la presencia de roedores \"se extiende por toda la ciudad\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/92/5/imagen-enviada-por-el-pp-para-denunciar-la-presencia-de-roedores-en-el-centro-de-leon.jpeg",
+    "pub": 1792063551,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Raquel Dávila y Aránzazu Santiago reivindican el emprendimiento femenino para mantener vivos los pueblos",
+    "link": "https://www.elbierzodigital.com/raquel-davila-y-aranzazu-santiago-reivindican-el-emprendimiento-femenino-para-mantener-vivos-los-pueblos/",
+    "desc": "El emprendimiento puede abrir nuevas oportunidades en el medio rural, aunque el camino no siempre resulte sencillo, especialmente para las mujeres. Así lo defienden Raquel Dávila y Aránzazu Santiago…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/raquel-davila-y-aranzazu-santiago-reivindican-el-emprendimiento-femenino-para-mantener-vivos-los-pueblos-el-bierzo-digital-e1792063440222.jpeg",
+    "pub": 1792063447,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El PSOE de Ponferrada denuncia que las ayudas a las asociaciones vecinales siguen sin convocarse",
+    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-ponferrada-denuncia-ayudas-asociaciones-vecinales-siguen-sin-convocarse_204673_102.html",
+    "desc": "Critica el retraso en la tramitación de los 25.754 euros previstos para 2026 y recuerda que el equipo de gobierno se comprometió a que no se repitiera lo ocurrido el año pasado, cuando también hubo…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/66/1/psoe-pleno-ponferrada.jpeg",
+    "pub": 1792063138,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Asprona Bierzo convoca la segunda edición del concurso literario 'Voces de mujer rural'",
+    "link": "https://www.lanuevacronica.com/el-bierzo/asprona-bierzo-convoca-segunda-edicion-concurso-literario-voces-mujer-rural_204682_102.html",
+    "desc": "El certamen, organizado desde el centro de día Las Candelas de Torre del Bierzo, admite poemas y microrrelatos hasta el 15 de noviembre para visibilizar las experiencias y aportaciones de las…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/90/7/cartel-concurso-voces-mujer-rural-horizontal.png",
+    "pub": 1792063112,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Raquel Dávila y Aránzazu Santiago, dos ejemplos de emprendimiento femenino en el medio rural leonés",
+    "link": "https://www.lanuevacronica.com/el-bierzo/raquel-davila-aranzazu-santiago-dos-ejemplos-emprendimiento-femenino-en-medio-rural-leones_204678_102.html",
+    "desc": "La apicultora de Filiel y la empresaria turística de Caboalles de Abajo reciben los Premios Mujer Rural de la Diputación de León en un acto celebrado en Cacabelos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/73/1/10max202610753523-1.jpeg",
+    "pub": 1792063108,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Camponaraya homenajea a Salustiana Carrete, su tercera centenaria",
+    "link": "https://www.lanuevacronica.com/el-bierzo/camponaraya-homenajea-salustiana-carrete-su-tercera-centenaria_204676_102.html",
+    "desc": "El alcalde y la concejala de Mayores compartieron con la familia de la homenajeada la celebración de sus cien años de vida",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/71/3/salustiana-foto-vale.jpeg",
+    "pub": 1792063059,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La Junta destina más de un millón de euros a una cuadrilla forestal para siete municipios de El Bierzo",
     "link": "https://www.lanuevacronica.com/el-bierzo/junta-destina-mas-millon-euros-cuadrilla-forestal-siete-municipios-bierzo_204672_102.html",
     "desc": "El equipo estará integrado por siete trabajadores y combinará labores de prevención en montes y caminos con la intervención en incendios cuando sea necesario",
     "img": "https://www.lanuevacronica.com/uploads/s1/95/25/brigweb.jpeg",
-    "pub": 1792062364,
+    "pub": 1792062825,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -24,27 +88,11 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Camponaraya homenajea a Salustiana Carrete, su tercera centenaria",
-    "link": "https://www.lanuevacronica.com/el-bierzo/camponaraya-homenajea-salustiana-carrete-su-tercera-centenaria_204676_102.html",
-    "desc": "El alcalde y la concejala de Mayores compartieron con la familia de la homenajeada la celebración de sus cien años de vida",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/71/3/salustiana-foto-vale.jpeg",
-    "pub": 1792061956,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Los Salvajes llegan este fin de semana a Santa Colomba de Somoza",
     "link": "https://www.lanuevacronica.com/lnc-culturas/salvajes-llegan-este-fin-semana-santa-colomba-somoza_204681_102.html",
     "desc": "La mítica banda barcelonesa será protagonista tanto el sábado como el domingo de la Fundación Club 45",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/46/85/5/la-banda-barcelonesa-los-salvajes-recalan-en-santa-colomba-de-somoza-l-n-c.jpeg",
     "pub": 1792061880,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Raquel Dávila y Aránzazu Santiago, dos ejemplos de emprendimiento femenino en el medio rural leonés",
-    "link": "https://www.lanuevacronica.com/el-bierzo/raquel-davila-aranzazu-santiago-dos-ejemplos-emprendimiento-femenino-en-medio-rural-leones_204678_102.html",
-    "desc": "La apicultora de Filiel y la empresaria turística de Caboalles de Abajo reciben los Premios Mujer Rural de la Diputación de León en un acto celebrado en Cacabelos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/73/1/10max202610753523-1.jpeg",
-    "pub": 1792061513,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -77,14 +125,6 @@
     "desc": "La actuación mejora la calidad y garantía de suministro en una de las zonas más emblemáticas de la ciudad, integrando la infraestructura eléctrica en el entorno urbano",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/46/69/3/imagen-aerea-de-la-catedral-de-leon-iluminada.jpeg",
     "pub": 1792060869,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PSOE de Ponferrada denuncia que las ayudas a las asociaciones vecinales siguen sin convocarse",
-    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-ponferrada-denuncia-ayudas-asociaciones-vecinales-siguen-sin-convocarse_204673_102.html",
-    "desc": "Critica el retraso en la tramitación de los 25.754 euros previstos para 2026 y recuerda que el equipo de gobierno se comprometió a que no se repitiera lo ocurrido el año pasado, cuando también hubo…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/66/1/psoe-pleno-ponferrada.jpeg",
-    "pub": 1792060663,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -126,30 +166,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/06/olegario-ramon-llama-a-hacer-un-frente-comun-para-asegurar-el-4o-curso-de-medicina-en-ponferrada-el-bierzo-digital-1.jpg",
     "pub": 1792058940,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La berrea llega a su fin en las montañas de León",
-    "link": "https://www.lanuevacronica.com/actualidad/berrea-llega-su-fin-en-montanas-leon_204667_102.html",
-    "desc": "Los grandes machos reúnen a las hembras, mientras algunos ejemplares jóvenes y otros de mayor edad todavía dejan escuchar sus últimos bramidos entre los montes leoneses",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/58/7/un-macho-con-un-grupo-de-hembras-en-la-zona-de-valdehuesa.jpeg",
-    "pub": 1792058722,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El primer leonés que sonará en el Benidorm Fest: \"Me lo estoy preparando lo mejor posible y vamos a pelearlo\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/primer-leones-sonara-en-benidorm-fest-me-estoy-preparando-mejor-posible-vamos-pelearlo_204668_102.html",
-    "desc": "\"Es una satisfacción como alcalde y como leonés\", reflejó José Antonio Diez en compañía del artista",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/60/9/polo-nandez-estuvo-acompanado-de-jose-antonio-diez-durante-el-anuncio-de-su-participacion-en-el-beniform-fest.jpeg",
-    "pub": 1792058552,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Valencia de Don Juan recuperará este fin de semana las carreras de galgos y el campeonato de cetrería",
-    "link": "https://www.lanuevacronica.com/actualidad/valencia-don-juan-recuperara-este-fin-semana-carreras-galgos-campeonato-cetreria_204665_102.html",
-    "desc": "La localidad presenta para este fin de semana su I Feria de pesca, caza y naturaleza, junto a la que se construirá un lago como refugio de pescadores y se intentará recuperar la antigua Escuela de…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/48/8/whatsapp-image-2026-10-15-at-10-32-52.jpeg",
-    "pub": 1792058014,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Morala defiende la inversión de la Junta en Ponferrada y reclama que aumente en futuros presupuestos",
@@ -341,22 +357,6 @@
     "desc": "El Centro de Interpretación de la Vid y el Vino (CIVI) de Camponaraya acogerá el próximo viernes 23 de octubre una cata solidaria organizada por el Banco de Alimentos del Sil. La actividad comenzará…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2019/03/WhatsApp-Image-2019-03-05-at-12.01.24-2.jpeg",
     "pub": 1791966688,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ponferrada lleva las aulas digitales al medio rural para que sus mayores no se queden atrás",
-    "link": "https://www.elbierzodigital.com/ponferrada-lleva-las-aulas-digitales-al-medio-rural-para-que-sus-mayores-no-se-queden-atras/",
-    "desc": "Aprender a manejar WhatsApp , pedir una cita médica o realizar gestiones bancarias desde el teléfono móvil es el objetivo de los talleres gratuitos que el Ayuntamiento de Ponferrada ha puesto en…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-lleva-las-aulas-digitales-al-medio-rural-para-que-sus-mayores-no-se-queden-atras-el-bierzo-digital-e1791965978605.jpeg",
-    "pub": 1791966321,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Santa Compaña volverá a recorrer las calles de Fabero este Halloween",
-    "link": "https://www.elbierzodigital.com/la-santa-compana-volvera-a-recorrer-las-calles-de-fabero-este-halloween/",
-    "desc": "Como cada noche de Halloween, la Santa Compaña volverá a recorrer el próximo 31 de octubre las calles de Fabero con la recreación teatralizada de la funesta comitiva, que partirá desde el…",
-    "img": null,
-    "pub": 1791966257,
     "fuente": "El Bierzo Digital"
   },
   {
