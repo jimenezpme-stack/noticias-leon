@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "El truco para ahorrar en la compra que empieza aprovechando la comida que ya tienes en casa",
+    "link": "https://www.lanuevacronica.com/actualidad/truco-ahorrar-en-compra-empieza-aprovechando-comida-ya-tienes-en-casa_204701_102.html",
+    "desc": "La planificación doméstica es una de las principales vías para reducir el desaprovechamiento de alimentos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/35/3/fotonoticia-20241101082954-1200.jpeg",
+    "pub": 1792081447,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Santiago Abascal regresará a Ponferrada el próximo martes para protagonizar un mitin de Vox",
+    "link": "https://www.lanuevacronica.com/el-bierzo/santiago-abascal-regresara-ponferrada-proximo-martes-protagonizar-mitin-vox_204706_102.html",
+    "desc": "El candidato a la Presidencia del Gobierno volverá a la Plaza del Ayuntamiento de la capital del Bierzo siete meses después de su último acto público en la ciudad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/46/1/abascal-pnf.jpeg",
+    "pub": 1792081424,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El arte de David Crespo lleva al Zofreral de Cobrana las heridas del fuego",
+    "link": "https://www.elbierzodigital.com/arte-david-crespo-lleva-zofreral-cobrana-heridas-fuego/",
+    "desc": "El Zofreral de Cobrana abrirá sus puertas al arte y a la memoria del paisaje el próximo sábado, 24 de octubre , con la llegada de \"Pálpito\" , una exposición que invita a mirar de frente las heridas…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-arte-de-david-crespo-lleva-al-zofreral-de-cobrana-las-heridas-del-fuego-el-bierzo-digital.jpg",
+    "pub": 1792081217,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Feria del libro antiguo, madreñada y muchas citas gastronómicas, este fin de semana en León",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/feria-libro-antiguo-madrenada-muchas-citas-gastronomicas-este-fin-semana-en-leon_204703_102.html",
+    "desc": "Todos los planes de los que disfrutar estos días en distintos rincones de la provincia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/40/5/todos-los-planes-de-los-que-disfrutar-estos-dias-en-distintos-rincones-de-la-provincia-saul-aren-fernando-otero.jpeg",
+    "pub": 1792081082,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "En Chozas hay patata para rato",
     "link": "https://www.lanuevacronica.com/actualidad/en-chozas-hay-patata-rato_204692_102.html",
     "desc": "El programa mantiene el concurso a la patata más grande como uno de los grandes atractivos, comida popular, mercado y música",
@@ -96,14 +128,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Asprona Bierzo convoca la segunda edición del concurso literario 'Voces de mujer rural'",
-    "link": "https://www.lanuevacronica.com/el-bierzo/asprona-bierzo-convoca-segunda-edicion-concurso-literario-voces-mujer-rural_204682_102.html",
-    "desc": "El certamen, organizado desde el centro de día Las Candelas de Torre del Bierzo, admite poemas y microrrelatos hasta el 15 de noviembre para visibilizar las experiencias y aportaciones de las…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/90/7/cartel-concurso-voces-mujer-rural-horizontal.png",
-    "pub": 1792065002,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ademar - Aranda: 'Que esta vez el colista no se salga con la suya'",
     "link": "https://www.lanuevacronica.com/deportes/ademar-aranda-esta-vez-colista-no-se-salga-con-suya_204684_102.html",
     "desc": "El Ademar recibe a un Aranda, que no conoce la victoria, este viernes desde las 19 horas, buscando alejarse del descenso y despejar las dudas del último partido, pero con la baja de Juan Castro",
@@ -136,28 +160,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Raquel Dávila y Aránzazu Santiago, dos ejemplos de emprendimiento femenino en el medio rural leonés",
-    "link": "https://www.lanuevacronica.com/el-bierzo/raquel-davila-aranzazu-santiago-dos-ejemplos-emprendimiento-femenino-en-medio-rural-leones_204678_102.html",
-    "desc": "La apicultora de Filiel y la empresaria turística de Caboalles de Abajo reciben los Premios Mujer Rural de la Diputación de León en un acto celebrado en Cacabelos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/73/1/10max202610753523-1.jpeg",
-    "pub": 1792063108,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Clínica Ponferrada busca más regularidad para hacerse fuerte en el Lydia Valentín ante el Getafe",
     "link": "https://www.elbierzodigital.com/el-clinica-ponferrada-busca-mas-regularidad-para-hacerse-fuerte-en-el-lydia-valentin-ante-el-getafe/",
     "desc": "El Clínica Ponferrada SDP afronta este sábado un nuevo reto en la Segunda FEB con la visita del C. B. Getafe al pabellón Lydia Valentín, donde ambos equipos se medirán a partir de las 19:30 horas en…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-clinica-ponferrada-busca-mas-regularidad-para-hacerse-fuerte-en-el-lydia-valentin-ante-el-getafe-el-bierzo-digital.jpeg",
     "pub": 1792062335,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Los Salvajes llegan este fin de semana a Santa Colomba de Somoza",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/salvajes-llegan-este-fin-semana-santa-colomba-somoza_204681_102.html",
-    "desc": "La mítica banda barcelonesa será protagonista tanto el sábado como el domingo de la Fundación Club 45",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/85/5/la-banda-barcelonesa-los-salvajes-recalan-en-santa-colomba-de-somoza-l-n-c.jpeg",
-    "pub": 1792061880,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El PSOE de Ponferrada denuncia que las ayudas a las asociaciones vecinales siguen sin convocarse",
@@ -349,14 +357,6 @@
     "desc": "El aula magna del Colegio Diocesano San Ignacio de Ponferrada acogió la presentación de la Jornada del Domund 2026, que se celebrará el próximo domingo en el año en que se cumple el centenario de…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/alphonsine-kitumua-por-poco-que-se-tenga-siempre-hay-algo-que-dar-el-bierzo-digital-1.jpeg",
     "pub": 1791971411,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Cómo evitar el bombardeo de propaganda electoral en tu buzón",
-    "link": "https://www.elbierzodigital.com/como-evitar-el-bombardeo-de-propaganda-electoral-en-tu-buzon/",
-    "desc": "Aunque vivimos en la era digital, las campañas electorales siguen teniendo mucho de analógico: los partidos mantienen la tradicional pegada de carteles a medianoche en la fecha que comienza la…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/como-evitar-el-bombardeo-de-propaganda-electoral-en-tu-buzon-el-bierzo-digital.jpg",
-    "pub": 1791969412,
     "fuente": "El Bierzo Digital"
   },
   {
