@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "Picos: reserva que no preserva",
+    "link": "https://www.lanuevacronica.com/opinion/picos-reserva-no-preserva_204642_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792032000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La red de amistad que nació en León y ahora quiere plantar cara a la soledad en Ponferrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/red-amistad-nacio-en-leon-ahora-quiere-plantar-cara-soledad-en-ponferrada_202637_102.html",
+    "desc": "Marta Autillo puso en marcha en 2022 un pequeño grupo para conocer gente y hoy nueve grupos reúnen en León a cientos de personas; ahora quiere trasladar la experiencia al Bierzo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/83/84/4/ruta.jpeg",
+    "pub": 1792031700,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Castilla y León se mantiene en el podio de honor de la educación en España",
+    "link": "https://www.lanuevacronica.com/opinion/castilla-leon-se-mantiene-en-podio-honor-educacion-en-espana_204641_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792031400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los castañicultores bercianos alertan de que sus sotos \"se mueren\" si no hay medidas para salvarlos",
+    "link": "https://www.lanuevacronica.com/el-bierzo/castanicultores-bercianos-alertan-sus-sotos-se-mueren-si-no-hay-medidas-salvarlos_204612_102.html",
+    "desc": "La Asociación Castañicultores Tres Valles lamenta la falta de cosecha en esta campaña y advierte del deterioro de los árboles sin ayudas para evitar su abandono",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/78/7/recogida-castanas.jpeg",
+    "pub": 1792031400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Roma",
+    "link": "https://www.lanuevacronica.com/opinion/roma_204640_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792030800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Elogio del averno",
     "link": "https://www.lanuevacronica.com/opinion/elogio-averno_204639_102.html",
     "desc": "",
@@ -80,44 +120,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Laguna de Negrillos dedicada una nueva semana a sus mayores repleta de cultura y ocio",
-    "link": "https://www.lanuevacronica.com/actualidad/laguna-negrillos-dedicada-nueva-semana-sus-mayores-repleta-cultura-ocio_204593_102.html",
-    "desc": "Del 19 al 25 de octubre, la Casa de Cultura de la localidad acogerá conferencias, actuaciones musicales, juegos y un homenaje a la vecina de mayor edad del municipio, de 96 años",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/12/9/laguna-de-negrillos-dedicada-una-nueva-semana-a-sus-mayores-repleta-de-cultura-y-ocio.jpeg",
-    "pub": 1792029300,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Netflix lleva a Maxi Iglesias y Elena Rivera al valle de Fornela para rodar “La Dama del Norte”",
     "link": "https://www.elbierzodigital.com/netflix-lleva-a-maxi-iglesias-y-elena-rivera-al-valle-de-fornela-para-rodar-la-dama-del-norte/",
     "desc": "El valle de Fornela se prepara para convertirse en escenario de ficción. Netflix rodará en los próximos días parte de su nueva serie, \" La Dama del Norte\" , protagonizada por Maxi Iglesias y Elena…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/netflix-lleva-a-maxi-iglesias-y-elena-rivera-al-valle-de-fornela-para-rodar-la-dama-del-norte-el-bierzo-digital.jpg",
     "pub": 1792008077,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Herido un hombre de unos 30 años tras volcar su coche en Villamañán",
-    "link": "https://www.lanuevacronica.com/actualidad/herido-hombre-30-anos-volcar-su-coche-en-villamanan_204638_102.html",
-    "desc": "El Centro de Emergencias 112 de Castilla y León ha recibido el aviso del accidente a las 19:37 horas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/10/0/imagen-de-la-le-654-a-su-paso-por-villamanan.jpeg",
-    "pub": 1792002309,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Hospital de León acoge este jueves una campaña de donación de sangre",
-    "link": "https://www.lanuevacronica.com/actualidad/hospital-leon-acoge-este-jueves-campana-donacion-sangre_204637_102.html",
-    "desc": "La campaña se desarrollará entre las 8:45 y las 14:15 horas en el vestíbulo del salón de actos del complejo sanitario",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/45/81/8/el-hospital-de-leon-acoge-el-lunes-y-el-martes-un-maraton-de-donacion-de-sangre-4-1000x563.jpeg",
-    "pub": 1792001400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Coal y el Instituto Concha Casado sellan su colaboración: nuevo convenio de cara a un próximo congreso",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/coal-instituto-concha-casado-sellan-su-colaboracion-nuevo-convenio-cara-proximo-congreso_204634_102.html",
-    "desc": "ElColegio Oficial de Arquitectos, su Fundación y el Instituto de Estudios Patrimoniales Concha Casado ratificaron su compromiso mutuo de la mano de una firma que marcó un hito fundamental: la…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/99/2/un-instante-de-la-firma-del-convenio-entre-el-coal-funcoal-y-el-instituto-concha-casado-fernando-otero.jpeg",
-    "pub": 1792000490,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Castilla y León lleva a Bruselas el debate sobre la innovación y la financiación regional",
@@ -134,14 +142,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/colegio-espiritu-santo-75-anos-de-mision-y-educacion-en-ponferrada-el-bierzo-digital.jpg",
     "pub": 1791998516,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Cuenta atrás para convertir a León en epicentro de las letras",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/cuenta-atras-convertir-leon-en-epicentro-letras_204632_102.html",
-    "desc": "El Festival Palabra arrancará este viernes su programación, que se prolongará hasta el día 25 con Joan Manuel Serrat como ganador del Premio Leteo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/94/4/la-concejala-elena-aguado-y-el-director-del-festival-rafael-saravia-l-n-c.jpeg",
-    "pub": 1791997636,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Junta prevé invertir casi 39 millones de euros en el Bierzo en 2027",
