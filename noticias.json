@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Tana Rivera y Roca Rey, de los rumores de boda a su ruptura sorpresa",
+    "link": "https://www.lanuevacronica.com/gente/tana-rivera-y-roca-rey-de-los-rumores-de-boda-a-su-ruptura-sorpresa_204651_102.html",
+    "desc": "Habría sido el torero peruano el que habría tomado la decisión al verse \"sobrepasado\" por lo rápido que estaba yendo su noviazgo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/22/0/fotonoticia-20261014080017-1920.jpeg",
+    "pub": 1792049972,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Gerard Piqué reaparece más enamorado que nunca de Clara Chía tras su tenso cara a cara con Shakira en los juzgados",
+    "link": "https://www.lanuevacronica.com/gente/gerard-pique-reaparece-mas-enamorado-que-nunca-de-clara-chia-tras-su-tenso-cara-a-cara-con-shakira-en-los-juzgados_204650_102.html",
+    "desc": "El exfutbolista y la joven catalana han asistido al concierto de Le Oques Grasses en el Estadio Olímpico Lluis Companys de Barcelona",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/19/3/fotonoticia-20261014115753-1920.jpeg",
+    "pub": 1792049712,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Herido un motorista de unos 25 años en una colisión con un turismo en Ponferrada",
+    "link": "https://www.lanuevacronica.com/sucesos/herido-motorista-25-anos-en-colision-con-turismo-en-ponferrada_204649_102.html",
+    "desc": "El accidente se produjo a primera hora de la mañana en una estación de servicio de la avenida de la Constitución",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/51/92/7/112-la-nueva-cronica-4-1000x563-4-1000x563.jpeg",
+    "pub": 1792049285,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Festival de Otoño para en Las Médulas y en Priaranza en su penúltimo fin de semana",
+    "link": "https://www.lanuevacronica.com/el-bierzo/festival-otono-en-medulas-en-priaranza-en-su-penultimo-fin-semana_204648_102.html",
+    "desc": "Pez Luna Teatro representará 'Veo, veo, ¿qué ves?', una reflexión sobre la invisibilidad de las mujeres, y Fabularia Teatro acercará la historia y las tradiciones con 'Los bibliotecarios del tiempo'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/17/1/veo-veo-pez-luna-teatro-baja.jpeg",
+    "pub": 1792048919,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Herido un motorista de unos 25 años en una colisión con un turismo en Ponferrada",
     "link": "https://www.elbierzodigital.com/herido-un-motorista-de-unos-25-anos-en-una-colision-con-un-turismo-en-ponferrada/",
     "desc": "Un motorista de unos 25 años ha resultado herido este jueves tras colisionar con un turismo en una estación de servicio situada en la avenida de la Constitución , en Ponferrada. Según ha informado…",
@@ -100,38 +132,6 @@
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/mucha-espera-pocas-novedades_204645_102.html",
     "desc": "Las cuentas autonómicas elevan un 4,5 % las inversiones en León, pero buena parte de sus 240,5 millones se destina a proyectos ya conocidos",
     "img": null,
-    "pub": 1792029600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Se viene trallazo",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/se-viene-trallazo_204644_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792029600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Gonzalo Prieto expone en León: \"Estuve un mes y pico en el estudio y fue como un parto\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/gonzalo-prieto-expone-en-leon-estuve-mes-pico-en-estudio-fue-como-parto_204636_102.html",
-    "desc": "Los 'Mapas de mi memoria' del pintor leonés pueden verse en la vinoteca Amarone Vinalium, donde se exponen nueve obras realizadas por el leonés tras el fallecimiento de su padre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/03/3/gonzalo-prieto-ante-dos-obras-de-la-exposicion-vicente-garcia.jpeg",
-    "pub": 1792029600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los perros hablan de sus amos en León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/perros-hablan-sus-amos-en-leon_204635_102.html",
-    "desc": "La adaptación de la obra de Cervantes por Morfeo Teatro sube este jueves el telón del espacio de la capital provincial de la mano de una sesión escolar y otra para público general",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/01/7/el-coloquio-de-los-perros-continua-hoy-con-la-programacion-escencia-de-este-semestre-en-el-auditorio-ciudad-de-leon-morfeo-teatro.jpeg",
-    "pub": 1792029600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "De las Heras sobre la Medalla de Oro: \"Es el reconocimiento a una labor en favor de los más necesitados\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/heras-sobre-medalla-oro-es-reconocimiento-labor-en-favor-mas-necesitados_204622_102.html",
-    "desc": "El obispo de León participó en el espacio 'Entre nosotras' emitido por Cope León en colaboración con La Nueva Crónica y 987Tv",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/74/0/el-obispo-de-leon-luis-angel-de-las-heras-en-el-espacio-entre-nosotras-l-n-c.jpeg",
     "pub": 1792029600,
     "fuente": "La Nueva Crónica"
   },
