@@ -1,10 +1,26 @@
 [
   {
-    "titulo": "Investigadas la diputada de Juventud y Deportes y dos funcionarias de Diputación por falsificación documental",
-    "link": "https://www.lanuevacronica.com/actualidad/investigada-diputada-juventud-deportes-dos-funcionarias-diputacion-por-falsificacion-documental_204680_102.html",
-    "desc": "Las diligencias se abrieron después de que la Justicia anulara la exclusión de un solicitante de las ayudas de Vivienda Rural Joven | La querella atribuye también posibles delitos de prevaricación…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/83/4/imagen-de-la-la-diputada-provincial-de-juventud-y-deporte-patricia-martinez-cano.png",
-    "pub": 1792078195,
+    "titulo": "En Chozas hay patata para rato",
+    "link": "https://www.lanuevacronica.com/actualidad/en-chozas-hay-patata-rato_204692_102.html",
+    "desc": "El programa mantiene el concurso a la patata más grande como uno de los grandes atractivos, comida popular, mercado y música",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/21/8/la-xxi-edicion-volvera-a-reunir-en-torno-a-la-patata-a-vecinos-productores-y-visitantes-en-una-jornada-de-tradicion-y-convivencia-fernando-otero.jpeg",
+    "pub": 1792080300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Zofreral de Cobrana acoge la exposición 'Pálpito', un homenaje a la naturaleza que renace tras el fuego",
+    "link": "https://www.lanuevacronica.com/el-bierzo/zofreral-cobrana-acoge-exposicion-palpito-homenaje-naturaleza-renace-fuego_204698_102.html",
+    "desc": "La muestra del fotógrafo berciano David Crespo, con textos del poeta Juan Carlos Mestre, se inaugurará el sábado 24 de octubre y podrá visitarse durante todo el fin de semana",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/29/5/palpito.jpeg",
+    "pub": 1792080106,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El derbi ya tiene fecha y hora",
+    "link": "https://www.lanuevacronica.com/deportes/derbi-ya-tiene-fecha-hora_204696_102.html",
+    "desc": "La Federación publicó los horarios de la jornada 11 que medirá a Cultural y Ponferradina en el Reino de León el próximo día 8 a las 18:15 horas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/28/88/72/2/cultural-y-ponferradina-conoceran-sus-hojas-de-ruta-el-proximo-martes-fernando-otero.jpeg",
+    "pub": 1792079957,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -152,22 +168,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Unicaja obtiene el sello Empresa Solidaria 2026 por su apoyo a proyectos sociales del tercer sector",
-    "link": "https://www.lanuevacronica.com/panorama/unicaja-obtiene-sello-empresa-solidaria-2026-por-su-apoyo-proyectos-sociales-tercer-sector_204679_102.html",
-    "desc": "La entidad marca la Casilla Empresa Solidaria, que canaliza parte de su tributación hacia programas del tercer sector dirigidos a personas y colectivos vulnerables",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/77/4/image.jpeg",
-    "pub": 1792061317,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Jorge Fernández Gonzalo se alza con el Premio Nacional de Poesía Antonio González de Lama",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/jorge-fernandez-gonzalo-se-alza-con-premio-nacional-poesia-antonio-gonzalez-lama_204677_102.html",
-    "desc": "La obra 'Criptofanía' del autor madrileño ha sido escogida entre un total de 759 trabajos presentados",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/75/3/el-autor-madrileno-galardonado-con-el-premio-concedido-por-el-ayuntamiento-de-leon-facebook-del-escritor.jpeg",
-    "pub": 1792061037,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Camponaraya homenajea a Salustiana Carrete por su siglo de vida",
     "link": "https://www.elbierzodigital.com/camponaraya-homenajea-a-salustiana-carrete-por-su-siglo-de-vida/",
     "desc": "El municipio de Camponaraya ha rendido homenaje a Salustiana Carrete García , su tercera vecina centenaria de este año, con motivo de la celebración de sus 1 00 años de vida. El alcalde de la…",
@@ -237,6 +237,14 @@
     "desc": "El grado de Fisioterapia del Campus de Ponferrada cumple 25 años de trayectoria con una celebración que mira tanto al camino recorrido como a los retos que afronta la profesión. Las jornadas ‘XXV…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-fisioterapia-reclama-especialidades-oficiales-y-mas-autonomia-para-afrontar-los-retos-sanitarios-del-futuro-el-bierzo-digital.jpeg",
     "pub": 1792047203,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Abascal dará un mitin en Ponferrada el 20 de octubre",
+    "link": "https://www.elbierzodigital.com/abascal-dara-un-mitin-en-ponferrada-el-20-de-octubre/",
+    "desc": "El presidente de Vox, Santiago Abascal , recalará el próximo martes, 20 de octubre , en Ponferrada para protagonizar un acto público en la plaza del Ayuntamiento a partir de las 19.00 horas . La…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/abascal-dara-un-mitin-en-ponferrada-el-20-de-octubre-el-bierzo-digital-e1792079633767.jpg",
+    "pub": 1792044059,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "Aunque vivimos en la era digital, las campañas electorales siguen teniendo mucho de analógico: los partidos mantienen la tradicional pegada de carteles a medianoche en la fecha que comienza la…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/como-evitar-el-bombardeo-de-propaganda-electoral-en-tu-buzon-el-bierzo-digital.jpg",
     "pub": 1791969412,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Fabero convierte el cine en una ventana a la realidad de las mujeres rurales",
-    "link": "https://www.elbierzodigital.com/fabero-convierte-el-cine-en-una-ventana-a-la-realidad-de-las-mujeres-rurales/",
-    "desc": "Fabero se sumará a la IX Edición del Ciclo Nacional de Cine y Mujeres Rurales con una propuesta que invita a descubrir otras realidades a través de la gran pantalla . La localidad berciana…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2020/07/plaza-eloy-terron-en-Fabero-1.jpg",
-    "pub": 1791968456,
     "fuente": "El Bierzo Digital"
   },
   {
