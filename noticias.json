@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Registrado un terremoto de magnitud 4 en Villafranca del Bierzo",
+    "link": "https://www.20minutos.es/castilla-y-leon/leon/registrado-un-terremoto-magnitud-4-villafranca-bierzo_7049415_0.html",
+    "desc": "El temblor se ha notado en diferentes puntos de la comarca, según el testimonio de vecinos de diferentes municipios, así como en puntos de Galicia y Asturias.",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/15/6ad148fbd16732-92397335.jpeg",
+    "pub": 1792100642,
+    "fuente": "20minutos"
+  },
+  {
     "titulo": "Un terremoto de magnitud 4 azota El Bierzo, con epicentro al sureste de Priaranza",
     "link": "https://www.lanuevacronica.com/sucesos/terremoto-magnitud-4-azota-bierzo-con-epicentro-en-priaranza_204734_102.html",
     "desc": "El seísmo se registró a las 22.34 horas a diez kilómetros de profundidad y se dejó sentir en Ponferrada y otras localidades, sin daños graves comunicados",
@@ -30,6 +38,14 @@
     "img": "https://www.lanuevacronica.com/uploads/s1/21/02/06/3/imagen-1-provin.jpeg",
     "pub": 1792089242,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Conseguido: Basurco convierte su travesía entre Europa y Asia en un altavoz para Oncobierzo",
+    "link": "https://www.elbierzodigital.com/conseguido-basurco-convierte-su-travesia-entre-europa-y-asia-en-un-altavoz-para-oncobierzo/",
+    "desc": "Miguel Martínez Basurco ha vuelto a demostrar que sus retos deportivos van mucho más allá de la resistencia física. El deportista de Villafranca del Bierzo ha conquistado su meta en aguas abiertas…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/conseguido-basurco-convierte-su-travesia-entre-europa-y-asia-en-un-altavoz-para-oncobierzo-el-bierzo-digital-2-e1792085912997.jpeg",
+    "pub": 1792085430,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Un debate sobre el futuro de la lectura para cerrar el festival leonés Quimeras",
@@ -261,14 +277,6 @@
     "desc": "El presidente de Vox, Santiago Abascal , recalará el próximo martes, 20 de octubre , en Ponferrada para protagonizar un acto público en la plaza del Ayuntamiento a partir de las 19.00 horas . La…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/abascal-dara-un-mitin-en-ponferrada-el-20-de-octubre-el-bierzo-digital-e1792079633767.jpg",
     "pub": 1792047359,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Conseguido: Basurco convierte su travesía entre Europa y Asia en un altavoz para Oncobierzo",
-    "link": "https://www.elbierzodigital.com/conseguido-basurco-convierte-su-travesia-entre-europa-y-asia-en-un-altavoz-para-oncobierzo/",
-    "desc": "Miguel Martínez Basurco ha vuelto a demostrar que sus retos deportivos van mucho más allá de la resistencia física. El deportista de Villafranca del Bierzo ha conquistado su meta en aguas abiertas…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/conseguido-basurco-convierte-su-travesia-entre-europa-y-asia-en-un-altavoz-para-oncobierzo-el-bierzo-digital-2-e1792085912997.jpeg",
-    "pub": 1792047030,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -557,14 +565,6 @@
     "desc": "El nombre más reconocido del cartel es Paul Darey, con más de dos décadas de carrera que ha actuado en algunos de los clubes más famosos de Ibiza.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/06/6a7454c58f92f0-05197996.r_d.759-189.jpeg",
     "pub": 1786011000,
-    "fuente": "20minutos"
-  },
-  {
-    "titulo": "Muere un ciclista de 70 años tras chocar con un turismo en Sahagún",
-    "link": "https://www.20minutos.es/castilla-y-leon/leon/muere-un-ciclista-70-anos-tras-chocar-con-un-turismo-sahagun_7022785_0.html",
-    "desc": "El accidente se ha producido en la carretera LE-941 y los sanitarios desplazados al lugar solo han podido confirmar el fallecimiento de la víctima.",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/16/6a311a5ce77977-81090626.jpeg",
-    "pub": 1785921571,
     "fuente": "20minutos"
   }
 ]
