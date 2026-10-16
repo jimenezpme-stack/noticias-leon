@@ -1,6 +1,70 @@
 [
   {
-    "titulo": "Registrado un terremoto de magnitud 4 en Villafranca del Bierzo",
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204733_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/04/9/16-10-2026-canton.jpeg",
+    "pub": 1792116000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Transparencia sin excusas y responsabilidades",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/transparencia-sin-excusas-responsabilidades_204732_102.html",
+    "desc": "Además de la necesaria transparencia, Diputación debe aclarar unas acusaciones que serían especialmente graves si la Justicia confirmase que tras las supuestas irregularidades existió una venganza…",
+    "img": null,
+    "pub": 1792116000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Preguntas para los tertulianos de Iker Jiménez",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/preguntas-tertulianos-iker-jimenez_204731_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792116000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Pasarelas entre la Utrera y Paladín",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/pasarelas-entre-utrera-paladin_204720_102.html",
+    "desc": "Un recorrido con forma de raqueta con un tramo de ida y vuelta y otro tramo circular",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/81/0/10-montan-a-leonesa-y-debajo-camposalinas.jpeg",
+    "pub": 1792116000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los 'coles' más europeos son los de León",
+    "link": "https://www.lanuevacronica.com/actualidad/coles-mas-europeos-son-leon_204702_102.html",
+    "desc": "Ocho de las 14 Escuelas Embajadoras del Parlamento Europeo de la comunidad autónoma son de la provincia leonesa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/38/9/escuelasembajadoras.jpeg",
+    "pub": 1792116000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Santa Colomba de Curueño: donde las piedras recuperan la memoria del valle",
+    "link": "https://www.lanuevacronica.com/especiales/santa-colomba-curueno-donde-piedras-recuperan-memoria-valle_204697_102.html",
+    "desc": "Del legado de San Salvador a la ermita de Santa Ana, y los rincones que se descubren sin prisas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/28/0/la-ermita-de-santa-ana-es-parte-del-recorrido-por-la-historia-y-el-patrimonio-del-municipio-vicente-garcia.jpeg",
+    "pub": 1792116000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Tres de cada cuatro docentes del medio rural de León son mujeres",
+    "link": "https://www.lanuevacronica.com/actualidad/tres-cada-cuatro-docentes-medio-rural-leon-son-mujeres_194392_102.html",
+    "desc": "Más de 2.000 maestras y profesoras trabajan cada día en los centros educativos de los pueblos de la provincia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/63/91/6/maestrasrurales.jpeg",
+    "pub": 1792116000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Objetivo: sumar esfuerzos para reactivar el turismo en El Bierzo",
+    "link": "https://www.lanuevacronica.com/el-bierzo/objetivo-sumar-esfuerzos-reactivar-turismo-en-bierzo_204624_102.html",
+    "desc": "Guías Bierzo apuesta por las visitas guiadas y la cooperación entre empresas e instituciones para impulsar el turismo y acercar al visitante las joyas patrimoniales de la comarca",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/85/3/guias-bierzo.jpeg",
+    "pub": 1792116000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Registrado un terremoto de magnitud 4,2 con epicentro en Benuza (León)",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/registrado-un-terremoto-magnitud-4-villafranca-bierzo_7049415_0.html",
     "desc": "El temblor se ha notado en diferentes puntos de la comarca, según el testimonio de vecinos de diferentes municipios, así como en puntos de Galicia y Asturias.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/15/6ad148fbd16732-92397335.jpeg",
@@ -29,14 +93,6 @@
     "desc": "Con este reconocimiento, Onda Cero León ha querido poner en valor su capacidad para romper barreras y normalizar la presencia de las personas con discapacidad en el deporte",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/48/01/3/mujer-leonesa-onda-cero-maria-martin-granizo.jpeg",
     "pub": 1792090837,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "UPL estudia \"con detalle\" la investigación en el área de Juventud de la Diputación",
-    "link": "https://www.lanuevacronica.com/actualidad/upl-se-refugia-en-prudencia-pese-duro-fallo-judicial-sobre-gestion-juventud_204695_102.html",
-    "desc": "Los leonesistas esperan disponer de todos los datos antes de tomar decisiones y aseguran que exigirán responsabilidades si la Justicia confirma irregularidades",
-    "img": "https://www.lanuevacronica.com/uploads/s1/21/02/06/3/imagen-1-provin.jpeg",
-    "pub": 1792089242,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -72,27 +128,11 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "En Chozas hay patata para rato",
-    "link": "https://www.lanuevacronica.com/actualidad/en-chozas-hay-patata-rato_204692_102.html",
-    "desc": "El programa mantiene el concurso a la patata más grande como uno de los grandes atractivos, comida popular, mercado y música",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/21/8/la-xxi-edicion-volvera-a-reunir-en-torno-a-la-patata-a-vecinos-productores-y-visitantes-en-una-jornada-de-tradicion-y-convivencia-fernando-otero.jpeg",
-    "pub": 1792084704,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "UPL considera las cuentas de la Junta un \"engaño manifiesto y burdo\"",
     "link": "https://www.lanuevacronica.com/actualidad/upl-considera-cuentas-junta-engano-manifiesto-burdo_204712_102.html",
     "desc": "Alicia Gallego critica que \"insisten el proyectos que vuelven a prometerse tras no ejecutarse\"",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/47/64/0/la-portavoz-de-upl-en-las-cortes-alicia-gallego.jpeg",
     "pub": 1792083962,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Santiago Abascal regresará a Ponferrada el próximo martes para protagonizar un mitin de Vox",
-    "link": "https://www.lanuevacronica.com/el-bierzo/santiago-abascal-regresara-ponferrada-proximo-martes-protagonizar-mitin-vox_204706_102.html",
-    "desc": "El candidato a la Presidencia del Gobierno volverá a la Plaza del Ayuntamiento de la capital del Bierzo siete meses después de su último acto público en la ciudad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/46/1/abascal-pnf.jpeg",
-    "pub": 1792083206,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -110,46 +150,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-arte-de-david-crespo-lleva-al-zofreral-de-cobrana-las-heridas-del-fuego-el-bierzo-digital.jpg",
     "pub": 1792081217,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Feria del libro antiguo, madreñada y muchas citas gastronómicas, este fin de semana en León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/feria-libro-antiguo-madrenada-muchas-citas-gastronomicas-este-fin-semana-en-leon_204703_102.html",
-    "desc": "Todos los planes de los que disfrutar estos días en distintos rincones de la provincia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/40/5/todos-los-planes-de-los-que-disfrutar-estos-dias-en-distintos-rincones-de-la-provincia-saul-aren-fernando-otero.jpeg",
-    "pub": 1792081082,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Zofreral de Cobrana acoge la exposición 'Pálpito', un homenaje a la naturaleza que renace tras el fuego",
-    "link": "https://www.lanuevacronica.com/el-bierzo/zofreral-cobrana-acoge-exposicion-palpito-homenaje-naturaleza-renace-fuego_204698_102.html",
-    "desc": "La muestra del fotógrafo berciano David Crespo, con textos del poeta Juan Carlos Mestre, se inaugurará el sábado 24 de octubre y podrá visitarse durante todo el fin de semana",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/29/5/palpito.jpeg",
-    "pub": 1792080106,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El derbi ya tiene fecha y hora",
-    "link": "https://www.lanuevacronica.com/deportes/derbi-ya-tiene-fecha-hora_204696_102.html",
-    "desc": "La Federación publicó los horarios de la jornada 11 que medirá a Cultural y Ponferradina en el Reino de León el próximo día 8 a las 18:15 horas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/28/88/72/2/cultural-y-ponferradina-conoceran-sus-hojas-de-ruta-el-proximo-martes-fernando-otero.jpeg",
-    "pub": 1792079957,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los trabajadores de Somos Hijolusa reúnen más de 1.000 kilos de alimentos para familias vulnerables",
-    "link": "https://www.lanuevacronica.com/actualidad/trabajadores-somos-hijolusa-reunen-mas-1000-kilos-alimentos-familias-vulnerables_204694_102.html",
-    "desc": "Patatas Hijolusa, Agrícola Villena y Natuber han entregado los productos a los Bancos de Alimentos de León y Álava y a Cáritas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/24/0/image.jpeg",
-    "pub": 1792076662,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PP de Boñar pide regular los puestos de la Feria del Pilar",
-    "link": "https://www.lanuevacronica.com/actualidad/pp-bonar-pide-regular-puestos-feria-pilar_204691_102.html",
-    "desc": "Reclaman una normativa para ordenar los puestos y las tasas, mientras el alcalde advierte del daño que podrían causar las restricciones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/20/3/fotografia-de-la-feria-del-pilar-de-bonar-celebrada-en-la-localidad-este-mismo-lunes-fernando-otero.jpeg",
-    "pub": 1792074000,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Junta destina más de un millón de euros a una cuadrilla forestal para siete municipios del Bierzo",
