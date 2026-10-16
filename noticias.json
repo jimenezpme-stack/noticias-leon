@@ -1,10 +1,42 @@
 [
   {
-    "titulo": "OncoBierzo pone rostro al cáncer frente al Hospital de León",
-    "link": "https://www.elbierzodigital.com/oncobierzo-pone-rostro-al-cancer-frente-al-hospital-de-leon/",
-    "desc": "OncoBierzo ha trasladado su reivindicación por una sanidad pública en igualdad de condiciones hasta la entrada del Hospital Universitario de León . Allí ha instalado una valla publicitaria con diez…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/oncobierzo-pone-rostro-al-cancer-frente-al-hospital-de-leon-el-bierzo-digital.jpg",
-    "pub": 1792142513,
+    "titulo": "El PSOE denuncia un recorte del 41% en las inversiones de la Junta para el Bierzo",
+    "link": "https://www.elbierzodigital.com/el-psoe-denuncia-un-recorte-del-41-en-las-inversiones-de-la-junta-para-el-bierzo/",
+    "desc": "Los presupuestos de la Junta de Castilla y León para 2027 vuelven a dejar a Ponferrada ante un \"escenario de promesas repetidas y proyectos pendientes\", según denuncia el PSOE berciano. La crítica…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/07/el-psoe-denuncia-el-estado-insalubre-del-local-cedido-a-una-asociacion-vecinal-de-espinosa-de-compludo-el-bierzo-digital.jpeg",
+    "pub": 1792144144,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La Lotería Nacional deja un premio de 30.000 euros en Caboalles de Abajo",
+    "link": "https://www.lanuevacronica.com/actualidad/loteria-nacional-deja-premio-30000-euros-en-caboalles-abajo_204743_102.html",
+    "desc": "A través de un décimo agraciado con el primer premio en el sorteo de este jueves",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/29/9/el-vendedor-del-premio-con-el-cartel-que-lo-acredita.jpeg",
+    "pub": 1792143979,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los Montes Aquilianos desvelan sus secretos: del bosque a los oficios que moldearon el Bierzo",
+    "link": "https://www.elbierzodigital.com/los-montes-aquilianos-desvelan-sus-secretos-del-bosque-a-los-oficios-que-moldearon-el-bierzo/",
+    "desc": "Los Montes Aquilianos guardan mucho más que naturaleza: esconden siglos de historia ligados a los oficios tradicionales. La Asociación de Desarrollo Rural Bierzo Cabrera propone descubrir este…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/los-montes-aquilianos-desvelan-sus-secretos-del-bosque-a-los-oficios-que-moldearon-el-bierzo-el-bierzo-digital.jpeg",
+    "pub": 1792143743,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Más de 20 réplicas registradas tras el terremoto de 4,2 grados de Benuza",
+    "link": "https://www.lanuevacronica.com/el-bierzo/mas-20-replicas-registradas-terremoto-42-grados-benuza_204737_102.html",
+    "desc": "El investigador de la ULE Javier Fernández Lozano apunta al reajuste de esfuerzos en la corteza terrestre como posible causa de las réplicas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/10/3/fotonoticia-20261016084036-1920.jpeg",
+    "pub": 1792143542,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada refuerza la coordinación policial con la llegada del nuevo capitán de la Guardia Civil",
+    "link": "https://www.elbierzodigital.com/ponferrada-refuerza-la-coordinacion-policial-con-la-llegada-del-nuevo-capitan-de-la-guardia-civil/",
+    "desc": "El alcalde de Ponferrada, Marco Morala, ha recibido en el Ayuntamiento al nuevo capitán jefe de la Tercera Compañía de la Guardia Civil en Ponferrada, José Manuel López Santiso , natural de Lugo. En…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-refuerza-la-coordinacion-policial-con-la-llegada-del-nuevo-capitan-de-la-guardia-civil-el-bierzo-digital-e1792142784231.jpeg",
+    "pub": 1792142853,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -80,14 +112,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Más de 20 réplicas registradas tras el terremoto de 4,2 grados de Benuza",
-    "link": "https://www.lanuevacronica.com/el-bierzo/mas-20-replicas-registradas-terremoto-42-grados-benuza_204737_102.html",
-    "desc": "Pese al susto, el Centro de Emergencias 112 Castilla y León asegura que \"no se han producido daños personales ni materiales\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/10/3/fotonoticia-20261016084036-1920.jpeg",
-    "pub": 1792139212,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Bembibre se prepara para una fiesta internacional del hockey sobre patines con sabor berciano",
     "link": "https://www.elbierzodigital.com/bembibre-se-prepara-para-una-fiesta-internacional-del-hockey-sobre-patines-con-sabor-berciano/",
     "desc": "Bembibre calienta motores para vivir una jornada de hockey sobre patines con acento internacional . El Bembibre H.C. presentó el I Torneo Internacional Villa de Bembibre , una cita que enfrentará…",
@@ -144,14 +168,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Una montaña para recorrer a pie, en bici y en vertical en Cistierna",
-    "link": "https://www.lanuevacronica.com/especiales/montana-recorrer-pie-en-bici-en-vertical-en-cistierna_204719_102.html",
-    "desc": "Senderos junto al Esla, rutas de BTT, caminos jacobeos llenos de historia o la vía ferrata 'Cueva del Elefante' hacen del municipio un destino de turismo activo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/77/4/cistierna-reune-rutas-para-caminar-pedalear-y-disfrutar-de-la-montana-a-distintos-ritmos-oficina-turismo-cistierna.jpeg",
-    "pub": 1792119000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Registrado un terremoto de magnitud 4,2 con epicentro en Benuza (León)",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/registrado-un-terremoto-magnitud-4-villafranca-bierzo_7049415_0.html",
     "desc": "El temblor se ha notado en diferentes puntos de la comarca, según el testimonio de vecinos de diferentes municipios, así como en puntos de Galicia y Asturias.",
@@ -165,6 +181,14 @@
     "desc": "El Bierzo registró este jueves por la noche un terremoto de magnitud 4,2 mbLg , según los datos del Instituto Geográfico Nacional (IGN). El movimiento sísmico se produjo a las 22.34 horas y tuvo su…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-6.jpeg",
     "pub": 1792098011,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "OncoBierzo pone rostro al cáncer frente al Hospital de León",
+    "link": "https://www.elbierzodigital.com/oncobierzo-pone-rostro-al-cancer-frente-al-hospital-de-leon/",
+    "desc": "OncoBierzo ha trasladado su reivindicación por una sanidad pública en igualdad de condiciones hasta la entrada del Hospital Universitario de León . Allí ha instalado una valla publicitaria con diez…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/oncobierzo-pone-rostro-al-cancer-frente-al-hospital-de-leon-el-bierzo-digital.jpg",
+    "pub": 1792094453,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -341,30 +365,6 @@
     "desc": "El proyecto de presupuestos de la Junta de Castilla y León para 2027 contempla una inversión de 38.762.731 euros en el Bierzo . La cifra se sitúa unos diez millones de euros por debajo de la…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-junta-preve-invertir-casi-39-millones-de-euros-en-el-bierzo-en-2027-el-bierzo-digital.jpeg",
     "pub": 1791989889,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PSOE leonés pone nombre a sus candidatos para el 29-N: Cendón al Congreso y Vidal Varela al Senado",
-    "link": "https://www.elbierzodigital.com/el-psoe-leones-pone-nombre-a-sus-candidatos-para-el-29-n-cendon-al-congreso-y-vidal-varela-al-senado/",
-    "desc": "El Comité Provincial del PSOE de León ha aprobado este miércoles en Boñar las candidaturas al Congreso de los Diputados y al Senado con las que concurrirá a las elecciones generales del próximo 29…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-leones-pone-nombre-a-sus-candidatos-para-el-29-n-cendon-al-congreso-y-vidal-varela-al-senado-el-bierzo-digital-e1792006418611.jpeg",
-    "pub": 1791988431,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Cendón y Lorena Valle encabezan el respaldo del PSOE leonés para el Congreso",
-    "link": "https://www.elbierzodigital.com/cendon-y-lorena-valle-encabezan-el-respaldo-del-psoe-leones-para-el-congreso/",
-    "desc": "El PSOE de León ha concluido el proceso de primarias para elegir a sus representantes en las candidaturas a las Cortes Generales del próximo 29 de noviembre . Tras las asambleas celebradas en las…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/04/Cendon-el-bierzo-digital-scaled.jpg",
-    "pub": 1791986134,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Fallece un hombre de 76 años tras sufrir un desvanecimiento en una cafetería de Ponferrada",
-    "link": "https://www.elbierzodigital.com/fallece-un-hombre-de-76-anos-tras-sufrir-un-desvanecimiento-en-una-cafeteria-de-ponferrada/",
-    "desc": "Un hombre de 76 años ha fallecido este mediodía tras sufrir un desvanecimiento en una cafetería situada en la calle Alcón , en el centro de Ponferrada. Hasta el establecimiento se desplazaron varias…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Calle-Alcon-el-bierzo-digital.jpg",
-    "pub": 1791985063,
     "fuente": "El Bierzo Digital"
   },
   {
