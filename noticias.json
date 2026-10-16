@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Herido un motorista en Santa Colomba de Curueño tras sufrir una caída",
+    "link": "https://www.lanuevacronica.com/actualidad/herido-motorista-en-santa-colomba-curueno-sufrir-caida_204786_102.html",
+    "desc": "El accidente se ha producido a las 18:02 horas en la carretera de Boñar y el afectado presentaba lesiones en una pierna y en la cadera",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/34/6/carretera-le-331-a-su-paso-por-bonar.jpeg",
+    "pub": 1792176416,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "León - Valladolid en menos de media hora: el curioso vuelo que se repite estos días",
     "link": "https://www.lanuevacronica.com/actualidad/leon-valladolid-en-menos-media-hora-curioso-vuelo-se-repite-estos-dias_204784_102.html",
     "desc": "Los vuelos chárter del Club de los 60 obligan estos días a la compañía encargada de cubrirlos a posicionar un avión entre los dos aeródromos",
@@ -150,14 +158,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2018/10/Sin-título-3.jpg",
     "pub": 1792162237,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Corte total en la Ruta del Cares por obras de mantenimiento en dos puentes",
-    "link": "https://www.lanuevacronica.com/actualidad/corte-total-en-ruta-cares-por-obras-mantenimiento-en-dos-puentes_204765_102.html",
-    "desc": "El cierre afecta al Puente de los Rebecos, a tres kilómetros de Caín, y al de Bolín, a ocho de Poncebos, y se mantendrá hasta que finalicen los trabajos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/09/4/vista-de-la-ruta-y-el-puente-de-los-rebecos-vicente-garcia.jpeg",
-    "pub": 1792161412,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Ponferrada confía en que la Diputación desbloquee los accesos a tres pueblos antes del invierno",
