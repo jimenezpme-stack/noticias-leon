@@ -1,5 +1,69 @@
 [
   {
+    "titulo": "Nuevas medidas sobre vivienda: ¿Hasta cuándo puede prorrogarse un contrato de alquiler?",
+    "link": "https://www.lanuevacronica.com/actualidad/nuevas-medidas-sobre-vivienda-hasta-cuando-puede-prorrogarse-contrato-alquiler_204736_102.html",
+    "desc": "El letrado asesor de la Cámara de la Propiedad Urbana de León, Luis Miguel Lobato Pozuelo, resuelve las dudas sobre los nuevos decretos del Gobierno",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/13/6/frame-15camaradelapropiedad.jpeg",
+    "pub": 1792140423,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Isabel Allende, ganadora del Premio Planeta en su 75 edición que han presidido los Reyes",
+    "link": "https://www.lanuevacronica.com/gente/isabel-allende-ganadora-del-premio-planeta-en-su-75-edicion-que-han-presidido-los-reyes_204739_102.html",
+    "desc": "La escritora chilena se lleva el montante de un millón de euros, mientras que Sergio Hernández Carrasco, finalista de este año con 'La añoranza' recibirá unos 200.000 euros",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/19/5/fotonoticia-20261015235528-1920.jpeg",
+    "pub": 1792140094,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El PCE cuestiona el impacto de las ferias de Ponferrada ante el aumento del paro",
+    "link": "https://www.lanuevacronica.com/el-bierzo/pce-cuestiona-impacto-ferias-ponferrada-aumento-paro_204740_102.html",
+    "desc": "La formación denuncia que el desempleo creció un 4,78% en septiembre y reclama más inversión pública y reindustrialización frente a la precariedad laboral",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/18/0/cata-con-giganto-4-1000x563.jpeg",
+    "pub": 1792139876,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Adjudicada la renovación del campo de fútbol de Compostilla para estar lista antes de fin de año",
+    "link": "https://www.lanuevacronica.com/el-bierzo/adjudicada-renovacion-campo-futbol-compostilla-estar-lista-antes-fin-ano_204723_102.html",
+    "desc": "Mondo Ibérica ejecutará los trabajos por 198.557 euros y dispondrá de un plazo de dos meses para renovar el césped artificial de la casa del fútbol base de la Ponferradina",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/99/6/compostilla.jpeg",
+    "pub": 1792139637,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada, aún asustada tras el seísmo: \"Bajé a la calle. Tenía muchísimo miedo\"",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-asustada-seismo-baje-calle-tenia-muchisimo-miedo_204738_102.html",
+    "desc": "Los vecinos de la capital del Bierzo relatan cómo \"se cayeron cosas de la estantería\" y \"las copas de la vitrina empezaron a vibrar\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/17/0/benuzaseismo.jpeg",
+    "pub": 1792139633,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Una niña de 10 años resulta herida en el choque entre un turismo y una moto en Sariegos",
+    "link": "https://www.lanuevacronica.com/sucesos/nina-10-anos-resulta-herida-en-choque-entre-turismo-moto-en-sariegos_204735_102.html",
+    "desc": "Un hombre de 50 años también tuvo que ser atendido después del accidente registrado a primera hora de la mañana",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/15/4/zona-en-la-que-se-produjo-el-accidente.jpeg",
+    "pub": 1792139246,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Más de 20 réplicas registradas tras el terremoto de 4,2 grados de Benuza",
+    "link": "https://www.lanuevacronica.com/el-bierzo/mas-20-replicas-registradas-terremoto-42-grados-benuza_204737_102.html",
+    "desc": "Pese al susto, el Centro de Emergencias 112 Castilla y León asegura que \"no se han producido daños personales ni materiales\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/10/3/fotonoticia-20261016084036-1920.jpeg",
+    "pub": 1792139212,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Bembibre se prepara para una fiesta internacional del hockey sobre patines con sabor berciano",
+    "link": "https://www.elbierzodigital.com/bembibre-se-prepara-para-una-fiesta-internacional-del-hockey-sobre-patines-con-sabor-berciano/",
+    "desc": "Bembibre calienta motores para vivir una jornada de hockey sobre patines con acento internacional . El Bembibre H.C. presentó el I Torneo Internacional Villa de Bembibre , una cita que enfrentará…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/bembibre-se-prepara-para-una-fiesta-internacional-del-hockey-sobre-patines-con-sabor-berciano-el-bierzo-digital.jpeg",
+    "pub": 1792138988,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "El terremoto de Benuza, el más potente registrado en el Bierzo en lo que va de siglo, sobresalta a la comarca",
     "link": "https://www.elbierzodigital.com/el-terremoto-de-benuza-el-mas-potente-registrado-en-el-bierzo-en-lo-que-va-de-siglo-sobresalta-a-la-comarca/",
     "desc": "El susto y la sorpresa todavía permanecen entre muchos vecinos del Bierzo después del terremoto registrado a las 22.34 horas de este jueves 15 de octubr e. El movimiento sísmico alcanzó una magnitud…",
@@ -69,62 +133,6 @@
     "desc": "Escuelas deportivas, espectáculos teatrales y rutas dan forma a la amplia oferta de ocio en el municipio",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/47/67/3/una-representacion-del-festival-de-teatro-contemporaneo-antonio-llanos-aller.jpeg",
     "pub": 1792118700,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Valencia de Don Juan, un destino para disfrutar del turismo durante todo el año",
-    "link": "https://www.lanuevacronica.com/especiales/valencia-don-juan-destino-disfrutar-turismo-durante-todo-ano_204546_102.html",
-    "desc": "La localidad coyantina combina su riqueza patrimonial, sus espacios naturales y una intensa programación de ferias y actividades que la convierten en uno de los grandes atractivos del sur leonés",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/79/54/0/coyanza-donde-el-vino-de-la-do-leon-sabe-mucho-mejor.jpeg",
-    "pub": 1792118700,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Santa María del Páramo, un municipio que crece sin perder sus raíces y tradiciones",
-    "link": "https://www.lanuevacronica.com/especiales/santa-maria-paramo-municipio-crece-sin-perder-sus-raices-tradiciones_204542_102.html",
-    "desc": "La localidad paramesa combina su apuesta por la cultura y las ferias con unas instalaciones de primer nivel que la consolidan como uno de los grandes referentes de la comarca",
-    "img": "https://www.lanuevacronica.com/uploads/s1/24/16/27/6/imagen-sau8728-4-1000x563.jpeg",
-    "pub": 1792118700,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Presupuestos engañosos",
-    "link": "https://www.lanuevacronica.com/opinion/presupuestos-enganosos_204728_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792118400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un otoño para mirar hacia arriba, en Picos de Europa",
-    "link": "https://www.lanuevacronica.com/especiales/otono-mirar-hacia-arriba-en-picos-europa_204713_102.html",
-    "desc": "La berrea, bosques ocres, senderos y miradores invitan a recorrer la vertiente leonesa del Parque Nacional",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/65/6/el-otono-transforma-picos-de-europa-en-un-paisaje-de-contrastes-turismo-castilla-y-leon.jpeg",
-    "pub": 1792118400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Valderas, una villa con historia donde el bacalao es el rey de la gastronomía",
-    "link": "https://www.lanuevacronica.com/especiales/valderas-villa-con-historia-donde-bacalao-es-rey-gastronomia_204564_102.html",
-    "desc": "Su riqueza monumental, sus tradicionales bodegas, el famoso bacalao al ajo arriero y unas fiestas con siglos de historia convierten a esta localidad del sur leonés en un destino lleno de atractivos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/64/27/6/bacalao-valderas-1-6418.jpeg",
-    "pub": 1792118400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Arganza, una escapada entre viñedos, historia y naturaleza",
-    "link": "https://www.lanuevacronica.com/el-bierzo/arganza-escapada-entre-vinedos-historia-naturaleza_204523_102.html",
-    "desc": "Del sabor de los grandes vinos bercianos a los caminos que recorre el agua o que conducen al Alto de Fiales, el municipio invita a descubrir otra forma de disfrutar El Bierzo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/32/55/56/1/imagen-molino1.jpeg",
-    "pub": 1792118400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Fresno de la Vega, la tierra donde el pimiento morrón es mucho más que un producto de su huerta",
-    "link": "https://www.lanuevacronica.com/especiales/fresno-vega-tierra-donde-pimiento-morron-es-mucho-mas-producto-su-huerta_204552_102.html",
-    "desc": "La localidad del sur de León presume de su producto más emblemático con una feria que ya es de Interés Turístico Regional y que cada año atrae a miles de visitantes",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/14/84/3/la-feria-del-pimiento-morron-de-fresno-de-la-vega-en-imagenes-20.jpeg",
-    "pub": 1792118400,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -357,14 +365,6 @@
     "desc": "Ponferrada se prepara para una noche de rock sin filtros . Turbina llegará por primera vez al Bierzo este sábado 17 de octubre para presentar sus canciones en el Pub Morticia , donde compartirá…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/turbina-aterriza-en-ponferrada-con-una-descarga-de-rock-salvaje-junto-a-princesas-el-bierzo-digital.jpg",
     "pub": 1791977555,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Hospital El Bierzo enseña a cuidar la piel durante los tratamientos contra el cáncer",
-    "link": "https://www.elbierzodigital.com/el-hospital-el-bierzo-ensena-a-cuidar-la-piel-durante-los-tratamientos-contra-el-cancer/",
-    "desc": "El Hospital El Bierzo organizará el próximo martes, 20 de octubre, una sesión formativa centrada en el cuidado de la piel durante los tratamientos contra el cáncer . La actividad se celebrará a las…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/06/Hospital-El-Bierzo-el-bierzo-digital.jpeg",
-    "pub": 1791976751,
     "fuente": "El Bierzo Digital"
   },
   {
