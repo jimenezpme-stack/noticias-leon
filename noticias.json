@@ -1,5 +1,61 @@
 [
   {
+    "titulo": "Bárcena del Bierzo celebra el otoño con su magosto popular",
+    "link": "https://www.elbierzodigital.com/barcena-del-bierzo-dara-la-bienvenida-al-otono-con-su-magosto-popular/",
+    "desc": "La Asociación de Vecinos La Magdalena de Bárcena del Bierzo celebrará el próximo sábado 31 de octubre su tradicional magosto popular, una cita para disfrutar del ambiente otoñal en compañía de…",
+    "img": null,
+    "pub": 1792168602,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Molinaseca encenderá sus chambombas para celebrar el 14 de noviembre su tradicional magosto",
+    "link": "https://www.elbierzodigital.com/molinaseca-encendera-sus-chambombas-para-celebrar-el-14-de-noviembre-su-tradicional-magosto/",
+    "desc": "Molinaseca celebrará el próximo 14 de noviembre su tradicional magosto , una cita que reunirá a vecinos y visitantes en torno a las castañas y las actividades culturales y festivas programadas para…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/07/Molinaseca-1-el-bierzo-digital.jpeg",
+    "pub": 1792167555,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Despedida de mi abuela",
+    "link": "https://www.lanuevacronica.com/opinion/tribuna-de-opinion/despedida-mi-abuela_204775_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792167545,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Más de 20 réplicas registradas tras el terremoto de 4,2 grados de Benuza",
+    "link": "https://www.lanuevacronica.com/el-bierzo/mas-20-replicas-registradas-terremoto-42-grados-benuza_204737_102.html",
+    "desc": "El investigador de la ULE Javier Fernández Lozano apunta al reajuste de esfuerzos en la corteza terrestre como posible causa de las réplicas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/10/3/fotonoticia-20261016084036-1920.jpeg",
+    "pub": 1792167438,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada, aún asustada tras el seísmo: \"Bajé a la calle. Tenía muchísimo miedo\"",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-asustada-seismo-baje-calle-tenia-muchisimo-miedo_204738_102.html",
+    "desc": "Los vecinos de la capital del Bierzo relatan cómo \"se cayeron cosas de la estantería\" y \"las copas de la vitrina empezaron a vibrar\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/17/0/benuzaseismo.jpeg",
+    "pub": 1792167426,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Una marea de alumnos tiñe de azul la Plazas de las Cortes",
+    "link": "https://www.lanuevacronica.com/actualidad/marea-alumnos-tine-azul-plazas-cortes_204761_102.html",
+    "desc": "En torno a 400 estudiantes de centros educativos de la provincia han celebrado el éxito de un programa Erasmus que lleva en funcionamiento más de cuatro décadas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/64/6/frame-16europa.jpeg",
+    "pub": 1792167336,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Genicera honrará a sus difuntos con la Bueste d'Ánimas y la pendoneta de muertos",
+    "link": "https://www.lanuevacronica.com/actualidad/genicera-honrara-sus-difuntos-con-bueste-animas-pendoneta-muertos_204766_102.html",
+    "desc": "La misa permitirá venerar los restos de Santa Teresa del Niño Jesús, y al caer la noche la procesión recorrerá las calles y concluirá con la lectura de una leyenda de 1874.",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/11/4/una-de-las-vecinas-en-el-cementerio-con-la-pendoneta-de-muertos-marta-teresa-diez-gonzalez.jpeg",
+    "pub": 1792167300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El ILC lanza ayudas para recuperar los antruejos y mantener el cine en el medio rural",
     "link": "https://www.lanuevacronica.com/lnc-culturas/ilc-lanza-ayudas-recuperar-antruejos-mantener-cine-en-medio-rural_204774_102.html",
     "desc": "El organismo de la Diputación destina 45.000 euros a apoyar a salas de cine y ayuntamientos con proyecciones regulares y a recuperar el carnaval tradicional en municipios de menos de 20.000 habitantes",
@@ -56,14 +112,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Alarma Pedro Benito",
-    "link": "https://www.lanuevacronica.com/deportes/alarma-pedro-benito_204760_102.html",
-    "desc": "El jugador más destacado de la Cultural en el arranque de liga se ha perdido los últimos entrenos por un problema en el abductor y es duda para Logroño / Jon García, baja segura; Joao, aún sin fecha…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/00/77/7/benitocultural.jpeg",
-    "pub": 1792163716,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El AMPA de Cubillos del Sil alerta de que la ampliación del colegio sigue sin presupuesto",
     "link": "https://www.elbierzodigital.com/el-ampa-de-cubillos-del-sil-alerta-de-que-la-ampliacion-del-colegio-sigue-sin-presupuesto/",
     "desc": "E l AMPA de Cubillos del Sil ha expresado su preocupación por la ausencia de una partida presupuestaria específica para la ampliación del Centro Rural Agrupado (CRA) Cubillos del Sil en el borrador…",
@@ -112,14 +160,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Una marea de alumnos tiñe de azul la Plazas de las Cortes",
-    "link": "https://www.lanuevacronica.com/actualidad/marea-alumnos-tine-azul-plazas-cortes_204761_102.html",
-    "desc": "En torno a 400 estudiantes de centros educativos de la provincia han celebrado el éxito de un programa Erasmus que lleva en funcionamiento más de cuatro décadas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/64/6/frame-16europa.jpeg",
-    "pub": 1792152839,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Marcos Arias lleva a lo más alto a Villablino y al Campus de Ponferrada con su oro mundial de alpino en línea",
     "link": "https://www.elbierzodigital.com/marcos-arias-lleva-a-lo-mas-alto-a-villablino-y-al-campus-de-ponferrada-con-su-oro-mundial-de-alpino-en-linea/",
     "desc": "El Campus de Ponferrada ha rendido homenaje a Marcos Arias , estudiante de primer curso de Nutrición Humana y Dietética y reciente campeón del mundo de alpino en línea en los Mundiales disputados en…",
@@ -136,36 +176,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El 73 % de las fotografías incautadas a pedófilos son imágenes no sexualizadas de menores que han sido robadas",
-    "link": "https://www.lanuevacronica.com/actualidad/73-fotografias-incautadas-pedofilos-son-imagenes-no-sexualizadas-menores-han-sido-robadas_204759_102.html",
-    "desc": "La Universidad Nebrija celebra en León la sexta edición de \"Educación al Rescate\", donde se puso en relieve que esas imágenes se obtienen de los propios familiares que las suben a redes sociales",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/60/7/un-instante-del-coloquio-celebrado-en-leon-organizado-por-la-universidad-nebrija.jpeg",
-    "pub": 1792149863,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Basurco celebra su reto entre Europa y Asia: “Lo más importante es que lo hago por OncoBierzo que somos todos”",
     "link": "https://www.elbierzodigital.com/basurco-celebra-su-reto-entre-europa-y-asia-lo-mas-importante-es-que-lo-hago-por-oncobierzo-que-somos-todos/",
     "desc": "Miguel Martínez Basurco está feliz y satisfecho tras completar su última aventura a nado: unir Europa y Asia a través de las aguas del mar Egeo, entre la isla griega de Rodas y la localidad turca de…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/conseguido-basurco-convierte-su-travesia-entre-europa-y-asia-en-un-altavoz-para-oncobierzo-el-bierzo-digital-1-e1792144759557.jpeg",
     "pub": 1792149701,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PP lamenta \"la falta de compromiso\" de Oscar Puente con León un año después de la reunión con Courel y Aller",
-    "link": "https://www.lanuevacronica.com/actualidad/pp-lamenta-la-falta-compromiso-oscar-puente-con-leon-ano-despues-reunion-con-courel-aller_204752_102.html",
-    "desc": "El portavoz popular en la Diputación, David Fernández, lamenta la \"nula influencia\" del PSOE de León en el Gobierno de España",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/25/61/2/reunion-oscar-puente-i.jpeg",
-    "pub": 1792149039,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León convoca un concurso de proyectos para restaurar el Puente del Castro",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-convoca-concurso-proyectos-restaurar-puente-castro_204753_102.html",
-    "desc": "Esta infraestructura del siglo XVIII supone la entrada a León para el Camino de Santiago",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/01/68/1/2.jpeg",
-    "pub": 1792147458,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Aprender a salvar vidas: la Gasbi enseña a reaccionar ante una parada cardiaca",
@@ -349,22 +365,6 @@
     "desc": "El municipio de Camponaraya ha rendido homenaje a Salustiana Carrete García , su tercera vecina centenaria de este año, con motivo de la celebración de sus 1 00 años de vida. El alcalde de la…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/camponaraya-homenajea-a-salustiana-carrete-por-su-siglo-de-vida-el-bierzo-digital-e1792060251122.jpeg",
     "pub": 1792060567,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Olegario Ramón alerta del riesgo de que el Consejo Comarcal pierda la gestión de las brigadas forestales",
-    "link": "https://www.elbierzodigital.com/olegario-ramon-alerta-del-riesgo-de-que-el-consejo-comarcal-pierda-la-gestion-de-las-brigadas-forestales/",
-    "desc": "El presidente del Consejo Comarcal del Bierzo, Olegario Ramón , ha expresado su preocupación por el futuro de las brigadas forestales de prevención de incendios y ha advertido del riesgo de que la…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/06/olegario-ramon-llama-a-hacer-un-frente-comun-para-asegurar-el-4o-curso-de-medicina-en-ponferrada-el-bierzo-digital-1.jpg",
-    "pub": 1792058940,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Fisioterapia reclama especialidades oficiales y más autonomía para afrontar los retos sanitarios del futuro",
-    "link": "https://www.elbierzodigital.com/la-fisioterapia-reclama-especialidades-oficiales-y-mas-autonomia-para-afrontar-los-retos-sanitarios-del-futuro/",
-    "desc": "El grado de Fisioterapia del Campus de Ponferrada cumple 25 años de trayectoria con una celebración que mira tanto al camino recorrido como a los retos que afronta la profesión. Las jornadas ‘XXV…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-fisioterapia-reclama-especialidades-oficiales-y-mas-autonomia-para-afrontar-los-retos-sanitarios-del-futuro-el-bierzo-digital.jpeg",
-    "pub": 1792058003,
     "fuente": "El Bierzo Digital"
   },
   {
