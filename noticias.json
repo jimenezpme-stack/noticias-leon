@@ -1,5 +1,93 @@
 [
   {
+    "titulo": "Ahorro y confianza",
+    "link": "https://www.lanuevacronica.com/opinion/ahorro-confianza_204727_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792117800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Villamanín, mucho más que un destino de montaña",
+    "link": "https://www.lanuevacronica.com/especiales/villamanin-mucho-mas-destino-montana_204711_102.html",
+    "desc": "Rutas, patrimonio y tradiciones conviven con nuevas propuestas deportivas y espacios pensados para trabajar sin renunciar al entorno rural",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/60/0/rutas-entre-cumbres-valles-y-bosques-para-descubrir-la-riqueza-natural-vicente-garcia.jpeg",
+    "pub": 1792117800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Gordoncillo, un rincón de León donde el vino, la naturaleza y la cultura van de la mano",
+    "link": "https://www.lanuevacronica.com/especiales/gordoncillo-rincon-leon-donde-vino-naturaleza-cultura-van-mano_204545_102.html",
+    "desc": "El municipio del sur de la provincia ofrece un rico patrimonio natural y cultural, con el Museo de la Industria Harinera de Castilla y León como uno de sus grandes atractivos turísticos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/94/60/7/plano-general.jpeg",
+    "pub": 1792117800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La insoportable felicidad ajena",
+    "link": "https://www.lanuevacronica.com/opinion/insoportable-felicidad-ajena_204726_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792117200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Valdeón: un valle entre el cielo y la roca",
+    "link": "https://www.lanuevacronica.com/especiales/valdeon-valle-entre-cielo-roca_204709_102.html",
+    "desc": "Pueblos de montaña, construcciones tradicionales y los paisajes más emblemáticos de León en este municipio enclavado en Picos de Europa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/50/4/naturaleza-patrimonio-rural-y-rutas-de-montana-definen-este-municipio-leones-en-picos-de-europa-ayto-posada-de-valdeon.jpeg",
+    "pub": 1792117200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Sobrado, un refugio de otoño con agua, castaños y pueblos con historia",
+    "link": "https://www.lanuevacronica.com/el-bierzo/sobrado-refugio-otono-con-agua-castanos-pueblos-con-historia_204525_102.html",
+    "desc": "El río Selmo, los castañares centenarios, las aldeas de piedra y pizarra...son innumerables los atractivos para disfrutar de la naturaleza, el patrimonio rural y la tranquilidad en la frontera…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/85/25/5/sobrado2642019.jpeg",
+    "pub": 1792117200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Babia, para vivirla todo el año",
+    "link": "https://www.lanuevacronica.com/especiales/babia-vivirla-todo-ano_204707_102.html",
+    "desc": "Naturaleza, memoria, gastronomía y tradiciones en San Emiliano, un municipio que mantiene vivo su vínculo con el territorio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/47/6/del-patrimonio-rural-a-la-gastronomia-del-potro-hispano-breton-ofrece-distintas-formas-de-descubrir-la-esencia-de-babia.jpeg",
+    "pub": 1792116900,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El otoño también tiene algo que enseñarnos",
+    "link": "https://www.lanuevacronica.com/opinion/otono-tambien-tiene-algo-ensenarnos_204725_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792116600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Laciana: un Valle para descubrir en cada estación",
+    "link": "https://www.lanuevacronica.com/especiales/laciana-valle-descubrir-en-cada-estacion_204705_102.html",
+    "desc": "Bosques teñidos de ocre, rutas entre pueblos, tradiciones ancestrales y propuestas culturales este otoño para recorrer Villablino",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/42/1/laciana-despliega-sus-encantos-entre-bosques-y-montanas-turismo-valle-laciana.jpeg",
+    "pub": 1792116600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Caminos que se adentran en la naturaleza en Puebla de Lillo",
+    "link": "https://www.lanuevacronica.com/especiales/caminos-se-adentran-en-naturaleza-en-puebla-lillo_204700_102.html",
+    "desc": "Senderismo, bicicleta de montaña y naturaleza se unen en un territorio de bosques, valles y cumbres, con rutas para descubrir sus paisajes",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/33/8/hayedos-robledales-pinares-y-lagos-convierten-la-naturaleza-en-uno-de-los-grandes-atractivos-de-puebla-de-lillo.jpeg",
+    "pub": 1792116300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Una imagen, una Basílica y toda una provincia",
+    "link": "https://www.lanuevacronica.com/especiales/imagen-basilica-toda-provincia_204699_102.html",
+    "desc": "Valverde de la Virgen es un municipio marcado por la devoción a la patrona de León, las tradiciones populares y el Camino",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/31/1/cada-5-de-octubre-reune-a-miles-de-romeros-en-una-de-las-celebraciones-mas-arraigadas-del-calendario-leones-fernando-otero.jpeg",
+    "pub": 1792116300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La viñeta de Cantón",
     "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204733_102.html",
     "desc": "",
@@ -32,52 +120,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Los 'coles' más europeos son los de León",
-    "link": "https://www.lanuevacronica.com/actualidad/coles-mas-europeos-son-leon_204702_102.html",
-    "desc": "Ocho de las 14 Escuelas Embajadoras del Parlamento Europeo de la comunidad autónoma son de la provincia leonesa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/38/9/escuelasembajadoras.jpeg",
-    "pub": 1792116000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Santa Colomba de Curueño: donde las piedras recuperan la memoria del valle",
-    "link": "https://www.lanuevacronica.com/especiales/santa-colomba-curueno-donde-piedras-recuperan-memoria-valle_204697_102.html",
-    "desc": "Del legado de San Salvador a la ermita de Santa Ana, y los rincones que se descubren sin prisas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/28/0/la-ermita-de-santa-ana-es-parte-del-recorrido-por-la-historia-y-el-patrimonio-del-municipio-vicente-garcia.jpeg",
-    "pub": 1792116000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Tres de cada cuatro docentes del medio rural de León son mujeres",
-    "link": "https://www.lanuevacronica.com/actualidad/tres-cada-cuatro-docentes-medio-rural-leon-son-mujeres_194392_102.html",
-    "desc": "Más de 2.000 maestras y profesoras trabajan cada día en los centros educativos de los pueblos de la provincia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/32/63/91/6/maestrasrurales.jpeg",
-    "pub": 1792116000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Objetivo: sumar esfuerzos para reactivar el turismo en El Bierzo",
-    "link": "https://www.lanuevacronica.com/el-bierzo/objetivo-sumar-esfuerzos-reactivar-turismo-en-bierzo_204624_102.html",
-    "desc": "Guías Bierzo apuesta por las visitas guiadas y la cooperación entre empresas e instituciones para impulsar el turismo y acercar al visitante las joyas patrimoniales de la comarca",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/85/3/guias-bierzo.jpeg",
-    "pub": 1792116000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Registrado un terremoto de magnitud 4,2 con epicentro en Benuza (León)",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/registrado-un-terremoto-magnitud-4-villafranca-bierzo_7049415_0.html",
     "desc": "El temblor se ha notado en diferentes puntos de la comarca, según el testimonio de vecinos de diferentes municipios, así como en puntos de Galicia y Asturias.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/15/6ad148fbd16732-92397335.jpeg",
     "pub": 1792100642,
     "fuente": "20minutos"
-  },
-  {
-    "titulo": "Un terremoto de magnitud 4 azota El Bierzo, con epicentro al sureste de Priaranza",
-    "link": "https://www.lanuevacronica.com/sucesos/terremoto-magnitud-4-azota-bierzo-con-epicentro-en-priaranza_204734_102.html",
-    "desc": "El seísmo se registró a las 22.34 horas a diez kilómetros de profundidad y se dejó sentir en Ponferrada y otras localidades, sin daños graves comunicados",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/09/0/teremoto.jpeg",
-    "pub": 1792100583,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Un terremoto de magnitud 4 sacude el Bierzo",
@@ -88,60 +136,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La deportista María Martín-Granizo, Mujer Leonesa 2026",
-    "link": "https://www.lanuevacronica.com/actualidad/deportista-maria-martin-granizo-mujer-leonesa-2026_204724_102.html",
-    "desc": "Con este reconocimiento, Onda Cero León ha querido poner en valor su capacidad para romper barreras y normalizar la presencia de las personas con discapacidad en el deporte",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/01/3/mujer-leonesa-onda-cero-maria-martin-granizo.jpeg",
-    "pub": 1792090837,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Conseguido: Basurco convierte su travesía entre Europa y Asia en un altavoz para Oncobierzo",
     "link": "https://www.elbierzodigital.com/conseguido-basurco-convierte-su-travesia-entre-europa-y-asia-en-un-altavoz-para-oncobierzo/",
     "desc": "Miguel Martínez Basurco ha vuelto a demostrar que sus retos deportivos van mucho más allá de la resistencia física. El deportista de Villafranca del Bierzo ha conquistado su meta en aguas abiertas…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/conseguido-basurco-convierte-su-travesia-entre-europa-y-asia-en-un-altavoz-para-oncobierzo-el-bierzo-digital-2-e1792085912997.jpeg",
     "pub": 1792085430,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Un debate sobre el futuro de la lectura para cerrar el festival leonés Quimeras",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/debate-sobre-futuro-lectura-cerrar-festival-leones-quimeras_204718_102.html",
-    "desc": "La iniciativa de la Academia de las Artes, las Letras y las Ciencias celebra este viernes su última jornada oficial, prolongando sus actividades hasta la semana que viene con la proyección de dos…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/75/1/el-encuentro-con-javier-fernandez-menudo-castillo-celebrado-este-jueves-en-el-marco-del-festival-quimeras-l-n-c.jpeg",
-    "pub": 1792085084,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Diez artistas leoneses 'dialogan' con las canciones de Serrat",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/diez-artista-leoneses-dialogan-con-canciones-serrat_204717_102.html",
-    "desc": "La galería Espacio E será este sábado escenario para la primera de las actividades del Festival Palabra",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/72/4/la-obra-y-el-amor-de-jose-luis-casas-formara-parte-de-la-exposicion-l-n-c.jpeg",
-    "pub": 1792085063,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Puente Almuhey vuelve a latir al ritmo de sus raíces",
-    "link": "https://www.lanuevacronica.com/actualidad/puente-almuhey-vuelve-latir-ritmo-sus-raices_204693_102.html",
-    "desc": "La XI Feria Multisectorial se celebra este fin de semana con pendones, mastines, exhibiciones ecuestres, música y gastronomía",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/22/9/puente-almuhey-recupera-el-pulso-de-las-ferias-de-antano-con-dos-jornadas-de-tradicion-cultura-y-gastronomia.jpeg",
-    "pub": 1792084988,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "UPL considera las cuentas de la Junta un \"engaño manifiesto y burdo\"",
-    "link": "https://www.lanuevacronica.com/actualidad/upl-considera-cuentas-junta-engano-manifiesto-burdo_204712_102.html",
-    "desc": "Alicia Gallego critica que \"insisten el proyectos que vuelven a prometerse tras no ejecutarse\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/64/0/la-portavoz-de-upl-en-las-cortes-alicia-gallego.jpeg",
-    "pub": 1792083962,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El truco para ahorrar en la compra que empieza aprovechando la comida que ya tienes en casa",
-    "link": "https://www.lanuevacronica.com/actualidad/truco-ahorrar-en-compra-empieza-aprovechando-comida-ya-tienes-en-casa_204701_102.html",
-    "desc": "La planificación doméstica es una de las principales vías para reducir el desaprovechamiento de alimentos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/35/3/fotonoticia-20241101082954-1200.jpeg",
-    "pub": 1792081447,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El arte de David Crespo lleva al Zofreral de Cobrana las heridas del fuego",
