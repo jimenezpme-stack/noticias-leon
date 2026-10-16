@@ -1,5 +1,77 @@
 [
   {
+    "titulo": "Un conocido restaurante de León cuelga el cartel de 'se traspasa'",
+    "link": "https://www.lanuevacronica.com/actualidad/conocido-restaurante-leon-cuelga-cartel-se-traspasa_204750_102.html",
+    "desc": "Brulé, en la calle Ramón Álvarez de la Braña, baja la trapa y busca un nuevo inquilino para su local",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/48/0/imagen-del-interior-del-local.jpeg",
+    "pub": 1792145995,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Aprender a salvar vidas: la Gasbi enseña a reaccionar ante una parada cardiaca",
+    "link": "https://www.elbierzodigital.com/aprender-a-salvar-vidas-la-gasbi-ensena-a-reaccionar-ante-una-parada-cardiaca/",
+    "desc": "La Gerencia de Asistencia Sanitaria del Bierzo (Gasbi) ha acercado este viernes, 16 de octubre, las técnicas básicas de reanimación cardiopulmonar (RCP) a la ciudadanía con un taller impartido por…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/aprender-a-salvar-vidas-la-gasbi-ensena-a-reaccionar-ante-una-parada-cardiaca-el-bierzo-digital.jpg",
+    "pub": 1792145979,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El folclore leonés toma Villaquilambre este fin de semana",
+    "link": "https://www.lanuevacronica.com/actualidad/folclore-leones-toma-villaquilambre-este-fin-semana_204748_102.html",
+    "desc": "Las II Jornadas de Tradición e Identidad Leonesa incluyen música, baile, filandones y un homenaje al etnógrafo Javier Emperador, tras reunir este jueves a 180 escolares en una actividad sobre los…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/32/9/pendones-leon-villaquilambre.jpeg",
+    "pub": 1792145925,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponfevin brinda por el éxito: 20.000 visitantes y 40.000 vinos servidos en su tercera edición",
+    "link": "https://www.elbierzodigital.com/ponfevin-brinda-por-el-exito-20-000-visitantes-y-40-000-vinos-servidos-en-su-tercera-edicion/",
+    "desc": "La edición de Ponfevin de 2026 cierra su tercera edición con cifras de récord . La Feria del Vino de Ponferrada, celebrada del 9 al 11 de octubre en el Boulevard de La Rosaleda , reunió a cerca de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponfevin-brinda-por-el-exito-20-000-visitantes-y-40-000-vinos-servidos-en-su-tercera-edicion-el-bierzo-digital.jpg",
+    "pub": 1792145536,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Los 10 Kilómetros de León estrenan llegada y baten récord",
+    "link": "https://www.lanuevacronica.com/deportes/10-kilometros-leon-estrenan-llegada-baten-record_204746_102.html",
+    "desc": "La cita de este domingo, que cambia su recorrido por las obras en la Plaza de la Catedral y finalizará en la Avenida de los Cubos, reunirá a cerca de 5.000 participantes, con 1.900 en la prueba reina",
+    "img": "https://www.lanuevacronica.com/uploads/s1/30/28/69/0/10-kilometros-leon-11.jpeg",
+    "pub": 1792145251,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Diputación pretende abrir las estaciones de esquí leonesas el 1 de diciembre",
+    "link": "https://www.lanuevacronica.com/actualidad/diputacion-pretende-abrir-estaciones-esqui-leonesas-1-diciembre_204747_102.html",
+    "desc": "La primera fecha de cierre se establece el 4 de abril, lo que permitiría alcanzar hasta 125 jornadas de actividad en San Isidro y Leitariegos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/46/43/5/esqui-leon.jpeg",
+    "pub": 1792145244,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Dos investigados por el incendio forestal que calcinó más de 2.000 hectáreas este verano en Murias de Ponjos",
+    "link": "https://www.lanuevacronica.com/sucesos/dos-investigados-por-incendio-forestal-calcino-mas-2000-hectareas-este-verano-en-murias-ponjos_204745_102.html",
+    "desc": "La investigación apunta al uso inadecuado de un generador en una zona forestal durante una situación de riesgo meteorológico de incendio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/16/10/3/incendio-forestal-de-nivel-dos-en-murias-de-ponjos-5.jpeg",
+    "pub": 1792144506,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Más de 20 réplicas registradas tras el terremoto de 4,2 grados de Benuza",
+    "link": "https://www.lanuevacronica.com/el-bierzo/mas-20-replicas-registradas-terremoto-42-grados-benuza_204737_102.html",
+    "desc": "El investigador de la ULE Javier Fernández Lozano apunta al reajuste de esfuerzos en la corteza terrestre como posible causa de las réplicas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/10/3/fotonoticia-20261016084036-1920.jpeg",
+    "pub": 1792144502,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Una ruta en San Pedro de Montes descubrirá cómo los oficios tradicionales han moldeado el paisaje de los Montes Aquilianos",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ruta-en-san-pedro-montes-descubrira-como-oficios-tradicionales-han-moldeado-paisaje-montes-aquilianos_204744_102.html",
+    "desc": "La actividad, organizada por Bierzo Cabrera y Oficios Vivos, se celebrará el domingo 18 de octubre y recorrerá la relación entre los aprovechamientos tradicionales, el patrimonio y el entorno…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/31/7/cartel.jpeg",
+    "pub": 1792144423,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El PSOE denuncia un recorte del 41% en las inversiones de la Junta para el Bierzo",
     "link": "https://www.elbierzodigital.com/el-psoe-denuncia-un-recorte-del-41-en-las-inversiones-de-la-junta-para-el-bierzo/",
     "desc": "Los presupuestos de la Junta de Castilla y León para 2027 vuelven a dejar a Ponferrada ante un \"escenario de promesas repetidas y proyectos pendientes\", según denuncia el PSOE berciano. La crítica…",
@@ -24,14 +96,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Más de 20 réplicas registradas tras el terremoto de 4,2 grados de Benuza",
-    "link": "https://www.lanuevacronica.com/el-bierzo/mas-20-replicas-registradas-terremoto-42-grados-benuza_204737_102.html",
-    "desc": "El investigador de la ULE Javier Fernández Lozano apunta al reajuste de esfuerzos en la corteza terrestre como posible causa de las réplicas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/10/3/fotonoticia-20261016084036-1920.jpeg",
-    "pub": 1792143542,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ponferrada refuerza la coordinación policial con la llegada del nuevo capitán de la Guardia Civil",
     "link": "https://www.elbierzodigital.com/ponferrada-refuerza-la-coordinacion-policial-con-la-llegada-del-nuevo-capitan-de-la-guardia-civil/",
     "desc": "El alcalde de Ponferrada, Marco Morala, ha recibido en el Ayuntamiento al nuevo capitán jefe de la Tercera Compañía de la Guardia Civil en Ponferrada, José Manuel López Santiso , natural de Lugo. En…",
@@ -54,14 +118,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2020/03/IMG-20200314-WA0008-scaled.jpg",
     "pub": 1792141205,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "«Hostia, cómo empujan»",
-    "link": "https://www.lanuevacronica.com/opinion/hostia-como-empujan_204730_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792141072,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Nuevas medidas sobre vivienda: ¿Hasta cuándo puede prorrogarse un contrato de alquiler?",
@@ -126,46 +182,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-terremoto-de-benuza-el-mas-potente-registrado-en-el-bierzo-en-lo-que-va-de-siglo-sobresalta-a-la-comarca-el-bierzo-digital-1.jpg",
     "pub": 1792137936,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Astorga, dos mil años de historia que invitan a descubrir una ciudad única",
-    "link": "https://www.lanuevacronica.com/especiales/astorga-dos-mil-anos-historia-invitan-descubrir-ciudad-unica_204558_102.html",
-    "desc": "La capital maragata combina un extraordinario patrimonio monumental con su legado romano, su tradición jacobea y unas fiestas que permiten viajar al pasado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/17/35/4/desfile-de-astures-y-romanos-1.jpeg",
-    "pub": 1792119600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Bañeza, una ciudad para descubrir entre cultura, tradición, motor y gastronomía",
-    "link": "https://www.lanuevacronica.com/especiales/baneza-ciudad-descubrir-entre-cultura-tradicion-motor-gastronomia_204548_102.html",
-    "desc": "La localidad ofrece numerosas alternativas para disfrutar del turismo de interior, con una amplia riqueza patrimonial, paisajística y cultural que la convierte en un destino de referencia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/37/26/2/lxv-gran-premio-de-velocidad-ciudad-de-la-baneza-2026-23.jpeg",
-    "pub": 1792119600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Montaña, agua y memoria ganadera en Sena de Luna",
-    "link": "https://www.lanuevacronica.com/especiales/montana-agua-memoria-ganadera-en-sena-luna_204722_102.html",
-    "desc": "Un recorrido por los contrastes entre bosques, caminos históricos, paredes calizas y construcciones que conservan la memoria de sus pueblos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/96/8/imagen-detalle-de-la-mtb-moom-a-su-paso-por-el-municipio-de-sena-de-luna-mtb-moon.jpeg",
-    "pub": 1792119300,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Exploradoras",
-    "link": "https://www.lanuevacronica.com/opinion/exploradoras_204729_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792119000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Vegacervera: donde la montaña se sirve a la mesa",
-    "link": "https://www.lanuevacronica.com/especiales/vegacervera-donde-montana-se-sirve-mesa_204721_102.html",
-    "desc": "Las Hoces, la Cueva de Valporquero y la cecina de chivo convierten este rincón en una escapada que combina naturaleza, aventura y tradición",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/95/3/la-feria-de-la-cecina-de-chivo-es-todo-un-acontecimiento-en-la-comarca-saul-aren.jpeg",
-    "pub": 1792119000,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Registrado un terremoto de magnitud 4,2 con epicentro en Benuza (León)",
@@ -349,22 +365,6 @@
     "desc": "La Junta de Castilla y León ha participado este miércoles en Bruselas en un encuentro europeo centrado en la innovación , la financiación y el desarrollo regional . El consejero de Industria,…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/castilla-y-leon-lleva-a-bruselas-el-debate-sobre-la-innovacion-y-la-financiacion-regional-el-bierzo-digital.jpeg",
     "pub": 1791999697,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Colegio Espíritu Santo: 75 años de misión y educación en Ponferrada",
-    "link": "https://www.elbierzodigital.com/colegio-espiritu-santo-75-anos-de-mision-y-educacion-en-ponferrada/",
-    "desc": "Las Misioneras Siervas del Espíritu Santo cumplen 75 años de presencia en Ponferrada y en España. Para conmemorar esta efeméride, el Colegio Espíritu Santo celebrará una eucaristía el próximo 25 de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/colegio-espiritu-santo-75-anos-de-mision-y-educacion-en-ponferrada-el-bierzo-digital.jpg",
-    "pub": 1791998516,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Junta prevé invertir casi 39 millones de euros en el Bierzo en 2027",
-    "link": "https://www.elbierzodigital.com/la-junta-preve-invertir-casi-39-millones-de-euros-en-el-bierzo-en-2027/",
-    "desc": "El proyecto de presupuestos de la Junta de Castilla y León para 2027 contempla una inversión de 38.762.731 euros en el Bierzo . La cifra se sitúa unos diez millones de euros por debajo de la…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-junta-preve-invertir-casi-39-millones-de-euros-en-el-bierzo-en-2027-el-bierzo-digital.jpeg",
-    "pub": 1791989889,
     "fuente": "El Bierzo Digital"
   },
   {
