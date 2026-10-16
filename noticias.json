@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Alarma Pedro Benito",
+    "link": "https://www.lanuevacronica.com/deportes/alarma-pedro-benito_204760_102.html",
+    "desc": "El jugador más destacado de la Cultural en el arranque de liga se ha perdido los últimos entrenos por un problema en el abductor y es duda para Logroño / Jon García, baja segura; Joao, aún sin fecha…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/00/77/7/benitocultural.jpeg",
+    "pub": 1792150769,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El 73 % de las fotografías incautadas a pedófilos son imágenes no sexualizadas de menores que han sido robadas",
+    "link": "https://www.lanuevacronica.com/actualidad/73-fotografias-incautadas-pedofilos-son-imagenes-no-sexualizadas-menores-han-sido-robadas_204759_102.html",
+    "desc": "La Universidad Nebrija celebra en León la sexta edición de \"Educación al Rescate\", donde se puso en relieve que esas imágenes se obtienen de los propios familiares que las suben a redes sociales",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/60/7/un-instante-del-coloquio-celebrado-en-leon-organizado-por-la-universidad-nebrija.jpeg",
+    "pub": 1792149863,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Basurco celebra su reto entre Europa y Asia: “Lo más importante es que lo hago por OncoBierzo que somos todos”",
     "link": "https://www.elbierzodigital.com/basurco-celebra-su-reto-entre-europa-y-asia-lo-mas-importante-es-que-lo-hago-por-oncobierzo-que-somos-todos/",
     "desc": "Miguel Martínez Basurco está feliz y satisfecho tras completar su última aventura a nado: unir Europa y Asia a través de las aguas del mar Egeo, entre la isla griega de Rodas y la localidad turca de…",
@@ -13,14 +29,6 @@
     "desc": "El portavoz popular en la Diputación, David Fernández, lamenta la \"nula influencia\" del PSOE de León en el Gobierno de España",
     "img": "https://www.lanuevacronica.com/uploads/s1/30/25/61/2/reunion-oscar-puente-i.jpeg",
     "pub": 1792149039,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ponferrada, aún asustada tras el seísmo: \"Bajé a la calle. Tenía muchísimo miedo\"",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-asustada-seismo-baje-calle-tenia-muchisimo-miedo_204738_102.html",
-    "desc": "Los vecinos de la capital del Bierzo relatan cómo \"se cayeron cosas de la estantería\" y \"las copas de la vitrina empezaron a vibrar\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/17/0/benuzaseismo.jpeg",
-    "pub": 1792148041,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -168,14 +176,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Una niña de 10 años resulta herida en el choque entre un turismo y una moto en Sariegos",
-    "link": "https://www.lanuevacronica.com/sucesos/nina-10-anos-resulta-herida-en-choque-entre-turismo-moto-en-sariegos_204735_102.html",
-    "desc": "Un hombre de 50 años también tuvo que ser atendido después del accidente registrado a primera hora de la mañana",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/15/4/zona-en-la-que-se-produjo-el-accidente.jpeg",
-    "pub": 1792139246,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Bembibre se prepara para una fiesta internacional del hockey sobre patines con sabor berciano",
     "link": "https://www.elbierzodigital.com/bembibre-se-prepara-para-una-fiesta-internacional-del-hockey-sobre-patines-con-sabor-berciano/",
     "desc": "Bembibre calienta motores para vivir una jornada de hockey sobre patines con acento internacional . El Bembibre H.C. presentó el I Torneo Internacional Villa de Bembibre , una cita que enfrentará…",
@@ -189,6 +189,14 @@
     "desc": "El susto y la sorpresa todavía permanecen entre muchos vecinos del Bierzo después del terremoto registrado a las 22.34 horas de este jueves 15 de octubr e. El movimiento sísmico alcanzó una magnitud…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-terremoto-de-benuza-el-mas-potente-registrado-en-el-bierzo-en-lo-que-va-de-siglo-sobresalta-a-la-comarca-el-bierzo-digital-1.jpg",
     "pub": 1792137936,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Fisioterapia celebra sus 25 años en el Campus de Ponferrada con una demanda que desborda las plazas disponibles",
+    "link": "https://www.elbierzodigital.com/fisioterapia-celebra-sus-25-anos-en-el-campus-de-ponferrada-con-una-demanda-que-desborda-las-plazas-disponibles/",
+    "desc": "La titulación de Fisioterapia del Campus de Ponferrada celebra su 25 aniversario consolidada como uno de los estudios más demandados de la Universidad de León . Lo que comenzó en 2001 con una…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/fisioterapia-celebra-sus-25-anos-en-el-campus-de-ponferrada-con-una-demanda-que-desborda-las-plazas-disponibles-el-bierzo-digital.jpeg",
+    "pub": 1792134004,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -357,14 +365,6 @@
     "desc": "El presidente de Vox, Santiago Abascal , recalará el próximo martes, 20 de octubre , en Ponferrada para protagonizar un acto público en la plaza del Ayuntamiento a partir de las 19.00 horas . La…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/abascal-dara-un-mitin-en-ponferrada-el-20-de-octubre-el-bierzo-digital-e1792079633767.jpg",
     "pub": 1792047359,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Netflix lleva a Maxi Iglesias y Elena Rivera al valle de Fornela para rodar “La Dama del Norte”",
-    "link": "https://www.elbierzodigital.com/netflix-lleva-a-maxi-iglesias-y-elena-rivera-al-valle-de-fornela-para-rodar-la-dama-del-norte/",
-    "desc": "El valle de Fornela se prepara para convertirse en escenario de ficción. Netflix rodará en los próximos días parte de su nueva serie, \" La Dama del Norte\" , protagonizada por Maxi Iglesias y Elena…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/netflix-lleva-a-maxi-iglesias-y-elena-rivera-al-valle-de-fornela-para-rodar-la-dama-del-norte-el-bierzo-digital.jpg",
-    "pub": 1792008077,
     "fuente": "El Bierzo Digital"
   },
   {
