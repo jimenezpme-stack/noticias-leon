@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "León convoca un concurso de proyectos para restaurar el Puente del Castro",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-convoca-concurso-proyectos-restaurar-puente-castro_204753_102.html",
+    "desc": "Esta infraestructura del siglo XVIII supone la entrada a León para el Camino de Santiago",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/01/68/1/2.jpeg",
+    "pub": 1792147458,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El PP lamenta los \"la falta de compromiso\" de Oscar Puente con León un año después de la reunión con Courel y Aller",
+    "link": "https://www.lanuevacronica.com/actualidad/pp-lamenta-la-falta-compromiso-oscar-puente-con-leon-ano-despues-reunion-con-courel-aller_204752_102.html",
+    "desc": "El portavoz popular en la Diputación, David Fernández, lamenta la \"nula influencia\" del PSOE de León en el Gobierno de España",
+    "img": "https://www.lanuevacronica.com/uploads/s1/30/25/61/2/reunion-oscar-puente-i.jpeg",
+    "pub": 1792146921,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La leonesa Sara García Alonso, entre las 100 mujeres más influyentes de España según Forbes",
+    "link": "https://www.lanuevacronica.com/actualidad/leonesa-sara-garcia-alonso-entre-100-mujeres-mas-influyentes-espana-segun-forbes_204751_102.html",
+    "desc": "La bióloga molecular e investigadora del CNIO, que en 2026 ha completado su formación como astronauta de la Agencia Espacial Europea, es una de las nueve castellanas y leonesas incluidas en la lista",
+    "img": "https://www.lanuevacronica.com/uploads/s1/28/06/48/6/sara-garcia.jpeg",
+    "pub": 1792146371,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Un conocido restaurante de León cuelga el cartel de 'se traspasa'",
     "link": "https://www.lanuevacronica.com/actualidad/conocido-restaurante-leon-cuelga-cartel-se-traspasa_204750_102.html",
     "desc": "Brulé, en la calle Ramón Álvarez de la Braña, baja la trapa y busca un nuevo inquilino para su local",
@@ -64,14 +88,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Una ruta en San Pedro de Montes descubrirá cómo los oficios tradicionales han moldeado el paisaje de los Montes Aquilianos",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ruta-en-san-pedro-montes-descubrira-como-oficios-tradicionales-han-moldeado-paisaje-montes-aquilianos_204744_102.html",
-    "desc": "La actividad, organizada por Bierzo Cabrera y Oficios Vivos, se celebrará el domingo 18 de octubre y recorrerá la relación entre los aprovechamientos tradicionales, el patrimonio y el entorno…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/31/7/cartel.jpeg",
-    "pub": 1792144423,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El PSOE denuncia un recorte del 41% en las inversiones de la Junta para el Bierzo",
     "link": "https://www.elbierzodigital.com/el-psoe-denuncia-un-recorte-del-41-en-las-inversiones-de-la-junta-para-el-bierzo/",
     "desc": "Los presupuestos de la Junta de Castilla y León para 2027 vuelven a dejar a Ponferrada ante un \"escenario de promesas repetidas y proyectos pendientes\", según denuncia el PSOE berciano. La crítica…",
@@ -133,22 +149,6 @@
     "desc": "La escritora chilena se lleva el montante de un millón de euros, mientras que Sergio Hernández Carrasco, finalista de este año con 'La añoranza' recibirá unos 200.000 euros",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/48/19/5/fotonoticia-20261015235528-1920.jpeg",
     "pub": 1792140094,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PCE cuestiona el impacto de las ferias de Ponferrada ante el aumento del paro",
-    "link": "https://www.lanuevacronica.com/el-bierzo/pce-cuestiona-impacto-ferias-ponferrada-aumento-paro_204740_102.html",
-    "desc": "La formación denuncia que el desempleo creció un 4,78% en septiembre y reclama más inversión pública y reindustrialización frente a la precariedad laboral",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/18/0/cata-con-giganto-4-1000x563.jpeg",
-    "pub": 1792139876,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Adjudicada la renovación del campo de fútbol de Compostilla para estar lista antes de fin de año",
-    "link": "https://www.lanuevacronica.com/el-bierzo/adjudicada-renovacion-campo-futbol-compostilla-estar-lista-antes-fin-ano_204723_102.html",
-    "desc": "Mondo Ibérica ejecutará los trabajos por 198.557 euros y dispondrá de un plazo de dos meses para renovar el césped artificial de la casa del fútbol base de la Ponferradina",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/99/6/compostilla.jpeg",
-    "pub": 1792139637,
     "fuente": "La Nueva Crónica"
   },
   {
