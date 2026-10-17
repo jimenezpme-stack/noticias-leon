@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "A Chozas de Abajo le funciona muy bien la patata",
+    "link": "https://www.lanuevacronica.com/actualidad/chozas-abajo-funciona-muy-bien-patata_204812_102.html",
+    "desc": "Entre los principales atractivos de la feria de este año destacaron la entrega de la 'Patata de Bronce' y el V Concurso 'La Patata Más Grande'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/50/44/3/feria-de-la-patata-de-chozas-de-abajo-7.jpeg",
+    "pub": 1792252671,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Valencia de Don Juan se va de caza y pesca con una feria multitudinaria",
+    "link": "https://www.lanuevacronica.com/actualidad/valencia-don-juan-se-va-caza-pesca-con-feria-multitudinaria_204805_102.html",
+    "desc": "La localidad coyantina celebra este fin de semana su primera edición de un evento que pretende poner en valor la tradición cinegética y pesquera y acercarla a las nuevas generaciones",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/82/7/feria-de-caza-pesca-y-naturaleza-de-valencia-de-don-juan-6.jpeg",
+    "pub": 1792252658,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Puente Almuhey no olvida sus raíces en su XI Feria Multisectorial",
     "link": "https://www.lanuevacronica.com/actualidad/puente-almuhey-no-olvida-sus-raices-en-su-xi-feria-multisectorial_204811_102.html",
     "desc": "La jornada de este sábado contó con mastines, pendones, carros engalanados, degustación de cecina y bailes, antes de la matanza del cerdo que será este domingo",
@@ -21,14 +37,6 @@
     "desc": "Según la investigación de la Policía Nacional, el robo en la vivienda era su objetivo y para ello inmovilizaron y amordazaron hasta la asfixia a la mujer, de 83 años",
     "img": "https://www.lanuevacronica.com/uploads/s1/33/39/39/6/logo-policia-4-1000x563-4-1000x563-4-1000x563.jpeg",
     "pub": 1792249762,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Valencia de Don Juan se va de caza y pesca con una feria multitudinaria",
-    "link": "https://www.lanuevacronica.com/actualidad/valencia-don-juan-se-va-caza-pesca-con-feria-multitudinaria_204805_102.html",
-    "desc": "La localidad coyantina celebra este fin de semana su primera edición de un evento que pretende poner en valor la tradición cinegética y pesquera y acercarla a las nuevas generaciones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/82/7/feria-de-caza-pesca-y-naturaleza-de-valencia-de-don-juan-6.jpeg",
-    "pub": 1792237995,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -158,14 +166,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2022/06/Administracion-de-loteria-4-Ponferrada.jpg",
     "pub": 1792215946,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Después de la fuente",
-    "link": "https://www.lanuevacronica.com/opinion/despues-fuente_204779_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792205100,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El Bierzo se sienta a la mesa con 24 restaurantes y seis bodegas para reivindicar su gastronomía",
