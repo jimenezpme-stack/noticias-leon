@@ -1,10 +1,34 @@
 [
   {
+    "titulo": "Guitarras para Aladina",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/guitarras-aladina_204792_102.html",
+    "desc": "El músico riañés Enrique Martínez, del desaparecido pueblo de Pedrosa del Rey, celebra este sábado un concierto solidario con la Fundación Aladina en la iglesia de su pueblo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/67/7/guitarras-aladina.jpeg",
+    "pub": 1792228615,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ya se asoman los calendarios",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/ya-se-asoman-calendarios_204791_102.html",
+    "desc": "El primer calendario del 27 que se anuncia llega con arte y de la mano del Colectivo Arte Público, en una muestra inaugurada en el Claustro Abierto de los Capuchinos en la que 36 artistas ilustran…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/64/3/exposiciones-calendario.jpeg",
+    "pub": 1792228213,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Miralrío: el regreso de un icono",
-    "link": "https://www.lanuevacronica.com/el-bierzo/miralrio-regreso-icono_204626_102.html",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/miralrio-regreso-icono_204626_102.html",
     "desc": "El histórico hotel de Cacabelos renace con una propuesta que fusiona memoria, producto local y cocina contemporánea",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/45/82/2/imagen-miralrio-0.jpeg",
-    "pub": 1792226742,
+    "pub": 1792227668,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cendón sustituye a Montse Mínguez como secretario general del Grupo Parlamentario Socialista",
+    "link": "https://www.lanuevacronica.com/actualidad/cendon-sustituye-montse-minguez-como-secretario-general-grupo-parlamentario-socialista_204790_102.html",
+    "desc": "La decisión la tomó la Comisión Ejecutiva Federal del partido en su reunión previa al Comité Federal que confirmará las listas de las candidaturas socialistas para las elecciones generales del 29 de…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/30/74/24/3/comite-provincial-3.jpeg",
+    "pub": 1792227175,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -112,22 +136,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Grajal de Campos se sienta a la mesa para salvar el tejado de la iglesia de San Miguel",
-    "link": "https://www.lanuevacronica.com/actualidad/grajal-campos-se-sienta-mesa-salvar-tejado-iglesia-san-miguel_204780_102.html",
-    "desc": "La localidad celebrará el 31 de octubre una comida solidaria en el Palacio de los Condes y destinará íntegramente la recaudación a reparar el templo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/26/9/imagen-de-archivo-de-la-iglesia-de-san-miguel-en-grajal-de-campos.jpeg",
-    "pub": 1792173461,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Las Jornadas Gastronómicas del Bierzo ensalzan sus productos de calidad en su inauguración en Corullón",
-    "link": "https://www.lanuevacronica.com/el-bierzo/jornadas-gastronomicas-bierzo-ensalzan-sus-productos-calidad-en-su-inauguracion-en-corullon_204776_102.html",
-    "desc": "El enólogo berciano Pablo Ossorio, mantenedor de la cita, reivindica la materia prima de proximidad y las recetas tradicionales como señas de identidad de la gastronomía comarcal",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/21/2/ossorio.jpeg",
-    "pub": 1792172693,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Bierzo se sienta a la mesa con 24 restaurantes y seis bodegas para reivindicar su gastronomía",
     "link": "https://www.elbierzodigital.com/el-bierzo-se-sienta-a-la-mesa-con-24-restaurantes-y-seis-bodegas-para-reivindicar-su-gastronomia/",
     "desc": "El Bierzo vuelve a reivindicar su riqueza gastronómica con una nueva edición de sus Jornadas Gastronómicas , en las que participan 24 restaurantes y seis bodegas de la comarca. Se trata de una…",
@@ -150,14 +158,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/07/Molinaseca-1-el-bierzo-digital.jpeg",
     "pub": 1792167555,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Despedida de mi abuela",
-    "link": "https://www.lanuevacronica.com/opinion/tribuna-de-opinion/despedida-mi-abuela_204775_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792167545,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El universo pictórico de Israel Nicolás Torres desembarca en el Café Cultural de Sorbeda del Sil",
