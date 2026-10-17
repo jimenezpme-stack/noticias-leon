@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Los personajes del tío Ful: Luis, gaitero de afición",
+    "link": "https://www.lanuevacronica.com/extras/los-personajes-de-ful/personajes-tio-ful-luis-gaitero-aficion_204785_102.html",
+    "desc": "La música la llevaba ahí, le gustaba, y la jubilación después de muchos años en Fenosa le regaló a este roblano tiempo para sentarse en un banco y ponerle banda sonora al Rabizo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/32/8/frame-personaje.jpeg",
+    "pub": 1792202400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_204778_102.html",
+    "desc": "El humorista gráfico Rubén Cantón lanza una nueva pregunta sobre curiosidades de la provincia de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/24/7/image0.jpeg",
+    "pub": 1792202400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Torneros, de epicentro logístico a erial",
+    "link": "https://www.lanuevacronica.com/actualidad/torneros-epicentro-logistico-erial_204771_102.html",
+    "desc": "Se cumplen cuatro años de la puesta de largo del proyecto de la plataforma sin que se hayan licitado las obras pese a que entonces se anunció que habría empresas en 2024",
+    "img": "https://www.lanuevacronica.com/uploads/s1/14/91/01/torneros-08-06-22-1.jpeg",
+    "pub": 1792202400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Lucha Leonesa: 17 luchadores y 11 luchadoras buscan el último título individual del verano, el Campeón de Campeones",
     "link": "https://www.lanuevacronica.com/deportes/lucha-leonesa-17-luchadores-11-luchadoras-buscan-ultimo-titulo-individual-verano-campeon-campeones_204788_102.html",
     "desc": "Tan solo Chelo compite este año en dos categorías, medios y semipesados;Pedro El Kamikaze fue quien más corros de Liga ganó, 22",
@@ -80,14 +104,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Más de 20 réplicas registradas tras el terremoto de 4,2 grados de Benuza",
-    "link": "https://www.lanuevacronica.com/el-bierzo/mas-20-replicas-registradas-terremoto-42-grados-benuza_204737_102.html",
-    "desc": "El investigador de la ULE Javier Fernández Lozano apunta al reajuste de esfuerzos en la corteza terrestre como posible causa de las réplicas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/10/3/fotonoticia-20261016084036-1920.jpeg",
-    "pub": 1792167438,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ponferrada, aún asustada tras el seísmo: \"Bajé a la calle. Tenía muchísimo miedo\"",
     "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-asustada-seismo-baje-calle-tenia-muchisimo-miedo_204738_102.html",
     "desc": "Los vecinos de la capital del Bierzo relatan cómo \"se cayeron cosas de la estantería\" y \"las copas de la vitrina empezaron a vibrar\"",
@@ -133,22 +149,6 @@
     "desc": "El miércoles tendrá lugar la gala de entrega del Premio Leteo al cantautor catalán",
     "img": "https://www.lanuevacronica.com/uploads/s1/34/20/15/6/joan-manuel-serrat.jpeg",
     "pub": 1792166335,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Madrid y León estrechan lazos empresariales para impulsar nuevas oportunidades de inversión y colaboración",
-    "link": "https://www.lanuevacronica.com/actualidad/madrid-leon-estrechan-lazos-empresariales-impulsar-nuevas-oportunidades-inversion-colaboracion_204769_102.html",
-    "desc": "Fele y Ceim celebran el martes en la capital de España una jornada para reforzar las relaciones entre ambos tejidos empresariales",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/06/36/1/intervencion-de-juan-maria-vallejo-presidente-de-fele.jpeg",
-    "pub": 1792165064,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La emotiva felicitación de Eugenia Martínez de Irujo a su hija Tana Rivera en su 27 cumpleaños",
-    "link": "https://www.lanuevacronica.com/gente/la-emotiva-felicitacion-de-eugenia-martinez-de-irujo-a-su-hija-tana-rivera-en-su-27-cumpleanos_204770_102.html",
-    "desc": "Un revelador mensaje en este trance tan delicado tras el fin de su noviazgo con Roca Rey, al que Tana ha reaccionado con un significativo \"Te quiero mamá, eres lo mejooooor que tengo\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/16/3/fotonoticia-20261016150403-1920.jpeg",
-    "pub": 1792164688,
     "fuente": "La Nueva Crónica"
   },
   {
