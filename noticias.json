@@ -1,10 +1,18 @@
 [
   {
-    "titulo": "Torneros, de epicentro logístico a erial",
-    "link": "https://www.lanuevacronica.com/actualidad/torneros-epicentro-logistico-erial_204771_102.html",
-    "desc": "Se cumplen cuatro años de la puesta de largo del proyecto de la plataforma sin que se hayan licitado las obras pese a que entonces se anunció que habría empresas en 2024",
-    "img": "https://www.lanuevacronica.com/uploads/s1/14/91/01/torneros-08-06-22-1.jpeg",
-    "pub": 1792233969,
+    "titulo": "La Orden de San Lázaro de Jerusalén visitará León para 'cruzar' nuevos caballeros y damas",
+    "link": "https://www.lanuevacronica.com/actualidad/orden-san-lazaro-jerusalen-visitara-leon-cruzar-nuevos-caballeros-damas_204801_102.html",
+    "desc": "El acto central de investidura de sus nuevos integrantes del Priorato de España será en la Basílica de San Isidoro y contará con el arzobispo emérito de Caracas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/80/5/orden-san-lazaro-jerusalen.jpeg",
+    "pub": 1792235003,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Más de 500 alumnos del sistema educativo en León desconocen el idioma castellano",
+    "link": "https://www.lanuevacronica.com/actualidad/mas-500-alumnos-sistema-educativo-en-leon-desconocen-idioma-castellano_204800_102.html",
+    "desc": "Se trata de estudiantes procedentes de otros países que se incorporan a Primaria y Secundaria por la obligatoriedad que tiene la educación en España hasta los 16 años",
+    "img": "https://www.lanuevacronica.com/uploads/s1/26/88/41/1/empresa-familiar-aulas.jpeg",
+    "pub": 1792234948,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -12,15 +20,7 @@
     "link": "https://www.lanuevacronica.com/actualidad/pp-considera-torneros-se-ha-convertido-en-la-gran-estafa-psoe-leoneses_204799_102.html",
     "desc": "Cuando se cumplen cuatro años de la presentación 'en sociedad' del proyecto que \"todavía sigue siendo un erial\", los populares cargan contra \"otra de las grandes mentiras\" de Cendón",
     "img": "https://www.lanuevacronica.com/uploads/s1/14/53/76/torneros-13-10-22-1.png",
-    "pub": 1792233918,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los personajes del tío Ful: Luis, gaitero de afición",
-    "link": "https://www.lanuevacronica.com/extras/los-personajes-de-ful/personajes-tio-ful-luis-gaitero-aficion_204785_102.html",
-    "desc": "La música la llevaba ahí, le gustaba, y la jubilación después de muchos años en Fenosa le regaló a este roblano tiempo para sentarse en un banco y ponerle banda sonora al Rabizo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/32/8/frame-personaje.jpeg",
-    "pub": 1792233458,
+    "pub": 1792234409,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -101,6 +101,14 @@
     "desc": "A sus 67 años , Maricarmen Soto Rodríguez, Mari , como se le conoce en Arganza , puede contar buena parte de la historia reciente de la historia del pueblo a través de su propia vida . Nacida en…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/sagrario-rodriguez-la-farmaceutica-que-eligio-corullon-21-anos-cuidando-de-un-pueblo-que-tambien-es-su-casa-el-bierzo-digital-1.jpeg",
     "pub": 1792216833,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Juan Echanove: “El público de Ponferrada es muy entendido. Venir aquí obliga a dar lo mejor”",
+    "link": "https://www.elbierzodigital.com/juan-echanove-el-publico-de-ponferrada-es-muy-entendido-venir-aqui-obliga-a-dar-lo-mejor/",
+    "desc": "Juan Echanove ha dejado algo más que recuerdos y buenas interpretaciones sobre las tablas del Teatro Bergidum de Ponferrada. Desde ahora, sus huellas forman parte también de la acera que da acceso…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/juan-echanove-el-publico-de-ponferrada-es-muy-entendido-venir-aqui-obliga-a-dar-lo-mejor-el-bierzo-digital-1-e1792234552971.jpeg",
+    "pub": 1792216252,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -357,14 +365,6 @@
     "desc": "Ponferrada se prepara para demostrar que la edad no entiende de barreras cuando hay ganas de compartir. La Confederación Estatal de Mayores Activos (CONFEMAC) traerá el próximo viernes 30 de octubre…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/09/Turistas-plaza-de-la-Encina.jpg",
     "pub": 1792063883,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Raquel Dávila y Aránzazu Santiago reivindican el emprendimiento femenino para mantener vivos los pueblos",
-    "link": "https://www.elbierzodigital.com/raquel-davila-y-aranzazu-santiago-reivindican-el-emprendimiento-femenino-para-mantener-vivos-los-pueblos/",
-    "desc": "El emprendimiento puede abrir nuevas oportunidades en el medio rural, aunque el camino no siempre resulte sencillo, especialmente para las mujeres. Así lo defienden Raquel Dávila y Aránzazu Santiago…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/raquel-davila-y-aranzazu-santiago-reivindican-el-emprendimiento-femenino-para-mantener-vivos-los-pueblos-el-bierzo-digital-e1792063440222.jpeg",
-    "pub": 1792063447,
     "fuente": "El Bierzo Digital"
   },
   {
