@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Triunfo de liderato del Júpiter, batacazo del Mansillés y empate del Bembibre",
+    "link": "https://www.lanuevacronica.com/deportes/triunfo-liderato-jupiter-batacazo-mansilles-empate-bembibre_204826_102.html",
+    "desc": "Dos goles en tres minutos dan el triunfo en Salamanca a un filial que se pone primero, mientras que los de Mansilla pierden en casa con el penúltimo y los del Bierzo Alto igualan con la Arandina",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/59/6/mansilles-unionistas-b.jpeg",
+    "pub": 1792264235,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Nafti: “Hoy me faltan dos puntos”",
+    "link": "https://www.elbierzodigital.com/zamora-ponferradina-nafti-2627/",
+    "desc": "Mehdi Nafti resumió sus sensaciones tras el empate de la Ponferradina en Zamora asegurando que \"hoy me faltan dos puntos, claramente\" , y abundó en su análisis señalando que \"en la primera parte se…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-aviles-26-27-el-bierzo-digital-59.jpeg",
+    "pub": 1792264140,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Compostela 4 - Astorga 1: 'El Astorga se queda sin partido al descanso'",
+    "link": "https://www.lanuevacronica.com/deportes/compostela-4-astorga-1-astorga-se-queda-sin-partido-descanso_204817_102.html",
+    "desc": "El equipo maragato es goleado por el Compostela tras perder 3-0 ya en la primera parte y cortar la expulsión de Palomeque su reacción tras hacer Hoyos el 3-1 y haber tenido otras dos ocasiones claras",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/50/4/astorgacompos.jpeg",
+    "pub": 1792263006,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La Deportiva rescata un punto en el Ruta de la Plata",
     "link": "https://www.elbierzodigital.com/zamora-ponferradina-cronica-2627/",
     "desc": "La Ponferradina rescató un punto en el Ruta de la Plata gracias a un gol de Slavy que sirvió para igualar el tanto inicial de Carbonell para el Zamora (1-1). Ambos goles llegaron en la segunda parte…",
@@ -30,14 +54,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-7-e1792260138963.jpg",
     "pub": 1792260150,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Compostela 4 - Astorga 1: 'El Astorga se queda sin partido al descanso'",
-    "link": "https://www.lanuevacronica.com/deportes/compostela-4-astorga-1-astorga-se-queda-sin-partido-descanso_204817_102.html",
-    "desc": "El equipo maragato es goleado por el Compostela tras perder 3-0 ya en la primera parte y cortar la expulsión de Palomeque su reacción tras hacer Hoyos el 3-1 y haber tenido otras dos ocasiones claras",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/50/4/astorgacompos.jpeg",
-    "pub": 1792259688,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Logroñés - Cultural: 'Pasar del alivio al golpe sobre la mesa'",
@@ -157,14 +173,6 @@
     "desc": "El Prieto Picudo concentra la mayor parte de la producción, mientras que la de Albarín sufre una importante caída / Las condiciones meteorológicas reducen un 5,4% la cosecha respecto al año pasado",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/49/74/2/vendimia-do-leon.jpeg",
     "pub": 1792232237,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cuenta atrás para el encendido de Navidad en Almanza",
-    "link": "https://www.lanuevacronica.com/actualidad/cuenta-atras-encendido-navidad-en-almanza_204796_102.html",
-    "desc": "El Ayuntamiento informa que Papá Noel quiere instalar por segundo año consecutivo su residencia oficial en el Torreón de la localidad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/31/88/3/navidad-almanza.jpeg",
-    "pub": 1792229859,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "El susto y la sorpresa todavía permanecen entre muchos vecinos del Bierzo después del terremoto registrado a las 22.34 horas de este jueves 15 de octubr e. El movimiento sísmico alcanzó una magnitud…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-terremoto-de-benuza-el-mas-potente-registrado-en-el-bierzo-en-lo-que-va-de-siglo-sobresalta-a-la-comarca-el-bierzo-digital-1.jpg",
     "pub": 1792137936,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Junta rechaza, por ahora, que el Consejo Comarcal del Bierzo gestione las brigadas forestales a través de Somacyl",
-    "link": "https://www.elbierzodigital.com/la-junta-rechaza-por-ahora-que-el-consejo-comarcal-del-bierzo-gestione-las-brigadas-forestales-a-traves-de-somacyl/",
-    "desc": "El presidente del Consejo Comarcal del Bierzo, Olegario Ramón , se reunió esta mañana en Valladolid con el consejero de Presidencia de la Junta de Castilla y León para abordar la posibilidad de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/06/olegario-ramon-llama-a-hacer-un-frente-comun-para-asegurar-el-4o-curso-de-medicina-en-ponferrada-el-bierzo-digital.jpg",
-    "pub": 1792136241,
     "fuente": "El Bierzo Digital"
   },
   {
