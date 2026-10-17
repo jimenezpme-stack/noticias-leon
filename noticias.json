@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Con madreñas 'y a lo loco' van los paisanos por el centro de León",
+    "link": "https://www.lanuevacronica.com/actualidad/con-madrenas-loco-van-paisanos-por-centro-leon_204816_102.html",
+    "desc": "Cientos de personas participaron este sábado en la quinta edición de la 'madreñada' para reivindicar uno de los elementos más representativos de la tradición y la identidad leonesa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/50/85/1/quinta-madrenada-en-leon-8.jpeg",
+    "pub": 1792255183,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "EN DIRECTO | Zamora-Ponferradina",
+    "link": "https://www.elbierzodigital.com/directo-zamora-ponferradina-2627/",
+    "desc": "Sigue en directo el Zamora-Ponferradina de la octava jornada de liga en el grupo 1 de Primera RFEF. El partido comienza a las 18.45 horas en el Ruta de la Plata. La entrada EN DIRECTO |…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/en-directo-zamora-ponferradina-el-bierzo-digital.jpg",
+    "pub": 1792254621,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Tímida protesta de venezolanos residentes en León para exigir elecciones en su país",
+    "link": "https://www.lanuevacronica.com/actualidad/timida-protesta-venezolanos-residentes-en-leon-exigir-elecciones-en-su-pais_204815_102.html",
+    "desc": "La concentración, convocada este sábado a las 17:30 horas frente a Casa Botines, reclamó también que se permita el regreso de María Corina Machado",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/50/81/6/protesta-venezuela-leon.jpeg",
+    "pub": 1792253826,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "A Chozas de Abajo le funciona muy bien la patata",
     "link": "https://www.lanuevacronica.com/actualidad/chozas-abajo-funciona-muy-bien-patata_204812_102.html",
     "desc": "Entre los principales atractivos de la feria de este año destacaron la entrega de la 'Patata de Bronce' y el V Concurso 'La Patata Más Grande'",
@@ -13,14 +37,6 @@
     "desc": "La localidad coyantina celebra este fin de semana su primera edición de un evento que pretende poner en valor la tradición cinegética y pesquera y acercarla a las nuevas generaciones",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/49/82/7/feria-de-caza-pesca-y-naturaleza-de-valencia-de-don-juan-6.jpeg",
     "pub": 1792252658,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Puente Almuhey no olvida sus raíces en su XI Feria Multisectorial",
-    "link": "https://www.lanuevacronica.com/actualidad/puente-almuhey-no-olvida-sus-raices-en-su-xi-feria-multisectorial_204811_102.html",
-    "desc": "La jornada de este sábado contó con mastines, pendones, carros engalanados, degustación de cecina y bailes, antes de la matanza del cerdo que será este domingo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/50/40/7/puente-almuhey-feria.jpeg",
-    "pub": 1792251965,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -117,14 +133,6 @@
     "desc": "El músico riañés Enrique Martínez, del desaparecido pueblo de Pedrosa del Rey, celebra este sábado un concierto solidario con la Fundación Aladina en la iglesia de su pueblo",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/49/67/7/guitarras-aladina.jpeg",
     "pub": 1792228615,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cendón sustituye a Montse Mínguez como secretario general del Grupo Parlamentario Socialista",
-    "link": "https://www.lanuevacronica.com/actualidad/cendon-sustituye-montse-minguez-como-secretario-general-grupo-parlamentario-socialista_204790_102.html",
-    "desc": "La decisión la tomó la Comisión Ejecutiva Federal del partido en su reunión previa al Comité Federal que confirmará las listas de las candidaturas socialistas para las elecciones generales del 29 de…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/74/24/3/comite-provincial-3.jpeg",
-    "pub": 1792227175,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -357,14 +365,6 @@
     "desc": "Miguel Martínez Basurco ha vuelto a demostrar que sus retos deportivos van mucho más allá de la resistencia física. El deportista de Villafranca del Bierzo ha conquistado su meta en aguas abiertas…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/conseguido-basurco-convierte-su-travesia-entre-europa-y-asia-en-un-altavoz-para-oncobierzo-el-bierzo-digital-2-e1792085912997.jpeg",
     "pub": 1792085430,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El arte de David Crespo lleva al Zofreral de Cobrana las heridas del fuego",
-    "link": "https://www.elbierzodigital.com/arte-david-crespo-lleva-zofreral-cobrana-heridas-fuego/",
-    "desc": "El Zofreral de Cobrana abrirá sus puertas al arte y a la memoria del paisaje el próximo sábado, 24 de octubre , con la llegada de \"Pálpito\" , una exposición que invita a mirar de frente las heridas…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-arte-de-david-crespo-lleva-al-zofreral-de-cobrana-las-heridas-del-fuego-el-bierzo-digital.jpg",
-    "pub": 1792081217,
     "fuente": "El Bierzo Digital"
   },
   {
