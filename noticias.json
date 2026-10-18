@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Magdalena la de Mansilla, mujer rural, repostera, artesana y madre",
+    "link": "https://www.lanuevacronica.com/actualidad/magdalena-mansilla-mujer-rural-repostera-artesana-madre_204842_102.html",
+    "desc": "Activa a los 89 años, bromea con que cuando le pusieron su nombre ya la encaminaron a la repostería, pero primero se dedicó a la fruta, después a atender a sus 10 hijos y a la Cafetería Alonso que…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/52/04/4/magdalena-mujer-rural-mansilla.jpeg",
+    "pub": 1792314926,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "San Emeterio, en riesgo de perderse Ferrol o León",
+    "link": "https://www.lanuevacronica.com/deportes/san-emeterio-en-riesgo-perderse-ferrol-leon_204834_102.html",
+    "desc": "El centrocampista de la Ponferradina vio en Zamora su cuarta tarjeta amarilla de la temporada para enfrentarse al Barakaldo, Racing de Ferrol y Cultural en las tres próximas jornadas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/87/9/san-emeterio-esta-a-una-amarilla-de-cumplir-ciclo-de-tarjetas-quinito.jpeg",
+    "pub": 1792314000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Roberto 'el de los carros' recoge lo que sembró",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/roberto-el-carros-recoge-sembro_204841_102.html",
+    "desc": "Roberto Álvarez, de Puente Castro, gran defensor 'y practicante' de las tradiciones leonesas, recibió el viernes un multitudinario y secreto reconocimiento desde numerosos colectivos de lo más…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/52/00/4/imagen-aa-roberto-amigos.jpeg",
+    "pub": 1792313981,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La Primitiva deja un premio de 39.000 euros en el centro de León",
     "link": "https://www.lanuevacronica.com/actualidad/primitiva-deja-premio-39000-euros-en-centro-leon_204838_102.html",
     "desc": "A través de un boleto acertante de segunda categoría validado en el estanco de la calle Caño Badillo",
@@ -109,30 +133,6 @@
     "desc": "",
     "img": null,
     "pub": 1792290600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "\"Hace 22 años no había nada y ahora ya ayudamos a 250 jóvenes con autismo\"",
-    "link": "https://www.lanuevacronica.com/actualidad/hace-22-anos-no-habia-nada-ahora-ya-ayudamos-250-jovenes-con-autismo_204807_102.html",
-    "desc": "Entrevista a José Ángel Crego, presidente de Autismo León, asociación que el próximo viernes recibirá el Premio Negrilla de Oro",
-    "img": "https://www.lanuevacronica.com/uploads/s1/32/54/60/2/jose-angel-crego-es-el-presidente-de-autismo-leon.jpeg",
-    "pub": 1792288800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Parque de la Granja: donde cada visita parece la primera",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/parque-granja-donde-cada-visita-parece-primera_204749_102.html",
-    "desc": "Inaugurado en 1985, el espacio llegó a albergar un Campeonato de España de Aerostación a los pocos meses de abrirse al público",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/44/2/el-parque-de-la-granja-debe-su-nombre-a-la-antigua-granja-esucela-agripecuaria-que-pertencio-a-la-diputacion-provincial-saul-aren.jpeg",
-    "pub": 1792288800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Plaza de la Encina",
-    "link": "https://www.lanuevacronica.com/el-bierzo/plaza-encina_204708_102.html",
-    "desc": "Un espacio público con connotaciones religiosas e históricas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/51/5/plaza-de-la-encina-y-calle-de-reloj-al-fondo-la-torre-del-reloj.jpeg",
-    "pub": 1792288800,
     "fuente": "La Nueva Crónica"
   },
   {
