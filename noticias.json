@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "La Primitiva deja un premio de 39.000 euros en el centro de León",
+    "link": "https://www.lanuevacronica.com/actualidad/primitiva-deja-premio-39000-euros-en-centro-leon_204838_102.html",
+    "desc": "A través de un boleto acertante de segunda categoría validado en el estanco de la calle Caño Badillo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/52/32/3/primitiva-leon.jpeg",
+    "pub": 1792322800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El astorgano Héctor Fidalgo firma su tercer título consecutivo de campeón de España de yoyó",
+    "link": "https://www.lanuevacronica.com/actualidad/astorgano-hector-fidalgo-firma-su-tercer-titulo-consecutivo-campeon-espana-yoyo_204849_102.html",
+    "desc": "El joven astorgano logró 92,7 puntos sobre 100 en Tres Cantos, con una ventaja de 38,5 puntos sobre el segundo clasificado, y ya prepara sus próximos retos internacionales",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/52/27/1/campeonato-yoyo-1.jpeg",
+    "pub": 1792322728,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Pacma denuncia en León que los políticos \"han sucumbido al lobby de la caza\"",
     "link": "https://www.lanuevacronica.com/actualidad/pacma-denuncia-en-leon-politicos-han-sucumbido-lobby-caza_204847_102.html",
     "desc": "Piden que todos los perros sean incluidos en la Ley de Bienestar Animal y recuerdan que son \"una herramienta\" para los cazadores, que \"se deshacen de ellos cuando ya no les sirven\"",
@@ -80,20 +96,20 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La Primitiva deja un premio de 39.000 euros en el centro de León",
-    "link": "https://www.lanuevacronica.com/actualidad/primitiva-deja-premio-39000-euros-en-centro-leon_204838_102.html",
-    "desc": "A través de un boleto acertante de segunda categoría validado en el estanco de la calle Caño Badillo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/21/36/79/0/primitiva-loterias-9617-6-1-1.jpeg",
-    "pub": 1792313106,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Mechas, masaje y terapia: ahí está el nuevo viernes perfecto",
     "link": "https://www.lanuevacronica.com/lnc-culturas/mechas-masaje-terapia-esta-nuevo-viernes-perfecto_204837_102.html",
     "desc": "El pasado fin de semana se celebró el Día Mundial de la Salud Mental, un día marcado en el calendario para dar visibilidad y generar conciencia en esta sociedad que ya no sabe ni donde mirar",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/51/94/9/sofia-moran.png",
     "pub": 1792312247,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Morala pide una candidatura del PP que ilusione a toda la provincia y evita pronunciarse sobre los nombres",
+    "link": "https://www.elbierzodigital.com/morala-pide-una-candidatura-del-pp-que-ilusione-a-toda-la-provincia-y-evita-pronunciarse-sobre-los-nombres/",
+    "desc": "El alcalde de Ponferrada, Marco Morala , ha expresado su confianza en el proceso de preparación electoral del Partido Popular y ha defendido la necesidad de conformar una candidatura capaz de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/09/Morala-3-el-bierzo-digital.jpg",
+    "pub": 1792310403,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "El Bembibre H.C. conquista el primer Torneo Internacional Villa de Bembibre",
@@ -138,14 +154,6 @@
   {
     "titulo": "Áticos en el Reino",
     "link": "https://www.lanuevacronica.com/opinion/aticos-en-reino_204824_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792291500,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "En corto y por derecho",
-    "link": "https://www.lanuevacronica.com/opinion/en-corto-por-derecho_204823_102.html",
     "desc": "",
     "img": null,
     "pub": 1792291500,
@@ -349,14 +357,6 @@
     "desc": "Los presupuestos de la Junta de Castilla y León para 2027 vuelven a dejar a Ponferrada ante un \"escenario de promesas repetidas y proyectos pendientes\", según denuncia el PSOE berciano. La crítica…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/07/el-psoe-denuncia-el-estado-insalubre-del-local-cedido-a-una-asociacion-vecinal-de-espinosa-de-compludo-el-bierzo-digital.jpeg",
     "pub": 1792144144,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Los Montes Aquilianos desvelan sus secretos: del bosque a los oficios que moldearon el Bierzo",
-    "link": "https://www.elbierzodigital.com/los-montes-aquilianos-desvelan-sus-secretos-del-bosque-a-los-oficios-que-moldearon-el-bierzo/",
-    "desc": "Los Montes Aquilianos guardan mucho más que naturaleza: esconden siglos de historia ligados a los oficios tradicionales. La Asociación de Desarrollo Rural Bierzo Cabrera propone descubrir este…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/los-montes-aquilianos-desvelan-sus-secretos-del-bosque-a-los-oficios-que-moldearon-el-bierzo-el-bierzo-digital.jpeg",
-    "pub": 1792143743,
     "fuente": "El Bierzo Digital"
   },
   {
