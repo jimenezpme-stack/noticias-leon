@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Mechas, masaje y terapia: ahí está el nuevo viernes perfecto",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/mechas-masaje-terapia-esta-nuevo-viernes-perfecto_204837_102.html",
+    "desc": "El pasado fin de semana se celebró el Día Mundial de la Salud Mental, un día marcado en el calendario para dar visibilidad y generar conciencia en esta sociedad que ya no sabe ni donde mirar",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/94/9/sofia-moran.png",
+    "pub": 1792311836,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los abogados de León ven \"insuficiente\" el acuerdo para mejorar el salario del turno de oficio",
+    "link": "https://www.lanuevacronica.com/actualidad/abogados-leon-ven-insuficiente-acuerdo-mejorar-salario-turno-oficio_204836_102.html",
+    "desc": "El Colegio de la Abogacía reconoce \"avances\" en las retribuciones y la ampliación de la justicia gratuita, pero reclama unos baremos más justos y unas condiciones dignas para los profesionales",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/16/75/1/abogados-leon-justicia.jpeg",
+    "pub": 1792311798,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_204822_102.html",
+    "desc": "El humorista gráfico Rubén Cantón responde a la pregunta de este sábado sobre una curiosidad de la provincia de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/57/4/imagen-image1.jpeg",
+    "pub": 1792310932,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Cortes de tráfico este domingo por la carrera de los 10 kilómetros",
     "link": "https://www.lanuevacronica.com/actualidad/cortes-trafico-este-domingo-por-carrera-10-kilometros_204833_102.html",
     "desc": "La Policía Local establece restricciones a la circulación desde las 9:45 horas hasta casi el mediodía por la prueba deportiva, que recorrerá numerosas calles de la capital leonesa",
@@ -88,14 +112,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Las cucerías de Cantón",
-    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_204822_102.html",
-    "desc": "El humorista gráfico Rubén Cantón responde a la pregunta de este sábado sobre una curiosidad de la provincia de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/57/4/imagen-image1.jpeg",
-    "pub": 1792288800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "\"Hace 22 años no había nada y ahora ya ayudamos a 250 jóvenes con autismo\"",
     "link": "https://www.lanuevacronica.com/actualidad/hace-22-anos-no-habia-nada-ahora-ya-ayudamos-250-jovenes-con-autismo_204807_102.html",
     "desc": "Entrevista a José Ángel Crego, presidente de Autismo León, asociación que el próximo viernes recibirá el Premio Negrilla de Oro",
@@ -126,22 +142,6 @@
     "img": null,
     "pub": 1792268703,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Nafti: \"Hoy me faltan dos puntos\"",
-    "link": "https://www.lanuevacronica.com/deportes/nafti-hoy-me-faltan-dos-puntos_204829_102.html",
-    "desc": "El técnico de la Ponferradina afirma que Slavy «se esfuerza por mejorar, no bromeo cuando digo que es necesario dentro del área»",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/66/0/la-deportiva-se-llevo-un-punto-del-ruta-de-la-plata-pero-mereciendo-mucho-mas-zamora.jpeg",
-    "pub": 1792267534,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Zamora 1-1 Ponferradina: 'Slavy imparte justicia en el Ruta'",
-    "link": "https://www.lanuevacronica.com/deportes/zamora-1-1-ponferradina-slavy-imparte-justicia-en-ruta_204827_102.html",
-    "desc": "El delantero de la Deportiva anotó en una cesión de los locales el 1-1 que le da un punto a un conjunto berciano que fue mejor en la primera mitad y perdonó ocasiones, aunque supo reponerse tras el…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/61/6/slavy-mando-a-guardar-la-primera-gran-ocasion-que-tuvo-en-una-cesion-del-zamora-reportaje-grafico-zamora.jpeg",
-    "pub": 1792266036,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Nafti: “Hoy me faltan dos puntos”",
