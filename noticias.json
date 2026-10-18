@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "La mano que te da de comer",
+    "link": "https://www.lanuevacronica.com/opinion/mano-te-da-comer_204820_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792292400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "John Deere e mellor que New Holland",
+    "link": "https://www.lanuevacronica.com/opinion/john-deere-mellor-new-holland_204821_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792292100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cof, cof, cof",
+    "link": "https://www.lanuevacronica.com/opinion/cof-cof-cof_204806_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792291800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Áticos en el Reino",
+    "link": "https://www.lanuevacronica.com/opinion/aticos-en-reino_204824_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792291500,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "En corto y por derecho",
+    "link": "https://www.lanuevacronica.com/opinion/en-corto-por-derecho_204823_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792291500,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El otro Camino de Santiago: los bercianos y transeúntes que morían buscando sobrevivir",
+    "link": "https://www.lanuevacronica.com/el-bierzo/otro-camino-santiago-bercianos-transeuntes-morian-buscando-sobrevivir_202687_102.html",
+    "desc": "Los libros parroquiales de los siglos XVIII y XIX rescatan la historia de mendigos, jornaleros, canteros, segadores, soldados y familias itinerantes que atravesaban El Bierzo en busca de trabajo,…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/96/66/3/wwww-cacab.jpeg",
+    "pub": 1792291500,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "'Hope'",
     "link": "https://www.lanuevacronica.com/opinion/hope_204814_102.html",
     "desc": "",
@@ -64,28 +112,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Ponferrada 83-60 Getafe: 'Victoria de autoridad del Clínica Ponferrada'",
-    "link": "https://www.lanuevacronica.com/deportes/ponferrada-83-60-getafe-victoria-autoridad-clinica-ponferrada_204830_102.html",
-    "desc": "Los bercianos se llevaron el partido ante el CB Getafe (83-60) en un encuentro controlado de principio a fin",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/70/5/el-clinica-ponferrada-se-llevo-la-segunda-victoria-de-la-temporada-en-casa-ante-el-getafe-redblanquiazul.jpeg",
-    "pub": 1792269437,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Ponferradina visitará a la Cultural el 8 de noviembre en el derbi de las 18.15 horas",
     "link": "https://www.elbierzodigital.com/la-ponferradina-visitara-a-la-cultural-el-8-de-noviembre-en-el-derbi-de-las-18-15-horas/",
     "desc": "El primer derbi de la temporada entre la Cultural y Deportiva Leonesa y la SD Ponferradina ya tiene fecha y hora. El encuentro se disputará el domingo 8 de noviembre, a partir de las 18.15 horas, en…",
     "img": null,
     "pub": 1792268703,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Nafti: \"Hoy me faltan dos puntos\"",
-    "link": "https://www.lanuevacronica.com/deportes/nafti-hoy-me-faltan-dos-puntos_204829_102.html",
-    "desc": "El técnico de la Ponferradina afirma que Slavy «se esfuerza por mejorar, no bromeo cuando digo que es necesario dentro del área»",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/66/0/la-deportiva-se-llevo-un-punto-del-ruta-de-la-plata-pero-mereciendo-mucho-mas-zamora.jpeg",
-    "pub": 1792267534,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Zamora 1-1 Ponferradina: 'Slavy imparte justicia en el Ruta'",
@@ -112,14 +144,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Cultural - Melilla: 'A por el más difícil todavía contra el gran favorito'",
-    "link": "https://www.lanuevacronica.com/deportes/cultural-melilla-por-mas-dificil-todavia-contra-gran-favorito_204819_102.html",
-    "desc": "Tras arrancar la liga con dos triunfos ante equipos que el año pasado jugaron 'playoff', una Cultural aún sin Traoré recibe este domingo a un 'gigante' que ha ganado sus 5 partidos oficiales por…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/26/94/5/cultural-moron-4.jpeg",
-    "pub": 1792262313,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Manuel Merillas conquista los montes de Sorbeda del Sil en el Trail de la Castaña",
     "link": "https://www.elbierzodigital.com/manuel-merillas-conquista-los-montes-de-sorbeda-del-sil-en-el-trail-de-la-castana/",
     "desc": "Sorbeda del Sil volvió a reunir este sábado, 17 de octubre , deporte, naturaleza y tradición con la celebración de la VI edición del Trail de la Castaña . La prueba, organizada por el Club de…",
@@ -136,14 +160,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Logroñés - Cultural: 'Pasar del alivio al golpe sobre la mesa'",
-    "link": "https://www.lanuevacronica.com/deportes/logrones-cultural-pasar-alivio-golpe-sobre-mesa_204809_102.html",
-    "desc": "La Cultural, corta de efectivos en ataque, buscará este domingo confirmar su reacción en el campo de un Logroñés que es el máximo goleador de la categoría y va segundo tras sacar 16 puntos de 21…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/43/00/8/cultural-arenas-14.jpeg",
-    "pub": 1792258833,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Proyecto Orbanajo organiza una nueva limpieza en el entorno de Las Herrerías",
     "link": "https://www.elbierzodigital.com/proyecto-orbanajo-organiza-una-nueva-limpieza-en-el-entorno-de-las-herrerias/",
     "desc": "Los integrantes del proyecto Orbanajo regresarán este domingo, a las 17.00 horas, a la zona trasera del Mercadona de la zona comercial Las Herrerías, junto a las vías del tren, para realizar una…",
@@ -152,28 +168,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Con madreñas 'y a lo loco' van los paisanos por el centro de León",
-    "link": "https://www.lanuevacronica.com/actualidad/con-madrenas-loco-van-paisanos-por-centro-leon_204816_102.html",
-    "desc": "Cientos de personas participaron este sábado en la quinta edición de la 'madreñada' para reivindicar uno de los elementos más representativos de la tradición y la identidad leonesa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/20/2/quinta-madrenada-en-leon-8.jpeg",
-    "pub": 1792255585,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "EN DIRECTO | Zamora-Ponferradina",
     "link": "https://www.elbierzodigital.com/directo-zamora-ponferradina-2627/",
     "desc": "Sigue en directo el Zamora-Ponferradina de la octava jornada de liga en el grupo 1 de Primera RFEF. El partido comienza a las 18.45 horas en el Ruta de la Plata. La entrada EN DIRECTO |…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/en-directo-zamora-ponferradina-el-bierzo-digital.jpg",
     "pub": 1792254621,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "A Chozas de Abajo le funciona muy bien la patata",
-    "link": "https://www.lanuevacronica.com/actualidad/chozas-abajo-funciona-muy-bien-patata_204812_102.html",
-    "desc": "Entre los principales atractivos de la feria de este año destacaron la entrega de la 'Patata de Bronce' y el V Concurso 'La Patata Más Grande'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/50/44/3/feria-de-la-patata-de-chozas-de-abajo-7.jpeg",
-    "pub": 1792252671,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "“Pequegrinos”: cómo recorrer el Camino de Santiago sin salir del cole",
