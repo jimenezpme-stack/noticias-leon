@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_204822_102.html",
+    "desc": "El humorista gráfico Rubén Cantón responde a la pregunta de este sábado sobre una curiosidad de la provincia de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/57/4/imagen-image1.jpeg",
+    "pub": 1792288800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "\"Hace 22 años no había nada y ahora ya ayudamos a 250 jóvenes con autismo\"",
+    "link": "https://www.lanuevacronica.com/actualidad/hace-22-anos-no-habia-nada-ahora-ya-ayudamos-250-jovenes-con-autismo_204807_102.html",
+    "desc": "Entrevista a José Ángel Crego, presidente de Autismo León, asociación que el próximo viernes recibirá el Premio Negrilla de Oro",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/54/60/2/jose-angel-crego-es-el-presidente-de-autismo-leon.jpeg",
+    "pub": 1792288800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Parque de la Granja: donde cada visita parece la primera",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/parque-granja-donde-cada-visita-parece-primera_204749_102.html",
+    "desc": "Inaugurado en 1985, el espacio llegó a albergar un Campeonato de España de Aerostación a los pocos meses de abrirse al público",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/48/44/2/el-parque-de-la-granja-debe-su-nombre-a-la-antigua-granja-esucela-agripecuaria-que-pertencio-a-la-diputacion-provincial-saul-aren.jpeg",
+    "pub": 1792288800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Plaza de la Encina",
+    "link": "https://www.lanuevacronica.com/el-bierzo/plaza-encina_204708_102.html",
+    "desc": "Un espacio público con connotaciones religiosas e históricas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/47/51/5/plaza-de-la-encina-y-calle-de-reloj-al-fondo-la-torre-del-reloj.jpeg",
+    "pub": 1792288800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Campeón de Campeones 2026 (f): Edi pone broche de oro a una recta final 'soñada' y vence junto a Bea Riaño y Luzma Carcedo",
     "link": "https://www.lanuevacronica.com/deportes/campeon-campeones-2026-f-edi-pone-broche-oro-recta-final-sonada-vence-junto-bea-riano-luzma-carcedo_204832_102.html",
     "desc": "La Gemela vence en pesados y también el Supercampeona; Bea logra su segundo título después del Provincial y Luzma también hace doblete con la Liga que ya había ganado",
@@ -48,28 +80,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Triunfo de liderato del Júpiter, batacazo del Mansillés y empate del Bembibre",
-    "link": "https://www.lanuevacronica.com/deportes/triunfo-liderato-jupiter-batacazo-mansilles-empate-bembibre_204826_102.html",
-    "desc": "Dos goles en tres minutos dan el triunfo en Salamanca a un filial que se pone primero, mientras que los de Mansilla pierden en casa con el penúltimo y los del Bierzo Alto igualan con la Arandina",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/59/6/mansilles-unionistas-b.jpeg",
-    "pub": 1792265568,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Nafti: “Hoy me faltan dos puntos”",
     "link": "https://www.elbierzodigital.com/zamora-ponferradina-nafti-2627/",
     "desc": "Mehdi Nafti resumió sus sensaciones tras el empate de la Ponferradina en Zamora asegurando que \"hoy me faltan dos puntos, claramente\" , y abundó en su análisis señalando que \"en la primera parte se…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-aviles-26-27-el-bierzo-digital-59.jpeg",
     "pub": 1792264140,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Compostela 4 - Astorga 1: 'El Astorga se queda sin partido al descanso'",
-    "link": "https://www.lanuevacronica.com/deportes/compostela-4-astorga-1-astorga-se-queda-sin-partido-descanso_204817_102.html",
-    "desc": "El equipo maragato es goleado por el Compostela tras perder 3-0 ya en la primera parte y cortar la expulsión de Palomeque su reacción tras hacer Hoyos el 3-1 y haber tenido otras dos ocasiones claras",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/50/4/astorgacompos.jpeg",
-    "pub": 1792263006,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Deportiva rescata un punto en el Ruta de la Plata",
@@ -120,14 +136,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "León se suma a la Fiesta del Cine con entradas a 3,50 euros durante cuatro días",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/leon-se-suma-fiesta-cine-con-entradas-350-euros-durante-cuatro-dias_204804_102.html",
-    "desc": "Los cines Odeón y Van Gogh participan en la iniciativa del 19 al 22 de octubre, con películas en taquilla como 'La bola negra', 'Street Fighter' o 'La maleta'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/15/54/85/cine-van-gogh-23917-1.jpeg",
-    "pub": 1792256348,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Con madreñas 'y a lo loco' van los paisanos por el centro de León",
     "link": "https://www.lanuevacronica.com/actualidad/con-madrenas-loco-van-paisanos-por-centro-leon_204816_102.html",
     "desc": "Cientos de personas participaron este sábado en la quinta edición de la 'madreñada' para reivindicar uno de los elementos más representativos de la tradición y la identidad leonesa",
@@ -174,14 +182,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/pequegrinos-como-recorrer-el-camino-de-santiago-sin-salir-del-cole-el-bierzo-digital.jpeg",
     "pub": 1792237361,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El número de delitos de tráfico sube casi un 8% en León hasta los 441 en 2025",
-    "link": "https://www.lanuevacronica.com/actualidad/numero-delitos-trafico-sube-casi-8-en-leon-hasta-441-en-2025_204802_102.html",
-    "desc": "Conducir sin carné o tras perder todos los puntos supera por primera vez a los positivos por alcohol y drogas, con los registros en máximos históricos en la comunidad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/30/76/3/campana-de-trafico-en-leon-4.jpeg",
-    "pub": 1792235601,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "San Isidro y Leitariegos abrirán del 1 de diciembre al 4 de abril",
