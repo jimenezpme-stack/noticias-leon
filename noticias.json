@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Cortes de tráfico este domingo por la carrera de los 10 kilómetros",
+    "link": "https://www.lanuevacronica.com/actualidad/cortes-trafico-este-domingo-por-carrera-10-kilometros_204833_102.html",
+    "desc": "La Policía Local establece restricciones a la circulación desde las 9:45 horas hasta casi el mediodía por la prueba deportiva, que recorrerá numerosas calles de la capital leonesa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/30/28/73/8/10-kilometros-leon-13.jpeg",
+    "pub": 1792309810,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El Bembibre H.C. conquista el primer Torneo Internacional Villa de Bembibre",
     "link": "https://www.elbierzodigital.com/el-bembibre-h-c-conquista-el-primer-torneo-internacional-villa-de-bembibre/",
     "desc": "El Bembibre H.C . se proclamó campeón del I Torneo Internacional Villa de Bembibre después de completar una jornada con dos victorias ante el Raxoi HC y la Escola Livre de Azeméis . El conjunto…",
@@ -112,28 +120,20 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Campeón de Campeones 2026 (f): Edi pone broche de oro a una recta final 'soñada' y vence junto a Bea Riaño y Luzma Carcedo",
-    "link": "https://www.lanuevacronica.com/deportes/campeon-campeones-2026-f-edi-pone-broche-oro-recta-final-sonada-vence-junto-bea-riano-luzma-carcedo_204832_102.html",
-    "desc": "La Gemela vence en pesados y también el Supercampeona; Bea logra su segundo título después del Provincial y Luzma también hace doblete con la Liga que ya había ganado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/86/4/1-lucha-edi.jpeg",
-    "pub": 1792285646,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Campeón de Campeones 2026 (m): David Riaño se sube al tren de El Sastrín de Rucayo al ser supercampeón \"desde\" medios",
-    "link": "https://www.lanuevacronica.com/deportes/campeon-campeones-2026-m-david-riano-se-sube-tren-sastrin-rucayo-ser-supercampeon-medios_204831_102.html",
-    "desc": "El Pistolero Silencioso, de medios, derrota a Alvarado, que había sido campeón de pesados en la disputa del Supercampeón /En ligeros se impuso Carlos Mondelo y en semipesados Adri Rodríguez",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/76/2/campeon-de-campeones-2026.jpeg",
-    "pub": 1792283625,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Ponferradina visitará a la Cultural el 8 de noviembre en el derbi de las 18.15 horas",
     "link": "https://www.elbierzodigital.com/la-ponferradina-visitara-a-la-cultural-el-8-de-noviembre-en-el-derbi-de-las-18-15-horas/",
     "desc": "El primer derbi de la temporada entre la Cultural y Deportiva Leonesa y la SD Ponferradina ya tiene fecha y hora. El encuentro se disputará el domingo 8 de noviembre, a partir de las 18.15 horas, en…",
     "img": null,
     "pub": 1792268703,
     "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Nafti: \"Hoy me faltan dos puntos\"",
+    "link": "https://www.lanuevacronica.com/deportes/nafti-hoy-me-faltan-dos-puntos_204829_102.html",
+    "desc": "El técnico de la Ponferradina afirma que Slavy «se esfuerza por mejorar, no bromeo cuando digo que es necesario dentro del área»",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/66/0/la-deportiva-se-llevo-un-punto-del-ruta-de-la-plata-pero-mereciendo-mucho-mas-zamora.jpeg",
+    "pub": 1792267534,
+    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Zamora 1-1 Ponferradina: 'Slavy imparte justicia en el Ruta'",
