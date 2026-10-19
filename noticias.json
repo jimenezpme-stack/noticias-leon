@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Villaquilambre lanza cerca de cien actividades para jóvenes y abre también los domingos",
+    "link": "https://www.lanuevacronica.com/actualidad/villaquilambre-lanza-cerca-cien-actividades-jovenes-abre-tambien-domingos_204907_102.html",
+    "desc": "El Centro Joven de Navatejera concentra talleres, ocio nocturno, formación y un concurso de relatos hasta final de año, la mayoría gratuitos y con inscripción previa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/21/8/image.jpeg",
+    "pub": 1792421988,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Se recuperan los reconocimientos médicos a trabajadores municipales en Ponferrada, tras 7 años",
+    "link": "https://www.lanuevacronica.com/el-bierzo/se-recuperan-reconocimientos-medicos-trabajadores-municipales-en-ponferrada-7-anos_204906_102.html",
+    "desc": "CSIF celebra la recuperación de los reconocimientos de salud y pide que el próximo convenio colectivo blinde su realización cada dos años",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/58/92/9/ayto-pnf.jpeg",
+    "pub": 1792421740,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un restaurante leonés opta al premio de mejor Maestro Parrillero de España",
+    "link": "https://www.lanuevacronica.com/actualidad/restaurante-leones-opta-premio-mejor-maestro-parrillero-espana_204905_102.html",
+    "desc": "La localidad guipuzcoana de Zarautz acoge un campeonato con 45 candidatos procedentes de todo el país",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/20/3/concurso-de-mejor-maestro-parrillero-del-ano-2025.webp",
+    "pub": 1792421384,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La Diputación de León amplía hasta agosto de 2027 el plazo de ejecución del Plan de Cooperación Municipal 2024/2025",
     "link": "https://www.lanuevacronica.com/actualidad/diputacion-leon-amplia-hasta-agosto-2027-plazo-ejecucion-plan-cooperacion-municipal-2024-2025_204904_102.html",
     "desc": "La medida se adopta por unanimidad para evitar la pérdida de subvenciones tras constatarse dificultades en cerca de 80 ayuntamientos",
@@ -21,22 +45,6 @@
     "desc": "Suma seis goles en las ocho primeras jornadas de liga siendo la peor en ataque desde la 23-24, pero también siendo la segunda mejor en puntos, 12, y defensa con también seis encajados",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/40/66/1/la-deportiva-se-vio-sorprendida-por-un-real-aviles-que-se-llevo-los-tres-puntos-del-toralin-reportaje-grafico-quinito-36.jpeg",
     "pub": 1792415238,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La miel berciana, en alerta por la baja producción y las especies invasoras",
-    "link": "https://www.lanuevacronica.com/el-bierzo/miel-berciana-en-alerta-por-baja-produccion-especies-invasoras_204884_102.html",
-    "desc": "Javier Morán, presidente de la Asociación Apícola del Bierzo, denuncia la falta de rentabilidad, los retrasos en las indemnizaciones por ataques de oso y el abandono de una actividad que concentra…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/80/5/javier-moran-durante-la-valoracion-de-la-dura-campana-que-afrontan-los-apilcultores-bercianos-raul-fernandez.jpeg",
-    "pub": 1792413892,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Fundación MonteLeón reúne a su Patronato en Ponferrada y refuerza su compromiso con la cultura en toda la provincia",
-    "link": "https://www.lanuevacronica.com/el-bierzo/fundacion-monteleon-reune-su-patronato-en-ponferrada-refuerza-su-compromiso-con-cultura-en-toda-provincia_204889_102.html",
-    "desc": "La sesión, celebrada en la Sala de los Estucos del Castillo, pone en valor la importancia de la capital berciana y la voluntad de la Fundación de acercar la cultura a toda la provincia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/92/6/el-patronato-de-la-fundacion-monteleon-se-reunio-en-ponferrada.jpeg",
-    "pub": 1792413615,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -208,14 +216,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Investigan a una mujer por una construcción ilegal en el puerto de Somiedo",
-    "link": "https://www.lanuevacronica.com/sucesos/investigan-mujer-por-construccion-ilegal-en-puerto-somiedo_204887_102.html",
-    "desc": "El Seprona comprobó que carecía de licencia de obras en Cabrillanes y se investiga una agresión a un medio natural protegido",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/86/1/agentes-del-seprona-en-la-montana-leonesa.jpeg",
-    "pub": 1792404283,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Hospital de la Reina se alía con el Hockey Club Bembibre para impulsar su salto a Europa",
     "link": "https://www.elbierzodigital.com/el-hospital-de-la-reina-se-alia-con-el-hockey-de-bembibre-para-impulsar-su-salto-a-europa/",
     "desc": "La historia, el presente y el futuro deportivo y sanitario del Bierzo se vuelven a dar la mano. La Real Fundación del Hospital de la Reina , en Ponferrada, ha firmado un convenio de colaboración con…",
@@ -224,7 +224,7 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Proyecto Orbanajo retira toneladas de residuos en una zona comercial de Ponferrada",
+    "titulo": "Proyecto Orbanajo retira casi una tonelada de residuos en una zona comercial de Ponferrada",
     "link": "https://www.elbierzodigital.com/proyecto-orbanajo-retira-toneladas-de-residuos-en-una-zona-comercial-de-ponferrada/",
     "desc": "El colectivo Proyecto Orbanajo ha llevado a cabo una nueva jornada de limpieza en un espacio de Ponferrada situado a unos 800 metros del centro de la ciudad, en la parte de atrás del hipermercado…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/proyecto-orbanajo-retira-toneladas-de-residuos-de-una-colonia-de-gatos-en-una-zona-comercial-de-ponferrada-el-bierzo-digital-2.jpeg",
