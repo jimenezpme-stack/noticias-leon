@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "La Diputación de León amplía hasta agosto de 2027 el plazo de ejecución del Plan de Cooperación Municipal 2024/2025",
+    "link": "https://www.lanuevacronica.com/actualidad/diputacion-leon-amplia-hasta-agosto-2027-plazo-ejecucion-plan-cooperacion-municipal-2024-2025_204904_102.html",
+    "desc": "La medida se adopta por unanimidad para evitar la pérdida de subvenciones tras constatarse dificultades en cerca de 80 ayuntamientos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/18/5/los-grupos-votan-a-favor-del-aplazamiento.jpeg",
+    "pub": 1792420411,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El TSJCyL confirma la absolución a un hostelero leonés acusado de delitos contra la Seguridad Social",
+    "link": "https://www.lanuevacronica.com/actualidad/tsjcyl-confirma-absolucion-hostelero-leones-acusado-delitos-contra-seguridad-social_204902_102.html",
+    "desc": "No se considera probado el ánimo defraudatorio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/22/84/47/7/tsjcyl-30-aniversario-231119-4-1000x563.jpeg",
+    "pub": 1792419399,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La Ponferradina menos goleadora en Primera Federación",
     "link": "https://www.lanuevacronica.com/deportes/ponferradina-menos-goleadora-en-primera-federacion_204901_102.html",
     "desc": "Suma seis goles en las ocho primeras jornadas de liga siendo la peor en ataque desde la 23-24, pero también siendo la segunda mejor en puntos, 12, y defensa con también seis encajados",
@@ -56,14 +72,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Ana Mª Campelo presenta en Villafranca “Píldoras de humor y muerte”, un viaje entre la ironía y el crimen",
-    "link": "https://www.elbierzodigital.com/ana-maria-campelo-presenta-en-villafranca-pildoras-de-humor-y-muerte-un-viaje-entre-la-ironia-y-el-crimen/",
-    "desc": "La Biblioteca Pública de Villafranca del Bierzo acogerá el próximo sábado 24 de octubre , a las 19.00 horas, la presentación de Píldoras de humor y muerte , la nueva obra de la escritora Ana María…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ana-maria-campelo-presenta-en-villafranca-pildoras-de-humor-y-muerte-un-viaje-entre-la-ironia-y-el-crimen-el-bierzo-digital-e1792411026372.jpg",
-    "pub": 1792411035,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Las Cortes de Castilla y León homenajean a sus expresidentes con una galería de retratos",
     "link": "https://www.elbierzodigital.com/las-cortes-de-castilla-y-leon-homenajean-a-sus-expresidentes-con-una-galeria-de-retratos/",
     "desc": "El vicepresidente primero de la Junta de Castilla y León, Carlos Pollán , y la vicepresidenta segunda, Isabel Blanco, han asistido este lunes a la presentación de los retratos de los expresidentes…",
@@ -86,14 +94,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-campus-de-ponferrada-celebra-30-anos-de-historia-a-traves-de-la-literatura-el-bierzo-digital.jpeg",
     "pub": 1792409554,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "León tiene identificados 197 alumnos con altas capacidades, una cifra por debajo de las estimaciones",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-solo-tiene-identificados-197-alumnos-con-altas-capacidades_204885_102.html",
-    "desc": "La Universidad de León y Alac presentan las IX Jornadas de Altas Capacidades, una actividad que busca derribar falsos mitos y alertar de la falta de identificación y atención educativa de estos…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/84/3/un-instante-de-la-presentacion-de-la-ix-jornadas-de-altas-capacidades.jpeg",
-    "pub": 1792409096,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Valdeorras alza la voz: miles de personas salen a la calle para defender su sanidad pública",
@@ -232,14 +232,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La Fundación La Caixa concede una subvención a un proyecto berciano para desarrollar plantillas inteligentes para el pie diabético",
-    "link": "https://www.lanuevacronica.com/el-bierzo/fundacion-caixa-concede-subvencion-proyecto-berciano-desarrollar-plantillas-inteligentes-pie-diabetico_204883_102.html",
-    "desc": "Ha sido seleccionado en la convocatoria 'CaixaImpulse' de Innovación en Salud 2026 entre 449 iniciativas presentadas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/78/3/raquel-leiros-lidera-este-proyecto.jpeg",
-    "pub": 1792401857,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Hospital El Bierzo ha realizado 154 cirugías de mama en lo que va de 2026",
     "link": "https://www.elbierzodigital.com/el-hospital-el-bierzo-ha-realizado-154-cirugias-de-mama-en-lo-que-va-de-2026/",
     "desc": "La Gerencia de Asistencia Sanitaria del Bierzo (Gasbi) ha realizado 154 cirugías de mama hasta octubre de 2026 en el Hospital El Bierzo. La cifra mantiene la actividad en niveles similares a los de…",
@@ -333,6 +325,14 @@
     "desc": "España volverá al horario de invierno este fin de semana. En la madrugada del sábado 24 al domingo 25 de octubre, los relojes deberán retrasarse una hora: cuando sean las 3.00, volverán a marcar las…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/espana-retrasara-una-hora-los-relojes-este-domingo-en-un-cambio-horario-que-sigue-rodeado-de-polemica-el-bierzo-digital.jpg",
     "pub": 1792393291,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Ana María Campelo presenta en Villafranca “Píldoras de humor y muerte”, un viaje entre la ironía y el crimen",
+    "link": "https://www.elbierzodigital.com/ana-maria-campelo-presenta-en-villafranca-pildoras-de-humor-y-muerte-un-viaje-entre-la-ironia-y-el-crimen/",
+    "desc": "La Biblioteca Pública de Villafranca del Bierzo acogerá el próximo sábado 24 de octubre , a las 19.00 horas, la presentación de Píldoras de humor y muerte , la nueva obra de la escritora Ana María…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ana-maria-campelo-presenta-en-villafranca-pildoras-de-humor-y-muerte-un-viaje-entre-la-ironia-y-el-crimen-el-bierzo-digital-e1792411026372.jpg",
+    "pub": 1792393035,
     "fuente": "El Bierzo Digital"
   },
   {
