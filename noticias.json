@@ -1,11 +1,75 @@
 [
   {
+    "titulo": "La miel berciana, en alerta por la baja producción y las especies invasoras",
+    "link": "https://www.lanuevacronica.com/el-bierzo/miel-berciana-en-alerta-por-baja-produccion-especies-invasoras_204884_102.html",
+    "desc": "Javier Morán, presidente de la Asociación Apícola del Bierzo, denuncia la falta de rentabilidad, los retrasos en las indemnizaciones por ataques de oso y el abandono de una actividad que concentra…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/80/5/javier-moran-durante-la-valoracion-de-la-dura-campana-que-afrontan-los-apilcultores-bercianos-raul-fernandez.jpeg",
+    "pub": 1792408376,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Valdeorras alza la voz: miles de personas salen a la calle para defender su sanidad pública",
+    "link": "https://www.elbierzodigital.com/valdeorras-alza-la-voz-miles-de-personas-salen-a-la-calle-para-defender-su-sanidad-publica/",
+    "desc": "Las calles de O Barco se llenaron este pasado sábado de vecinos de todas las edades unidos por una misma causa: d efender una sanidad pública de calidad . La movilización reunió a unas 4.000…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/valdeorras-alza-la-voz-miles-de-personas-salen-a-la-calle-para-defender-su-sanidad-publica-el-bierzo-digital.jpg",
+    "pub": 1792408254,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "León tiene identificados 197 alumnos con altas capacidades, una cifra por debajo de las estimaciones",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-solo-tiene-identificados-197-alumnos-con-altas-capacidades_204885_102.html",
+    "desc": "La Universidad de León y Alac presentan las IX Jornadas de Altas Capacidades, una actividad que busca derribar falsos mitos y alertar de la falta de identificación y atención educativa de estos…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/84/3/un-instante-de-la-presentacion-de-la-ix-jornadas-de-altas-capacidades.jpeg",
+    "pub": 1792408073,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Hospital del Bierzo supera las 150 cirugías de mama en 2026",
+    "link": "https://www.lanuevacronica.com/el-bierzo/hospital-bierzo-supera-150-cirugias-mama-en-2026_204897_102.html",
+    "desc": "La actividad quirúrgica aumenta respecto a los dos últimos años, con 140 intervenciones en 2025 y 132 en 2024. Gasbi destaca la importancia del diagnóstico precoz y la atención coordinada a las…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/39/41/1/hospitalbierzoarchivo-2-4-4-4-1000x563-4-1000x563-4-1000x563-4-1000x563.jpeg",
+    "pub": 1792407997,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El programa 'Versión española' de La 2 tendrá como protagonista al leonés Alejandro Suárez",
+    "link": "https://www.lanuevacronica.com/extras/lnc-cofrade/programa-version-espanola-2-tendra-como-protagonista-leones-alejandro-suarez_204896_102.html",
+    "desc": "El cineasta participará este martes en un coloquio junto al actor Karra Elejalde, protagonista de su película 'Kepler Sexto B'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/10/2/alejandro-suarez-cayetana-guillen-cuervo-y-karra-elejalde-se-dan-cita-este-martes-en-la-2.jpeg",
+    "pub": 1792407935,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Fernando Tranche será el nuevo abad de la Cofradía del Santo Cristo de la Bienaventuranza",
+    "link": "https://www.lanuevacronica.com/semana-santa/fernando-tranche-sera-nuevo-abad-cofradia-santo-cristo-bienaventuranza_204894_102.html",
+    "desc": "La penitencial celebrará este domingo la toma de posesión, en el marco de la fiesta de San Claudio, con procesión por el barrio, misa y concierto de la Agrupación Musical",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/02/2/fernando-tranche-abad-bienaventuranza-leon.jpeg",
+    "pub": 1792407805,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Babia celebra el otoño con un fin de semana de naturaleza, apicultura y cultura",
+    "link": "https://www.lanuevacronica.com/actualidad/babia-celebra-otono-con-fin-semana-naturaleza-apicultura-cultura_204895_102.html",
+    "desc": "La Asociación Estás en Babia, junto al CSIC-Incipit y el proyecto Cultur-Monts, organiza los días 24 y 25 de octubre un programa de rutas, encuentros y actividades para descubrir los valores…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/06/9/otono-en-babia.jpeg",
+    "pub": 1792407645,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La cookie solidaria de Sandra Romero apuesta por la manzana reineta del Bierzo para recaudar fondos contra el cáncer",
     "link": "https://www.elbierzodigital.com/la-cookie-solidaria-de-sandra-romero-apuesta-por-la-manzana-reineta-del-bierzo-para-recaudar-fondos-contra-el-cancer/",
     "desc": "La pastelera jefe de Sandra Romero Patisserie, Sandra Romero, presentó una nueva edición de ‘La cookie solidaria’ , una iniciativa con la que cada año recauda fondos para la Asociación Española…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-cookie-solidaria-de-sandra-romero-apuesta-por-la-manzana-reineta-del-bierzo-para-recaudar-fondos-contra-el-cancer-el-bierzo-digital.jpeg",
     "pub": 1792407464,
     "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Una jornada dedicada a 'un rey rebelde': la Universidad de León se centra en Alfonso IX",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/jornada-dedicada-rey-rebelde-universidad-leon-se-centra-en-alfonso-ix_204893_102.html",
+    "desc": "La Fundación Sierra Pambley será este jueves el escenario para el evento organizado por la Cátedra del Parlamentarismo de la ULE",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/95/84/8/imagen-de-arcghivo-de-la-fundacion-sierra-pambley.jpeg",
+    "pub": 1792407193,
+    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La directora de Meta en España y Portugal recibirá uno de los premios de Aletic",
@@ -48,14 +112,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Logroñés 1 - Cultural 1: 'De la mejor versión al peor desenlace'",
-    "link": "https://www.lanuevacronica.com/deportes/logrones-1-cultural-1-mejor-version-peor-desenlace_204871_102.html",
-    "desc": "Tras marcar Delgado y dar un larguero Queipo en un enorme inicio de segunda parte, los cambios lastran a una Cultural que, en una acción muy evitable, encajó el empate en la última jugada del partido",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/60/1/delgado-cultural-logrones.jpeg",
-    "pub": 1792406076,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Netflix toma Fabero: el Pozo Julia cierra sus puertas por el rodaje de una nueva producción",
     "link": "https://www.elbierzodigital.com/netflix-toma-fabero-el-pozo-julia-cierra-sus-puertas-por-el-rodaje-de-una-nueva-produccion/",
     "desc": "Fabero cambiará temporalmente las visitas turísticas por las cámaras de Netflix. Los días 19 y 20 de octubre, el Pozo Julia, los museos y varias calles del municipio berciano acogerán el rodaje de…",
@@ -80,14 +136,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "León tiene identificados 197 alumnos con altas capacidades, una cifra por debajo de las estimaciones",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-solo-tiene-identificados-197-alumnos-con-altas-capacidades_204885_102.html",
-    "desc": "La Universidad de León y Alac presentan las IX Jornadas de Altas Capacidades, una actividad que busca derribar falsos mitos y alertar de la falta de identificación y atención educativa de estos…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/84/3/un-instante-de-la-presentacion-de-la-ix-jornadas-de-altas-capacidades.jpeg",
-    "pub": 1792405602,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La presidenta de AECC Bierzo alerta de que el miedo sigue retrasando el diagnóstico del cáncer de mama",
     "link": "https://www.elbierzodigital.com/maria-angeles-martin-alerta-de-que-el-miedo-sigue-retrasando-el-diagnostico-del-cancer-de-mama/",
     "desc": "El miedo sigue siendo una de las barreras que retrasa la detección del cáncer de mama. Así lo advierte María Ángeles Martín, presidenta de la Asociación Española Contra el Cáncer (AECC) en el…",
@@ -109,14 +157,6 @@
     "desc": "La sesión, celebrada en la Sala de los Estucos del Castillo, pone en valor la importancia de la capital berciana y la voluntad de la Fundación de acercar la cultura a toda la provincia",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/54/92/6/el-patronato-de-la-fundacion-monteleon-se-reunio-en-ponferrada.jpeg",
     "pub": 1792405154,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La miel berciana, en alerta por la baja producción y las especies invasoras",
-    "link": "https://www.lanuevacronica.com/el-bierzo/miel-berciana-en-alerta-por-baja-produccion-especies-invasoras_204884_102.html",
-    "desc": "Javier Morán, presidente de la Asociación Apícola del Bierzo, denuncia la falta de rentabilidad, los retrasos en las indemnizaciones por ataques de oso y el abandono de una actividad que concentra…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/80/5/javier-moran-durante-la-valoracion-de-la-dura-campana-que-afrontan-los-apilcultores-bercianos-raul-fernandez.jpeg",
-    "pub": 1792404510,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -168,30 +208,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Detenido el presunto autor de dos apuñalamientos en León",
-    "link": "https://www.lanuevacronica.com/sucesos/detenido-presunto-autor-dos-apunalamientos-en-leon_204882_102.html",
-    "desc": "Los hechos ocurrieron la madrugada del pasado 9 de octubre en el entorno del aparcamiento de San Pedro",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/76/7/policia-nacional-de-leon.jpeg",
-    "pub": 1792400257,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Daniella Bustamante, de su admiración por Paula Echevarría a por qué no tiene novio",
-    "link": "https://www.lanuevacronica.com/gente/daniella-bustamante-de-su-admiracion-por-paula-echevarria-a-por-que-no-tiene-novio_204879_102.html",
-    "desc": "Ha revelado que aunque finalmente se ha decantado por estudiar Marketing, en su infancia y adolescencia quiso ser fotógrafa, psicóloga y hubo una época que le dió por azafata",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/70/2/fotonoticia-20261019101829-1920.jpeg",
-    "pub": 1792399756,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Antes de la motosierra",
-    "link": "https://www.lanuevacronica.com/a-la-contra-2/antes-motosierra_204878_102.html",
-    "desc": "La última de La Nueva Crónica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/68/7/imagen-piedad-isla-2.jpeg",
-    "pub": 1792399160,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Hospital El Bierzo ha realizado 154 cirugías de mama en lo que va de 2026",
     "link": "https://www.elbierzodigital.com/el-hospital-el-bierzo-ha-realizado-154-cirugias-de-mama-en-lo-que-va-de-2026/",
     "desc": "La Gerencia de Asistencia Sanitaria del Bierzo (Gasbi) ha realizado 154 cirugías de mama hasta octubre de 2026 en el Hospital El Bierzo. La cifra mantiene la actividad en niveles similares a los de…",
@@ -206,14 +222,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/andrea-lamas-logra-la-tercera-plaza-junto-a-francisco-dorado-en-el-rallye-san-froilan-el-bierzo-digital.jpg",
     "pub": 1792398762,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Exigen \"ayudas urgentes\" a Diputación para evitar el \"colapso\" del sector apícola leonés",
-    "link": "https://www.lanuevacronica.com/actualidad/exigen-ayudas-urgentes-diputacion-evitar-colapso-sector-apicola-leones_204877_102.html",
-    "desc": "Ucale-Coag alerta de que el rendimiento medio ha caído de los 25 kilos por colmena de una campaña normal a solo seis, un descenso cercano al 73 %",
-    "img": "https://www.lanuevacronica.com/uploads/s1/23/13/09/3/osos.jpeg",
-    "pub": 1792398687,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Cómo crear facturas gratis online",
@@ -288,6 +296,14 @@
     "fuente": "El Bierzo Digital"
   },
   {
+    "titulo": "España retrasará una hora los relojes este domingo en un cambio horario que sigue rodeado de polémica",
+    "link": "https://www.elbierzodigital.com/espana-retrasara-una-hora-los-relojes-este-domingo-en-un-cambio-horario-que-sigue-rodeado-de-polemica/",
+    "desc": "España volverá al horario de invierno este fin de semana. En la madrugada del sábado 24 al domingo 25 de octubre, los relojes deberán retrasarse una hora: cuando sean las 3.00, volverán a marcar las…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/espana-retrasara-una-hora-los-relojes-este-domingo-en-un-cambio-horario-que-sigue-rodeado-de-polemica-el-bierzo-digital.jpg",
+    "pub": 1792393291,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Persianas de PVC: el arreglo discreto que está aliviando la factura de calefacción en las casas del Bierzo",
     "link": "https://www.elbierzodigital.com/persianas-de-pvc-el-arreglo-discreto-que-esta-aliviando-la-factura-de-calefaccion-en-las-casas-del-bierzo/",
     "desc": "El frío húmedo de la comarca se cuela por donde casi nadie mira: el hueco de la persiana. Por eso las persianas de PVC se han convertido en una de las intervenciones más habituales en viviendas de…",
@@ -341,22 +357,6 @@
     "desc": "El alcalde de Ponferrada, Marco Morala , ha expresado su confianza en el proceso de preparación electoral del Partido Popular y ha defendido la necesidad de conformar una candidatura capaz de…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/09/Morala-3-el-bierzo-digital.jpg",
     "pub": 1792310403,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Bembibre H.C. conquista el primer Torneo Internacional Villa de Bembibre",
-    "link": "https://www.elbierzodigital.com/el-bembibre-h-c-conquista-el-primer-torneo-internacional-villa-de-bembibre/",
-    "desc": "El Bembibre H.C . se proclamó campeón del I Torneo Internacional Villa de Bembibre después de completar una jornada con dos victorias ante el Raxoi HC y la Escola Livre de Azeméis . El conjunto…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-bembibre-h-c-conquista-el-primer-torneo-internacional-villa-de-bembibre-el-bierzo-digital.jpg",
-    "pub": 1792306308,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Baloncesto Ponferrada SDP impone su autoridad ante el Getafe (83-60)",
-    "link": "https://www.elbierzodigital.com/baloncesto-ponferrada-sdp-impone-su-autoridad-ante-el-getafe-83-60/",
-    "desc": "Baloncesto Ponferrada SDP sumó este sábado su segunda victoria de la temporada en Segunda FEB tras superar con claridad al Getafe por 83-60 en el pabellón Lydia Valentín , en un encuentro…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/baloncesto-ponferrada-sdp-impone-su-autoridad-ante-el-getafe-83-60-el-bierzo-digital.jpg",
-    "pub": 1792303382,
     "fuente": "El Bierzo Digital"
   },
   {
