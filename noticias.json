@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "El centro, el Frente Amplio, Sánchez, Feijóo y algunas cosas más",
+    "link": "https://www.lanuevacronica.com/opinion/centro-frente-amplio-sanchez-feijoo-algunas-cosas-mas_204869_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792377600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Diálogos con el pasado, 6 (Pobre España)",
+    "link": "https://www.lanuevacronica.com/opinion/dialogos-con-pasado-6-pobre-espana_204865_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792377000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Pensiones",
+    "link": "https://www.lanuevacronica.com/opinion/pensiones_204864_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792377000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Miguel Carbajosa se adentra en el lujo, los secretos y las intrigas de la élite hotelera con su primera novela",
+    "link": "https://www.lanuevacronica.com/el-bierzo/miguel-carbajosa-se-adentra-en-lujo-secretos-intrigas-elite-hotelera-con-su-primera-novela_203390_102.html",
+    "desc": "El autor ponferradino publica el 29 de octubre 'Regio', un thriller con romance y conflictos familiares que escribió durante su etapa profesional en Bruselas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/05/60/0/miguel-carbajosa.jpeg",
+    "pub": 1792376400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Procurador del Común insta a Ponferrada a reparar el camino entre Bárcena y el pantano",
+    "link": "https://www.lanuevacronica.com/el-bierzo/procurador-comun-insta-ponferrada-reparar-camino-entre-barcena-pantano_204631_102.html",
+    "desc": "La institución considera acreditado el grave deterioro de la vía y pide al Ayuntamiento que acometa las obras necesarias para garantizar la seguridad vial en el plazo más breve posible",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/92/9/barcena-vial-en-mal-estado.jpeg",
+    "pub": 1792376400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El PSOE acusa al Gobierno de Morala de dejar morir el bar corazón del parque del Temple",
     "link": "https://www.lanuevacronica.com/el-bierzo/psoe-acusa-gobierno-morala-dejar-morir-bar-corazon-parque-temple_204813_102.html",
     "desc": "El Ágora anuncia su cierre por problemas burocráticos, dejando en la calle a 10 empleados, algo que para los socialistas se traduce en que \"la falta de gestión también destruye empleo\"",
@@ -80,30 +120,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Cultural 92 - Melilla 96: 'La Cultural lleva al límite al gran favorito'",
-    "link": "https://www.lanuevacronica.com/deportes/cultural-92-melilla-96-cultural-lleva-limite-gran-favorito_204870_102.html",
-    "desc": "En un partido eterno, con 58 faltas y 80 tiros libres, un equipo leonés liderado por unos enormes Anabitarte y Grela plantó cara hasta el final pero pagó su apagón en el inicio del último cuarto",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/50/2/cultural-melilla-14.jpeg",
-    "pub": 1792355815,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Villaquilambre rinde homenaje al leonés que ha dedicado su vida a los trajes regionales",
-    "link": "https://www.lanuevacronica.com/actualidad/villaquilambre-rinde-homenaje-leones-ha-dedicado-su-vida-trajes-regionales_204858_102.html",
-    "desc": "Las II Jornadas de Tradición e Identidad Leonesa reconocen la labor del etnógrafo y coleccionista Javier Emperador en un fin de semana marcado por la música, los bailes y las costumbres",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/53/92/7/villaquilambre-identidad-leonesa-javier-emperador-2.jpeg",
-    "pub": 1792344716,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ester Muñoz, en Valladolid para mantener un encuentro con simpatizantes del PP",
-    "link": "https://www.lanuevacronica.com/cyl/ester-munoz-visita-valladolid-mantener-encuentro-con-simpatizantes-pp_204859_102.html",
-    "desc": "Estuvo acompañada por el presidente provincial de la formación, Conrado Íscar, y por el alcalde de Valladolid, Jesús Julio Carnero",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/53/96/3/ester-munoz-pp-valladolid.jpeg",
-    "pub": 1792342962,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Mañueco afronta el pleno de las Cortes con los presupuestos de 2027 y la vivienda en el foco",
     "link": "https://www.elbierzodigital.com/manueco-afronta-el-pleno-de-las-cortes-con-los-presupuestos-de-2027-y-la-vivienda-en-el-foco/",
     "desc": "&nbsp; &nbsp; Las pensiones, el acceso a la vivienda y las cuentas autonómicas para 2027 centrarán buena parte del próximo pleno de las Cortes de Castilla y León, que se celebrará los días 20 y 21…",
@@ -118,22 +134,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-embutidos-pajariel-vuelve-a-dejar-escapar-la-victoria-en-los-ultimos-minutos-56-64-el-bierzo-digital.jpg",
     "pub": 1792341426,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Dos heridos en el choque frontal de dos vehículos en el sur de León",
-    "link": "https://www.lanuevacronica.com/sucesos/dos-heridos-en-choque-frontal-dos-vehiculos-en-sur-leon_204857_102.html",
-    "desc": "Fueron trasladados en ambulancia de soporte vital básico al Complejo Asistencial Universitario tras sufrir un accidente en San Pedro Bercianos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/47/37/2/ambulancia-4-1000x563-4-1000x563-4-1000x563-4-1000x563-1.jpeg",
-    "pub": 1792341305,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Detienen en San Andrés a un hombre por una agresión sexual el pasado mes de enero",
-    "link": "https://www.lanuevacronica.com/sucesos/detienen-en-san-andres-hombre-por-agresion-sexual-pasado-mes-enero_204853_102.html",
-    "desc": "La Policía Nacional logra identificar al presunto autor tras meses de investigación / El hombre ya había sido condenado anteriormente por delitos sexuales en otra comunidad autónoma",
-    "img": "https://www.lanuevacronica.com/uploads/s1/29/67/58/3/detenido-san-andres.jpeg",
-    "pub": 1792337560,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "FOTOGALERÍA | 500 pasos solidarios desde el Castillo de los Templarios",
