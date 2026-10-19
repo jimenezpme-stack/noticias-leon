@@ -1,5 +1,69 @@
 [
   {
+    "titulo": "Renuncia toda la lista del PSOE de Palencia al Congreso tras cambiar Ferraz al número 1",
+    "link": "https://www.lanuevacronica.com/cyl/renuncia-toda-lista-psoe-palencia-congreso-cambiar-ferraz-numero-1_204929_102.html",
+    "desc": "Luis Ángel Marín y Alicia García renuncian a ocupar los puestos dos y tres en la candidatura y a ellos se suman los nombres de Luis Fernando Cantero y Mireia Barrios, que figuraban como suplentes",
+    "img": "https://www.lanuevacronica.com/uploads/s1/28/74/65/0/sanchez-psoe.jpeg",
+    "pub": 1792435676,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Villaquilambre lanza cerca de cien actividades para jóvenes y abre también los domingos",
+    "link": "https://www.lanuevacronica.com/actualidad/villaquilambre-lanza-cerca-cien-actividades-jovenes-abre-tambien-domingos_204907_102.html",
+    "desc": "El Centro Joven de Navatejera concentra talleres, ocio nocturno, formación y un concurso de relatos hasta final de año, la mayoría gratuitos y con inscripción previa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/21/8/image.jpeg",
+    "pub": 1792434891,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El TSJCyL confirma la absolución a un hostelero leonés acusado de delitos contra la Seguridad Social",
+    "link": "https://www.lanuevacronica.com/actualidad/tsjcyl-confirma-absolucion-hostelero-leones-acusado-delitos-contra-seguridad-social_204902_102.html",
+    "desc": "No se considera probado el ánimo defraudatorio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/22/84/47/7/tsjcyl-30-aniversario-231119-4-1000x563.jpeg",
+    "pub": 1792434789,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Diputación de León amplía hasta agosto de 2027 el plazo de ejecución del Plan de Cooperación de 2025",
+    "link": "https://www.lanuevacronica.com/actualidad/diputacion-leon-amplia-hasta-agosto-2027-plazo-ejecucion-plan-cooperacion-municipal-2024-2025_204904_102.html",
+    "desc": "La medida se adopta por unanimidad para evitar la pérdida de subvenciones tras constatarse dificultades en cerca de 80 ayuntamientos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/18/5/los-grupos-votan-a-favor-del-aplazamiento.jpeg",
+    "pub": 1792434741,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un restaurante leonés opta al premio de mejor Maestro Parrillero de España",
+    "link": "https://www.lanuevacronica.com/actualidad/restaurante-leones-opta-premio-mejor-maestro-parrillero-espana_204905_102.html",
+    "desc": "La localidad guipuzcoana de Zarautz acoge un campeonato con 45 candidatos procedentes de todo el país",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/20/3/concurso-de-mejor-maestro-parrillero-del-ano-2025.webp",
+    "pub": 1792434704,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Prisión para una pareja que agredió a dos policías porque su coche les molestaba para hacer una foto de la Catedral de León",
+    "link": "https://www.lanuevacronica.com/actualidad/prision-pareja-agredio-dos-policias-porque-su-coche-molestaba-hacer-foto-catedral-leon_204910_102.html",
+    "desc": "\"Trabajáis para mí, quitar el coche ya, que quiero hacer la puta foto, poneros en otro lugar\", le dijo ella a los agentes antes de agredirles",
+    "img": "https://www.lanuevacronica.com/uploads/s1/29/00/11/9/policianacionalleon.jpeg",
+    "pub": 1792434625,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Ruta de la Morcilla falla los premios de su sexta edición",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/ruta-morcilla-falla-premios-su-sexta-edicion_204914_102.html",
+    "desc": "Los 21 establecimientos participantes vendieron este año un total de 9.100 tapas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/33/9/una-foto-de-familia-de-los-asistentes-a-la-entrega-de-premios-de-la-vi-ruta-de-la-morcilla-fernando-otero.jpeg",
+    "pub": 1792434224,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las musas bailan flamenco en el Auditorio Ciudad de León",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/musas-bailan-flamenco-en-auditorio-ciudad-leon_204919_102.html",
+    "desc": "El espectáculo 'CreaVIVA' de Rafaela Carrasco recala este martes en el enclave capitalino dentro de su programación escénica de este semestre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/39/6/una-imagen-del-espectaculo-que-esta-tarde-llega-a-leon.jpeg",
+    "pub": 1792433623,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Ester Muñoz repetirá como cabeza de lista del PP de León al Congreso",
     "link": "https://www.elbierzodigital.com/ester-munoz-repetira-como-cabeza-de-lista-del-pp-de-leon-al-congreso/",
     "desc": "La portavoz del Grupo Popular en el Congreso, Ester Muñoz, volverá a encabezar la candidatura del PP de León a la Cámara Baja en las próximas elecciones generales del 29 de noviembre. Así lo…",
@@ -32,22 +96,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La Ruta de la Morcilla falla los premios de su sexta edición",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/ruta-morcilla-falla-premios-su-sexta-edicion_204914_102.html",
-    "desc": "Los 21 establecimientos participantes vendieron este año un total de 9.100 tapas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/33/9/una-foto-de-familia-de-los-asistentes-a-la-entrega-de-premios-de-la-vi-ruta-de-la-morcilla-fernando-otero.jpeg",
-    "pub": 1792432363,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Prisión para una pareja que agredió a dos policías porque su coche les molestaba para hacer una foto de la Catedral de León",
-    "link": "https://www.lanuevacronica.com/actualidad/prision-pareja-agredio-dos-policias-porque-su-coche-molestaba-hacer-foto-catedral-leon_204910_102.html",
-    "desc": "\"Trabajáis para mí, quitar el coche ya, que quiero hacer la puta foto, poneros en otro lugar\", le dijo ella a los agentes antes de agredirles",
-    "img": "https://www.lanuevacronica.com/uploads/s1/29/00/11/9/policianacionalleon.jpeg",
-    "pub": 1792427827,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El PSOE acusa a Morala de provocar el cierre del bar Ágora y la pérdida de diez empleos",
     "link": "https://www.elbierzodigital.com/el-psoe-acusa-a-morala-de-provocar-el-cierre-del-bar-agora-y-la-perdida-de-diez-empleos/",
     "desc": "El Grupo Municipal Socialista de Ponferrada acusa al alcalde, Marco Morala, de falta de previsión e inacción en la gestión de la concesión del bar Ágora , situado en el parque del Temple, cuyo…",
@@ -56,43 +104,11 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La Diputación de León amplía hasta agosto de 2027 el plazo de ejecución del Plan de Cooperación de 2025",
-    "link": "https://www.lanuevacronica.com/actualidad/diputacion-leon-amplia-hasta-agosto-2027-plazo-ejecucion-plan-cooperacion-municipal-2024-2025_204904_102.html",
-    "desc": "La medida se adopta por unanimidad para evitar la pérdida de subvenciones tras constatarse dificultades en cerca de 80 ayuntamientos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/18/5/los-grupos-votan-a-favor-del-aplazamiento.jpeg",
-    "pub": 1792424697,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Villaquilambre lanza cerca de cien actividades para jóvenes y abre también los domingos",
-    "link": "https://www.lanuevacronica.com/actualidad/villaquilambre-lanza-cerca-cien-actividades-jovenes-abre-tambien-domingos_204907_102.html",
-    "desc": "El Centro Joven de Navatejera concentra talleres, ocio nocturno, formación y un concurso de relatos hasta final de año, la mayoría gratuitos y con inscripción previa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/21/8/image.jpeg",
-    "pub": 1792421988,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Se recuperan los reconocimientos médicos a trabajadores municipales en Ponferrada, tras 7 años",
     "link": "https://www.lanuevacronica.com/el-bierzo/se-recuperan-reconocimientos-medicos-trabajadores-municipales-en-ponferrada-7-anos_204906_102.html",
     "desc": "CSIF celebra la recuperación de los reconocimientos de salud y pide que el próximo convenio colectivo blinde su realización cada dos años",
     "img": "https://www.lanuevacronica.com/uploads/s1/33/58/92/9/ayto-pnf.jpeg",
     "pub": 1792421740,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un restaurante leonés opta al premio de mejor Maestro Parrillero de España",
-    "link": "https://www.lanuevacronica.com/actualidad/restaurante-leones-opta-premio-mejor-maestro-parrillero-espana_204905_102.html",
-    "desc": "La localidad guipuzcoana de Zarautz acoge un campeonato con 45 candidatos procedentes de todo el país",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/20/3/concurso-de-mejor-maestro-parrillero-del-ano-2025.webp",
-    "pub": 1792421384,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El TSJCyL confirma la absolución a un hostelero leonés acusado de delitos contra la Seguridad Social",
-    "link": "https://www.lanuevacronica.com/actualidad/tsjcyl-confirma-absolucion-hostelero-leones-acusado-delitos-contra-seguridad-social_204902_102.html",
-    "desc": "No se considera probado el ánimo defraudatorio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/22/84/47/7/tsjcyl-30-aniversario-231119-4-1000x563.jpeg",
-    "pub": 1792419399,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -109,14 +125,6 @@
     "desc": "En esta ocasión la repostera berciana colabora con Alimentos de Calidad para la receta",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/55/12/3/galleta.jpeg",
     "pub": 1792413282,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El programa 'Versión española' de La 2 tendrá como protagonista al leonés Alejandro Suárez",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/programa-version-espanola-2-tendra-como-protagonista-leones-alejandro-suarez_204896_102.html",
-    "desc": "El cineasta participará este martes en un coloquio junto al actor Karra Elejalde, protagonista de su película 'Kepler Sexto B'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/10/2/alejandro-suarez-cayetana-guillen-cuervo-y-karra-elejalde-se-dan-cita-este-martes-en-la-2.jpeg",
-    "pub": 1792411488,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -158,14 +166,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/valdeorras-alza-la-voz-miles-de-personas-salen-a-la-calle-para-defender-su-sanidad-publica-el-bierzo-digital.jpg",
     "pub": 1792408254,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Babia celebra el otoño con un fin de semana de naturaleza, apicultura y cultura",
-    "link": "https://www.lanuevacronica.com/actualidad/babia-celebra-otono-con-fin-semana-naturaleza-apicultura-cultura_204895_102.html",
-    "desc": "La Asociación Estás en Babia, junto al CSIC-Incipit y el proyecto Cultur-Monts, organiza los días 24 y 25 de octubre un programa de rutas, encuentros y actividades para descubrir los valores…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/06/9/otono-en-babia.jpeg",
-    "pub": 1792407645,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La cookie solidaria de Sandra Romero apuesta por la manzana reineta del Bierzo para recaudar fondos contra el cáncer",
