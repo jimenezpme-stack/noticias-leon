@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Música, voz y tradiciones de Cabrera",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/musica-voz-tradiciones-cabrera_204880_102.html",
+    "desc": "Edilberto Rodríguez es 'el pastor' de Cabrera, oficio en el que se dio a conocer, pero es asimismo el guardián de las tradiciones y las esencias de una tierra a la que ama",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/72/2/una-imagen-habitual-de-edilberto-con-chifla-y-tamboril-fb-edilberto-rodriguez.jpeg",
+    "pub": 1792400699,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Detenido el presunto autor de dos apuñalamientos en León",
+    "link": "https://www.lanuevacronica.com/sucesos/detenido-presunto-autor-dos-apunalamientos-en-leon_204882_102.html",
+    "desc": "Los hechos ocurrieron la madrugada del pasado 9 de octubre en el entorno del aparcamiento de San Pedro",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/76/7/policia-nacional-de-leon.jpeg",
+    "pub": 1792400257,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Daniella Bustamante, de su admiración por Paula Echevarría a por qué no tiene novio",
+    "link": "https://www.lanuevacronica.com/gente/daniella-bustamante-de-su-admiracion-por-paula-echevarria-a-por-que-no-tiene-novio_204879_102.html",
+    "desc": "Ha revelado que aunque finalmente se ha decantado por estudiar Marketing, en su infancia y adolescencia quiso ser fotógrafa, psicóloga y hubo una época que le dió por azafata",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/70/2/fotonoticia-20261019101829-1920.jpeg",
+    "pub": 1792399756,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Antes de la motosierra",
     "link": "https://www.lanuevacronica.com/a-la-contra-2/antes-motosierra_204878_102.html",
     "desc": "La última de La Nueva Crónica",
@@ -22,14 +46,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/andrea-lamas-logra-la-tercera-plaza-junto-a-francisco-dorado-en-el-rallye-san-froilan-el-bierzo-digital.jpg",
     "pub": 1792398762,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Serrat: \"Necesitamos aprender a escuchar y a descifrar la mentira\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/serrat-necesitamos-aprender-escuchar-descifrar-mentira_204852_102.html",
-    "desc": "El célebre cantante catalán repasa su trayectoria y la actualidad en una entrevista concedida a La Nueva Crónica con motivo de la entrega del Premio Leteo, este miércoles en el Auditorio de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/53/71/3/serrat-leon-leteo.jpeg",
-    "pub": 1792398722,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Exigen \"ayudas urgentes\" a Diputación para evitar el \"colapso\" del sector apícola leonés",
@@ -189,22 +205,6 @@
     "desc": "El autor ponferradino publica el 29 de octubre 'Regio', un thriller con romance y conflictos familiares que escribió durante su etapa profesional en Bruselas",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/05/60/0/miguel-carbajosa.jpeg",
     "pub": 1792376400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Procurador del Común insta a Ponferrada a reparar el camino entre Bárcena y el pantano",
-    "link": "https://www.lanuevacronica.com/el-bierzo/procurador-comun-insta-ponferrada-reparar-camino-entre-barcena-pantano_204631_102.html",
-    "desc": "La institución considera acreditado el grave deterioro de la vía y pide al Ayuntamiento que acometa las obras necesarias para garantizar la seguridad vial en el plazo más breve posible",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/92/9/barcena-vial-en-mal-estado.jpeg",
-    "pub": 1792376400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PSOE acusa al Gobierno de Morala de dejar morir el bar corazón del parque del Temple",
-    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-acusa-gobierno-morala-dejar-morir-bar-corazon-parque-temple_204813_102.html",
-    "desc": "El Ágora anuncia su cierre por problemas burocráticos, dejando en la calle a 10 empleados, algo que para los socialistas se traduce en que \"la falta de gestión también destruye empleo\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/50/80/0/agora-3-1.jpeg",
-    "pub": 1792375500,
     "fuente": "La Nueva Crónica"
   },
   {
