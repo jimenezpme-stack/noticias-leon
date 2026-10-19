@@ -1,5 +1,69 @@
 [
   {
+    "titulo": "El PSOE acusa al Gobierno de Morala de dejar morir el bar corazón del parque del Temple",
+    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-acusa-gobierno-morala-dejar-morir-bar-corazon-parque-temple_204813_102.html",
+    "desc": "El Ágora anuncia su cierre por problemas burocráticos, dejando en la calle a 10 empleados, algo que para los socialistas se traduce en que \"la falta de gestión también destruye empleo\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/50/80/0/agora-3-1.jpeg",
+    "pub": 1792375500,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un compromiso que va más allá de un lazo rosa",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/compromiso-va-mas-alla-lazo-rosa_204867_102.html",
+    "desc": "Los últimos datos disponibles reflejan que la provincia registró 381 nuevos casos de cáncer de mama en 2024, una cifra que recuerda la importancia de la prevención, la investigación y el apoyo a las…",
+    "img": null,
+    "pub": 1792375200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204866_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/24/2/canto-n-2026-10-19.jpeg",
+    "pub": 1792375200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Serrat: \"Necesitamos aprender a escuchar y a descifrar la mentira\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/serrat-necesitamos-aprender-escuchar-descifrar-mentira_204852_102.html",
+    "desc": "El célebre cantante catalán repasa su trayectoria y la actualidad en una entrevista concedida a La Nueva Crónica con motivo de la entrega del Premio Leteo, este miércoles en el Auditorio de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/53/71/3/serrat-leon-leteo.jpeg",
+    "pub": 1792375200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los desahucios siguen a la baja en León con solo 32 durante el primer semestre",
+    "link": "https://www.lanuevacronica.com/actualidad/desahucios-siguen-baja-en-leon-con-solo-32-durante-primer-semestre_204854_102.html",
+    "desc": "La estadística aún es anterior a la polémica por el caso de Maricarmen y contrasta con los 133 que se habían contabilizado durante el mismo periodo del pasado año",
+    "img": "https://www.lanuevacronica.com/uploads/s1/57/15/3/desahucios-13-12-17.jpeg",
+    "pub": 1792375200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Almanza prepara una nueva edición de su feria de setas",
+    "link": "https://www.lanuevacronica.com/actualidad/almanza-prepara-nueva-edicion-su-feria-setas_204628_102.html",
+    "desc": "'MicoAlmanza' se celebrará los días 6, 7 y 8 de noviembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/14/49/0/jornadamicologica-1.jpeg",
+    "pub": 1792375200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Fin de año 'con mucha marcha': Concierto de Leticia Sabater en la Nochevieja Anticipada de Sahagún",
+    "link": "https://www.lanuevacronica.com/actualidad/fin-ano-con-mucha-marcha-concierto-leticia-sabater-en-nochevieja-anticipada-sahagun_204627_102.html",
+    "desc": "La cita llega el 28 de noviembre a su décima edición",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/89/0/nocheviejaanticipada.jpeg",
+    "pub": 1792375200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Serrat: \"Una vez toqué en la plaza de toros de León y descubrí que tenía hierba\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/serrat-vez-toque-en-plaza-toros-leon-descubri-tenia-hierba_204855_102.html",
+    "desc": "\"Mi relación con León se ha limitado a las actuaciones que he hecho, alguna vez que he podido viajar por El Bierzo o algún viaje que haya hecho por Babia\", explica la leyenda de la música española…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/53/84/5/entrevista-serrat-4.jpeg",
+    "pub": 1792374900,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Jorge Blanco repite y Miren Martín se corona en los 10 km de León",
     "link": "https://www.lanuevacronica.com/deportes/jorge-blanco-repite-miren-martin-se-corona-en-10-km-leon_204850_102.html",
     "desc": "El leonés repitió oro tras la edición pasada y la categoría femenina cuenta con nueva reina de una prueba que llenó las calles de la capital con 5.000 atletas",
@@ -72,30 +136,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La Cataplasma: En invierno, nieva",
-    "link": "https://www.lanuevacronica.com/extras/la-cataplasma/cataplasma-en-invierno-nieva_204798_102.html",
-    "desc": "Fulgencio Fernández se asoma a una ventana en la que tendrán cabida los personajes que nunca llegaron a pensar que sus historias le podían llegar a interesar a alguien",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/49/76/4/frame-18cataplasma.jpeg",
-    "pub": 1792336042,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El astorgano Héctor Fidalgo firma su tercer título consecutivo de campeón de España de yoyó",
-    "link": "https://www.lanuevacronica.com/actualidad/astorgano-hector-fidalgo-firma-su-tercer-titulo-consecutivo-campeon-espana-yoyo_204849_102.html",
-    "desc": "El joven astorgano logró 92,7 puntos sobre 100 en Tres Cantos, con una ventaja de 38,5 puntos sobre el segundo clasificado, y ya prepara sus próximos retos internacionales",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/52/27/1/campeonato-yoyo-1.jpeg",
-    "pub": 1792322728,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Pacma denuncia en León que los políticos \"han sucumbido al lobby de la caza\"",
-    "link": "https://www.lanuevacronica.com/actualidad/pacma-denuncia-en-leon-politicos-han-sucumbido-lobby-caza_204847_102.html",
-    "desc": "Piden que todos los perros sean incluidos en la Ley de Bienestar Animal y recuerdan que son \"una herramienta\" para los cazadores, que \"se deshacen de ellos cuando ya no les sirven\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/52/22/7/perros-de-caza-leon-1.jpeg",
-    "pub": 1792321424,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "FOTOGALERÍA | 500 pasos solidarios desde el Castillo de los Templarios",
     "link": "https://www.elbierzodigital.com/fotogaleria-500-pasos-solidarios-desde-el-castillo-de-los-templarios/",
     "desc": "Ponferrada se ha echado a andar por una buena causa en la XX edición de su Marcha Solidaria , que ha reunido a cerca de 500 participantes en un recorrido que ha partido del Castillo de los…",
@@ -104,52 +144,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El banquillo vuelve a ser la solución a domicilio",
-    "link": "https://www.lanuevacronica.com/deportes/banquillo-vuelve-ser-solucion-domicilio_204835_102.html",
-    "desc": "En tres de los cuatro partidos fuera de casa de la Ponferradina, los cambios han marcado, asistido o cambiado el encuentro como en Pontevedra",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/91/1/slavy-entro-desde-el-banquillo-para-rescatar-un-punto-en-zamora-zamora.gif",
-    "pub": 1792319400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PP de León pide explicaciones a la diputada de Juventud por las presuntas irregularidades",
-    "link": "https://www.lanuevacronica.com/actualidad/pp-leon-pide-explicaciones-diputada-juventud-por-presuntas-irregularidades_204845_102.html",
-    "desc": "Los populares exigirán en la próxima comisión de la Diputación transparencia sobre el expediente que, como adelantó La Nueva Crónica, ha derivado en una investigación penal por posible falsificación…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/83/4/imagen-de-la-la-diputada-provincial-de-juventud-y-deporte-patricia-martinez-cano.png",
-    "pub": 1792319349,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Veinte años caminando por un mundo mejor: Ponferrada Solidaria recauda 5.000 euros para Kenia",
     "link": "https://www.elbierzodigital.com/veinte-anos-caminando-por-un-mundo-mejor-ponferrada-solidaria-recauda-5-000-euros-para-kenia/",
     "desc": "La Marcha Solidaria de Ponferrada ha celebrado su XX edición reafirmando el compromiso de la ciudad con la cooperación internacional y la ayuda a las personas más vulnerables. La cita, organizada…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/veinte-anos-caminando-por-un-mundo-mejor-ponferrada-solidaria-recauda-5-000-euros-para-kenia-el-bierzo-digital.jpg",
     "pub": 1792318858,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Magdalena la de Mansilla, mujer rural, repostera, artesana y madre",
-    "link": "https://www.lanuevacronica.com/actualidad/magdalena-mansilla-mujer-rural-repostera-artesana-madre_204842_102.html",
-    "desc": "Activa a los 89 años, bromea con que cuando le pusieron su nombre ya la encaminaron a la repostería, pero primero se dedicó a la fruta, después a atender a sus 10 hijos y a la Cafetería Alonso que…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/52/04/4/magdalena-mujer-rural-mansilla.jpeg",
-    "pub": 1792318596,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Críticas al Ayuntamiento de León por el salario de los monitores del Coto Escolar",
-    "link": "https://www.lanuevacronica.com/actualidad/criticas-ayuntamiento-leon-por-salario-monitores-coto-escolar_204843_102.html",
-    "desc": "El PP denuncia el incumplimiento del acuerdo unánime alcanzado el pasado mes de junio en la Mesa de Negociación a cuenta de la categoría profesional de los empleados",
-    "img": "https://www.lanuevacronica.com/uploads/s1/12/56/65/coto-escolar-leon-13082021.jpeg",
-    "pub": 1792315686,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "San Emeterio, en riesgo de perderse Ferrol o León",
-    "link": "https://www.lanuevacronica.com/deportes/san-emeterio-en-riesgo-perderse-ferrol-leon_204834_102.html",
-    "desc": "El centrocampista de la Ponferradina vio en Zamora su cuarta tarjeta amarilla de la temporada para enfrentarse al Barakaldo, Racing de Ferrol y Cultural en las tres próximas jornadas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/51/87/9/san-emeterio-esta-a-una-amarilla-de-cumplir-ciclo-de-tarjetas-quinito.jpeg",
-    "pub": 1792314000,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Morala pide una candidatura del PP que ilusione a toda la provincia y evita pronunciarse sobre los nombres",
