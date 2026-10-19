@@ -2,9 +2,33 @@
   {
     "titulo": "La Ponferradina menos goleadora en Primera Federación",
     "link": "https://www.lanuevacronica.com/deportes/ponferradina-menos-goleadora-en-primera-federacion_204901_102.html",
-    "desc": "Suma seis goles en las ocho primeras jornadas de liga siendo la peor en ataque desde la 23-24, pero también siendo la segunda mejor en defensa con también seis encajados",
+    "desc": "Suma seis goles en las ocho primeras jornadas de liga siendo la peor en ataque desde la 23-24, pero también siendo la segunda mejor en puntos, 12, y defensa con también seis encajados",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/40/66/1/la-deportiva-se-vio-sorprendida-por-un-real-aviles-que-se-llevo-los-tres-puntos-del-toralin-reportaje-grafico-quinito-36.jpeg",
-    "pub": 1792412354,
+    "pub": 1792415238,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La miel berciana, en alerta por la baja producción y las especies invasoras",
+    "link": "https://www.lanuevacronica.com/el-bierzo/miel-berciana-en-alerta-por-baja-produccion-especies-invasoras_204884_102.html",
+    "desc": "Javier Morán, presidente de la Asociación Apícola del Bierzo, denuncia la falta de rentabilidad, los retrasos en las indemnizaciones por ataques de oso y el abandono de una actividad que concentra…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/80/5/javier-moran-durante-la-valoracion-de-la-dura-campana-que-afrontan-los-apilcultores-bercianos-raul-fernandez.jpeg",
+    "pub": 1792413892,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Fundación MonteLeón reúne a su Patronato en Ponferrada y refuerza su compromiso con la cultura en toda la provincia",
+    "link": "https://www.lanuevacronica.com/el-bierzo/fundacion-monteleon-reune-su-patronato-en-ponferrada-refuerza-su-compromiso-con-cultura-en-toda-provincia_204889_102.html",
+    "desc": "La sesión, celebrada en la Sala de los Estucos del Castillo, pone en valor la importancia de la capital berciana y la voluntad de la Fundación de acercar la cultura a toda la provincia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/92/6/el-patronato-de-la-fundacion-monteleon-se-reunio-en-ponferrada.jpeg",
+    "pub": 1792413615,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "'La cookie solidaria' de Sandra Romero apuesta este año por una receta otoñal para recaudar fondos contra el cáncer",
+    "link": "https://www.lanuevacronica.com/el-bierzo/cookie-solidaria-sandra-romero-apuesta-este-ano-por-receta-otonal-recaudar-fondos-contra-cancer_204899_102.html",
+    "desc": "En esta ocasión la repostera berciana colabora con Alimentos de Calidad para la receta",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/12/3/galleta.jpeg",
+    "pub": 1792413282,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -40,14 +64,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La Fundación MonteLeón reúne a su Patronato en Ponferrada y refuerza su compromiso con la cultura en toda la provincia",
-    "link": "https://www.lanuevacronica.com/el-bierzo/fundacion-monteleon-reune-su-patronato-en-ponferrada-refuerza-su-compromiso-con-cultura-en-toda-provincia_204889_102.html",
-    "desc": "La sesión, celebrada en la Sala de los Estucos del Castillo, pone en valor la importancia de la capital berciana y la voluntad de la Fundación de acercar la cultura a toda la provincia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/92/6/el-patronato-de-la-fundacion-monteleon-se-reunio-en-ponferrada.jpeg",
-    "pub": 1792410926,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Las Cortes de Castilla y León homenajean a sus expresidentes con una galería de retratos",
     "link": "https://www.elbierzodigital.com/las-cortes-de-castilla-y-leon-homenajean-a-sus-expresidentes-con-una-galeria-de-retratos/",
     "desc": "El vicepresidente primero de la Junta de Castilla y León, Carlos Pollán , y la vicepresidenta segunda, Isabel Blanco, han asistido este lunes a la presentación de los retratos de los expresidentes…",
@@ -72,27 +88,11 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "'La cookie solidaria' de Sandra Romero apuesta este año por una receta otoñal para recaudar fondos contra el cáncer",
-    "link": "https://www.lanuevacronica.com/el-bierzo/cookie-solidaria-sandra-romero-apuesta-este-ano-por-receta-otonal-recaudar-fondos-contra-cancer_204899_102.html",
-    "desc": "En esta ocasión la repostera berciana colabora con Alimentos de Calidad para la receta",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/12/3/galleta.jpeg",
-    "pub": 1792409290,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León tiene identificados 197 alumnos con altas capacidades, una cifra por debajo de las estimaciones",
     "link": "https://www.lanuevacronica.com/actualidad/leon-solo-tiene-identificados-197-alumnos-con-altas-capacidades_204885_102.html",
     "desc": "La Universidad de León y Alac presentan las IX Jornadas de Altas Capacidades, una actividad que busca derribar falsos mitos y alertar de la falta de identificación y atención educativa de estos…",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/54/84/3/un-instante-de-la-presentacion-de-la-ix-jornadas-de-altas-capacidades.jpeg",
     "pub": 1792409096,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La miel berciana, en alerta por la baja producción y las especies invasoras",
-    "link": "https://www.lanuevacronica.com/el-bierzo/miel-berciana-en-alerta-por-baja-produccion-especies-invasoras_204884_102.html",
-    "desc": "Javier Morán, presidente de la Asociación Apícola del Bierzo, denuncia la falta de rentabilidad, los retrasos en las indemnizaciones por ataques de oso y el abandono de una actividad que concentra…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/80/5/javier-moran-durante-la-valoracion-de-la-dura-campana-que-afrontan-los-apilcultores-bercianos-raul-fernandez.jpeg",
-    "pub": 1792408808,
     "fuente": "La Nueva Crónica"
   },
   {
