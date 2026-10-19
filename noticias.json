@@ -1,5 +1,69 @@
 [
   {
+    "titulo": "Antes de la motosierra",
+    "link": "https://www.lanuevacronica.com/a-la-contra-2/antes-motosierra_204878_102.html",
+    "desc": "La última de La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/68/7/imagen-piedad-isla-2.jpeg",
+    "pub": 1792399160,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Hospital El Bierzo ha realizado 154 cirugías de mama en lo que va de 2026",
+    "link": "https://www.elbierzodigital.com/el-hospital-el-bierzo-ha-realizado-154-cirugias-de-mama-en-lo-que-va-de-2026/",
+    "desc": "La Gerencia de Asistencia Sanitaria del Bierzo (Gasbi) ha realizado 154 cirugías de mama hasta octubre de 2026 en el Hospital El Bierzo. La cifra mantiene la actividad en niveles similares a los de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/09/Hospital-El-Bierzo-2-el-bierzo-digital.jpg",
+    "pub": 1792399055,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Andrea Lamas logra la tercera plaza junto a Francisco Dorado en el Rallye San Froilán",
+    "link": "https://www.elbierzodigital.com/andrea-lamas-logra-la-tercera-plaza-junto-a-francisco-dorado-en-el-rallye-san-froilan/",
+    "desc": "La copiloto berciana Andrea Lamas y el piloto Francisco Dorado lograron la tercera posición en el Rallye San Froilán , en una actuación destacada en el regreso de ambos al asfalto. La prueba, octava…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/andrea-lamas-logra-la-tercera-plaza-junto-a-francisco-dorado-en-el-rallye-san-froilan-el-bierzo-digital.jpg",
+    "pub": 1792398762,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Serrat: \"Necesitamos aprender a escuchar y a descifrar la mentira\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/serrat-necesitamos-aprender-escuchar-descifrar-mentira_204852_102.html",
+    "desc": "El célebre cantante catalán repasa su trayectoria y la actualidad en una entrevista concedida a La Nueva Crónica con motivo de la entrega del Premio Leteo, este miércoles en el Auditorio de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/53/71/3/serrat-leon-leteo.jpeg",
+    "pub": 1792398722,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Exigen \"ayudas urgentes\" a Diputación para evitar el \"colapso\" del sector apícola leonés",
+    "link": "https://www.lanuevacronica.com/actualidad/exigen-ayudas-urgentes-diputacion-evitar-colapso-sector-apicola-leones_204877_102.html",
+    "desc": "Ucale-Coag alerta de que el rendimiento medio ha caído de los 25 kilos por colmena de una campaña normal a solo seis, un descenso cercano al 73 %",
+    "img": "https://www.lanuevacronica.com/uploads/s1/23/13/09/3/osos.jpeg",
+    "pub": 1792398687,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cómo crear facturas gratis online",
+    "link": "https://www.elbierzodigital.com/como-crear-facturas-gratis-online/",
+    "desc": "Puedes crear una factura gratis online con un generador de facturas: rellenas tus datos y los del cliente, añades los conceptos, eliges el IVA y la retención, y descargas el PDF listo para enviar.…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/como-crear-facturas-gratis-online-el-bierzo-digital.jpg",
+    "pub": 1792398457,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Un herido en Ponferrada tras una colisión por alcance en la avenida del Castillo",
+    "link": "https://www.elbierzodigital.com/un-herido-en-ponferrada-tras-una-colision-por-alcance-en-la-avenida-del-castillo/",
+    "desc": "Una colisión por alcance registrada a primera hora de esta mañana en la avenida del Castillo de Ponferrada ha motivado la movilización de los servicios de emergencia. A eso de las 9.00 horas de la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/09/Ambulancia.jpg",
+    "pub": 1792397695,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Expocasión conquista Ponferrada con un gran balance de ventas y casi 300 coches a la venta",
+    "link": "https://www.elbierzodigital.com/expocasion-conquista-ponferrada-con-un-gran-balance-de-ventas-y-casi-300-coches-a-la-venta/",
+    "desc": "Expocasión cerró este domingo, 18 de octubre, una nueva edición en Ponferrada con un balance de ventas muy positivo. La feria, celebrada desde el viernes 16 en los aledaños del Toralín , volvió a…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/feria-de-otono-de-expocasion-el-bierzo-digital-6.jpeg",
+    "pub": 1792397187,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Los apicultores piden ayudas a la Diputación tras una caída de la producción del 73 %",
     "link": "https://www.elbierzodigital.com/los-apicultores-piden-ayudas-a-la-diputacion-tras-una-caida-de-la-produccion-del-73/",
     "desc": "La producción de miel en la provincia de León podría reducirse un 73% durante la campaña de 2026 , hasta apenas 500 toneladas frente a las 1.800 o 1.900 habituales. Ante esta situación, UCALE-COAG…",
@@ -72,12 +136,20 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Serrat: \"Necesitamos aprender a escuchar y a descifrar la mentira\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/serrat-necesitamos-aprender-escuchar-descifrar-mentira_204852_102.html",
-    "desc": "El célebre cantante catalán repasa su trayectoria y la actualidad en una entrevista concedida a La Nueva Crónica con motivo de la entrega del Premio Leteo, este miércoles en el Auditorio de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/53/71/3/serrat-leon-leteo.jpeg",
-    "pub": 1792393693,
-    "fuente": "La Nueva Crónica"
+    "titulo": "Persianas de PVC: el arreglo discreto que está aliviando la factura de calefacción en las casas del Bierzo",
+    "link": "https://www.elbierzodigital.com/persianas-de-pvc-el-arreglo-discreto-que-esta-aliviando-la-factura-de-calefaccion-en-las-casas-del-bierzo/",
+    "desc": "El frío húmedo de la comarca se cuela por donde casi nadie mira: el hueco de la persiana. Por eso las persianas de PVC se han convertido en una de las intervenciones más habituales en viviendas de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-8.jpg",
+    "pub": 1792383330,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Persianas de madera para casas de piedra: el aliado que ayuda a pasar el invierno berciano con menos leña y más confort",
+    "link": "https://www.elbierzodigital.com/persianas-de-madera-para-casas-de-piedra-el-aliado-que-ayuda-a-pasar-el-invierno-berciano-con-menos-lena-y-mas-confort/",
+    "desc": "Cuando llegan las primeras nieblas de octubre al valle del Sil y las mañanas amanecen con escarcha en Fabero o en Toreno, en muchas casas del Bierzo empieza la misma rutina: encender la cocina de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-9.jpg",
+    "pub": 1792382517,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Cendón escribe su nombre en la lista electoral, Diez borra el suyo",
@@ -133,22 +205,6 @@
     "desc": "El Ágora anuncia su cierre por problemas burocráticos, dejando en la calle a 10 empleados, algo que para los socialistas se traduce en que \"la falta de gestión también destruye empleo\"",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/50/80/0/agora-3-1.jpeg",
     "pub": 1792375500,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un compromiso que va más allá de un lazo rosa",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/compromiso-va-mas-alla-lazo-rosa_204867_102.html",
-    "desc": "Los últimos datos disponibles reflejan que la provincia registró 381 nuevos casos de cáncer de mama en 2024, una cifra que recuerda la importancia de la prevención, la investigación y el apoyo a las…",
-    "img": null,
-    "pub": 1792375200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_204866_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/24/2/canto-n-2026-10-19.jpeg",
-    "pub": 1792375200,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -301,62 +357,6 @@
     "desc": "Juan Echanove ha dejado algo más que recuerdos y buenas interpretaciones sobre las tablas del Teatro Bergidum de Ponferrada. Desde ahora, sus huellas forman parte también de la acera que da acceso…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/juan-echanove-el-publico-de-ponferrada-es-muy-entendido-venir-aqui-obliga-a-dar-lo-mejor-el-bierzo-digital-5.jpeg",
     "pub": 1792216252,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ponferrada se lleva parte del segundo premio de la Lotería Nacional",
-    "link": "https://www.elbierzodigital.com/ponferrada-se-lleva-parte-del-segundo-premio-de-la-loteria-nacional/",
-    "desc": "La suerte ha hecho parada este sábado en Ponferrada, donde la Lotería Nacional ha dejado parte de su segundo premio , correspondiente al número 20.183 y dotado con 120.000 euros al número. El boleto…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2019/12/IMG-20191222-WA0003.jpg",
-    "pub": 1792215946,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Bierzo se sienta a la mesa con 24 restaurantes y seis bodegas para reivindicar su gastronomía",
-    "link": "https://www.elbierzodigital.com/el-bierzo-se-sienta-a-la-mesa-con-24-restaurantes-y-seis-bodegas-para-reivindicar-su-gastronomia/",
-    "desc": "El Bierzo vuelve a reivindicar su riqueza gastronómica con una nueva edición de sus Jornadas Gastronómicas , en las que participan 24 restaurantes y seis bodegas de la comarca. Se trata de una…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-bierzo-se-sienta-a-la-mesa-con-24-restaurantes-y-seis-bodegas-para-reivindicar-su-gastronomia-el-bierzo-digital-1.jpeg",
-    "pub": 1792172542,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Bárcena del Bierzo celebra el otoño con su magosto popular",
-    "link": "https://www.elbierzodigital.com/barcena-del-bierzo-dara-la-bienvenida-al-otono-con-su-magosto-popular/",
-    "desc": "La Asociación de Vecinos La Magdalena de Bárcena del Bierzo celebrará el próximo sábado 31 de octubre su tradicional magosto popular, una cita para disfrutar del ambiente otoñal en compañía de…",
-    "img": null,
-    "pub": 1792168602,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Molinaseca encenderá sus chambombos para celebrar el 14 de noviembre su tradicional magosto",
-    "link": "https://www.elbierzodigital.com/molinaseca-encendera-sus-chambombas-para-celebrar-el-14-de-noviembre-su-tradicional-magosto/",
-    "desc": "Molinaseca celebrará el próximo 14 de noviembre su tradicional magosto , una cita que reunirá a vecinos y visitantes en torno a las castañas y las actividades culturales y festivas programadas para…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/07/Molinaseca-1-el-bierzo-digital.jpeg",
-    "pub": 1792167555,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El universo pictórico de Israel Nicolás Torres desembarca en el Café Cultural de Sorbeda del Sil",
-    "link": "https://www.elbierzodigital.com/el-universo-pictorico-de-israel-nicolas-torres-desembarca-en-el-cafe-cultural-de-sorbeda-del-sil/",
-    "desc": "El Café Cultural Cara B de Sorbeda del Sil abre sus puertas al universo creativo del pintor e ilustrador Israel Nicolás Torres , que presenta su colección \"Cosas que aprendí junto al mar\" . La…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-universo-pictorico-de-israel-nicolas-torres-desembarca-en-el-cafe-cultural-cara-b-de-sorbeda-del-sil-el-bierzo-digital.jpg",
-    "pub": 1792166354,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El AMPA de Cubillos del Sil alerta de que la ampliación del colegio sigue sin presupuesto",
-    "link": "https://www.elbierzodigital.com/el-ampa-de-cubillos-del-sil-alerta-de-que-la-ampliacion-del-colegio-sigue-sin-presupuesto/",
-    "desc": "E l AMPA de Cubillos del Sil ha expresado su preocupación por la ausencia de una partida presupuestaria específica para la ampliación del Centro Rural Agrupado (CRA) Cubillos del Sil en el borrador…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2018/10/Sin-título-3.jpg",
-    "pub": 1792162237,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ponferrada confía en que la Diputación desbloquee los accesos a tres pueblos antes del invierno",
-    "link": "https://www.elbierzodigital.com/ponferrada-confia-en-que-la-diputacion-desbloquee-los-accesos-a-tres-pueblos-antes-del-invierno/",
-    "desc": "El Ayuntamiento de Ponferrada da un voto de confianza a la Diputación de León para resolver los problemas de acceso a Carracedo de Compludo, Palacios de Compludo y San Adrián de Valdueza . Tras una…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/11/la-brigada-de-obras-de-ponferrada-actua-de-urgencia-en-la-carretera-a-carracedo-de-compludo-el-bierzo-digital-2.jpg",
-    "pub": 1792155059,
     "fuente": "El Bierzo Digital"
   },
   {
