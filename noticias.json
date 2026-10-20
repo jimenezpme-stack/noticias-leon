@@ -1,10 +1,34 @@
 [
   {
+    "titulo": "El PSOE lleva a los tribunales al Ayuntamiento de Ponferrada por la tasa de los puestos del mercado",
+    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-lleva-tribunales-ayuntamiento-ponferrada-por-tasa-puestos-mercado_204946_102.html",
+    "desc": "Ramón denuncia que sigue sin ejecutarse el acuerdo plenario de junio de 2025 para adaptar la ordenanza al cobro por metros lineales y evitar una subida del 60,8%",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/81/6/psoe-ole.jpeg",
+    "pub": 1792492465,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada busca talento: más de 50 empleos y 46 stands en una feria que conecta a empresas y trabajadores",
+    "link": "https://www.elbierzodigital.com/ponferrada-busca-talento-50-empleos-46-stands-feria-conecta-empresas-trabajadores/",
+    "desc": "La Junta de Castilla y León y la Cámara de Comercio , en colaboración con el Ayuntamiento de Ponferrada , han presentado la quinta edición de la Feria de Empleo, Innovación y Emprendimiento , que se…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Presentacion-Feria-del-Empleo-4-el-bierzo-digital.jpeg",
+    "pub": 1792491988,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Hasta cien ofertas de empleo buscan candidatos en el Museo del Ferrocarril de Ponferrada",
     "link": "https://www.lanuevacronica.com/el-bierzo/hasta-cien-ofertas-empleo-buscan-candidatos-en-museo-ferrocarril-ponferrada_204950_102.html",
     "desc": "La quinta edición de la Feria de Empleo, Innovación y Emprendimiento reunirá a 46 empresas e instituciones y ofrecerá puestos de distintos sectores, orientación y contacto directo con los…",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/55/91/5/feria-empleo.jpeg",
-    "pub": 1792490953,
+    "pub": 1792491089,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La marcha por la Salud Mental vuelve a Ponferrada para impulsar el centro de Flores del Sil",
+    "link": "https://www.lanuevacronica.com/el-bierzo/marcha-por-salud-mental-vuelve-ponferrada-impulsar-centro-flores-sil_204951_102.html",
+    "desc": "La séptima edición se celebrará el domingo 25 de octubre, con salida a las 11:00 horas desde el Hospital El Bierzo y un recorrido accesible de 6,5 kilómetros",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/37/2/v-marcha-solidaria-por-la-salud-mental-en-el-bierzo-2024-4-1000x563.jpeg",
+    "pub": 1792491080,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -53,14 +77,6 @@
     "desc": "Ángel Martínez y Héctor Pertejo suman seis oros y tres platas en los Juegos Europeos de Policías y Bomberos, celebrados en Vigo con más de 3.000 participantes",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/55/57/5/angel-martinez-y-hector-pertejo-suman-seis-oros-y-tres-platas-en-los-juegos-europeos-de-policias-y-bomberos.jpeg",
     "pub": 1792488896,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PSOE lleva a los tribunales al Ayuntamiento de Ponferrada por la tasa de los puestos del mercado",
-    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-lleva-tribunales-ayuntamiento-ponferrada-por-tasa-puestos-mercado_204946_102.html",
-    "desc": "Ramón denuncia que sigue sin ejecutarse el acuerdo plenario de junio de 2025 para adaptar la ordenanza al cobro por metros lineales y evitar una subida del 60,8%",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/81/6/psoe-ole.jpeg",
-    "pub": 1792488844,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -166,14 +182,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/10/valdeorras-a-denominacion-galega-mais-premiada-no-concurso-internacional-vinduero-vindouro-el-bierzo-digital.jpg",
     "pub": 1792484055,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Carlos Núñez, Castañero Mayor del Bierzo 2026 en Santa Marina del Sil",
-    "link": "https://www.lanuevacronica.com/el-bierzo/carlos-nunez-castanero-mayor-bierzo-2026-en-santa-marina-sil_204934_102.html",
-    "desc": "La XLIV Feria de las Castañas se celebrará del 6 al 8 de noviembre con actividades tradicionales, degustaciones y música",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/96/99/7/imagen-de-archivo-del-musico-carlos-nunez-durante-uno-de-sus-conciertos-este-sabado-es-el-turno-del-auditorio-ciudad-de-leon.jpeg",
-    "pub": 1792483415,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El campus de Ponferrada llama a donar sangre los días 22 y 23 de octubre dentro del ‘Reto 10.000’",
@@ -349,14 +357,6 @@
     "desc": "La historia, el presente y el futuro deportivo y sanitario del Bierzo se vuelven a dar la mano. La Real Fundación del Hospital de la Reina , en Ponferrada, ha firmado un convenio de colaboración con…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-hospital-de-la-reina-se-alia-con-el-hockey-de-bembibre-para-impulsar-su-salto-a-europa-el-bierzo-digital-1.jpeg",
     "pub": 1792403972,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Proyecto Orbanajo retira casi una tonelada de residuos en una zona comercial de Ponferrada",
-    "link": "https://www.elbierzodigital.com/proyecto-orbanajo-retira-toneladas-de-residuos-en-una-zona-comercial-de-ponferrada/",
-    "desc": "El colectivo Proyecto Orbanajo ha llevado a cabo una nueva jornada de limpieza en un espacio de Ponferrada situado a unos 800 metros del centro de la ciudad, en la parte de atrás del hipermercado…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/proyecto-orbanajo-retira-toneladas-de-residuos-de-una-colonia-de-gatos-en-una-zona-comercial-de-ponferrada-el-bierzo-digital-2.jpeg",
-    "pub": 1792402297,
     "fuente": "El Bierzo Digital"
   },
   {
