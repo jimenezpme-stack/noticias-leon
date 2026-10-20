@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "El cielo, después de aquella curva",
+    "link": "https://www.lanuevacronica.com/opinion/cielo-despues-aquella-curva_204921_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792465200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La vivienda no puede esperar a las elecciones",
+    "link": "https://www.lanuevacronica.com/opinion/vivienda-no-puede-esperar-elecciones_204926_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792464300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Desempolvando las pancartas",
+    "link": "https://www.lanuevacronica.com/opinion/desempolvando-pancartas_204918_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792464300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El gran circo",
     "link": "https://www.lanuevacronica.com/opinion/gran-circo_204917_102.html",
     "desc": "",
@@ -96,36 +120,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La Ruta de la Morcilla falla los premios de su sexta edición",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/ruta-morcilla-falla-premios-su-sexta-edicion_204914_102.html",
-    "desc": "Los 21 establecimientos participantes vendieron este año un total de 9.100 tapas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/33/9/una-foto-de-familia-de-los-asistentes-a-la-entrega-de-premios-de-la-vi-ruta-de-la-morcilla-fernando-otero.jpeg",
-    "pub": 1792434224,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ester Muñoz repetirá como cabeza de lista del PP de León al Congreso",
     "link": "https://www.elbierzodigital.com/ester-munoz-repetira-como-cabeza-de-lista-del-pp-de-leon-al-congreso/",
     "desc": "La portavoz del Grupo Popular en el Congreso, Ester Muñoz, volverá a encabezar la candidatura del PP de León a la Cámara Baja en las próximas elecciones generales del 29 de noviembre. Así lo…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ester-munoz-repetira-como-cabeza-de-lista-del-pp-de-leon-al-congreso-el-bierzo-digital.jpeg",
     "pub": 1792433391,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "MonteLeón será la anfitriona de la gala de premios de FestClásica",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/monteleon-sera-anfitriona-gala-premios-festclasica_204915_102.html",
-    "desc": "El acto tendrá lugar este viernes en el Auditorio del Conservatorio Profesional de Música de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/72/45/0/conservatorio-leon-251017-1.jpeg",
-    "pub": 1792433155,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ester Muñoz repetirá como número 1 por León en la lista del PP al Congreso el 29-N",
-    "link": "https://www.lanuevacronica.com/actualidad/ester-munoz-repetira-como-numero-1-pp-congreso-por-leon_204911_102.html",
-    "desc": "La actual diputada y portavoz del partido en la Cámara Baja encabezará una nómina que será desvelada por completo \"en los próximos días\", tras la reunión de la gestora provincial este lunes",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/82/35/3/ester-munoz.jpeg",
-    "pub": 1792433018,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El PSOE acusa a Morala de provocar el cierre del bar Ágora y la pérdida de diez empleos",
