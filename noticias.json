@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "El gran circo",
+    "link": "https://www.lanuevacronica.com/opinion/gran-circo_204917_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792463400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "\"Vencer no es Convencer\"",
+    "link": "https://www.lanuevacronica.com/opinion/vencer-no-es-convencer_204927_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792463100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Todo es bueno para el mitin final",
+    "link": "https://www.lanuevacronica.com/opinion/todo-es-bueno-mitin-final_204925_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792463100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El cementerio de títulos",
     "link": "https://www.lanuevacronica.com/lnc-culturas/cementerio-titulos_204928_102.html",
     "desc": "Unas palabras sobre los libros viejos con ocasión de la nueva edición del Libro Antiguo de León, que estará abierta hasta el 25 de octubre",
@@ -72,22 +96,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Villaquilambre lanza cerca de cien actividades para jóvenes y abre también los domingos",
-    "link": "https://www.lanuevacronica.com/actualidad/villaquilambre-lanza-cerca-cien-actividades-jovenes-abre-tambien-domingos_204907_102.html",
-    "desc": "El Centro Joven de Navatejera concentra talleres, ocio nocturno, formación y un concurso de relatos hasta final de año, la mayoría gratuitos y con inscripción previa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/21/8/image.jpeg",
-    "pub": 1792434891,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Prisión para una pareja que agredió a dos policías porque su coche les molestaba para hacer una foto de la Catedral de León",
-    "link": "https://www.lanuevacronica.com/actualidad/prision-pareja-agredio-dos-policias-porque-su-coche-molestaba-hacer-foto-catedral-leon_204910_102.html",
-    "desc": "\"Trabajáis para mí, quitar el coche ya, que quiero hacer la puta foto, poneros en otro lugar\", le dijo ella a los agentes antes de agredirles",
-    "img": "https://www.lanuevacronica.com/uploads/s1/29/00/11/9/policianacionalleon.jpeg",
-    "pub": 1792434625,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Ruta de la Morcilla falla los premios de su sexta edición",
     "link": "https://www.lanuevacronica.com/lnc-culturas/ruta-morcilla-falla-premios-su-sexta-edicion_204914_102.html",
     "desc": "Los 21 establecimientos participantes vendieron este año un total de 9.100 tapas",
@@ -126,14 +134,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-acusa-a-morala-de-provocar-el-cierre-del-bar-agora-y-la-perdida-de-diez-empleos-el-bierzo-digital.jpeg",
     "pub": 1792425217,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Se recuperan los reconocimientos médicos a trabajadores municipales en Ponferrada, tras 7 años",
-    "link": "https://www.lanuevacronica.com/el-bierzo/se-recuperan-reconocimientos-medicos-trabajadores-municipales-en-ponferrada-7-anos_204906_102.html",
-    "desc": "CSIF celebra la recuperación de los reconocimientos de salud y pide que el próximo convenio colectivo blinde su realización cada dos años",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/58/92/9/ayto-pnf.jpeg",
-    "pub": 1792421740,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El PP destaca la inversión para los polígonos industriales del Bierzo en los Presupuestos de Castilla y León",
