@@ -1,10 +1,50 @@
 [
   {
+    "titulo": "Abascal regresa a la plaza del Ayuntamiento de Ponferrada para reclamar el voto para Vox",
+    "link": "https://www.lanuevacronica.com/el-bierzo/abascal-regresa-plaza-ayuntamiento-ponferrada-reclamar-voto-vox_204995_102.html",
+    "desc": "El líder nacional reúne a sus seguidores entre banderas de España y fuertes medidas de seguridad; un asistente tuvo que ser atendido por una crisis epiléptica antes del mitin",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/08/2/babas.jpeg",
+    "pub": 1792518493,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Pablo Calvo volverá a encabezar la lista de Vox al Congreso por León",
+    "link": "https://www.lanuevacronica.com/actualidad/pablo-calvo-volvera-encabezar-lista-vox-congreso-por-leon_204996_102.html",
+    "desc": "Carlos Pollán ha anunciado la candidatura del exdiputado leonés durante el mitin que la formación ha celebrado este martes en Ponferrada, con la presencia de Santiago Abascal",
+    "img": "https://www.lanuevacronica.com/uploads/s1/15/49/23/pablo-calvo-vox-leon-19062023.jpeg",
+    "pub": 1792518415,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Denuncian que el punto limpio de La Bañeza sigue cerrado tras ocho años y alerta del aumento de escombreras en el entorno",
+    "link": "https://www.lanuevacronica.com/actualidad/denuncian-punto-limpio-baneza-sigue-cerrado-ocho-anos-alerta-aumento-escombreras-en-entorno_204991_102.html",
+    "desc": "El PSOE lamenta que, pese a las inversiones realizadas para reparar el deterioro de las instalaciones, el servicio continúa sin funcionar",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/73/4/uno-de-los-vertederos-aparecidos-en-el-entorno-del-punto-limpio.jpeg",
+    "pub": 1792517351,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La tapa del ajo vuelve a ser protagonista en Santa María del Páramo",
+    "link": "https://www.lanuevacronica.com/actualidad/tapa-ajo-vuelve-ser-protagonista-en-santa-maria-paramo_204980_102.html",
+    "desc": "Este emblemático plato paramés podrá degustarse el domingo en la Plaza Mayor de Santa María con más de 1.000 raciones",
+    "img": "https://www.lanuevacronica.com/uploads/s1/14/38/03/aho-santa-maria-paramo-26102022.jpeg",
+    "pub": 1792517155,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Dos días que se escriben en León con las palabras de Serrat",
     "link": "https://www.lanuevacronica.com/lnc-culturas/dos-dias-se-escriben-en-leon-con-palabras-serrat_204994_102.html",
     "desc": "El músico catalán será protagonista de las nuevas actividades programadas por un festival que también contará con la presencia de otros creadores",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/56/94/6/joan-manuel-serrat-recibira-esta-tarde-el-xxiv-premio-leteo-en-el-auditorio-ciudad-de-leon.jpeg",
-    "pub": 1792516600,
+    "pub": 1792517072,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Denuncian los problemas por la falta de administrativo en la Unidad Veterinaria de Riello",
+    "link": "https://www.lanuevacronica.com/actualidad/denuncian-problemas-por-falta-administrativo-en-unidad-veterinaria-riello_204973_102.html",
+    "desc": "Ganaderos e industriales de Omaña denuncian el abandono institucional y la paralización de trámites clave tras más de dos meses sin personal de administración",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/43/8/whatsapp-image-2026-10-20-at-15-47-50.jpeg",
+    "pub": 1792516945,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -20,14 +60,6 @@
     "link": "https://www.lanuevacronica.com/el-bierzo/upl-reclama-mas-recursos-alumnado-con-necesidades-especiales-colegio-penalba_204992_102.html",
     "desc": "Denuncia que el aula de Infantil cuenta con 16 niños, tres de ellos con TEA, y exige incorporar profesionales de Audición y Lenguaje y Pedagogía Terapéutica a jornada completa",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/56/73/5/la-procuradora-de-upl-en-las-ccyl-rosa-quintanilla-3.jpeg",
-    "pub": 1792513329,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Denuncian que el punto limpio de La Bañeza sigue cerrado tras ocho años y alerta del aumento de escombreras en el entorno",
-    "link": "https://www.lanuevacronica.com/actualidad/denuncian-punto-limpio-baneza-sigue-cerrado-ocho-anos-alerta-aumento-escombreras-en-entorno_204991_102.html",
-    "desc": "El PSOE lamenta que, pese a las inversiones realizadas para reparar el deterioro de las instalaciones, el servicio continúa sin funcionar",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/73/4/uno-de-los-vertederos-aparecidos-en-el-entorno-del-punto-limpio.jpeg",
     "pub": 1792513329,
     "fuente": "La Nueva Crónica"
   },
@@ -96,14 +128,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La tapa del ajo vuelve a ser protagonista en Santa María del Páramo",
-    "link": "https://www.lanuevacronica.com/actualidad/tapa-ajo-vuelve-ser-protagonista-en-santa-maria-paramo_204980_102.html",
-    "desc": "Este emblemático plato paramés podrá degustarse el domingo en la Plaza Mayor de Santa María con más de 1.000 raciones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/14/38/03/aho-santa-maria-paramo-26102022.jpeg",
-    "pub": 1792510197,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Alantre y Alvise coincidirán en Botines pidiendo avales para poder presentarse a las elecciones",
     "link": "https://www.lanuevacronica.com/actualidad/alantre-alvise-coincidiran-en-botines-pidiendo-avales-poder-presentarse-elecciones_204976_102.html",
     "desc": "El partido leonesista, que buscará reunir el voto autonomista tras el 'no' de UPL y el eurodiputado de ultraderecha coincidirán este miércoles en el mismo espacio en busca de avales",
@@ -126,30 +150,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-acusa-a-morala-de-provocar-el-cierre-del-bar-agora-y-la-perdida-de-diez-empleos-el-bierzo-digital-2.jpeg",
     "pub": 1792506015,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Denuncian los problemas por la falta de administrativo en la Unidad Veterinaria de Riello",
-    "link": "https://www.lanuevacronica.com/actualidad/denuncian-problemas-por-falta-administrativo-en-unidad-veterinaria-riello_204973_102.html",
-    "desc": "Ganaderos e industriales de Omaña denuncian el abandono institucional y la paralización de trámites clave tras más de dos meses sin personal de administración",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/43/8/whatsapp-image-2026-10-20-at-15-47-50.jpeg",
-    "pub": 1792504128,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León exhibe en Madrid sus oportunidades de inversión empresarial",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-exhibe-en-madrid-sus-oportunidades-inversion-empresarial_204970_102.html",
-    "desc": "Suelo industrial, conexiones logísticas, incentivos públicos y disponibilidad de talento centran el encuentro empresarial organizado por FELE y CEIM para impulsar la colaboración entre ambos…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/32/2/representantes-institucionales-en-la-jornada-organizada-por-la-fele-en-madrid.jpeg",
-    "pub": 1792498165,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Más de 20.000 personas han visitado en un mes la gran exposición tecnológica de Iberdrola con motivo de su 125 aniversario",
-    "link": "https://www.lanuevacronica.com/panorama/mas-20000-personas-han-visitado-en-mes-gran-exposicion-tecnologica-iberdrola-con-motivo-su-125-aniversario_204969_102.html",
-    "desc": "Unos 4.000 alumnos de 40 colegios han participado en sus actividades educativas y talleres sobre ciencia, tecnología y electricidad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/30/0/inauguracion-exposicion-un-viaje-electrizante.jpeg",
-    "pub": 1792497503,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Ponferrada busca talento: más de 50 empleos y 46 stands en una feria que conecta a empresas y trabajadores",
