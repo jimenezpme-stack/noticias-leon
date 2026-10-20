@@ -1,5 +1,85 @@
 [
   {
+    "titulo": "La matraca del «en mis tiempos»",
+    "link": "https://www.lanuevacronica.com/a-la-contra-2/matraca-en-mis-tiempos_204965_102.html",
+    "desc": "La última de La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/25/2/la-matraca-del-en-mis-tiempos.jpeg",
+    "pub": 1792496108,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Aula de Cine vuelve a Ponferrada con el profesor Manuel Cuenya y la aclamada película 'Sorda'",
+    "link": "https://www.lanuevacronica.com/el-bierzo/aula-cine-vuelve-ponferrada-con-profesor-manuel-cuenya-y-la-aclamada-pelicula-sorda_204948_102.html",
+    "desc": "Arranca su nueva temporada el 27 de octubre con una sesión que incluye la proyección dirigida por Eva Libertad y posterior coloquio con los asistentes al precio de 3,50 euros",
+    "img": "https://www.lanuevacronica.com/uploads/s1/22/74/00/3/cuenya.gif",
+    "pub": 1792495926,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Denuncian que dos alumnos de Cosamai en Astorga no pueden ir a clase por la falta de enfermera",
+    "link": "https://www.lanuevacronica.com/actualidad/denuncian-dos-alumnos-cosamai-en-astorga-no-pueden-ir-clase-por-falta-enfermera_204964_102.html",
+    "desc": "La Ampa del centro de educación especial denuncia que la Junta lleva desde el 2 de octubre sin cubrir la baja de la profesional y exige una solución urgente",
+    "img": "https://www.lanuevacronica.com/uploads/s1/21/81/69/1/imagen-unnamed.jpeg",
+    "pub": 1792495896,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Morala acusa al PSOE de pedirle que tolere una \"ilegalidad\" con el cierre del Ágora",
+    "link": "https://www.lanuevacronica.com/el-bierzo/morala-acusa-psoe-pedirle-tolere-ilegalidad-con-cierre-agora_204960_102.html",
+    "desc": "El alcalde asegura que la concesión del establecimiento del parque del Temple había llegado a su fin y defiende que su equipo de gobierno se limitó a cumplir la normativa municipal",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/08/9/morala.jpeg",
+    "pub": 1792495644,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Hasta cien ofertas de empleo buscan candidatos en Ponferrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/hasta-cien-ofertas-empleo-buscan-candidatos-en-museo-ferrocarril-ponferrada_204950_102.html",
+    "desc": "La quinta edición de la Feria de Empleo, Innovación y Emprendimiento reunirá a 46 empresas e instituciones y ofrecerá puestos de distintos sectores, orientación y contacto directo con los…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/91/5/feria-empleo.jpeg",
+    "pub": 1792495345,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un turismo atropella a una mujer de 80 años en León",
+    "link": "https://www.lanuevacronica.com/actualidad/turismo-atropella-mujer-80-anos-en-leon_204963_102.html",
+    "desc": "El suceso se ha producido este martes en la avenida de San Andrés y ha movilizado a la Policía Local, la Policía Nacional y los servicios sanitarios",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/19/6/avenida-de-san-andres.jpeg",
+    "pub": 1792495230,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Peligra el derbi para Pedro Benito",
+    "link": "https://www.lanuevacronica.com/deportes/peligra-derbi-pedro-benito_204945_102.html",
+    "desc": "El extremo de la Cultural ya se perdió el partido ante el Logroñés por molestias en el abductor y el pasado lunes el club confirmaba una lesión en \"el recto anterior de la pierna izquierda\" pero sin…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/79/48/3/cultural-merida-13.jpeg",
+    "pub": 1792495149,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Saúl Crespo se suma a las órdenes de Nafti para los entrenamientos",
+    "link": "https://www.lanuevacronica.com/deportes/saul-crespo-se-suma-ordenes-nafti-entrenamientos_204935_102.html",
+    "desc": "El centrocampista berciano, que fue una posibilidad de fichaje en el pasado mercado de verano, se suma a la dinámica de la Ponferradina para mantenerse con ritmo de cara a retos futuros",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/55/7/saul-crespo-1536x1152.jpeg",
+    "pub": 1792495143,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La marcha por la Salud Mental vuelve a Ponferrada para impulsar el centro de Flores del Sil",
+    "link": "https://www.lanuevacronica.com/el-bierzo/marcha-por-salud-mental-vuelve-ponferrada-impulsar-centro-flores-sil_204951_102.html",
+    "desc": "La séptima edición se celebrará el domingo 25 de octubre, con salida a las 11:00 horas desde el Hospital El Bierzo y un recorrido accesible de 6,5 kilómetros",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/37/2/v-marcha-solidaria-por-la-salud-mental-en-el-bierzo-2024-4-1000x563.jpeg",
+    "pub": 1792494743,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "UPL reclama más policías a pie en las calles de León tras el apuñalamiento de San Pedro",
+    "link": "https://www.lanuevacronica.com/actualidad/upl-reclama-mas-policias-pie-en-calles-leon-apunalamiento-san-pedro_204959_102.html",
+    "desc": "Piden también más cámaras de vigilancia como herramienta disuasoria frente a los actos delictivos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/27/53/15/3/policia-local-barrio-humedo.jpeg",
+    "pub": 1792494615,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El influencer leonés Javier Gallardo firmará ejemplares de su primera novela en El Corte Inglés",
     "link": "https://www.lanuevacronica.com/lnc-culturas/influencer-leones-javier-gallardo-firmara-ejemplares-su-primera-novela-en-corte-ingles_204958_102.html",
     "desc": "El evento tendrá lugar este jueves en la cuarta planta del centro comercial",
@@ -40,44 +120,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "El PSOE lleva a los tribunales al Ayuntamiento de Ponferrada por la tasa de los puestos del mercado",
-    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-lleva-tribunales-ayuntamiento-ponferrada-por-tasa-puestos-mercado_204946_102.html",
-    "desc": "Ramón denuncia que sigue sin ejecutarse el acuerdo plenario de junio de 2025 para adaptar la ordenanza al cobro por metros lineales y evitar una subida del 60,8%",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/81/6/psoe-ole.jpeg",
-    "pub": 1792492953,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ponferrada busca talento: más de 50 empleos y 46 stands en una feria que conecta a empresas y trabajadores",
     "link": "https://www.elbierzodigital.com/ponferrada-busca-talento-50-empleos-46-stands-feria-conecta-empresas-trabajadores/",
     "desc": "La Junta de Castilla y León y la Cámara de Comercio , en colaboración con el Ayuntamiento de Ponferrada , han presentado la quinta edición de la Feria de Empleo, Innovación y Emprendimiento , que se…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Presentacion-Feria-del-Empleo-4-el-bierzo-digital.jpeg",
     "pub": 1792491988,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Hasta cien ofertas de empleo buscan candidatos en el Museo del Ferrocarril de Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/hasta-cien-ofertas-empleo-buscan-candidatos-en-museo-ferrocarril-ponferrada_204950_102.html",
-    "desc": "La quinta edición de la Feria de Empleo, Innovación y Emprendimiento reunirá a 46 empresas e instituciones y ofrecerá puestos de distintos sectores, orientación y contacto directo con los…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/91/5/feria-empleo.jpeg",
-    "pub": 1792491089,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La marcha por la Salud Mental vuelve a Ponferrada para impulsar el centro de Flores del Sil",
-    "link": "https://www.lanuevacronica.com/el-bierzo/marcha-por-salud-mental-vuelve-ponferrada-impulsar-centro-flores-sil_204951_102.html",
-    "desc": "La séptima edición se celebrará el domingo 25 de octubre, con salida a las 11:00 horas desde el Hospital El Bierzo y un recorrido accesible de 6,5 kilómetros",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/34/37/2/v-marcha-solidaria-por-la-salud-mental-en-el-bierzo-2024-4-1000x563.jpeg",
-    "pub": 1792491080,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Aula de Cine vuelve a Ponferrada con el profesor Manuel Cuenya y la aclamada película 'Sorda'",
-    "link": "https://www.lanuevacronica.com/el-bierzo/aula-cine-vuelve-ponferrada-con-profesor-manuel-cuenya-y-la-aclamada-pelicula-sorda_204948_102.html",
-    "desc": "Arranca su nueva temporada el 27 de octubre con una sesión que incluye la proyección dirigida por Eva Libertad y posterior coloquio con los asistentes al precio de 3,50 euros",
-    "img": "https://www.lanuevacronica.com/uploads/s1/22/74/00/3/cuenya.gif",
-    "pub": 1792490021,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "‘Sorda’ llega a Ponferrada para romper prejuicios y dar voz a la realidad de la sordera",
@@ -88,36 +136,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Un corsé valenciano y un bodegón de Managua: el mundo hispano en la Moscow Fashion Week",
-    "link": "https://www.lanuevacronica.com/estilo-vida/corse-valenciano-bodegon-managua-mundo-hispano-en-moscow-fashion-week_204938_102.html",
-    "desc": "Entre los participantes internacionales figuraba el diseñador valenciano Miguel Llopis, representado en Moscú por la Mediterránea Fashion Week Valencia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/61/3/miguel-llopis-en-la-moscow-fashion-week.jpeg",
-    "pub": 1792489931,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Aprender inglés fuera o en España: qué opción compensa más según tu objetivo",
     "link": "https://www.elbierzodigital.com/aprender-ingles-fuera-o-en-espana-que-opcion-compensa-mas-segun-tu-objetivo/",
     "desc": "Hay quienes anhelan llegar a ser realmente bilingües y se enfrentan a la disyuntiva: ¿permanecer cómodos en una academia local, o atreverse a cruzar fronteras? Si has pasado horas con libros y…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/aprender-ingles-fuera-o-en-espana-que-opcion-compensa-mas-segun-tu-objetivo-el-bierzo-digital.jpg",
     "pub": 1792489555,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Atropellan a un menor de 15 años en el centro de León",
-    "link": "https://www.lanuevacronica.com/actualidad/atropellan-menor-15-anos-en-centro-leon_204947_102.html",
-    "desc": "El accidente se ha producido a primera hora de este martes en la confluencia de las avenidas Álvaro López Núñez y Padre Isla",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/83/6/confluencia-de-las-avenidas-alvaro-lopez-nunez-y-padre-isla.jpeg",
-    "pub": 1792489114,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Hogar de la Esperanza de León, un apoyo para conciliar y educar a 67 niños vulnerables",
-    "link": "https://www.lanuevacronica.com/actualidad/hogar-esperanza-leon-apoyo-conciliar-educar-67-ninos-vulnerables_204944_102.html",
-    "desc": "El centro, gestionado por la Fundación Secretariado Gitano, atiende a menores de entre nueve meses y seis años y ofrece servicios de madrugadores, comedor y transporte escolar para facilitar la…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/78/0/el-proyecto-educativo-hogar-de-la-esperanza-atiende-a-67-ninos-y-ninas-de-entre-9-meses-y-6-anos.jpeg",
-    "pub": 1792488632,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Feijóo ofrece a Vox senadores autonómicos a cambio de que no concurra en algunas provincias el 29N",
@@ -128,36 +152,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El Hospital El Bierzo muestra cómo perciben el mundo las personas con patologías oculares",
-    "link": "https://www.lanuevacronica.com/el-bierzo/hospital-bierzo-muestra-como-perciben-mundo-personas-con-patologias-oculares_204943_102.html",
-    "desc": "La exposición permanente 'Miradas', donada por Retina Castilla y León, reúne ocho cuadros con fotografías de paisajes y monumentos bercianos que reproducen los efectos de distintas enfermedades de…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/75/8/oftal-vale.jpeg",
-    "pub": 1792488199,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Fredesvinda, un siglo de vida con las manos curtidas por el campo leonés",
-    "link": "https://www.lanuevacronica.com/actualidad/fredesvinda-siglo-vida-con-manos-curtidas-por-campo-leones_204942_102.html",
-    "desc": "Natural de Grajalejo, en plena Tierra de Campos, celebró su centenario rodeada de familiares y amigos tras toda una vida marcada por el esfuerzo y el sacrificio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/73/6/fredesvinda-natural-de-grajalejo-durante-la-celebracion-de-su-100-cumpleanos.jpeg",
-    "pub": 1792487964,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El PSOE lleva a los tribunales el incumplimiento del acuerdo plenario sobre las tasas del mercado exterior",
     "link": "https://www.elbierzodigital.com/el-psoe-lleva-a-los-tribunales-el-incumplimiento-del-acuerdo-plenario-sobre-las-tasas-del-mercado-exterior/",
     "desc": "Más de un año después de que el pleno del Ayuntamiento de Ponferrada celebrado el 19 de junio de 2025 acordara modificar la ordenanza que regula las tasas de los puestos del mercado exterior, dicha…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2020/07/mercado-mercadillo-ponferrada-30.jpeg",
     "pub": 1792487935,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Francisco Rivera revela cómo está su hija Tana tras su ruptura con Roca Rey",
-    "link": "https://www.lanuevacronica.com/gente/francisco-rivera-revela-como-esta-su-hija-tana-tras-su-ruptura-con-roca-rey_204941_102.html",
-    "desc": "\"No te puedo decir que ahora mismo Tana está feliz, pero está bien y hay que pensar que la vida es muy larga, mi hija tiene mucha vida por delante y las cosas irán surgiendo\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/70/9/fotonoticia-20261019142335-1920.jpeg",
-    "pub": 1792487860,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "‘Miradas’ que impactan: el Hospital El Bierzo muestra cómo ven el mundo las personas con enfermedades oculares",
