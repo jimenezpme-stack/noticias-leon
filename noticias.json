@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "‘Miradas’ que impactan: el Hospital El Bierzo muestra cómo ven el mundo las personas con enfermedades oculares",
+    "link": "https://www.elbierzodigital.com/miradas-que-impactan-el-hospital-el-bierzo-muestra-como-ven-el-mundo-las-personas-con-enfermedades-oculares/",
+    "desc": "El Hospital El Bierzo acoge en sus consultas externas de Oftalmología la exposición ‘ Miradas ’, una iniciativa de la Asociación Retina Castilla y León que permite descubrir cómo ven el mundo las…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/miradas-que-impactan-el-hospital-el-bierzo-muestra-como-ven-el-mundo-las-personas-con-enfermedades-oculares-el-bierzo-digital-1.jpg",
+    "pub": 1792487702,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Unicaja AM alcanza los 15.000 millones de euros bajo gestión y consolida su crecimiento",
+    "link": "https://www.lanuevacronica.com/panorama/unicaja-am-alcanza-15000-millones-euros-bajo-gestion-consolida-su-crecimiento_204939_102.html",
+    "desc": "La gestora de fondos de inversión de Unicaja alcanza un nuevo hito y continúa avanzando en el desarrollo de sus capacidades especializadas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/46/77/4/image.jpeg",
+    "pub": 1792487295,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Una investigadora de la ULE recibe un premio nacional de divulgación científica",
+    "link": "https://www.lanuevacronica.com/actualidad/investigadora-ule-recibe-premio-nacional-divulgacion-cientifica_204937_102.html",
+    "desc": "La doctora por la Universidad de León, Natalia Martínez Reyes, recibió uno de los seis galardones de la sexta edición de #HiloTesis, un certamen en el que participaron 255 investigadores de 53…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/59/1/natalia-martinez-reyes-doctora-por-la-universidad-de-leon.jpeg",
+    "pub": 1792486519,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Policía Nacional de León ya tiene dos agentes de oro",
+    "link": "https://www.lanuevacronica.com/actualidad/policia-nacional-leon-ya-tiene-dos-agentes-oro_204936_102.html",
+    "desc": "Ángel Martínez y Héctor Pertejo suman seis oros y tres platas en los Juegos Europeos de Policías y Bomberos, celebrados en Vigo con más de 3.000 participantes.",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/57/5/angel-martinez-y-hector-pertejo-suman-seis-oros-y-tres-platas-en-los-juegos-europeos-de-policias-y-bomberos.jpeg",
+    "pub": 1792486282,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Saúl Crespo vuelve a casa para incorporarse a los entrenamientos con la Ponferradina",
     "link": "https://www.elbierzodigital.com/saul-crespo-vuelve-a-casa-para-incorporarse-a-los-entrenamientos-con-la-ponferradina/",
     "desc": "Saúl Crespo se incorpora este martes 20 de octubre a los entrenamientos de la SD Ponferradina tras concluir su etapa profesional en India. Pese a que el centrocampista berciano se encuentra…",
@@ -157,30 +189,6 @@
     "desc": "",
     "img": null,
     "pub": 1792463100,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El cementerio de títulos",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/cementerio-titulos_204928_102.html",
-    "desc": "Unas palabras sobre los libros viejos con ocasión de la nueva edición del Libro Antiguo de León, que estará abierta hasta el 25 de octubre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/44/6/imagen-de-la-trige-simo-tercera-edicio-n-de-la-feria-del-libro-antiguo-y-de-ocasio-n-de-leo-n.jpeg",
-    "pub": 1792461600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Preguntas para una comisión",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/preguntas-comision_204924_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792461600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Poesía y 'palabra narrada' como antesala del galardón a Serrat en León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/poesia-palabra-narrada-como-antesala-galardon-serrat-en-leon_204923_102.html",
-    "desc": "Sergio Artero, Eloy Tizón y Adolfo García Ortega serán protagonistas en la nueva jornada del Festival Palabra",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/43/0/eloy-tizon-y-adolfo-garcia-ortega-cierran-la-jornada-de-este-martes-de-palabra-l-n-c.jpeg",
-    "pub": 1792461600,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "Expocasión cerró este domingo, 18 de octubre, una nueva edición en Ponferrada con un balance de ventas muy positivo. La feria, celebrada desde el viernes 16 en los aledaños del Toralín , volvió a…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/feria-de-otono-de-expocasion-el-bierzo-digital-6.jpeg",
     "pub": 1792397187,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Los apicultores piden ayudas a la Diputación tras una caída de la producción del 73 %",
-    "link": "https://www.elbierzodigital.com/los-apicultores-piden-ayudas-a-la-diputacion-tras-una-caida-de-la-produccion-del-73/",
-    "desc": "La producción de miel en la provincia de León podría reducirse un 73% durante la campaña de 2026 , hasta apenas 500 toneladas frente a las 1.800 o 1.900 habituales. Ante esta situación, UCALE-COAG…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2021/04/colmenas.jpg",
-    "pub": 1792396800,
     "fuente": "El Bierzo Digital"
   },
   {
