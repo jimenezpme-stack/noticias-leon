@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Quimeras cierra su cuarta edición con una sesión de cine",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/quimeras-cierra-su-cuarta-edicion-con-sesion-cine_204985_102.html",
+    "desc": "'Dentro del laberinto' podrá verse este miércoles en el Teatro San Francisco como última actividad programada por el festival de ficción insólita",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/62/9/un-fotograma-de-la-pelicula-que-este-miercoles-podra-verse-en-el-teatro-san-francisco.jpeg",
+    "pub": 1792511330,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cuenta atrás para abrir el telón en recuerdo a Josefina Blanco",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/cuenta-atras-abrir-telon-en-recuerdo-josefina-blanco_204983_102.html",
+    "desc": "El Teatro San Francisco acoge desde este domingo –y hasta el 15 de noviembre– las funciones del primer certamen escénico de MonteLeón",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/61/1/una-imagen-de-josefina-blanco-a-la-que-homenajea-monteleon-l-n-c.jpeg",
+    "pub": 1792510552,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Bañeza formaliza un crédito de 680.000 euros para renovar el alumbrado público",
+    "link": "https://www.lanuevacronica.com/actualidad/baneza-formaliza-credito-680000-euros-renovar-alumbrado-publico_204982_102.html",
+    "desc": "La operación con Idae, a interés cero y con un plazo de diez años, permitirá modernizar las instalaciones de iluminación pública y generar un ahorro anual estimado de 200.000 euros en el suministro…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/58/4/un-instante-de-la-firma-del-acuerdo.jpeg",
+    "pub": 1792510480,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un certamen con 23 versiones de la tonada popular leonesa que grabó Alan Lomax",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/certamen-con-23-versiones-tonada-popular-leonesa-grabo-alan-lomax_204981_102.html",
+    "desc": "El III Concurso 'Música Tradicional para Nuevas Músicas' de la Fundación Lola Pérez Rivera cuenta con propuestas que abarcan un amplio abanico de estilos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/56/8/el-certamen-toma-como-referencia-una-cancion-popular-grabada-por-alan-lomax-en-leon-abc.jpeg",
+    "pub": 1792510326,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Pola de Gordón correrá de nuevo por Darío y la visibilidad de la FOP",
+    "link": "https://www.lanuevacronica.com/actualidad/pola-gordon-correra-nuevo-por-dario-visibilidad-fop_204974_102.html",
+    "desc": "La cuarta carrera solidaria organizada por Por Dos Pulgares de Nada se celebrará el 23 de octubre en el CEIP Federico García Lorca",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/45/5/dario-con-su-hermana-adriana-en-la-carrera-del-ano-pasado-e-nino.jpeg",
+    "pub": 1792510200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La tapa del ajo vuelve a ser protagonista en Santa María del Páramo",
+    "link": "https://www.lanuevacronica.com/actualidad/tapa-ajo-vuelve-ser-protagonista-en-santa-maria-paramo_204980_102.html",
+    "desc": "Este emblemático plato paramés podrá degustarse el domingo en la Plaza Mayor de Santa María con más de 1.000 raciones",
+    "img": "https://www.lanuevacronica.com/uploads/s1/14/38/03/aho-santa-maria-paramo-26102022.jpeg",
+    "pub": 1792510197,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Alantre y Alvise coincidirán en Botines pidiendo avales para poder presentarse a las elecciones",
     "link": "https://www.lanuevacronica.com/actualidad/alantre-alvise-coincidiran-en-botines-pidiendo-avales-poder-presentarse-elecciones_204976_102.html",
     "desc": "El partido leonesista, que buscará reunir el voto autonomista tras el 'no' de UPL y el eurodiputado de ultraderecha coincidirán este miércoles en el mismo espacio en busca de avales",
@@ -22,14 +70,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-acusa-a-morala-de-provocar-el-cierre-del-bar-agora-y-la-perdida-de-diez-empleos-el-bierzo-digital-2.jpeg",
     "pub": 1792506015,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Morala acusa al PSOE de pedirle que tolere una \"ilegalidad\" con el cierre del Ágora",
-    "link": "https://www.lanuevacronica.com/el-bierzo/morala-acusa-psoe-pedirle-tolere-ilegalidad-con-cierre-agora_204960_102.html",
-    "desc": "El alcalde asegura que la concesión del establecimiento del parque del Temple había llegado a su fin y defiende que su equipo de gobierno se limitó a cumplir la normativa municipal",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/08/9/morala.jpeg",
-    "pub": 1792504316,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Denuncian los problemas por la falta de administrativo en la Unidad Veterinaria de Riello",
@@ -88,51 +128,11 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Saúl Crespo se suma a las órdenes de Nafti para los entrenamientos",
-    "link": "https://www.lanuevacronica.com/deportes/saul-crespo-se-suma-ordenes-nafti-entrenamientos_204935_102.html",
-    "desc": "El centrocampista berciano, que fue una posibilidad de fichaje en el pasado mercado de verano, se suma a la dinámica de la Ponferradina para mantenerse con ritmo de cara a retos futuros",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/55/55/7/saul-crespo-1536x1152.jpeg",
-    "pub": 1792495143,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "UPL reclama más policías a pie en las calles de León tras el apuñalamiento de San Pedro",
     "link": "https://www.lanuevacronica.com/actualidad/upl-reclama-mas-policias-pie-en-calles-leon-apunalamiento-san-pedro_204959_102.html",
     "desc": "Piden también más cámaras de vigilancia como herramienta disuasoria frente a los actos delictivos",
     "img": "https://www.lanuevacronica.com/uploads/s1/27/53/15/3/policia-local-barrio-humedo.jpeg",
     "pub": 1792494615,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El influencer leonés Javier Gallardo firmará ejemplares de su primera novela en El Corte Inglés",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/influencer-leones-javier-gallardo-firmara-ejemplares-su-primera-novela-en-corte-ingles_204958_102.html",
-    "desc": "El evento tendrá lugar este jueves en la cuarta planta del centro comercial",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/05/3/el-leones-javier-gallardo-y-la-portada-de-su-primera-novela-planetadelibros.jpeg",
-    "pub": 1792493943,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Coalición por El Bierzo no concurrirá a las elecciones generales del 29-N",
-    "link": "https://www.lanuevacronica.com/el-bierzo/coalicion-por-bierzo-no-concurrira-elecciones-generales-29-n_204955_102.html",
-    "desc": "La formación bercianista deja libertad a sus afiliados y votantes para elegir la candidatura que consideren más comprometida con los intereses de la comarca y reclama compromisos concretos sobre…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/28/98/26/7/www-ivanalonso-1-1-4-1000x563-4-1000x563.jpeg",
-    "pub": 1792493936,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Guardia Civil 'caza' a dos hombres robando en el interior de una vivienda del Páramo",
-    "link": "https://www.lanuevacronica.com/sucesos/guardia-civil-caza-dos-hombres-robando-en-interior-vivienda-paramo_204957_102.html",
-    "desc": "La alarma de la vivienda se activó y dos patrullas acudieron a la misma, donde sorprendieron a los dos individuos dentro del domicilio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/06/9/efectos-utilizados-para-realizar-el-robo.jpeg",
-    "pub": 1792493924,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Más de un centenar de profesionales analizan en León las nuevas formas de violencia sexual digital",
-    "link": "https://www.lanuevacronica.com/actualidad/mas-centenar-profesionales-analizan-en-leon-nuevas-formas-violencia-sexual-digital_204954_102.html",
-    "desc": "La jornada aborda los mecanismos de captación y control en internet, la explotación sexual y los retos de la detección y protección de las víctimas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/01/4/un-instante-de-las-jornadas-celebradas-en-la-facultad-de-educacion.jpeg",
-    "pub": 1792493429,
     "fuente": "La Nueva Crónica"
   },
   {
