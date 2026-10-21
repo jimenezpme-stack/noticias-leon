@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Asprona Bierzo premia a Jesús Calleja, Álex Roca y Cruz Roja en la IV edición de los Aspronauta",
+    "link": "https://www.elbierzodigital.com/asprona-bierzo-premia-jesus-calleja-alex-roca-cruz-roja-cuarta-edicion-aspronauta/",
+    "desc": "Asprona Bierzo celebra este jueves, 22 de octubre, la IV edición de los Premios Aspronauta, con los que reconoce a personas, empresas y organizaciones comprometidas con la inclusión y la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/11/los-premios-aspronauta-celebran-la-inclusion-y-el-compromiso-social-en-el-bierzo-el-bierzo-digital-scaled.jpg",
+    "pub": 1792599547,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Caja Rural continúa su expansión en Madrid con la apertura de su quinta oficina",
+    "link": "https://www.lanuevacronica.com/panorama/caja-rural-continua-su-expansion-en-madrid-con-apertura-su-quinta-oficina_205052_102.html",
+    "desc": "La entidad refuerza su presencia en la capital con un nuevo punto de atención en la calle Cea Bermúdez, consolidando su apuesta por el crecimiento, la cercanía y el servicio personalizado",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/27/5/image.jpeg",
+    "pub": 1792598681,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La inteligencia artificial, protagonista este jueves de las presentaciones del Enise",
+    "link": "https://www.lanuevacronica.com/actualidad/inteligencia-artificial-protagonista-este-jueves-presentaciones-enise_205050_102.html",
+    "desc": "Esta tecnología centrará las ponencias y talleres de la segunda jornada del evento que se celebra en el Palacio de Exposiciones de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/21/0/eniseleon.jpeg",
+    "pub": 1792598400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Fele rechaza la huelga general por su \"carácter político y ajeno al ámbito laboral\"",
     "link": "https://www.lanuevacronica.com/actualidad/fele-rechaza-huelga-general-por-su-caracter-ajeno-ambito-laboral_205048_102.html",
     "desc": "La Federación de Empresarios pone a disposición de las empresas una web para que las sociedades conozcan cómo pueden actuar ante el paro",
@@ -88,22 +112,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "El PSOE acusa al gobierno de Morala de actuar en Bárcena solo tras la intervención del Procurador del Común",
-    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-acusa-gobierno-morala-dejar-sin-ejecutar-inversiones-en-barcena-espinoso_205025_102.html",
-    "desc": "Cuestionan el destino de los 40.000 euros previstos en 2023 para la calle Ronda Saliente",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/92/9/barcena-vial-en-mal-estado.jpeg",
-    "pub": 1792584872,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "A información pública el convenio con Endesa para cubrir el Canal de Cornatel en Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/informacion-publica-convenio-con-endesa-cubrir-canal-cornatel-en-ponferrada_205013_102.html",
-    "desc": "El acuerdo permitirá impulsar la creación de un espacio público entre las calles Obispo Osmundo y Cruz de Miranda, una actuación incluida en el proyecto Ponferrada Inspira",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/12/78/2/canal-cornatel-ical.jpeg",
-    "pub": 1792584641,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Rober Pier: \"Ya me encuentro muy bien y voy a ir a más\"",
     "link": "https://www.lanuevacronica.com/deportes/rober-pier-ya-me-encuentro-muy-bien-voy-ir-mas_205041_102.html",
     "desc": "El central de la Cultural reconoce que \"físicamente necesitaba ese periodo de adaptación, pero voy mejorando pasito a pasito, ganando ritmo y sintiéndome cada vez más cómodo en el campo\"",
@@ -173,6 +181,14 @@
     "desc": "El PSOE de León ha registrado ante la Junta Electoral Provincial su candidatura al Congreso de los Diputados para las elecciones generales del próximo 29 de noviembre , con el secretario general…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-9.jpeg",
     "pub": 1792580983,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El rechazo ambiental y la pérdida de los permisos de conexión frenan el parque eólico El Páramo",
+    "link": "https://www.elbierzodigital.com/el-rechazo-ambiental-y-la-perdida-de-los-permisos-de-conexion-frenan-el-parque-eolico-el-paramo/",
+    "desc": "El Gobierno ha denegado la autorización administrativa previa al parque eólico El Páramo , un proyecto de 92,4 megavatios de potencia que contemplaba la instalación de 14 aerogeneradores en los…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2017/04/Las-primas-a-la-energia-eolica-son-esenciales-para-su-desarrollo_image_380.jpg",
+    "pub": 1792579840,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -341,22 +357,6 @@
     "desc": "Más de un año después de que el pleno del Ayuntamiento de Ponferrada celebrado el 19 de junio de 2025 acordara modificar la ordenanza que regula las tasas de los puestos del mercado exterior, dicha…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2020/07/mercado-mercadillo-ponferrada-30.jpeg",
     "pub": 1792487935,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "‘Miradas’ que impactan: el Hospital El Bierzo muestra cómo ven el mundo las personas con enfermedades oculares",
-    "link": "https://www.elbierzodigital.com/miradas-que-impactan-el-hospital-el-bierzo-muestra-como-ven-el-mundo-las-personas-con-enfermedades-oculares/",
-    "desc": "El Hospital El Bierzo acoge en sus consultas externas de Oftalmología la exposición ‘ Miradas ’, una iniciativa de la Asociación Retina Castilla y León que permite descubrir cómo ven el mundo las…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/miradas-que-impactan-el-hospital-el-bierzo-muestra-como-ven-el-mundo-las-personas-con-enfermedades-oculares-el-bierzo-digital-1.jpg",
-    "pub": 1792487702,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Policía Municipal de Ponferrada se cuelga el bronce en los European Police & Fire Games",
-    "link": "https://www.elbierzodigital.com/la-policia-municipal-de-ponferrada-se-cuelga-el-bronce-en-los-european-police-fire-games/",
-    "desc": "El subinspector de la Policía Municipal de Ponferrada, Samuel Osorio , logró la medalla de b ronce en la prueba de maratón MTB XCM de los IX European Police &amp; Fire Games (Juegos Europeos de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-policia-municipal-de-ponferrada-se-cuelga-el-bronce-en-los-european-police-fire-games-el-bierzo-digital.jpg",
-    "pub": 1792486498,
     "fuente": "El Bierzo Digital"
   },
   {
