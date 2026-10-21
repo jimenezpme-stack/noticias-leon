@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "El eurodiputado Alvise Pérez se planta en Botines en busca de avales para las elecciones",
+    "link": "https://www.lanuevacronica.com/actualidad/eurodiputado-alvise-perez-se-planta-en-botines-en-busca-avales-elecciones_205056_102.html",
+    "desc": "Su partido, Se Acabó la Fiesta, busca los apoyos para poder estar en los colegios electorales de la provincia el 29 de noviembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/34/9/alvise-perez-busca-en-leon-sumar-los-avales-necesarios-para-poder-presentarse-a-las-elecciones-generales.jpeg",
+    "pub": 1792601380,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Avanza a buen ritmo la construcción de un nuevo supermercado en La Bañeza",
+    "link": "https://www.lanuevacronica.com/actualidad/avanza-buen-ritmo-construccion-nuevo-supermercado-en-baneza_205054_102.html",
+    "desc": "El Ayuntamiento visita los trabajos del futuro espacio de la cadena alemana Lidl, situado junto a la N-VI, que abirá en 2027, contará con 110 plazas de aparcamiento y permitirá crear al menos 16…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/29/0/avanza-a-buen-ritmo-la-construccion-de-un-nuevo-supermercado-en-la-baneza.jpeg",
+    "pub": 1792600148,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Asprona Bierzo premia a Jesús Calleja, Álex Roca y Cruz Roja en la IV edición de los Aspronauta",
     "link": "https://www.elbierzodigital.com/asprona-bierzo-premia-jesus-calleja-alex-roca-cruz-roja-cuarta-edicion-aspronauta/",
     "desc": "Asprona Bierzo celebra este jueves, 22 de octubre, la IV edición de los Premios Aspronauta, con los que reconoce a personas, empresas y organizaciones comprometidas con la inclusión y la…",
@@ -37,14 +53,6 @@
     "desc": "El Centro Cívico del Crucero se llenó el pasado 15 de octubre para ver el documental de Valentín Costo sobre la vida de este montañero y sus hazañas",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/58/12/6/la-sala-estuvo-llena-en-el-homenaje-al-montanero-leones-herminio-valbuena-vicente-garcia.jpeg",
     "pub": 1792596713,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los abogados del turno de oficio de León podrían cobrar hasta un 80% más por caso",
-    "link": "https://www.lanuevacronica.com/actualidad/abogados-turno-oficio-leon-podrian-cobrar-hasta-80-mas-por-caso_205038_102.html",
-    "desc": "El Ministerio de Justicia negocia con el Consejo General de la Abogacía Española una nueva actualización de las retribuciones que, sumada a la de 2025, supondría un incremento general del 16,6% para…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/83/48/4/mauricio-1249103.jpeg",
-    "pub": 1792596594,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -144,14 +152,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El Gobierno tumba el parque eólico El Páramo, previsto para cuatro municipios del Bierzo",
-    "link": "https://www.lanuevacronica.com/el-bierzo/gobierno-tumba-parque-eolico-paramo-previsto-cuatro-municipios-bierzo_205010_102.html",
-    "desc": "El proyecto contemplaba una potencia de 92,4 megavatios entre Igüeña, Noceda del Bierzo, Páramo del Sil y Toreno y la decisión llega después de que la evaluación ambiental fuera desfavorable",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/34/9/parqueeolicola-nuevacronicaical2-1-4-1000x563-4-1000x563.jpeg",
-    "pub": 1792582746,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Más de 3.000 alumnos leoneses conocerán el teatro con sello de la provincia",
     "link": "https://www.lanuevacronica.com/el-bierzo/mas-3000-alumnos-leoneses-conoceran-teatro-con-sello-provincia_205028_102.html",
     "desc": "La campaña impulsada por Nath Teatro y el Instituto Leonés de Cultura suma 38 centros educativos y quiere fomentar el intercambio cultural entre los escolares del Bierzo y los del resto de la…",
@@ -237,6 +237,14 @@
     "desc": "La asociación Oncobierzo ha experimentado un gran salto nacional con « Escojo vida », una campaña que busca iluminar el mapa de España para reclamar que el código postal no determine la esperanza de…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/06/manifestacion-oncobierzo-el-bierzo-digital-66.jpg",
     "pub": 1792570965,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Ponferrada reúne a 40 profesionales sanitarios de toda España en un curso de estimulación cardiaca",
+    "link": "https://www.elbierzodigital.com/ponferrada-reune-a-40-profesionales-sanitarios-de-toda-espana-en-un-curso-de-estimulacion-cardiaca/",
+    "desc": "La Gerencia de Asistencia Sanitaria del Bierzo (Gasbi) ha celebrado la décima edición del Curso de Estimulación Cardiaca , una actividad formativa de ámbito nacional que ha reunido a 40…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-reune-a-40-profesionales-sanitarios-de-toda-espana-en-un-curso-de-estimulacion-cardiaca-el-bierzo-digital.jpeg",
+    "pub": 1792569628,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "El presidente del Partido Popular y candidato a la Presidencia del Gobierno, Alberto Núñez Feijóo, confirmó este martes que mantiene negociaciones con Vox para buscar una fórmula que impida al PSOE…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/03/mitin-feijoo-el-bierzo-digital-25-scaled.jpg",
     "pub": 1792488449,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PSOE lleva a los tribunales el incumplimiento del acuerdo plenario sobre las tasas del mercado exterior",
-    "link": "https://www.elbierzodigital.com/el-psoe-lleva-a-los-tribunales-el-incumplimiento-del-acuerdo-plenario-sobre-las-tasas-del-mercado-exterior/",
-    "desc": "Más de un año después de que el pleno del Ayuntamiento de Ponferrada celebrado el 19 de junio de 2025 acordara modificar la ordenanza que regula las tasas de los puestos del mercado exterior, dicha…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2020/07/mercado-mercadillo-ponferrada-30.jpeg",
-    "pub": 1792487935,
     "fuente": "El Bierzo Digital"
   },
   {
