@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "La importancia de contar con un seguro profesional para tu pyme",
+    "link": "https://www.lanuevacronica.com/estilo-vida/importancia-contar-con-seguro-profesional-tu-pyme_205011_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/36/4/image.jpeg",
+    "pub": 1792571263,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Gobierno tumba el parque eólico El Páramo, previsto para cuatro municipios del Bierzo",
+    "link": "https://www.lanuevacronica.com/el-bierzo/gobierno-tumba-parque-eolico-paramo-previsto-cuatro-municipios-bierzo_205010_102.html",
+    "desc": "El proyecto contemplaba una potencia de 92,4 megavatios entre Igüeña, Noceda del Bierzo, Páramo del Sil y Toreno, y la decisión llega después de que la evaluación ambiental fuera desfavorable",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/34/9/parqueeolicola-nuevacronicaical2-1-4-1000x563-4-1000x563.jpeg",
+    "pub": 1792571051,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Oncobierzo quiere iluminar España entera con “Escojo vida”",
+    "link": "https://www.elbierzodigital.com/oncobierzo-quiere-iluminar-espana-entera-con-escojo-vida/",
+    "desc": "La asociación Oncobierzo ha experimentado un gran salto nacional con « Escojo vida », una campaña que busca iluminar el mapa de España para reclamar que el código postal no determine la esperanza de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/06/manifestacion-oncobierzo-el-bierzo-digital-66.jpg",
+    "pub": 1792570965,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "'Escojo vida': la campaña que nace de Oncobierzo quiere iluminar a España por la sanidad pública",
+    "link": "https://www.lanuevacronica.com/el-bierzo/escojo-vida-campana-nace-oncobierzo-quiere-iluminar-espana-por-sanidad-publica_205009_102.html",
+    "desc": "La asociación berciana lanza un mapa interactivo que permite a cada ciudadano encender su código postal y reivindicar servicios como la oncología cercana, las operaciones sin esperas o la atención…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/34/05/3/tito.jpeg",
+    "pub": 1792570744,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Casa de León en Asturias celebra sus raíces con la Virgen del Camino y San Froilán",
+    "link": "https://www.lanuevacronica.com/actualidad/casa-leon-en-asturias-celebra-sus-raices-con-virgen-camino-san-froilan_205008_102.html",
+    "desc": "La asturleonesa Begoña Fernández-Costales pronunció el pregón en una jornada marcada por la emoción, la hermandad y los productos tradicionales",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/32/9/image.jpeg",
+    "pub": 1792570457,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Denuncian un vertido de lodos al Sil junto a la depuradora de Matarrosa",
     "link": "https://www.lanuevacronica.com/el-bierzo/denuncian-vertido-lodos-sil-junto-depuradora-matarrosa_204979_102.html",
     "desc": "Dos vecinos aseguran que observaron una descarga de residuos que enturbiaba el agua y avisaron a Emergencias",
@@ -100,38 +140,6 @@
     "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205001_102.html",
     "desc": "",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/57/28/8/21-10-2026-la-vineta-de-canton.jpeg",
-    "pub": 1792548000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cuando el cine también piensa: el leonés Pablo Huerga reivindica a los directores como filósofos",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/cuando-cine-tambien-piensa-leones-pablo-huerga-reivindica-directores-como-filosofos_204988_102.html",
-    "desc": "El filósofo leonés presenta su último libro Filosofía, cámara y acción donde defiende la capacidad del séptimo arte como un ámbito de reflexión porque \"puede decir más de lo que los argumentos…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/67/8/la-portada-de-la-obra-y-una-imagen-de-su-autor-el-leones-pablo-huerga-rema-y-vive.jpeg",
-    "pub": 1792548000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La música sonará este miércoles por el leonés Fredy Valbuena",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/musica-sonara-este-miercoles-por-leones-fredy-valbuena_204993_102.html",
-    "desc": "El Gran Café acoge un homenaje al músico, compositor y productor fallecido en marzo de este año",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/91/0/el-musico-fredy-valbuena-en-una-imagen-de-archivo-vicente-garcia.jpeg",
-    "pub": 1792548000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La obra del cruce de La Granja de León entra en su fase principal a finales de año",
-    "link": "https://www.lanuevacronica.com/actualidad/obra-cruce-granja-leon-entra-en-su-fase-principal-finales-ano_204956_102.html",
-    "desc": "El soterramiento de la ronda este avanza según lo previsto y los carriles de circulación ocuparán la mediana para iniciar las escolleras y los muros del paso inferior en los laterales",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/03/4/frame-granja.jpeg",
-    "pub": 1792548000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Antiguo monasterio de Trianos (contemplación de ruinas)",
-    "link": "https://www.lanuevacronica.com/opinion/antiguo-monasterio-trianos-contemplacion-ruinas_204987_102.html",
-    "desc": "",
-    "img": null,
     "pub": 1792548000,
     "fuente": "La Nueva Crónica"
   },
@@ -349,14 +357,6 @@
     "desc": "El vicepresidente primero de la Junta de Castilla y León, Carlos Pollán , y la vicepresidenta segunda, Isabel Blanco, han asistido este lunes a la presentación de los retratos de los expresidentes…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/las-cortes-de-castilla-y-leon-homenajean-a-sus-expresidentes-con-una-galeria-de-retratos-el-bierzo-digital.jpg",
     "pub": 1792410909,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Campus de Ponferrada celebra 30 años de historia a través de la literatura",
-    "link": "https://www.elbierzodigital.com/el-campus-de-ponferrada-celebra-30-anos-de-historia-a-traves-de-la-literatura/",
-    "desc": "La Biblioteca del Campus de Ponferrada de la Universidad de León ha inaugurado en la mañana de este lunes 19 de octubre el ciclo ‘30 años entre páginas’ , una iniciativa conmemorativa de su XXX…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-campus-de-ponferrada-celebra-30-anos-de-historia-a-traves-de-la-literatura-el-bierzo-digital.jpeg",
-    "pub": 1792409554,
     "fuente": "El Bierzo Digital"
   },
   {
