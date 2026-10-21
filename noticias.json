@@ -1,10 +1,58 @@
 [
   {
+    "titulo": "Francia respalda la aplicación sobre el chopo desarrollada en el Campus de Ponferrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/francia-respalda-aplicacion-sobre-chopo-desarrollada-en-campus-ponferrada_205022_102.html",
+    "desc": "AppPopuli+ convence a más de 50 propietarios y técnicos forestales y reúne ya cientos de observaciones de cuatro países europeos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/55/6/apppopuli-francia-2.jpeg",
+    "pub": 1792575521,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La ULE ayudará a más de mil universitarios a dar el salto al mercado laboral",
+    "link": "https://www.lanuevacronica.com/actualidad/ule-ayudara-mas-mil-universitarios-dar-salto-mercado-laboral_205021_102.html",
+    "desc": "El programa TalentoCYL ofrece orientación gratuita y personalizada para preparar entrevistas, mejorar currículums y conectar a los estudiantes con las empresas leonesas.",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/53/8/eduardo-diego-delegado-territorial-de-la-junta-interviene-durannte-la-presentancion-de-talentocyl.jpeg",
+    "pub": 1792575494,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un aparatoso incendio calcina un vehículo de madrugada en Fabero",
+    "link": "https://www.elbierzodigital.com/un-aparatoso-incendio-calcina-un-vehiculo-de-madrugada-en-fabero/",
+    "desc": "Un vehículo ardió esta madrugada en Fabero, en un incendio registrado en torno a las 3.15 horas en la calle Gil y Carrasco . Las llamas alcanzaron gran intensidad y el suceso provocó un aparatoso…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/un-aparatoso-incendio-calcina-un-vehiculo-de-madrugada-en-fabero-el-bierzo-digital.jpg",
+    "pub": 1792575452,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Los futuros hematólogos de la comunidad serán protagonistas en León",
     "link": "https://www.lanuevacronica.com/actualidad/futuros-hematologos-comunidad-seran-protagonistas-en-leon_205016_102.html",
     "desc": "El Hotel Real Colegiata de San Isidoro acogerá las 4ª Jornadas de Residentes de la Sociedad Castellana y Leonesa de Hematología y Hemoterapia",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/57/46/1/image.jpeg",
-    "pub": 1792573425,
+    "pub": 1792574898,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El PSOE de León registra su candidatura al Congreso de los Diputados con Cendón al frente",
+    "link": "https://www.lanuevacronica.com/actualidad/psoe-leon-registra-su-candidatura-congreso-diputados-con-cendon-frente_205019_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/49/6/candidatura-del-psoe-de-leon-al-congreso.jpeg",
+    "pub": 1792574884,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El mundo desde abajo de Valentín Carrera se presenta en el Festival Periplo",
+    "link": "https://www.lanuevacronica.com/el-bierzo/mundo-abajo-valentin-carrera-se-presenta-en-festival-periplo_205018_102.html",
+    "desc": "Puerto de la Cruz acoge siete días de literatura y más de treinta autores en el Festival Internacional de Literatura de Viajes",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/47/6/libro-y-autor.jpeg",
+    "pub": 1792574167,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Csif alerta del mal estado de las camas del Hospital del Bierzo tras el accidente de un celador",
+    "link": "https://www.lanuevacronica.com/el-bierzo/csif-alerta-mal-estado-camas-hospital-bierzo-accidente-celador_205017_102.html",
+    "desc": "El sindicato reclama una evaluación urgente de los riesgos ergonómicos, la retirada de los equipos defectuosos y la compra de una silla adaptada para pacientes con obesidad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/96/82/8/fachada-del-hospital-universitario-el-bierzo-4-1000x563.jpeg",
+    "pub": 1792574040,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -118,46 +166,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-12.23.47-1-el-bierzo-digital.jpeg",
     "pub": 1792564249,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Platero y nosotros",
-    "link": "https://www.lanuevacronica.com/opinion/platero-nosotros_205003_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792551600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Medalla de oro",
-    "link": "https://www.lanuevacronica.com/opinion/medalla-oro_205000_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792550700,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El beso y la Mujer Araña",
-    "link": "https://www.lanuevacronica.com/opinion/beso-mujer-arana_205007_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792549800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Pudieron. No quisieron",
-    "link": "https://www.lanuevacronica.com/opinion/pudieron-no-quisieron_205002_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792549500,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los hombres que NO aman a las mujeres",
-    "link": "https://www.lanuevacronica.com/opinion/hombres-no-aman-mujeres_205006_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792549200,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Abascal advierte en Ponferrada de que España puede seguir el camino de Francia si no hay un cambio político",
@@ -349,14 +357,6 @@
     "desc": "La portavoz del Grupo Popular en el Congreso, Ester Muñoz, volverá a encabezar la candidatura del PP de León a la Cámara Baja en las próximas elecciones generales del 29 de noviembre. Así lo…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ester-munoz-repetira-como-cabeza-de-lista-del-pp-de-leon-al-congreso-el-bierzo-digital.jpeg",
     "pub": 1792433391,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PSOE acusa a Morala de provocar el cierre del bar Ágora y la pérdida de diez empleos",
-    "link": "https://www.elbierzodigital.com/el-psoe-acusa-a-morala-de-provocar-el-cierre-del-bar-agora-y-la-perdida-de-diez-empleos/",
-    "desc": "El Grupo Municipal Socialista de Ponferrada acusa al alcalde, Marco Morala, de falta de previsión e inacción en la gestión de la concesión del bar Ágora , situado en el parque del Temple, cuyo…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-acusa-a-morala-de-provocar-el-cierre-del-bar-agora-y-la-perdida-de-diez-empleos-el-bierzo-digital.jpeg",
-    "pub": 1792425217,
     "fuente": "El Bierzo Digital"
   },
   {
