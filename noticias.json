@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Platero y nosotros",
+    "link": "https://www.lanuevacronica.com/opinion/platero-nosotros_205003_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792551600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Medalla de oro",
     "link": "https://www.lanuevacronica.com/opinion/medalla-oro_205000_102.html",
     "desc": "",
@@ -126,14 +134,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/mitin-vox-santiago-abascal-el-bierzo-digital-14.jpeg",
     "pub": 1792520774,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Pablo Calvo volverá a encabezar la lista de Vox al Congreso por León",
-    "link": "https://www.lanuevacronica.com/actualidad/pablo-calvo-volvera-encabezar-lista-vox-congreso-por-leon_204996_102.html",
-    "desc": "Carlos Pollán ha anunciado la candidatura del exdiputado leonés durante el mitin que la formación ha celebrado este martes en Ponferrada, con la presencia de Santiago Abascal",
-    "img": "https://www.lanuevacronica.com/uploads/s1/15/49/23/pablo-calvo-vox-leon-19062023.jpeg",
-    "pub": 1792520143,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Halloween en el Bierzo: ¿dónde quieres pasar miedo?",
