@@ -1,18 +1,74 @@
 [
   {
+    "titulo": "Los futuros hematólogos de la comunidad serán protagonistas en León",
+    "link": "https://www.lanuevacronica.com/actualidad/futuros-hematologos-comunidad-seran-protagonistas-en-leon_205016_102.html",
+    "desc": "El Hotel Real Colegiata de San Isidoro acogerá las 4ª Jornadas de Residentes de la Sociedad Castellana y Leonesa de Hematología y Hemoterapia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/46/1/image.jpeg",
+    "pub": 1792573425,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Vertidos de lodos en el río Sil o cuando la administración ataca lo que debería proteger",
+    "link": "https://www.lanuevacronica.com/el-bierzo/vertidos-lodos-en-rio-sil-cuando-administracion-ataca-deberia-proteger_205015_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/43/9/vaciadolodos-2.jpeg",
+    "pub": 1792573117,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El parahuso del hojalatero",
+    "link": "https://www.lanuevacronica.com/a-la-contra-2/parahuso-hojalatero_205014_102.html",
+    "desc": "La última de La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/42/3/imagen-423a0005.jpeg",
+    "pub": 1792572509,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Térmica Cultural y el Museo de la Energía llenan la semana de música, talleres y visitas guiadas",
+    "link": "https://www.elbierzodigital.com/termica-cultural-museo-energia-llenan-la-semana-de-musica-talleres-y-visitas-guiadas/",
+    "desc": "La Térmica Cultural y La Fábrica de Luz. Museo de la Energía ofrecen esta semana una agenda cultural con música en directo, cine, talleres infantiles y visitas guiadas para conocer el patrimonio…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-termica-cultural-y-el-museo-de-la-energia-llenan-la-semana-de-musica-talleres-y-visitas-guiadas-el-bierzo-digital.jpg",
+    "pub": 1792572305,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Una IA nacida en Ponferrada cruza fronteras para detectar plagas en los chopos",
+    "link": "https://www.elbierzodigital.com/una-ia-nacida-en-ponferrada-cruza-fronteras-para-detectar-plagas-en-los-chopos/",
+    "desc": "La Universidad de León avanza hacia una red europea de vigilancia sanitaria de las choperas gracias a AppPopuli+ , una aplicación con inteligencia artificial desarrollada en el Campus de Ponferrada…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/una-ia-nacida-en-ponferrada-cruza-fronteras-para-detectar-plagas-en-los-chopos-el-bierzo-digital.jpg",
+    "pub": 1792572041,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El Gobierno tumba el parque eólico El Páramo, previsto para cuatro municipios del Bierzo",
+    "link": "https://www.lanuevacronica.com/el-bierzo/gobierno-tumba-parque-eolico-paramo-previsto-cuatro-municipios-bierzo_205010_102.html",
+    "desc": "El proyecto contemplaba una potencia de 92,4 megavatios entre Igüeña, Noceda del Bierzo, Páramo del Sil y Toreno y la decisión llega después de que la evaluación ambiental fuera desfavorable",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/34/9/parqueeolicola-nuevacronicaical2-1-4-1000x563-4-1000x563.jpeg",
+    "pub": 1792571970,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "A información pública el convenio con Endesa para cubrir el Canal de Cornatel en Ponferrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/informacion-publica-convenio-con-endesa-cubrir-canal-cornatel-en-ponferrada_205013_102.html",
+    "desc": "El acuerdo permitirá impulsar la creación de un espacio público entre las calles Obispo Osmundo y Cruz de Miranda, una actuación incluida en el proyecto Ponferrada Inspira",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/12/78/2/canal-cornatel-ical.jpeg",
+    "pub": 1792571948,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada reúne a especialistas de diez comunidades en un curso de estimulación cardiaca",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-reune-especialistas-diez-comunidades-en-curso-estimulacion-cardiaca_205012_102.html",
+    "desc": "La décima edición de la iniciativa de la Gasbi cuenta con 25 médicos y 15 profesionales de Enfermería para profundizar en el manejo de marcapasos y otros dispositivos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/40/3/celebracion-de-la-x-edicion-del-curso-de-estimulacion-cardiaca-organizado-por-la-gasbi-4.jpeg",
+    "pub": 1792571450,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La importancia de contar con un seguro profesional para tu pyme",
     "link": "https://www.lanuevacronica.com/estilo-vida/importancia-contar-con-seguro-profesional-tu-pyme_205011_102.html",
     "desc": "",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/57/36/4/image.jpeg",
     "pub": 1792571263,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Gobierno tumba el parque eólico El Páramo, previsto para cuatro municipios del Bierzo",
-    "link": "https://www.lanuevacronica.com/el-bierzo/gobierno-tumba-parque-eolico-paramo-previsto-cuatro-municipios-bierzo_205010_102.html",
-    "desc": "El proyecto contemplaba una potencia de 92,4 megavatios entre Igüeña, Noceda del Bierzo, Páramo del Sil y Toreno, y la decisión llega después de que la evaluación ambiental fuera desfavorable",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/34/9/parqueeolicola-nuevacronicaical2-1-4-1000x563-4-1000x563.jpeg",
-    "pub": 1792571051,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -54,14 +110,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-11.17.36-el-bierzo-digital.jpeg",
     "pub": 1792567526,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La leonesa que triunfa en la cuna de la moda nacional",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/leonesa-triunfa-en-cuna-moda-nacional_204961_102.html",
-    "desc": "Con más de 50.000 seguidores en Instagram, Lorena Manceñido se ha hecho un nombre propio en el sector textil gracias al éxito de su 'Academia 13 Razones', un proyecto que comenzó en A Coruña y que…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/10/7/lorena-mancenido-rey-es-la-cara-visible-de-la-academia-13-razones-un-centro-de-formacion-especializado-de-referencia-nacional.jpeg",
-    "pub": 1792567113,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El puente de La Valiña-Requejo encara la recta final tras una reconstrucción integral de 360.000 euros",
@@ -109,38 +157,6 @@
     "desc": "",
     "img": null,
     "pub": 1792549200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Pitma Generación refuerza su apuesta por el gas renovable con tres proyectos en la provincia",
-    "link": "https://www.lanuevacronica.com/especiales/pitma-generacion-refuerza-su-apuesta-por-gas-renovable-con-tres-proyectos-en-provincia_204975_102.html",
-    "desc": "La compañía avanza en sus planes para producir gas renovable a partir de recursos agroganaderos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/48/7/la-provincia-de-leon-concentra-tres-de-los-proyectos-de-gas-renovable-de-la-compania-pitma-generacion.jpeg",
-    "pub": 1792548300,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Donde menos lo esperes aparece uno de León",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/donde-menos-esperes-aparece-leon_205005_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792548000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León sale a buscar las oportunidades",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/leon-sale-buscar-las-oportunidades_205004_102.html",
-    "desc": "El encuentro celebrado en Madrid permite mostrar las fortalezas de la provincia leonesa ante quienes pueden convertirlas en inversiones, actividad económica y empleo que tanto necesita nuestra…",
-    "img": null,
-    "pub": 1792548000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205001_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/28/8/21-10-2026-la-vineta-de-canton.jpeg",
-    "pub": 1792548000,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -341,22 +357,6 @@
     "desc": "El Grupo Municipal Socialista de Ponferrada acusa al alcalde, Marco Morala, de falta de previsión e inacción en la gestión de la concesión del bar Ágora , situado en el parque del Temple, cuyo…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-acusa-a-morala-de-provocar-el-cierre-del-bar-agora-y-la-perdida-de-diez-empleos-el-bierzo-digital.jpeg",
     "pub": 1792425217,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PP destaca la inversión para los polígonos industriales del Bierzo en los Presupuestos de Castilla y León",
-    "link": "https://www.elbierzodigital.com/el-pp-destaca-la-inversion-para-los-poligonos-industriales-del-bierzo-en-los-presupuestos-de-castilla-y-leon/",
-    "desc": "El procurador berciano del PP, Neftalí Fernández, analizó este lunes el proyecto de Presupuestos de Castilla y León presentado la semana pasada por el presidente autonómico, Alfonso Fernández…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-pp-destaca-la-inversion-para-los-poligonos-industriales-del-bierzo-en-los-presupuestos-de-castilla-y-leon-el-bierzo-digital.jpg",
-    "pub": 1792411125,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Las Cortes de Castilla y León homenajean a sus expresidentes con una galería de retratos",
-    "link": "https://www.elbierzodigital.com/las-cortes-de-castilla-y-leon-homenajean-a-sus-expresidentes-con-una-galeria-de-retratos/",
-    "desc": "El vicepresidente primero de la Junta de Castilla y León, Carlos Pollán , y la vicepresidenta segunda, Isabel Blanco, han asistido este lunes a la presentación de los retratos de los expresidentes…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/las-cortes-de-castilla-y-leon-homenajean-a-sus-expresidentes-con-una-galeria-de-retratos-el-bierzo-digital.jpg",
-    "pub": 1792410909,
     "fuente": "El Bierzo Digital"
   },
   {
