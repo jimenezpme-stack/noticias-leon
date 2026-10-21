@@ -1,10 +1,34 @@
 [
   {
+    "titulo": "Rober Pier: \"Ya me encuentro muy bien y voy a ir a más\"",
+    "link": "https://www.lanuevacronica.com/deportes/rober-pier-ya-me-encuentro-muy-bien-voy-ir-mas_205041_102.html",
+    "desc": "El central de la Cultural reconoce que \"físicamente necesitaba ese periodo de adaptación, pero voy mejorando pasito a pasito, ganando ritmo y sintiéndome cada vez más cómodo en el campo\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/69/00/0/rober-pier-camiseta.jpeg",
+    "pub": 1792584597,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El ministro Óscar López no se moja sobre si Diez será el candidato del PSOE al Ayuntamiento de León",
+    "link": "https://www.lanuevacronica.com/actualidad/ministro-oscar-lopez-no-se-moja-sobre-si-diez-sera-candidato-psoe-ayuntamiento-leon_205043_102.html",
+    "desc": "El representante gubernamental no confirma al actual regidor siendo preguntado por la prensa local",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/05/8/frame-21oscarlopez.jpeg",
+    "pub": 1792584341,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Gerencia sanitaria del Bierzo asegura que ya estaba revisando las camas antes de la denuncia de su estado",
+    "link": "https://www.lanuevacronica.com/el-bierzo/gerencia-sanitaria-bierzo-asegura-ya-estaba-revisando-camas-antes-denuncia-su-estado_205042_102.html",
+    "desc": "La Gerencia señala que el Comité de Seguridad y Salud se reunirá este viernes para abordar cuestiones de prevención",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/39/41/1/hospitalbierzoarchivo-2-4-4-4-1000x563-4-1000x563-4-1000x563-4-1000x563.jpeg",
+    "pub": 1792584328,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La ciberseguridad sigue ganando peso en la economía leonesa: alcanzará los 10.000 empleos en 2027",
     "link": "https://www.lanuevacronica.com/actualidad/ciberseguridad-sigue-ganando-peso-en-economia-leonesa-alcanzara-los10000-empleos-en-2027_205037_102.html",
     "desc": "Este miércoles se ha inaugurado la vigésima edición del Enise, el evento que organiza el Incibe en el Palacio de Exposiciones y que reúne a casi 200 empresas e instituciones vinculadas al sector",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/58/00/6/frame-21enise.jpeg",
-    "pub": 1792583345,
+    "pub": 1792583504,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -136,14 +160,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Detienen a un hombre en San Andrés por tráfico de drogas tras ocupar una casa",
-    "link": "https://www.lanuevacronica.com/actualidad/detienen-hombre-en-san-andres-por-trafico-drogas-ocupar-casa_205029_102.html",
-    "desc": "La Policía Nacional y Local recuperó joyas, una cubertería y otros efectos, además de localizar marihuana en el inmueble",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/62/1/la-policia-nacional-y-local-recupero-joyas-una-cuberteria-y-otros-efectos-ademas-de-localizar-marihuana-en-el-inmueble.jpeg",
-    "pub": 1792577334,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "CSIF alerta del peligro de las camas del Hospital del Bierzo tras un accidente laboral de un celador",
     "link": "https://www.elbierzodigital.com/csif-alerta-del-peligro-de-las-camas-del-hospital-del-bierzo-tras-un-accidente-laboral-de-un-celador/",
     "desc": "CSIF reclama soluciones urgentes a la Gerencia de Asistencia Sanitaria del Bierzo (Gasbi) por el mal estado de parte de las camas hospitalarias y la falta de equipos adecuados para movilizar…",
@@ -152,28 +168,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Debut en Copa sin televisión",
-    "link": "https://www.lanuevacronica.com/deportes/debut-en-copa-sin-television_205026_102.html",
-    "desc": "La Cultural no tendrá retransmisión frente a la Segoviana en una cita para la cual sus seguidores disponen de 150 entradas / El partido de la Ponferradina ante el Llanera tampoco podrá verse",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/34/51/8/cultural-athletic-34.jpeg",
-    "pub": 1792576869,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "‘Thea Tryn’ lleva el teatro a las aulas rurales del Bierzo",
     "link": "https://www.elbierzodigital.com/thea-tryn-lleva-el-teatro-a-las-aulas-rurales-del-bierzo/",
     "desc": "La Diputación de León ha presentado en Ponferrada la tercera edición de ‘Thea Tryn’ , la campaña de teatro escolar impulsada desde el Instituto Leonés de Cultura (ILC) para acercar las artes…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/thea-tryn-lleva-el-teatro-y-la-identidad-leonesa-a-las-aulas-rurales-del-bierzo-el-bierzo-digital.jpeg",
     "pub": 1792576081,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Reclaman un futuro común para las estaciones de esquí de León y Asturias",
-    "link": "https://www.lanuevacronica.com/actualidad/reclaman-futuro-comun-estaciones-esqui-leon-asturias_205024_102.html",
-    "desc": "Nieve y Montaña de Asturias y Leitariegos es Futuro defienden un modelo compartido para los cuatro complejos de esquí y montaña de ambos territorios.",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/58/8/imagen-de-archivo-de-una-concentracion-en-leitariegos-reclamando-inversiones-y-futuro.jpeg",
-    "pub": 1792575906,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Térmica Cultural y el Museo de la Energía llenan la semana de música, talleres y visitas guiadas",
