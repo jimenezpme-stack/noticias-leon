@@ -1,10 +1,50 @@
 [
   {
-    "titulo": "Dos de cada tres familias en León tienen problemas para pagar la vivienda",
+    "titulo": "El Hospital de la Reina abre una unidad para detectar enfermedades cardiovasculares",
+    "link": "https://www.elbierzodigital.com/el-hospital-de-la-reina-de-ponferrada-abre-una-unidad-para-detectar-enfermedades-cardiovasculares/",
+    "desc": "El Hospital de la Reina de Ponferrada ha puesto en marcha una nueva Unidad de Prevención Cardiovascular dirigida a detectar alteraciones cardíacas en personas que todavía no presentan síntomas, pero…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-hospital-de-la-reina-de-ponferrada-abre-una-unidad-para-detectar-enfermedades-cardiovasculares-el-bierzo-digital.jpeg",
+    "pub": 1792669599,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Cáritas Diocesana atiende en León a un 6,4% más de personas sin hogar que en 2025",
     "link": "https://www.lanuevacronica.com/actualidad/dos-cada-tres-familias-en-leon-tienen-problemas-pagar-vivienda_205097_102.html",
     "desc": "Cáritas Diocesana de León ha puesto de relieve la problemática del sinhogarismo en un año en el que han ayudado a 20 personas más que el año pasado con esta condición",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/59/23/8/whatsapp-image-2026-10-22-at-12-26-03.jpeg",
-    "pub": 1792667237,
+    "pub": 1792669035,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cáritas atiende a más de 2.000 personas sin hogar en Ponferrada en lo que va de año",
+    "link": "https://www.elbierzodigital.com/caritas-atiende-a-mas-de-2-000-personas-sin-hogar-en-ponferrada-en-lo-que-va-de-ano/",
+    "desc": "Cáritas Diocesana ha atendido a un total de 2.269 personas en situación de vulnerabilidad en sus recursos de atención a personas sin hogar de Ponferrada y Astorga entre enero y septiembre de 2026.…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/caritas-atiende-a-mas-de-2-000-personas-sin-hogar-en-ponferrada-en-lo-que-va-de-ano-el-bierzo-digital.jpg",
+    "pub": 1792668594,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Lindqvist sólo saldrá si el Ademar cierra un sustituto",
+    "link": "https://www.lanuevacronica.com/deportes/lindqvist-solo-saldra-si-ademar-cierra-sustituto_205096_102.html",
+    "desc": "El lateral sueco tiene una oferta del extranjero que pagaría traspaso y quiere salir, pero el equipo leonés rastrea el mercado de primeras líneas antes de dar luz verde a la operación",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/00/11/7/ademar-cuenca-11.jpeg",
+    "pub": 1792668410,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Junta destina 420.000 euros a reforzar la prevención de incendios forestales en siete municipios del Bierzo",
+    "link": "https://www.elbierzodigital.com/la-junta-destina-420-000-euros-a-reforzar-la-prevencion-de-incendios-forestales-en-siete-municipios-del-bierzo/",
+    "desc": "La Junta de Castilla y León ha autorizado una inversión cercana a los 420.000 euros para reforzar la prevención y extinción de incendios forestales en siete municipios de la comarca forestal de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/08/cicatrices-en-el-paisaje-de-villafranca-del-bierzo-tras-el-fuego-el-bierzo-digital-4.jpeg",
+    "pub": 1792668354,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "León refuerza la seguridad en el cementerio por Todos los Santos con 152 efectivos policiales",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-refuerza-seguridad-en-cementerio-por-todos-santos-con-152-servicios-policiales_205090_102.html",
+    "desc": "El Ayuntamiento habilitará cerca de 600 plazas de aparcamiento y amplíará las líneas de autobús para facilitar las visitas al camposanto entre el 30 de octubre y el 2 de noviembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/04/9/un-instante-de-la-rueda-de-prensa-de-presentacion-del-dispositivo-especial-para-el-dia-de-todos-los-santos.jpeg",
+    "pub": 1792667762,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -40,14 +80,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "León refuerza la seguridad en el cementerio por Todos los Santos con 152 efectivos policiales",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-refuerza-seguridad-en-cementerio-por-todos-santos-con-152-servicios-policiales_205090_102.html",
-    "desc": "El Ayuntamiento habilitará cerca de 600 plazas de aparcamiento y amplíará las líneas de autobús para facilitar las visitas al camposanto entre el 30 de octubre y el 2 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/04/9/un-instante-de-la-rueda-de-prensa-de-presentacion-del-dispositivo-especial-para-el-dia-de-todos-los-santos.jpeg",
-    "pub": 1792666626,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El parque del Oeste, en La Rosaleda, estrena nueva pérgola",
     "link": "https://www.lanuevacronica.com/el-bierzo/parque-oeste-en-rosaleda-estrena-nueva-pergola_205093_102.html",
     "desc": "La estructura presentaba un avanzado deterioro por el paso del tiempo y las inclemencias meteorológicas, lo que había provocado numerosas quejas de los vecinos del barrio ponferradino",
@@ -61,14 +93,6 @@
     "desc": "La Feria de los Productos de León se celebra desde este viernes por la tarde en Gijón, con desfile de pendones, degustaciones y presentaciones gastronómicas",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/59/11/9/feriagijon.jpeg",
     "pub": 1792666352,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El favorito al ascenso del Grupo II primero y el líder de Primera FEB después",
-    "link": "https://www.lanuevacronica.com/deportes/favorito-ascenso-grupo-ii-primero-lider-primera-feb-despues_205086_102.html",
-    "desc": "La Cultural recibirá en octavos de Copa al Sant Antoni, el 17 o 18 de noviembre, con la opción si pasa de llevarse ya los 15.000 euros de premio al mejor de Segunda FEB y cruzarse con Alicante",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/59/8/cultural-oviedo-2.jpeg",
-    "pub": 1792666312,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -104,6 +128,14 @@
     "fuente": "La Nueva Crónica"
   },
   {
+    "titulo": "El Campus de Ponferrada reúne a expertos en IA, chips implantables y resistencia a los antibióticos",
+    "link": "https://www.elbierzodigital.com/el-campus-de-ponferrada-reune-a-expertos-en-ia-chips-implantables-y-resistencia-a-los-antibioticos/",
+    "desc": "La inteligencia artificial (IA) ya contribuye a investigar nuevas estrategias contra la resistencia a los antibióticos y al desarrollo de chips que, en un futuro próximo, podrán implantarse en el…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/psoe-y-frente-amplio-se-reparten-los-puestos-clave-al-senado-en-castilla-y-leon-el-bierzo-digital-1.jpeg",
+    "pub": 1792664191,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "El PSOE reclama un profesor para el grado de FP de Emergencias en Ponferrada",
     "link": "https://www.elbierzodigital.com/el-psoe-reclama-un-profesor-para-el-grado-de-fp-de-emergencias-en-ponferrada/",
     "desc": "El PSOE de Ponferrada denunció este jueves que el ciclo de FP de grado medio en Emergencias que se imparte en la capital berciana ha comenzado sin un docente que se encargue de algunas de las…",
@@ -126,6 +158,14 @@
     "img": "https://www.lanuevacronica.com/uploads/s1/35/58/96/7/astorga-invierte-45-000-euros-en-mejorar-el-camino-de-santiago-al-paso-por-murias-de-rechivaldo.jpeg",
     "pub": 1792661441,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada aúna el Mercado de Otoño y el Magosto el 31 de octubre",
+    "link": "https://www.elbierzodigital.com/ponferrada-auna-el-mercado-de-otono-y-el-magosto-el-31-de-octubre/",
+    "desc": "Ponferrada aunará el próximo 31 de octubre el Mercado de Otoño y el Magosto con el doble objetivo de promocionar los productos y las tradiciones locales y, a la vez, atraer al mayor número posible…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-auna-el-mercado-de-otono-y-el-magosto-el-31-de-octubre-el-bierzo-digital-2.jpg",
+    "pub": 1792660718,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "La Redención organiza este fin de semana los tradicionales cultos a Nuestra Madre de la Divina Gracia",
@@ -184,11 +224,11 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El Campus de Ponferrada reúne a expertos en IA, chips implantables y resistencia a los antibióticos",
-    "link": "https://www.elbierzodigital.com/el-campus-de-ponferrada-reune-a-expertos-en-ia-chips-implantables-y-resistencia-a-los-antibioticos/",
-    "desc": "La inteligencia artificial (IA) ya contribuye a investigar nuevas estrategias contra la resistencia a los antibióticos y al desarrollo de chips que, en un futuro próximo, podrán implantarse en el…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/psoe-y-frente-amplio-se-reparten-los-puestos-clave-al-senado-en-castilla-y-leon-el-bierzo-digital-1.jpeg",
-    "pub": 1792646191,
+    "titulo": "Ponferrada inicia la renovación de la pérgola del parque del Oeste, en La Rosaleda",
+    "link": "https://www.elbierzodigital.com/ponferrada-inicia-la-renovacion-de-la-pergola-del-parque-del-oeste-en-la-rosaleda/",
+    "desc": "La Brigada de Obras del Ayuntamiento de Ponferrada ha iniciado la colocación de la cubierta de la pérgola del parque del Oeste , situado en el barrio de La Rosaleda, con el objetivo de completar la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-inicia-la-renovacion-de-la-pergola-del-parque-del-oeste-en-la-rosaleda-el-bierzo-digital.jpeg",
+    "pub": 1792651106,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -317,46 +357,6 @@
     "desc": "La asociación Oncobierzo ha experimentado un gran salto nacional con « Escojo vida », una campaña que busca iluminar el mapa de España para reclamar que el código postal no determine la esperanza de…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/06/manifestacion-oncobierzo-el-bierzo-digital-66.jpg",
     "pub": 1792570965,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ponferrada reúne a 40 profesionales sanitarios de toda España en un curso de estimulación cardiaca",
-    "link": "https://www.elbierzodigital.com/ponferrada-reune-a-40-profesionales-sanitarios-de-toda-espana-en-un-curso-de-estimulacion-cardiaca/",
-    "desc": "La Gerencia de Asistencia Sanitaria del Bierzo (Gasbi) ha celebrado la décima edición del Curso de Estimulación Cardiaca , una actividad formativa de ámbito nacional que ha reunido a 40…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-reune-a-40-profesionales-sanitarios-de-toda-espana-en-un-curso-de-estimulacion-cardiaca-el-bierzo-digital.jpeg",
-    "pub": 1792569628,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Antolín de Cela: “Me daba vergüenza cerrar el Hospital de la Reina y pedí mil millones para salvarlo”",
-    "link": "https://www.elbierzodigital.com/antolin-de-cela-me-daba-verguenza-cerrar-el-hospital-de-la-reina-y-pedi-mil-millones-para-salvarlo/",
-    "desc": "El rector de la Basílica de la Encina, Antolín de Cela , hace balance en un Desayuno Digital de sus cinco décadas en Ponferrada marcadas por su labor pastoral, docente y de defensa del patrimonio.…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-11.17.36-el-bierzo-digital.jpeg",
-    "pub": 1792567526,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El puente de La Valiña-Requejo encara la recta final tras una reconstrucción integral de 360.000 euros",
-    "link": "https://www.elbierzodigital.com/el-puente-de-la-valina-requejo-encara-la-recta-final-tras-una-reconstruccion-integral-de-360-000-euros/",
-    "desc": "El puente colgante de La Valiña-Requejo , que conecta ambas localidades sobre el cauce del río Sil , en el municipio de Toral de los Vados , encara la recta final de su reconstrucción . El alcalde,…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-12.23.47-1-el-bierzo-digital.jpeg",
-    "pub": 1792564249,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Un aparatoso incendio calcina un vehículo de madrugada en Fabero",
-    "link": "https://www.elbierzodigital.com/un-aparatoso-incendio-calcina-un-vehiculo-de-madrugada-en-fabero/",
-    "desc": "Un vehículo ardió esta madrugada en Fabero, en un incendio registrado en torno a las 3.15 horas en la calle Gil y Carrasco . Las llamas alcanzaron gran intensidad y el suceso provocó un aparatoso…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/un-aparatoso-incendio-calcina-un-vehiculo-de-madrugada-en-fabero-el-bierzo-digital.jpg",
-    "pub": 1792562432,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Self Bank: opiniones y experiencias de clientes al invertir en bolsa",
-    "link": "https://www.elbierzodigital.com/self-bank-opiniones-y-experiencias-de-clientes-al-invertir-en-bolsa/",
-    "desc": "Elegir un bróker no consiste únicamente en comparar cuánto cuesta comprar una acción. También importa qué gastos puede generar mantenerla en cartera , qué información está disponible antes de operar…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-10.jpg",
-    "pub": 1792558347,
     "fuente": "El Bierzo Digital"
   },
   {
