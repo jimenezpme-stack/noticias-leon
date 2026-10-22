@@ -1,11 +1,43 @@
 [
   {
+    "titulo": "La Cultural tropieza con la madera",
+    "link": "https://www.lanuevacronica.com/deportes/cultural-tropieza-con-madera_205120_102.html",
+    "desc": "El equipo leonés ha dado seis palos en seis partidos diferentes, siendo el que más de toda la Primera Federación y estando ya a sólo uno de los que tuvo en la temporada del ascenso completa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/62/7/queipologrones.jpeg",
+    "pub": 1792690001,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Nueva jornada | Juega 'El quinteto' con el BF León",
+    "link": "https://www.heraldodeleon.es/deportes/baloncesto/nueva-jornada-juega-quinteto-bf-leon/20261022192048114371.html",
+    "desc": "El periódico, patrocinador del primer equipo, te invita a participar un juego para que los aficionados formen su propio equipo con la plantilla del BF León recién ascendido a la LF Challenge y…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/02/2026100208301452914.jpg",
+    "pub": 1792689648,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "Santa María del Páramo proyecta 52 nuevas viviendas en el sector La Barrera",
     "link": "https://www.heraldodeleon.es/comarcas/paramo/santa-maria-paramo-proyecta-52-nuevas-viviendas-sector-barrera/20261022190812114370.html",
     "desc": "El Ayuntamiento prevé invertir 966.000 euros en urbanizar este ámbito para completar el crecimiento del municipio y atraer a nuevas familias; UPL respaldó el proyecto en la comisión de Hacienda,…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102219022031349.jpg",
     "pub": 1792688892,
     "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Castillo: \"El equipo tiene un corazón enorme\"",
+    "link": "https://www.lanuevacronica.com/deportes/castillo-equipo-tiene-corazon-enorme_205116_102.html",
+    "desc": "El técnico de la Cultural señala que \"el equipo atrás da gusto, es una maravilla\" y apunta que \"si mantenemos este espíritu, siendo un equipo y no cinco jugadores individuales, vamos a disfrutar\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/61/6/cultural-oviedo-3.jpeg",
+    "pub": 1792688736,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Ademar busca el fichaje de Dani Arguillas",
+    "link": "https://www.lanuevacronica.com/deportes/ademar-busca-fichaje-dani-arguillas_205027_102.html",
+    "desc": "El equipo leonés contacta con el experimentado portero de 33 años, con 12 temporadas en Asobal incluyendo una década jugando en el Huesca, y que rescindirá su contrato con el Cuenca",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/98/3/arguillascuenca.png",
+    "pub": 1792688706,
+    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La ULE ya es la primera Escuela de Ingenierías de España con un simulador para la formación avanzada de pilotos",
@@ -16,28 +48,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La Cultural tropieza con la madera",
-    "link": "https://www.lanuevacronica.com/deportes/cultural-tropieza-con-madera_205120_102.html",
-    "desc": "El equipo leonés ha dado seis palos en seis partidos diferentes, siendo el que más de toda la Primera Federación y estando ya a sólo uno de los que tuvo en la temporada del ascenso completa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/62/7/queipologrones.jpeg",
-    "pub": 1792687620,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Miriam Andrés cuestiona la paridad de las listas del PSOE como ha dicho Torró: “De 9 provincias, 7 son hombres\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261022/miriam-andres-cuestiona-paridad-listas-psoe-dicho-torro-provincias-hombres/1003744431590_0.html",
     "desc": "La alcaldesa de Palencia vuelve a la carga tras el 'dedazo' de Ferraz en la elección de listas para las elecciones del 29-N. Más información : Miriam Andrés acusa a Ferraz de saltarse \"de manera…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384897.jpg?p=w:1706/h:960&h=db3mZTJ7",
     "pub": 1792687511,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Castillo: \"El equipo tiene un corazón enorme\"",
-    "link": "https://www.lanuevacronica.com/deportes/castillo-equipo-tiene-corazon-enorme_205116_102.html",
-    "desc": "El técnico de la Cultural señala que \"el equipo atrás da gusto, es una maravilla\" y apunta que \"si mantenemos este espíritu, siendo un equipo y no cinco jugadores individuales, vamos a disfrutar\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/61/6/cultural-oviedo-3.jpeg",
-    "pub": 1792687284,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "333 personas sin hogar",
@@ -78,14 +94,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102218084645300.jpg",
     "pub": 1792685990,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El Ademar busca el fichaje de Dani Arguillas",
-    "link": "https://www.lanuevacronica.com/deportes/ademar-busca-fichaje-dani-arguillas_205027_102.html",
-    "desc": "El equipo leonés contacta con el experimentado portero de 33 años, con 12 temporadas en Asobal incluyendo una década jugando en el Huesca, y que rescindirá su contrato con el Cuenca",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/98/3/arguillascuenca.png",
-    "pub": 1792685442,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Bañeza busca un nuevo gestor para el bar del Hogar del Jubilado",
@@ -390,14 +398,6 @@
     "img": "https://www.lanuevacronica.com/uploads/s1/35/59/35/4/yelkotarsi.jpeg",
     "pub": 1792670799,
     "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Astorga abre los jardines del Palacio Episcopal de Gaudí a los vecinos del entorno",
-    "link": "https://www.heraldodeleon.es/comarcas/astorga/astorga-abre-jardines-palacio-episcopal-gaudi-vecinos/20261022140518114303.html",
-    "desc": "La iniciativa contará con 20 plazas diarias y será necesario realizar una reserva previa",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102214041886519.jpg",
-    "pub": 1792670718,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Ponferrada estrena el Teatro Arthemus con un espectáculo familiar de brujas y humor",
