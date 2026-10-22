@@ -1,5 +1,93 @@
 [
   {
+    "titulo": "Dos de cada tres familias en León tienen problemas para pagar la vivienda",
+    "link": "https://www.lanuevacronica.com/actualidad/dos-cada-tres-familias-en-leon-tienen-problemas-pagar-vivienda_205097_102.html",
+    "desc": "Cáritas Diocesana de León ha puesto de relieve la problemática del sinhogarismo en un año en el que han ayudado a 20 personas más que el año pasado con esta condición",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/23/8/whatsapp-image-2026-10-22-at-12-26-03.jpeg",
+    "pub": 1792667237,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "\"Los más pequeños deben saber que la Policía Local es un amigo que les va a proteger\"",
+    "link": "https://www.lanuevacronica.com/actualidad/mas-pequenos-deben-saber-policia-local-es-amigo-va-proteger_205084_102.html",
+    "desc": "Más de 800 escolares participan en una jornada de puertas abiertas en el CHF para conocer de cerca los vehículos, equipos y medios de las diferentes unidades del cuerpo dentro de los actos de la…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/99/4/frame-22policia.jpeg",
+    "pub": 1792667014,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Pacios augura que la demanda del PSOE por la ordenanza del mercado no se admitirá a trámite",
+    "link": "https://www.elbierzodigital.com/pacios-augura-que-la-demanda-del-psoe-por-la-ordenanza-del-mercado-no-se-admitira-a-tramite/",
+    "desc": "El concejal de Comercio de Ponferrada, David Pacios, salió al paso este jueves de las acusaciones vertidas por el PSOE sobre la inacción del equipo de gobierno a la hora de acatar el acuerdo…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2020/11/Mercado-Ponferrada-1.jpeg",
+    "pub": 1792666790,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La IA abre la puerta a chips implantables y nuevas estrategias contra las bacterias resistentes",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ia-abre-puerta-chips-implantables-nuevas-estrategias-contra-bacterias-resistentes_205095_102.html",
+    "desc": "El DevFest reúne en el Campus de Ponferrada a un centenar de estudiantes y profesionales para conocer aplicaciones de la inteligencia artificial en la medicina y la tecnología",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/21/6/10max202610754342-1.jpeg",
+    "pub": 1792666786,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León se despide de Serrat: \"Si soy alguna cosa es un superviviente\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/leon-se-despide-serrat-si-soy-alguna-cosa-es-superviviente_205094_102.html",
+    "desc": "El Festival Palabra programó para esta mañana de jueves un encuentro entre el cantautor y el ensayista Antonio Martín Albalate",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/18/1/frame-22serrat.jpeg",
+    "pub": 1792666781,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León refuerza la seguridad en el cementerio por Todos los Santos con 152 efectivos policiales",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-refuerza-seguridad-en-cementerio-por-todos-santos-con-152-servicios-policiales_205090_102.html",
+    "desc": "El Ayuntamiento habilitará cerca de 600 plazas de aparcamiento y amplíará las líneas de autobús para facilitar las visitas al camposanto entre el 30 de octubre y el 2 de noviembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/04/9/un-instante-de-la-rueda-de-prensa-de-presentacion-del-dispositivo-especial-para-el-dia-de-todos-los-santos.jpeg",
+    "pub": 1792666626,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El parque del Oeste, en La Rosaleda, estrena nueva pérgola",
+    "link": "https://www.lanuevacronica.com/el-bierzo/parque-oeste-en-rosaleda-estrena-nueva-pergola_205093_102.html",
+    "desc": "La estructura presentaba un avanzado deterioro por el paso del tiempo y las inclemencias meteorológicas, lo que había provocado numerosas quejas de los vecinos del barrio ponferradino",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/16/1/pergola-2.jpeg",
+    "pub": 1792666478,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La despensa leonesa invita a un banquete 'gijonudo' este fin de semana",
+    "link": "https://www.lanuevacronica.com/actualidad/despensa-leonesa-invita-banquete-gijonudo-este-fin-semana_205088_102.html",
+    "desc": "La Feria de los Productos de León se celebra desde este viernes por la tarde en Gijón, con desfile de pendones, degustaciones y presentaciones gastronómicas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/11/9/feriagijon.jpeg",
+    "pub": 1792666352,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El favorito al ascenso del Grupo II primero y el líder de Primera FEB después",
+    "link": "https://www.lanuevacronica.com/deportes/favorito-ascenso-grupo-ii-primero-lider-primera-feb-despues_205086_102.html",
+    "desc": "La Cultural recibirá en octavos de Copa al Sant Antoni, el 17 o 18 de noviembre, con la opción si pasa de llevarse ya los 15.000 euros de premio al mejor de Segunda FEB y cruzarse con Alicante",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/59/8/cultural-oviedo-2.jpeg",
+    "pub": 1792666312,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Recuperados 60.616 € de WiZink tras ganar en la Audiencia Provincial por falta de transparencia en una tarjeta revolving",
+    "link": "https://www.lanuevacronica.com/estilo-vida/recuperados-60616-wizink-ganar-en-audiencia-provincial-por-falta-transparencia-en-tarjeta-revolving_205089_102.html",
+    "desc": "La liquidación final arrojó un total de 60.616,67 euros recuperados entre intereses y comisiones. De esa cantidad, 15.574,50 euros correspondían a deuda que quedó cancelada y 45.042€ a dinero que el…",
+    "img": null,
+    "pub": 1792666223,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Hospital de la Reina abre una unidad para detectar enfermedades cardiovasculares antes de los primeros síntomas",
+    "link": "https://www.lanuevacronica.com/el-bierzo/hospital-reina-crea-unidad-detectar-enfermedades-cardiovasculares-antes-primeros-sintomas_205091_102.html",
+    "desc": "El cardiólogo David Alonso dirige este nuevo servicio, que incorpora tecnología de alta precisión para identificar de forma precoz el daño cardíaco y prevenir complicaciones como el infarto o el ictus",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/08/9/hospital-reina.jpeg",
+    "pub": 1792666167,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El PSOE denuncia que el FP de Emergencias de Ponferrada arranca sin docentes para tres asignaturas",
     "link": "https://www.lanuevacronica.com/el-bierzo/psoe-denuncia-fp-emergencias-ponferrada-arranca-sin-docentes-tres-asignaturas_205085_102.html",
     "desc": "Ramón acusa al equipo de Gobierno de \"vender humo\" con una formación que ha comenzado pero cubriendo el 30% de las asignaturas",
@@ -13,22 +101,6 @@
     "desc": "",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/59/02/9/image.jpeg",
     "pub": 1792665456,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "\"Los más pequeños deben saber que la Policía Local es un amigo que les va a proteger\"",
-    "link": "https://www.lanuevacronica.com/actualidad/mas-pequenos-deben-saber-policia-local-es-amigo-va-proteger_205084_102.html",
-    "desc": "Más de 800 escolares participan en una jornada de puertas abiertas en el CHF para conocer de cerca los vehículos, equipos y medios de las diferentes unidades del cuerpo dentro de los actos de la…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/99/4/frame-22policia.jpeg",
-    "pub": 1792662680,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los jardines del Palacio de Gaudí abren sus puertas a los vecinos de Astorga",
-    "link": "https://www.lanuevacronica.com/actualidad/jardines-palacio-gaudi-abren-sus-puertas-vecinos-astorga_205083_102.html",
-    "desc": "El monumento ofrecerá visitas gratuitas durante noviembre y diciembre para descubrir su renovado espacio exterior, con 20 plazas diarias y reserva previa a partir del 26 de octubre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/23/09/39/7/palacio-de-gaudi.jpeg",
-    "pub": 1792661989,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -80,76 +152,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Ponferrada estrenará en Navidad un techo de estrellas en Tierno Galván y convertirá La Encina en un faro peregrino",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-estrenara-en-navidad-techo-estrellas-en-tierno-galvan-convertira-encina-en-faro-peregrino_205079_102.html",
-    "desc": "El alumbrado de 2026 incorporará nuevas propuestas decorativas y mantendrá la Vía Láctea del puente García Ojeda, con un contrato de cerca de 260.000 euros",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/83/96/6/iluminacion-8.jpeg",
-    "pub": 1792659026,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Black Friday generará 750 contratos en León, un 8,7% más que el año pasado",
-    "link": "https://www.lanuevacronica.com/actualidad/black-friday-generara-750-contratos-en-leon-87-mas-ano-pasado-segun-randstad_205078_102.html",
-    "desc": "La provincia será la segunda de Castilla y León con más contrataciones en una campaña que espera sumar 4.200 empleos en la comunidad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/27/64/1/imagen1.png",
-    "pub": 1792658976,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Denuncian la \"conversión\" de la prisión de Mansilla \"en un psiquiátrico penitenciario encubierto\"",
-    "link": "https://www.lanuevacronica.com/actualidad/denuncian-conversion-prision-mansilla-en-psiquiatrico-penitenciario-encubierto_205073_102.html",
-    "desc": "CSIF asegura que la atención sanitaria es \"insuficiente e insostenible\" y exige más facultativos y especialización psiquiátrica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/27/89/01/8/csif-reclama-mas-garantias-de-seguridad-en-las-prisiones-en-unos-tiempos-complicados.jpeg",
-    "pub": 1792658924,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Sixto Aguilera expone en León: \"Si tuviera un estilo propio, haría todas mis obras iguales\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/sixto-aguilera-expone-en-leon-si-tuviera-estilo-propio-haria-todas-mis-obras-iguales_205077_102.html",
-    "desc": "Después de su muestra en León en 2024, el artista regresa a la galería Alemi de la mano de varias de sus pinturas y hasta algunas esculturas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/84/1/el-pintor-sixto-aguilera-junto-a-su-obra-curas-a-la-carrera-vicente-garcia.jpeg",
-    "pub": 1792658783,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un MIR del Hospital El Bierzo gana el premio al Mejor Vídeo Quirúrgico en el congreso regional de Urología",
-    "link": "https://www.lanuevacronica.com/el-bierzo/mir-hospital-bierzo-gana-premio-mejor-video-quirurgico-en-congreso-regional-urologia_205076_102.html",
-    "desc": "Jorge Esteban recibe el galardón por una técnica propia de reconstrucción de la vejiga presentada en la cita celebrada en Soria",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/81/9/el-jefe-del-servicio-de-urologia-de-la-gasbi-oscar-miranda-y-el-residente-jorge-esteban-2.jpeg",
-    "pub": 1792658695,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Clínica Ponferrada busca en Badajoz romper su barrera a domicilio y dar un salto de calidad",
     "link": "https://www.elbierzodigital.com/el-clinica-ponferrada-busca-en-badajoz-romper-su-barrera-a-domicilio-y-dar-un-salto-de-calidad/",
     "desc": "El entrenador del Clínica Ponferrada SDP , Samuel Conde , ha hecho balance este jueves por la mañana, 22 de octubre, del momento que atraviesa el equipo tras la victoria del pasado fin de semana…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Samuel-Conde-el-bierzo-digital.jpeg",
     "pub": 1792658487,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Serrat repite este jueves en el Festival Palabra",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/serrat-repite-este-jueves-en-festival-palabra_205075_102.html",
-    "desc": "La programación prepara para los próximos días varias actividades que abarcan todo el abanico literario",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/80/3/angeles-gonzalez-sinde-y-elena-medel-cerraran-la-jornada-de-este-viernes-del-festival-palabra-l-n-c.jpeg",
-    "pub": 1792658453,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El alcalde de León aspira a revalidar su cargo: \"Cambiar este proyecto no correspondería a ninguna lógica\"",
-    "link": "https://www.lanuevacronica.com/actualidad/alcalde-leon-aspira-revalidar-su-cargo-cambiar-este-proyecto-no-corresponderia-ninguna-logica_205074_102.html",
-    "desc": "José Antonio Diez participó en el espacio 'Entre nosotras' de Cope León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/77/8/el-alcalde-jose-antonio-diez-en-el-espacio-entre-nosotras-de-cope-leon-l-n-c.jpeg",
-    "pub": 1792658431,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un incendio provoca daños estructurales importantes en una vivienda en Toral de los Vados",
-    "link": "https://www.lanuevacronica.com/sucesos/incendio-provoca-danos-estructurales-importantes-en-vivienda-en-toral-vados_205072_102.html",
-    "desc": "El fuego se declaró de madrugada en la calle Teso y los bomberos pudieron evitar que se propagase a las casas colindantes",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/76/2/incendio.jpeg",
-    "pub": 1792657573,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Diego Manrique vuelve a destacar entre los mejores fotógrafos panorámicos del mundo",
@@ -349,14 +357,6 @@
     "desc": "Elegir un bróker no consiste únicamente en comparar cuánto cuesta comprar una acción. También importa qué gastos puede generar mantenerla en cartera , qué información está disponible antes de operar…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-10.jpg",
     "pub": 1792558347,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Abascal advierte en Ponferrada de que España puede seguir el camino de Francia si no hay un cambio político",
-    "link": "https://www.elbierzodigital.com/abascal-advierte-en-ponferrada-de-que-espana-puede-seguir-el-camino-de-francia-si-no-hay-un-cambio-politico/",
-    "desc": "El presidente nacional de Vox y candidato a la Presidencia del Gobierno, Santiago Abascal , advirtió este martes en Ponferrada de que España podría afrontar una situación similar a la de Francia si…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/mitin-vox-santiago-abascal-el-bierzo-digital-1.jpeg",
-    "pub": 1792522089,
     "fuente": "El Bierzo Digital"
   },
   {
