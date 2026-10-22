@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Un herido en un accidente entre un turismo y una pick-up en Carracedelo",
+    "link": "https://www.lanuevacronica.com/actualidad/herido-en-accidente-entre-turismo-pick-up-en-carracedelo_205137_102.html",
+    "desc": "Según la información facilitada por el 112, el varón se encontraba consciente y fuera del turismo cuando se dio aviso a los servicios de emergencia, aunque fue necesario solicitar asistencia…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/83/0/imagen-de-archivo-de-la-le-5207-a-su-paso-por-carraceledo.jpeg",
+    "pub": 1792695526,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "¿Quién no tiene un genio en casa?",
+    "link": "https://www.lanuevacronica.com/a-la-contra-2/quien-no-tiene-genio-en-casa_205136_102.html",
+    "desc": "La última de La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/81/2/quien-no-tiene-un-genio-en-casa.jpeg",
+    "pub": 1792694338,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Pollán advierte al Gobierno y a las ONG de que Castilla y León no financiará la inmigración ilegal: “Ni un solo euro”",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/segovia/20261022/pollan-advierte-gobierno-ong-castilla-leon-no-financiara-inmigracion-ilegal-solo-euro/1003744431741_0.html",
+    "desc": "El vicepresidente de la Junta defiende en un acto electoral en Segovia que ningún dinero público se destine a financiar la inmigración ilegal. Más información : Abascal denuncia la \"violencia…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385030.jpg?p=c:3599:2024:nowe:195:149/w:1706/h:960&h=vVgPmUuO",
+    "pub": 1792694182,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Carrera de la Mujer, Feria de la Miel y 'Otoño en Babia', este fin de semana en León",
     "link": "https://www.lanuevacronica.com/lnc-culturas/carrera-mujer-feria-miel-otono-en-babia-este-fin-semana-en-leon_205134_102.html",
     "desc": "Todos los planes de los que disfrutar estos días a lo largo de la provincia",
@@ -173,22 +197,6 @@
     "desc": "La última novela del escritor gallego será protagonista este viernes en el espacio de la capital provincial",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/59/46/5/el-escritor-gallego-francisco-narla-y-la-portada-de-su-publicacion.jpeg",
     "pub": 1792683504,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Santa María del Páramo licita de nuevo urbanizar La Barrera para construir 52 viviendas",
-    "link": "https://www.lanuevacronica.com/actualidad/santa-maria-paramo-licita-nuevo-urbanizar-barrera-construir-52-viviendas_205111_102.html",
-    "desc": "El Ayuntamiento prevé invertir 966.000 euros en acondicionar este sector, cuyo proyecto se someterá a la aprobación del pleno el próximo 26 de octubre tras quedar desierta la licitación realizada en…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/27/58/84/4/santa-maria-del-paramo-urbanizara-la-zona-de-la-barrera-por-966-000-euros.jpeg",
-    "pub": 1792683329,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Teatro, circo, danza y música para toda la familia en León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/teatro-circo-danza-musica-toda-familia-en-leon_205110_102.html",
-    "desc": "El Auditorio arrancará el 2 de noviembre su programación familiar, que contará con cinco funciones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/44/7/picopato-de-patxo-telleria-sera-la-primera-de-la-funciones-sala-mirador.jpeg",
-    "pub": 1792683246,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -686,14 +694,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/08/30/2025083010203144544.jpg",
     "pub": 1792653344,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Alba Lombardero, manteniendo vivas sus raíces a través del vino entre La Granja y Albares",
-    "link": "https://www.elbierzodigital.com/alba-lombardero-manteniendo-vivas-sus-raices-a-traves-del-vino-entre-la-granja-y-albares/",
-    "desc": "Alba Lombardero siempre fue una apasionada del vino, pero no fue hasta hace tres años cuando decidió dedicarse a ello. Un empujón en forma de premio la animó a fundar junto a su pareja la Bodega…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Alba-Lombardero-2-el-bierzo-digital.jpeg",
-    "pub": 1792652417,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Un herido tras chocar de madrugada un coche con un patinete en León capital",
