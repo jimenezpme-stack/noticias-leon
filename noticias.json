@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "La despensa leonesa invita a un banquete 'gijonudo' este fin de semana",
+    "link": "https://www.lanuevacronica.com/actualidad/despensa-leonesa-invita-banquete-gijonudo-este-fin-semana_205088_102.html",
+    "desc": "La Feria de los Productos de León se celebra desde este viernes por la tarde en Gijón, con desfile de pendones, degustaciones y presentaciones gastronómicas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/11/9/feriagijon.jpeg",
+    "pub": 1792682187,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cáritas Diocesana atiende en León a un 6,4% más de personas sin hogar que en 2025",
+    "link": "https://www.lanuevacronica.com/actualidad/caritas-atiende-leon-seis-mas-personas-sin-hogar-2025_205097_102.html",
+    "desc": "Cáritas Diocesana de León ha puesto de relieve la problemática del sinhogarismo, una \"realiad social\" que ha convertido a estas personas \"en parte del mobiliario urbano\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/23/8/whatsapp-image-2026-10-22-at-12-26-03.jpeg",
+    "pub": 1792681875,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ester Muñoz, el látigo del PP",
+    "link": "https://www.heraldodeleon.es/leon/ester-munoz-latigo-pp/20261022170812114354.html",
+    "desc": "La diputada leonesa repetirá como cabeza de lista al Congreso el 29 de noviembre y consolida su papel como una de las voces más combativas de Alberto Núñez Feijóo frente a Pedro Sánchez",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102217073086150.jpg",
+    "pub": 1792681692,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "CSIF exige subidas salariales en el sector del automóvil de Castilla y León y una transición \"equilibrada y justa\"",
     "link": "https://www.elespanol.com/castilla-y-leon/economia/20261022/csif-exige-subidas-salariales-sector-automovil-castilla-leon-transicion-equilibrada-justa/1003744431385_0.html",
     "desc": "El sindicato independiente reclama compromisos concretos para \"reforzar la competitividad, atraer inversiones e impulsar el Corredor Atlántico\". Más información: CSIF niega que la Junta esté…",
@@ -142,14 +166,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/08/12/2025081210023751682.jpg",
     "pub": 1792674438,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Cáritas Diocesana atiende en León a un 6,4% más de personas sin hogar que en 2025",
-    "link": "https://www.lanuevacronica.com/actualidad/dos-cada-tres-familias-en-leon-tienen-problemas-pagar-vivienda_205097_102.html",
-    "desc": "Cáritas Diocesana de León ha puesto de relieve la problemática del sinhogarismo en un año en el que han ayudado a 20 personas más que el año pasado con esta condición",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/23/8/whatsapp-image-2026-10-22-at-12-26-03.jpeg",
-    "pub": 1792674171,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El PSOE denuncia que el FP de Emergencias de Ponferrada arranca sin docentes para tres asignaturas",
@@ -360,14 +376,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Miguel Ángel Alonso reivindica en León el avance de la urología hasta la cirugía robótica",
-    "link": "https://www.heraldodeleon.es/universidad/miguel-angel-alonso-reivindica-leon-avance-urologia-cirugia-robotica/20261022133652114290.html",
-    "desc": "El jefe del Servicio de Urología del CAULE ingresa en la Academia de Ciencias Veterinarias de Castilla y León con un discurso sobre la evolución de esta especialidad y la colaboración con la…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102213342395259.jpg",
-    "pub": 1792669012,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Cáritas atiende a más de 2.000 personas sin hogar en Ponferrada en lo que va de año",
     "link": "https://www.elbierzodigital.com/caritas-atiende-a-mas-de-2-000-personas-sin-hogar-en-ponferrada-en-lo-que-va-de-ano/",
     "desc": "Cáritas Diocesana ha atendido a un total de 2.269 personas en situación de vulnerabilidad en sus recursos de atención a personas sin hogar de Ponferrada y Astorga entre enero y septiembre de 2026.…",
@@ -470,14 +478,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384482.jpg?p=c:675:380:nowe:53:10/w:1706/h:960&h=M13bhx8q",
     "pub": 1792666454,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La despensa leonesa invita a un banquete 'gijonudo' este fin de semana",
-    "link": "https://www.lanuevacronica.com/actualidad/despensa-leonesa-invita-banquete-gijonudo-este-fin-semana_205088_102.html",
-    "desc": "La Feria de los Productos de León se celebra desde este viernes por la tarde en Gijón, con desfile de pendones, degustaciones y presentaciones gastronómicas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/11/9/feriagijon.jpeg",
-    "pub": 1792666352,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Junta asegura que las nuevas ayudas al cine \"garantizan la libertad\" y reafirma su compromiso con la Seminci",
@@ -680,6 +680,14 @@
     "fuente": "El Bierzo Digital"
   },
   {
+    "titulo": "Ponferrada inicia la renovación de la pérgola del parque del Oeste, en La Rosaleda",
+    "link": "https://www.elbierzodigital.com/ponferrada-inicia-la-renovacion-de-la-pergola-del-parque-del-oeste-en-la-rosaleda/",
+    "desc": "La Brigada de Obras del Ayuntamiento de Ponferrada ha iniciado la colocación de la cubierta de la pérgola del parque del Oeste , situado en el barrio de La Rosaleda, con el objetivo de completar la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-inicia-la-renovacion-de-la-pergola-del-parque-del-oeste-en-la-rosaleda-el-bierzo-digital.jpeg",
+    "pub": 1792651106,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Un herido tras chocar de madrugada un coche con un patinete en León capital",
     "link": "https://www.heraldodeleon.es/leon/herido-chocar-madrugada-coche-patinete-leon-capital/20261022083716114205.html",
     "desc": "El accidente se produjo a las 4.50 horas en la avenida Mariano Andrés y movilizó a los servicios sanitarios y a las fuerzas policiales",
@@ -789,14 +797,6 @@
     "desc": "Dos hombres de unos 25 años han resultado heridos durante una pelea en la que participaron alrededor de ocho personas.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2023/05/09/ambulancia-castilla-y-leon.r_d.509-209.jpeg",
     "pub": 1791621235,
-    "fuente": "20minutos León"
-  },
-  {
-    "titulo": "Muere un hombre tras ser arrollado por un tren en el pueblo leonés El Burgo Ranero",
-    "link": "https://www.20minutos.es/castilla-y-leon/leon/muere-un-hombre-tras-ser-arrollado-por-un-tren-pueblo-leones-burgo-ranero_7046684_0.html",
-    "desc": "Hasta el lugar del accidente se han movilizado personal médico y un helicóptero medicalizado.",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/08/6ac762a84da9a2-47852186.jpeg",
-    "pub": 1791471928,
     "fuente": "20minutos León"
   }
 ]
