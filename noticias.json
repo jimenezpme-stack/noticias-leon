@@ -1,10 +1,50 @@
 [
   {
+    "titulo": "Unicaja vuelve a teñir de azul la Seminci y renueva su compromiso con la cultura en Valladolid",
+    "link": "https://www.lanuevacronica.com/cyl/unicaja-vuelve-tenir-azul-seminci-renueva-su-compromiso-con-cultura-en-valladolid_205113_102.html",
+    "desc": "La entidad financiera patrocina un año más el festival, que celebrará su edición número 71 del 23 al 31 de octubre y que extiende la alfombra azul en el centro de la ciudad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/48/1/image.jpeg",
+    "pub": 1792684686,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Francisco Narla llega a la librería Pastor de la mano de 'Santiago'",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/francisco-narla-llega-libreria-pastor-mano-santiago_205112_102.html",
+    "desc": "La última novela del escritor gallego será protagonista este viernes en el espacio de la capital provincial",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/46/5/el-escritor-gallego-francisco-narla-y-la-portada-de-su-publicacion.jpeg",
+    "pub": 1792683504,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Santa María del Páramo licita de nuevo urbanizar La Barrera para construir 52 viviendas",
+    "link": "https://www.lanuevacronica.com/actualidad/santa-maria-paramo-licita-nuevo-urbanizar-barrera-construir-52-viviendas_205111_102.html",
+    "desc": "El Ayuntamiento prevé invertir 966.000 euros en acondicionar este sector, cuyo proyecto se someterá a la aprobación del pleno el próximo 26 de octubre tras quedar desierta la licitación realizada en…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/27/58/84/4/santa-maria-del-paramo-urbanizara-la-zona-de-la-barrera-por-966-000-euros.jpeg",
+    "pub": 1792683329,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Teatro, circo, danza y música para toda la familia en León",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/teatro-circo-danza-musica-toda-familia-en-leon_205110_102.html",
+    "desc": "El Auditorio arrancará el 2 de noviembre su programación familiar, que contará con cinco funciones",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/44/7/picopato-de-patxo-telleria-sera-la-primera-de-la-funciones-sala-mirador.jpeg",
+    "pub": 1792683246,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Moundrag cierra el cartel del Purple Weekend",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/moundrag-cierra-cartel-purple-weekend_205109_102.html",
+    "desc": "El festival se celebrará del 4 al 6 de diciembre en distintos enclaves de la capital leonesa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/43/1/moundrag-se-suma-al-cartel-del-purple-weekend-de-leon.jpeg",
+    "pub": 1792683021,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La despensa leonesa invita a un banquete 'gijonudo' este fin de semana",
     "link": "https://www.lanuevacronica.com/actualidad/despensa-leonesa-invita-banquete-gijonudo-este-fin-semana_205088_102.html",
     "desc": "La Feria de los Productos de León se celebra desde este viernes por la tarde en Gijón, con desfile de pendones, degustaciones y presentaciones gastronómicas",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/59/11/9/feriagijon.jpeg",
-    "pub": 1792682187,
+    "pub": 1792682682,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -168,14 +208,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "El PSOE denuncia que el FP de Emergencias de Ponferrada arranca sin docentes para tres asignaturas",
-    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-denuncia-fp-emergencias-ponferrada-arranca-sin-docentes-tres-asignaturas_205085_102.html",
-    "desc": "Ramón acusa al equipo de Gobierno de \"vender humo\" con una formación que ha comenzado pero dejando descubierto el 30% de las asignaturas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/29/17/77/3/cifp-ponferrada.jpeg",
-    "pub": 1792674134,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El gran magosto de Ponferrada coincidirá con su Mercado de Otoño",
     "link": "https://www.heraldodeleon.es/el-bierzo/gran-magosto-ponferrada/20261022145824114324.html",
     "desc": "Habrá 40 puestos en el mercado y el magosto ofrecerá música y un espectáculo de fuego el próximo 31 de octubre",
@@ -198,14 +230,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384638.jpg?p=w:1706/h:960&h=PkpfYlwR",
     "pub": 1792673485,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El magosto de Ponferrada aspira a superar los 1.500 asistentes y estrena un espectáculo de fuego",
-    "link": "https://www.lanuevacronica.com/el-bierzo/magosto-ponferrada-aspira-superar-1500-asistentes-estrena-espectaculo-fuego_205099_102.html",
-    "desc": "La cita será el 31 de octubre en el Puente Boeza, con música de Denominación de Origen y Alegría Berciana, y estará acompañada por un mercado de otoño con 40 expositores en Pérez Colino",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/33/4/magosto.jpeg",
-    "pub": 1792672963,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El 'sinhogarismo' aumenta en León: \"Nos hemos acostumbrado a que sean invisibles\"",
@@ -432,14 +456,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "León refuerza la seguridad en el cementerio por Todos los Santos con 152 efectivos policiales",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-refuerza-seguridad-en-cementerio-por-todos-santos-con-152-servicios-policiales_205090_102.html",
-    "desc": "El Ayuntamiento habilitará cerca de 600 plazas de aparcamiento y amplíará las líneas de autobús para facilitar las visitas al camposanto entre el 30 de octubre y el 2 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/04/9/un-instante-de-la-rueda-de-prensa-de-presentacion-del-dispositivo-especial-para-el-dia-de-todos-los-santos.jpeg",
-    "pub": 1792667762,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Carnero contesta al consejero de Cultura de Vox: “Seminci es un espacio de libertad, no hay cine ideologizado”",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261022/carnero-contesta-consejero-vox-cultura-seminci-espacio-libertad-no-cine-ideologizado/1003744430926_0.html",
     "desc": "El alcalde de Valladolid ha contestado a Alberto Díaz Pico que manifestaba este miércoles que “Seminci tiene mucho que mejorar en neutralidad ideológica”. Más información: La Junta asegura que las…",
@@ -486,22 +502,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384479.jpg?p=c:3999:2250:nowe:0:218/w:1706/h:960&h=TBkS--gR",
     "pub": 1792666204,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El Hospital de la Reina abre una unidad para detectar enfermedades cardiovasculares antes de los primeros síntomas",
-    "link": "https://www.lanuevacronica.com/el-bierzo/hospital-reina-crea-unidad-detectar-enfermedades-cardiovasculares-antes-primeros-sintomas_205091_102.html",
-    "desc": "El cardiólogo David Alonso dirige este nuevo servicio, que incorpora tecnología de alta precisión para identificar de forma precoz el daño cardíaco y prevenir complicaciones como el infarto o el ictus",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/08/9/hospital-reina.jpeg",
-    "pub": 1792666167,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "¿Podrá la inteligencia artificial ayudar a curar el cáncer? Los avances que están cambiando la medicina",
-    "link": "https://www.lanuevacronica.com/estilo-vida/podra-inteligencia-artificial-ayudar-curar-cancer-avances-estan-cambiando-medicina_205087_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/02/9/image.jpeg",
-    "pub": 1792665456,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El Campus de Ponferrada reúne a expertos en IA, chips implantables y resistencia a los antibióticos",
