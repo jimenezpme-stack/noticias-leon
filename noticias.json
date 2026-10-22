@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "Dulces servidumbres",
+    "link": "https://www.lanuevacronica.com/opinion/dulces-servidumbres_205063_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792635000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205070_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/53/5/22-10-2026-canton.jpeg",
+    "pub": 1792634400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un sector de futuro",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/sector-futuro_205069_102.html",
+    "desc": "La previsión de superar los 10.000 empleos en 2027 confirma el creciente peso de la ciberseguridad y obliga a reforzar la formación, las infraestructuras y la llegada de nuevas empresas",
+    "img": null,
+    "pub": 1792634400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El que escribe los chistes y el que escribe los trabalenguas",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/escribe-chistes-escribe-trabalenguas_205068_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792634400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "\"Mi vocación de servicio es muy profunda y creo que tenía 'carrete' para más\"",
+    "link": "https://www.lanuevacronica.com/actualidad/mi-vocacion-servicio-es-muy-profunda-creo-tenia-carrete-mas_205051_102.html",
+    "desc": "Entrevista a Julio Andrés Gutiérrez, coronel de la Guardia Civil",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/22/8/coronel-guardia-civil-leon-julio.jpeg",
+    "pub": 1792634400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Cultural 69 - Oviedo 67: 'La Cultural pone una ronda de ilusión'",
     "link": "https://www.lanuevacronica.com/deportes/cultural-69-oviedo-67-cultural-pone-ronda-ilusion_205071_102.html",
     "desc": "El equipo leonés elimina de la Copa al Oviedo que el año pasado rozó el ascenso a ACB con una exhibición defensiva y levantando 11 puntos de desventaja en el último cuarto",
@@ -88,52 +128,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Avanza a buen ritmo la construcción de un nuevo supermercado en La Bañeza",
-    "link": "https://www.lanuevacronica.com/actualidad/avanza-buen-ritmo-construccion-nuevo-supermercado-en-baneza_205054_102.html",
-    "desc": "El Ayuntamiento visita los trabajos del futuro espacio de la cadena alemana Lidl, situado junto a la N-VI, que abirá en 2027, contará con 110 plazas de aparcamiento y permitirá crear al menos 16…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/29/0/avanza-a-buen-ritmo-la-construccion-de-un-nuevo-supermercado-en-la-baneza.jpeg",
-    "pub": 1792600148,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Asprona Bierzo premia a Jesús Calleja, Álex Roca y Cruz Roja en la IV edición de los Aspronauta",
     "link": "https://www.elbierzodigital.com/asprona-bierzo-premia-jesus-calleja-alex-roca-cruz-roja-cuarta-edicion-aspronauta/",
     "desc": "Asprona Bierzo celebra este jueves, 22 de octubre, la IV edición de los Premios Aspronauta, con los que reconoce a personas, empresas y organizaciones comprometidas con la inclusión y la…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/11/los-premios-aspronauta-celebran-la-inclusion-y-el-compromiso-social-en-el-bierzo-el-bierzo-digital-scaled.jpg",
     "pub": 1792599547,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Caja Rural continúa su expansión en Madrid con la apertura de su quinta oficina",
-    "link": "https://www.lanuevacronica.com/panorama/caja-rural-continua-su-expansion-en-madrid-con-apertura-su-quinta-oficina_205052_102.html",
-    "desc": "La entidad refuerza su presencia en la capital con un nuevo punto de atención en la calle Cea Bermúdez, consolidando su apuesta por el crecimiento, la cercanía y el servicio personalizado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/27/5/image.jpeg",
-    "pub": 1792598681,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La inteligencia artificial, protagonista este jueves de las presentaciones del Enise",
-    "link": "https://www.lanuevacronica.com/actualidad/inteligencia-artificial-protagonista-este-jueves-presentaciones-enise_205050_102.html",
-    "desc": "Esta tecnología centrará las ponencias y talleres de la segunda jornada del evento que se celebra en el Palacio de Exposiciones de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/21/0/eniseleon.jpeg",
-    "pub": 1792598400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Fele rechaza la huelga general por su \"carácter político y ajeno al ámbito laboral\"",
-    "link": "https://www.lanuevacronica.com/actualidad/fele-rechaza-huelga-general-por-su-caracter-ajeno-ambito-laboral_205048_102.html",
-    "desc": "La Federación de Empresarios pone a disposición de las empresas una web para que las sociedades conozcan cómo pueden actuar ante el paro",
-    "img": "https://www.lanuevacronica.com/uploads/s1/27/69/90/8/vallejo-fele.jpeg",
-    "pub": 1792597111,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El homenaje al leonés Herminio Valbuena: un acto muy emotivo",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/homenaje-leones-herminio-valbuena-acto-muy-emotivo_205047_102.html",
-    "desc": "El Centro Cívico del Crucero se llenó el pasado 15 de octubre para ver el documental de Valentín Costo sobre la vida de este montañero y sus hazañas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/12/6/la-sala-estuvo-llena-en-el-homenaje-al-montanero-leones-herminio-valbuena-vicente-garcia.jpeg",
-    "pub": 1792596713,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Gasbi afirma que ya revisaba las camas del hospital antes de la denuncia de CSIF",
