@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Astorga invierte 45.000 euros en mejorar el Camino de Santiago al paso por Murias de Rechivaldo",
+    "link": "https://www.lanuevacronica.com/actualidad/astorga-invierte-45000-euros-en-mejorar-camino-santiago-paso-por-murias-rechivaldo_205082_102.html",
+    "desc": "El Ayuntamiento inicia las obras de pavimentación de un tramo de 90 metros que conecta la carretera LE-142 con la parte ya urbanizada de la localidad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/96/7/astorga-invierte-45-000-euros-en-mejorar-el-camino-de-santiago-al-paso-por-murias-de-rechivaldo.jpeg",
+    "pub": 1792661391,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Denuncian que un pueblo del Páramo lleva más de un mes con una fuga de agua sin reparar",
+    "link": "https://www.lanuevacronica.com/actualidad/denuncian-pueblo-paramo-lleva-mas-mes-con-fuga-agua-sin-reparar_205081_102.html",
+    "desc": "Los concejales leonesistas de Valdefuentes critican la falta de respuesta del Ayuntamiento y reclaman su reparación \"urgente\", a la vez que piden un espacio más adecuado para los clases para las…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/94/5/valdefuentes.jpeg",
+    "pub": 1792661082,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Redención organiza este fin de semana los tradicionales cultos a Nuestra Madre de la Divina Gracia",
+    "link": "https://www.lanuevacronica.com/actualidad/redencion-organiza-este-fin-semana-triduo-besamanos-nuestra-madre-divina-gracia_205080_102.html",
+    "desc": "La penitencial leonesa celebrará desde este viernes y hasta el domingo el tradicional triduo a su virgen en la Iglesia de San Marcos, con misa diaria a las 19:30 horas y un posterior besamanos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/90/8/triduo-a-la-madre-de-la-divina-gracia-en-la-iglesia-de-san-marcos-de-leon.jpeg",
+    "pub": 1792660292,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "PSOE y Frente Amplio se reparten los puestos clave al Senado en Castilla y León",
     "link": "https://www.elbierzodigital.com/psoe-y-frente-amplio-se-reparten-los-puestos-clave-al-senado-en-castilla-y-leon/",
     "desc": "El PSOE reservará los puestos primero y tercero de las candidaturas de la coalición Senado de Progreso para las elecciones generales del 29 de noviembre , mientras que el Frente Amplio, integrado…",
@@ -128,6 +152,14 @@
     "fuente": "El Bierzo Digital"
   },
   {
+    "titulo": "El Campus de Ponferrada reúne a expertos en IA, chips implantables y resistencia a los antibióticos",
+    "link": "https://www.elbierzodigital.com/el-campus-de-ponferrada-reune-a-expertos-en-ia-chips-implantables-y-resistencia-a-los-antibioticos/",
+    "desc": "La inteligencia artificial (IA) ya contribuye a investigar nuevas estrategias contra la resistencia a los antibióticos y al desarrollo de chips que, en un futuro próximo, podrán implantarse en el…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/psoe-y-frente-amplio-se-reparten-los-puestos-clave-al-senado-en-castilla-y-leon-el-bierzo-digital-1.jpeg",
+    "pub": 1792646191,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Tres farmacéuticas del Bierzo, reconocidas por su compromiso con la salud y la atención cercana",
     "link": "https://www.lanuevacronica.com/el-bierzo/tres-farmaceuticas-bierzo-reconocidas-por-su-compromiso-con-salud-atencion-cercana_205058_102.html",
     "desc": "María Pérez, Marta Rodríguez Tato y Sagrario Rodríguez reciben nominaciones en distintos premios por su labor divulgativa, asistencial y de atención a los pacientes",
@@ -141,30 +173,6 @@
     "desc": "",
     "img": null,
     "pub": 1792638000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La oportunidad de Castro Ventosa",
-    "link": "https://www.lanuevacronica.com/opinion/oportunidad-castro-ventosa_205066_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792637400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Camponaraya se endulza con la IX Feria de la Miel del Bierzo",
-    "link": "https://www.lanuevacronica.com/el-bierzo/camponaraya-se-endulza-con-ix-feria-miel-bierzo_204986_102.html",
-    "desc": "Reunirá, el fin de semana, a 25 expositores con las cuatro variedades amparadas por la marca de garantía y once nuevos productos de la iniciativa Fusion Honey",
-    "img": "https://www.lanuevacronica.com/uploads/s1/75/23/5/apicultura28102018.jpeg",
-    "pub": 1792637100,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Algoritmo",
-    "link": "https://www.lanuevacronica.com/opinion/algoritmo_205065_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792636200,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -349,14 +357,6 @@
     "desc": "El vicepresidente primero de la Junta de Castilla y León, Carlos Pollán , defendió este martes en Ponferrada la política de \"prioridad nacional\" de Vox y aseguró que la formación ya combate en la…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/mitin-vox-santiago-abascal-el-bierzo-digital-14.jpeg",
     "pub": 1792520774,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Halloween en el Bierzo: ¿dónde quieres pasar miedo?",
-    "link": "https://www.elbierzodigital.com/halloween-bierzo-2026-donde-quieres-pasar-miedo/",
-    "desc": "Octubre va desgranando sus días y cada vez falta menos para el 31, cuando la noche se vuelve aún más oscura y se llena de terrores. Hay quien prefiere llamarla Noche de Difuntos , otros buscan las…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/hallowen-en-el-bierzo-donde-quieres-pasar-miedo-el-bierzo-digital.jpg",
-    "pub": 1792512740,
     "fuente": "El Bierzo Digital"
   },
   {
