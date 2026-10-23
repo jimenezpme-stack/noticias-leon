@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "El Atlético Astorga busca una reacción ante el Gernika en La Eragudina",
+    "link": "https://www.heraldodeleon.es/deportes/futbol/atletico-astorga-busca-reaccion-gernika-eragudina/20261023191802114496.html",
+    "desc": "El equipo de José Luis Lago quiere pasar página tras el tropiezo frente al Compostela y reforzar su fortaleza como local en un partido exigente que llega con la incorporación del defensa marroquí…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/08/04/2026080415195511165.jpg",
+    "pub": 1792775882,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Iris Belmonte, vidente de verdad: opiniones, trayectoria y cómo es una consulta de tarot por teléfono con ella",
+    "link": "https://www.lanuevacronica.com/estilo-vida/iris-belmonte-vidente-verdad-opiniones-trayectoria-como-es-consulta-tarot-por-telefono-con-ella_205192_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/14/5/image1.jpeg",
+    "pub": 1792775679,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Mipelletymas BF León busca en Mijas su segundo triunfo en Liga Challenge",
+    "link": "https://www.heraldodeleon.es/deportes/baloncesto/mipelletymas-bf-leon-busca-mijas-segundo-triunfo-liga-challenge/20261023191332114495.html",
+    "desc": "El conjunto leonés visita este sábado al Unicaja Mijas a las 17.30 horas con el objetivo de consolidar su adaptación a la categoría tras estrenar su casillero de victorias ante el Bosonit Unibasket",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/03/2026100322455916940.jpg",
+    "pub": 1792775612,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Autismo León, ejemplo y Negrilla de Oro",
+    "link": "https://www.lanuevacronica.com/actualidad/autismo-leon-ejemplo-negrilla-oro_205185_102.html",
+    "desc": "La asociación recibió el premio anual de La Nueva Crónica en una emotiva gala con más de 300 invitados celebrada en el Nuevo Recreo Industrial",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/11/0/frame-23negrilla.jpeg",
+    "pub": 1792775467,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Nueva Crónica repasa en un vídeo un año de noticias que marcaron a León",
+    "link": "https://www.lanuevacronica.com/actualidad/nueva-cronica-repasa-en-video-ano-noticias-marcaron-leon_205191_102.html",
+    "desc": "Un vídeo elaborado por Laura Pastoriza y protagonizado por el equipo del periódico recorre lo más destacado de los últimos doce meses durante la gala de la Negrilla de Oro que reconoció a Autismo León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/07/5/frame-23resumen.jpeg",
+    "pub": 1792775437,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cultura desmiente el “bulo” en redes que asegura que se va a prohibir la exhibición de ‘La bola negra’ en Castilla y León",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261023/cultura-desmiente-bulo-redes-asegura-va-prohibir-exhibicion-bola-negra-castilla-leon/1003744433163_0.html",
+    "desc": "La consejería defiende un modelo de apoyo público a la cinematografía en el que el valor de una producción “se mida por sus méritos artísticos y cinematográficos”. Más información: El consejero de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11185879.jpg?p=w:1706/h:960&h=zSKaUOEA",
+    "pub": 1792774685,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "La música de los abuelos llega a Laguna de Negrillos con la Carroza del Teatro Real",
     "link": "https://www.lanuevacronica.com/lnc-culturas/musica-abuelos-llega-laguna-negrillos-con-carroza-teatro-real_205190_102.html",
     "desc": "La explanada de la Casa de Cultura acogerá este domingo el espectáculo protagonizado por Lara Chaves y Alberto Frías que contará con Andrés Tejero Velázquez como pianista",
@@ -88,7 +136,7 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Las listas del PP para el 29-N: cambia números 1 en Valladolid y Zamora y mueve nombres entre Congreso y Senado",
+    "titulo": "Las listas del PP para el 29-N: cambia números 1 en tres provincias y mueve nombres entre Congreso y Senado",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261023/listas-pp-cambia-numeros-valladolid-zamora-mueve-nombres-congreso-senado/1003744432835_0.html",
     "desc": "Entre los principales cambios destaca la incorporación de María Pardo como cabeza de lista al Congreso por Valladolid que provoca su salida de la Consejería. Más información: María Pardo deja la…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385714.jpg?p=w:1706/h:960&h=TP3g3JX-",
@@ -248,14 +296,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Transportes cortará de noche la A-6 en los túneles de Villafranca, Trabadelo y Piedrafita",
-    "link": "https://www.lanuevacronica.com/el-bierzo/transportes-cortara-noche-a-6-en-tuneles-villafranca-trabadelo-piedrafita_205168_102.html",
-    "desc": "Las restricciones se prolongarán del 26 al 30 de octubre, entre las 22:00 y las 6:00 horas, con desvíos señalizados por la N-6 para revisar los sistemas de ventilación",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/38/8/whatsapp-image-2026-10-23-at-13-32-35.jpeg",
-    "pub": 1792759887,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Nafti, con la mente en el siempre difícil Barakaldo: \"No elijo al equipo en función del rendimiento a corto plazo\"",
     "link": "https://www.heraldodeleon.es/deportes/ponferradinasd/https-www-youtube-com-watch-v-g9wzces1b44/20261023145124114454.html",
     "desc": "El técnico blanquiazul analiza las alternativas de su plantilla, valora la progresión de Pablo Muñoz y Slavy y reclama máxima concentración para un encuentro que se disputará este sábado a las 18.45…",
@@ -304,14 +344,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Localizada con vida en Riaño una mujer desaparecida en la Montaña Palentina",
-    "link": "https://www.lanuevacronica.com/sucesos/localizada-con-vida-en-riano-mujer-desaparecida-en-montana-palentina_205170_102.html",
-    "desc": "La mujer fue encontrada sobre las 12.30 horas en las inmediaciones del frontón del camping de la localidad y trasladada posteriormente al hospital de León tras recibir asistencia sanitaria",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/32/14/9/turistasmadrid.jpeg",
-    "pub": 1792758365,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El 20 Enise echa el telón con León como referente global de la ciberseguridad",
     "link": "https://www.heraldodeleon.es/leon/20-enise-echa-telon-confirmando-leon-como-epicentro-ciberseguridad/20261023141525114438.html",
     "desc": "El gran congreso del Incibe ha congregado a más 83.000&nbsp;asistentes en sus veinte ediciones sumando 1.058 patrocinadores, 2.282 ponentes y participantes de 114 países en el International Business…",
@@ -333,15 +365,7 @@
     "desc": "La procuradora Laura Dorreis Alonso resalta las partidas destinadas a sanidad, vivienda, infraestructuras y agricultura, así como el incremento de los fondos previstos para El Bierzo",
     "img": "https://i.ytimg.com/vi/09CjxZ95OHE/hqdefault.jpg",
     "pub": 1792757303,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "'Tres noches en Ítaca', en Ponferrada",
-    "link": "https://www.heraldodeleon.es/cultura/tres-hermanas-regresan-itaca-reconstruir-historia-familiar/20261023135816114434.html",
-    "desc": "La obra de Alberto Conejero, dirigida por María Goiricelaya y protagonizada por Marta Larralde, Myriam Gallego y Amaia Lizarralde, llega al Teatro Bergidum de Ponferrada los días 30 y 31 de octubre…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102313562969837.jpg",
-    "pub": 1792756696,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Mañueco y Rueda condenan la violencia en La Coruña y reclaman un Gobierno de Feijóo que apoye a las comunidades",
@@ -350,14 +374,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385416.jpg?p=w:1706/h:960&h=DdVKP2NV",
     "pub": 1792756265,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Un nuevo terremoto de magnitud 2,7 vuelve a Priaranza tras el seísmo que sacudió El Bierzo",
-    "link": "https://www.lanuevacronica.com/sucesos/nuevo-terremoto-magnitud-27-vuelve-priaranza-seismo-sacudio-bierzo_205169_102.html",
-    "desc": "El movimiento se produjo este viernes a las 12.50 horas, con una profundidad registrada de cero kilómetros, nueve días después del temblor de magnitud 4,2 que se sintió en toda la comarca y dejó más…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/25/67/71/6/priaranza1712018-4-1000x563.jpeg",
-    "pub": 1792755809,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "María del Valle Ares, nueva consejera de Educación: licenciada en Derecho y miembro del Consultivo",
@@ -709,22 +725,6 @@
     "desc": "La entidad ofrece a sus clientes una forma sencilla, rápida y segura de pagar sus compras cotidianas. Más información: Cajamar da las claves del futuro de la agroalimentación en España: \"Pasa por un…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384553.jpg?p=c:2999:1688:nowe:0:0/w:1706/h:960&h=GHIfArqE",
     "pub": 1792670081,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La compañía de 'Federico' denuncia a la Consejería de Cultura de Castilla y León por la cancelación de la obra por \"motivos ideológicos\"",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/compania-federico-denuncia-consejeria-cultura-castilla-leon-cancelacion-obra-motivos-ideologicos_1_13606121.html",
-    "desc": "Proyecto 43-2 sospecha que las obras en la Sala Experimental del Miguel Delibes a las que aludió la Consejería son una excusa, ya que sigue habiendo actividad y solo se ha cancelado su…",
-    "img": "https://static.eldiario.es/clip/d83670ef-0e90-44c0-a0b1-7c03dc98d90b_16-9-discover-aspect-ratio_default_0_x1121y281.jpg",
-    "pub": 1792668377,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Abascal denuncia la \"violencia organizada\" desde Moncloa para \"acosar\" a Vox en cada acto tras los altercados en La Coruña",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261022/abascal-denuncia-violencia-organizada-moncloa-acosar-actos-vox-altercados-coruna/1003744430907_0.html",
-    "desc": "Asegura que el calificativo de 'dictador' de Milei a Sánchez es “bastante pequeño para el jefe de una mafia que ha intentado convencer a unos narcos para eliminar a una juez” Más noticias : Los…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384520.jpg?p=c:1440:811:nowe:80:129/w:1706/h:960&h=1WlN77bR",
-    "pub": 1792668300,
     "fuente": "El Español · CyL"
   },
   {
