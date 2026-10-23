@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "León se come en Gijón",
+    "link": "https://www.heraldodeleon.es/sabores-de-leon/leon-come-gijon/20261023082303114379.html",
+    "desc": "La Plaza Mayor gijonesa reúne desde este viernes y hasta el domingo 24 a 23 expositores de alimentación leonesa en una feria que combina promoción gastronómica, tradición y vínculos entre ambas…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102308211710110.jpg",
+    "pub": 1792736583,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La BonoLoto deja más de 1,3 millones de euros en Ponferrada",
+    "link": "https://www.elbierzodigital.com/la-bonoloto-deja-mas-de-13-millones-de-euros-en-ponferrada/",
+    "desc": "El sorteo de la BonoLoto celebrado este jueves ha dejado un premio de 1.350.537 euros en Ponferrada. El boleto, agraciado con la combinación de primera categoría, correspondiente a seis aciertos,…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2021/01/administracion-numero-7-de-loteria.jpg",
+    "pub": 1792736401,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La crítica situación de Torneros se complica al límite al carecer de mínimas garantías de suministro eléctrico para impulsar su desarrollo industrial",
+    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/situacion-torneros-agrava-aun-mas-carecer-garantias-suministro-electrico-impulsar-desarrollo-industrial-leon/20261023081002114376.html",
+    "desc": "Izquierda Unida acusa al PSOE de incumplir sus compromisos con la provincia y reclama que la próxima legislatura marque el inicio efectivo de las obras de la Plataforma Logística Intermodal de…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/03/21/2025032108022685503.jpg",
+    "pub": 1792735802,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "La BonoLoto deja en Ponferrada un premio de 1,3 millones",
     "link": "https://www.heraldodeleon.es/el-bierzo/bonoloto-deja-ponferrada-premio-13-millones-euros/20261023074649114375.html",
     "desc": "El boleto se validó en la Administración de Lotería número siete, ubicada en la calle General Vives",
@@ -400,28 +424,12 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Ponferrada culmina la mejora de la pérgola del parque del Oeste en La Rosaleda",
-    "link": "https://www.heraldodeleon.es/el-bierzo/ponferrada-culmina-mejora-pergola-parque-oeste-rosaleda/20261022145758114323.html",
-    "desc": "La Brigada de Obras instala la cubierta de madera y malla asfáltica para recuperar una zona de descanso que presentaba problemas de deterioro, acumulación de agua y mobiliario en mal estado",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102214564675678.jpg",
-    "pub": 1792673878,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Sergio de Larrea, el vallisoletano que debuta en la NBA y que salió de la cancha de un colegio: “Día histórico para esta tierra\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261022/sergio-larrea-vallisoletano-debuta-nba-salio-cancha-colegio-dia-historico-tierra/1003744431178_0.html",
     "desc": "Su estreno con Dallas se produjo frente a los Houston Rockets y con buenas sensaciones. Más información: El joven vallisoletano que deslumbra en la Liga de Verano de la NBA",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384638.jpg?p=w:1706/h:960&h=PkpfYlwR",
     "pub": 1792673485,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El 'sinhogarismo' aumenta en León: \"Nos hemos acostumbrado a que sean invisibles\"",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/sinhogarismo-crece-leon-han-hecho-invisibles-porque-nos-hemos-acostumbrado-verles/20261022144136114319.html",
-    "desc": "Cáritas reivindica el derecho a una vivienda digna tras acompañar a 333 personas sin hogar en sus centros de la capital, Cistierna y La Robla | En el Bierzo y Astorga la atención en albergues de la…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102214371974723.jpg",
-    "pub": 1792672896,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "La cita ideal para disfrutar de Halloween se vive en Vallsur del 29 al 31 de octubre: con mucha magia y diversión",
@@ -608,7 +616,7 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "La nueva unidad de antidisturbios de la Policía Nacional que reclamaba León se irá a Valladolid: \"Una burla vergonzosa\"",
+    "titulo": "La unidad de antidisturbios de la Policía Nacional que pedía León se irá a Valladolid",
     "link": "https://www.heraldodeleon.es/leon/consejo-policia-confirma-que-unidad-antidisturbios-que-pedia-leon-ira-valladolid/20261022112617114233.html",
     "desc": "El Foro de Debate Leonés accede a documentos&nbsp;oficiales del Consejo de Policía confirmando la ubicación, que podría anunciarse&nbsp;pasadas las elecciones generales, y anuncia movilizaciones…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/02/19/2026021913593158154.jpg",
@@ -670,14 +678,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102210261974961.jpg",
     "pub": 1792657645,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Vox busca recuperar los seis escaños el 29-N con listas renovadas: estos son los candidatos en las 9 provincias",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261022/vox-busca-recuperar-escanos-listas-renovadas-candidatos-provincias/1003744430584_0.html",
-    "desc": "Solo dos cabezas de lista repiten respecto a las elecciones generales de 2023: Pablo Sáez por Valladolid y Pablo Calvo por León. Más información: Vox, sobre el pacto con el PP en el Senado: \"Haremos…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384314.jpg?p=c:2805:1578:nowe:0:270/w:1706/h:960&h=FRvPN8ew",
-    "pub": 1792657552,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "La Fele activa una web de apoyo a empresas y trabajadores ante el 11-N",
