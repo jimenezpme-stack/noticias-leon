@@ -1,18 +1,58 @@
 [
   {
-    "titulo": "Transportes cortará de noche la A-6 en los túneles de Villafranca, Trabadelo y Piedrafita",
-    "link": "https://www.lanuevacronica.com/el-bierzo/transportes-cortara-noche-a-6-en-tuneles-villafranca-trabadelo-piedrafita_205168_102.html",
-    "desc": "Las restricciones se prolongarán del 26 al 30 de octubre, entre las 22:00 y las 6:00 horas, con desvíos señalizados por la N-6 para revisar los sistemas de ventilación",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/38/8/whatsapp-image-2026-10-23-at-13-32-35.jpeg",
-    "pub": 1792755535,
+    "titulo": "VOX destaca los 240,5 millones de inversión para León en los presupuestos de 2027",
+    "link": "https://www.heraldodeleon.es/leon/vox-destaca-2405-millones-inversion-leon-presupuestos-2027/20261023140823114435.html",
+    "desc": "La procuradora Laura Dorreis Alonso resalta las partidas destinadas a sanidad, vivienda, infraestructuras y agricultura, así como el incremento de los fondos previstos para El Bierzo",
+    "img": "https://i.ytimg.com/vi/09CjxZ95OHE/hqdefault.jpg",
+    "pub": 1792757303,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "'Tres noches en Ítaca', en Ponferrada",
+    "link": "https://www.heraldodeleon.es/cultura/tres-hermanas-regresan-itaca-reconstruir-historia-familiar/20261023135816114434.html",
+    "desc": "La obra de Alberto Conejero, dirigida por María Goiricelaya y protagonizada por Marta Larralde, Myriam Gallego y Amaia Lizarralde, llega al Teatro Bergidum de Ponferrada los días 30 y 31 de octubre…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102313562969837.jpg",
+    "pub": 1792756696,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Convocan nueve jornadas de huelga en el transporte interurbano de viajeros de León",
+    "link": "https://www.lanuevacronica.com/actualidad/convocan-nueve-jornadas-huelga-en-transporte-interurbano-viajeros-leon_205166_102.html",
+    "desc": "CCOO y UGT reclaman equiparar sus salarios a la media de la comunidad y regularización de la jornada y convocan la primera jornada de parón para el viernes 30 de octubre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/35/0/convocan-nueve-jornadas-de-huelga-en-el-transporte-interurbano-de-viajeros-de-leon.jpeg",
+    "pub": 1792756448,
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Un nuevo terremoto de magnitud 2,7 vuelve a Priaranza tras el seísmo que sacudió El Bierzo",
-    "link": "https://www.lanuevacronica.com/sucesos/nuevo-terremoto-magnitud-27-vuelve-priaranza-seismo-sacudio-bierzo_205169_102.html",
-    "desc": "El movimiento se produjo este viernes a las 12.50 horas, con una profundidad registrada de cero kilómetros, nueve días después del temblor de magnitud 4,2 que se sintió en toda la comarca y dejó más…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/25/67/71/6/priaranza1712018-4-1000x563.jpeg",
-    "pub": 1792755479,
+    "titulo": "La seleccionadora Sonia Bermúdez se cita en Astorga con Cris Martínez y la RFEF",
+    "link": "https://www.heraldodeleon.es/deportes/futbol/futbol-femenino-cita-astorga-seleccionadora-sonia-bermudez/20261023135105114432.html",
+    "desc": "La seleccionadora nacional participará junto a la futbolista maragata y la directora de fútbol femenino de la RFEF en una jornada formativa&nbsp;que ya cerró la plazas por su elevada participación",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102313502871809.webp",
+    "pub": 1792756265,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Mañueco y Rueda condenan la violencia en La Coruña y reclaman un Gobierno de Feijóo que apoye a las comunidades",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261023/manueco-rueda-condenan-violencia-coruna-reclaman-gobierno-feijoo-apoye-comunidades/1003744432348_0.html",
+    "desc": "El presidente de la Junta denuncia que el balance del Ejecutivo de Sánchez es \"cero o nada\" para Castilla y León y Galicia. Más información: Mañueco hurga en la herida del PSOECyL por las listas y…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385416.jpg?p=w:1706/h:960&h=DdVKP2NV",
+    "pub": 1792756265,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El Bierzo afronta cinco noches de cortes en la A-6 por trabajos en los túneles",
+    "link": "https://www.elbierzodigital.com/el-bierzo-afronta-cinco-noches-de-cortes-en-la-a-6-por-trabajos-en-los-tuneles/",
+    "desc": "Los conductores del Bierzo deberán armarse de paciencia la próxima semana. La A-6 sufrirá cortes nocturnos entre las 22.00 y las 6.00 horas para revisar los sistemas de ventilación de los túneles de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/04/comienzan-las-obras-de-modernizacion-en-ocho-tuneles-de-la-a-6-entre-el-bierzo-y-lugo-con-una-inversion-de-227-millones-el-bierzo-digital.jpg",
+    "pub": 1792755947,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Roban plantas del área de descanso para peregrinos de Campo tras sufrir pintadas",
+    "link": "https://www.lanuevacronica.com/el-bierzo/robos-actos-vandalicos-en-area-descanso-peregrinos-campo_205163_102.html",
+    "desc": "El espacio, que se encuentra en rehabilitación por los alumnos de la Escuela Taller de Ponferrada, suma ya dos actos vandálicos consecutivos en la caseta que se está restaurando",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/31/3/campo.jpeg",
+    "pub": 1792755912,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -20,7 +60,31 @@
     "link": "https://www.lanuevacronica.com/sucesos/detenido-por-atracar-con-cuchillo-gasolinera-camponaraya_205167_102.html",
     "desc": "El sospechoso amenazó a la empleada y se llevó unos 200 euros de la caja registradora en un asalto cometido el pasado 17 de octubre en la A-6",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/60/37/2/imagen-ladron.jpeg",
-    "pub": 1792755378,
+    "pub": 1792755818,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un nuevo terremoto de magnitud 2,7 vuelve a Priaranza tras el seísmo que sacudió El Bierzo",
+    "link": "https://www.lanuevacronica.com/sucesos/nuevo-terremoto-magnitud-27-vuelve-priaranza-seismo-sacudio-bierzo_205169_102.html",
+    "desc": "El movimiento se produjo este viernes a las 12.50 horas, con una profundidad registrada de cero kilómetros, nueve días después del temblor de magnitud 4,2 que se sintió en toda la comarca y dejó más…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/25/67/71/6/priaranza1712018-4-1000x563.jpeg",
+    "pub": 1792755809,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un nuevo terremoto de magnitud 2,7 sacude el entorno de Priaranza del Bierzo",
+    "link": "https://www.heraldodeleon.es/el-bierzo/nuevo-terremoto-magnitud-27-sacude-entorno-priaranza-bierzo/20261023134326114430.html",
+    "desc": "El Instituto Geográfico Nacional detecta un movimiento sísmico este viernes a las 12.50 horas, con una profundidad registrada de cero kilómetros, en una comarca que continúa pendiente de la…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102313425888108.jpg",
+    "pub": 1792755806,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Transportes cortará de noche la A-6 en los túneles de Villafranca, Trabadelo y Piedrafita",
+    "link": "https://www.lanuevacronica.com/el-bierzo/transportes-cortara-noche-a-6-en-tuneles-villafranca-trabadelo-piedrafita_205168_102.html",
+    "desc": "Las restricciones se prolongarán del 26 al 30 de octubre, entre las 22:00 y las 6:00 horas, con desvíos señalizados por la N-6 para revisar los sistemas de ventilación",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/38/8/whatsapp-image-2026-10-23-at-13-32-35.jpeg",
+    "pub": 1792755679,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -30,14 +94,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102313284420744.jpg",
     "pub": 1792754999,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Convocan nueve jornadas de huelga en el transporte interurbano de viajeros de León",
-    "link": "https://www.lanuevacronica.com/actualidad/convocan-nueve-jornadas-huelga-en-transporte-interurbano-viajeros-leon_205166_102.html",
-    "desc": "CCOO y UGT reclaman equiparar sus salarios a la media de la comunidad y regularización de la jornada y convocan la primera jornada de parón para el viernes 30 de octubre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/35/0/convocan-nueve-jornadas-de-huelga-en-el-transporte-interurbano-de-viajeros-de-leon.jpeg",
-    "pub": 1792754995,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Mañueco mueve ficha en Educación: nombra a María del Valle Ares nueva consejera",
@@ -54,14 +110,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385425.jpg?p=w:1706/h:960&h=v8lsZcxc",
     "pub": 1792754680,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Roban plantas del área de descanso para peregrinos de Campo tras sufrir pintadas",
-    "link": "https://www.lanuevacronica.com/el-bierzo/robos-actos-vandalicos-en-area-descanso-peregrinos-campo_205163_102.html",
-    "desc": "El espacio, que se encuentra en rehabilitación por los alumnos de la Escuela Taller de Ponferrada, suma ya dos actos vandálicos consecutivos en la caseta que se está restaurando",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/31/3/campo.jpeg",
-    "pub": 1792754324,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "León da el primer paso para reformar el Rollo de Santa Ana en plena polémica por su fuente",
@@ -96,6 +144,14 @@
     "fuente": "El Español · CyL"
   },
   {
+    "titulo": "El PSOE cederá el número dos de su candidatura al Senado en Zamora al Frente Amplio",
+    "link": "https://www.eldiario.es/castilla-y-leon/politica/psoe-cedera-numero-candidatura-senado-zamora-frente-amplio_1_13609353.html",
+    "desc": "La portavoz socialista en la Diputación de Zamora, Sandra Veleda, renuncia a su puesto para cedérselo a un candidato del Frente Amplio El presidente del PP de Ávila y de la Diputación irá en las…",
+    "img": "https://static.eldiario.es/clip/f917e12c-b45d-4284-a2b4-bbc6f512178e_16-9-discover-aspect-ratio_default_0_x636y413.jpg",
+    "pub": 1792753654,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
     "titulo": "Convocan nueve días de huelga en los autobuses interurbanos de León contra \"el quinto peor\" convenio laboral del país",
     "link": "https://www.heraldodeleon.es/leon/nueve-dias-huelga-autobuses-interurbanos-leon/20261023130516114425.html",
     "desc": "Los sindicatos CCOO y UGT anuncian que los paros se iniciarán el 30 de octubre y se sucederán hasta el 30 de diciembre en busca de la equiparación de sus salarios a la media autonómica y la…",
@@ -110,6 +166,14 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/16/2026101610095392695.jpg",
     "pub": 1792753514,
     "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El presidente del PP de Ávila y de la Diputación irá en las listas del Senado como número 2",
+    "link": "https://www.eldiario.es/castilla-y-leon/politica/presidente-pp-avila-diputacion-ira-listas-senado-numero-2_1_13609355.html",
+    "desc": "Héctor Palencia repite como cabeza de listas del PP de Ávila al Congreso de los Diputados Feijóo reabre el debate sobre el aborto, eliminará el Ministerio de Igualdad y estudiará “la viabilidad” de…",
+    "img": "https://static.eldiario.es/clip/84fef5f1-2b4b-4856-b6e2-192c4a093b10_16-9-discover-aspect-ratio_default_0_x1112y312.jpg",
+    "pub": 1792753047,
+    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "Roban los arbustos recién plantados en un área de descanso del Camino Francés en Campo",
@@ -440,30 +504,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Cultura abre la vía judicial contra las ayudas al cine de Castilla y León",
-    "link": "https://www.heraldodeleon.es/castilla-y-leon/cultura-abre-via-judicial-ayudas-cine-castilla-leon/20261023095544114387.html",
-    "desc": "El Ministerio cuestiona las cláusulas de la Junta que excluyen de las subvenciones las obras que considere vinculadas al adoctrinamiento ideológico o la propaganda partidista y advierte de posibles…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/20/2026102019265784178.jpg",
-    "pub": 1792742144,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El legado musical de Miguel Manzano ya está al alcance de todos",
-    "link": "https://www.heraldodeleon.es/cultura/legado-musical-miguel-manzano-alcance-todos/20261023094510114386.html",
-    "desc": "El Instituto Leonés de Cultura digitaliza los seis volúmenes del ‘Cancionero leonés’, una obra de referencia con más de 2.000 melodías tradicionales que la Diputación publicó entre 1988 y 1993 y que…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102309431996100.jpg",
-    "pub": 1792741510,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "'La chica del Ágora' vuelve a casa",
-    "link": "https://www.heraldodeleon.es/cultura/chica-agora-vuelve-lugar-que-gesto/20261023094331114385.html",
-    "desc": "Ramiro Pinto presentará su nuevo libro, una distopía poética, en el ágora de San Marcos este sábado a las 12:00",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102309430271387.jpg",
-    "pub": 1792741411,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Fabularia Teatro clausura el Festival de Otoño en Las Médulas con ‘Fray Gerundio de Campazas’",
     "link": "https://www.elbierzodigital.com/fabularia-teatro-clausura-el-festival-de-otono-en-las-medulas-con-fray-gerundio-de-campazas/",
     "desc": "El II Festival de Otoño en Las Médulas llega a su fin este sábado, 24 de octubre, con la representación de Fray Gerundio de Campazas, alias Zotes , a cargo de Fabularia Teatro. La función comenzará…",
@@ -493,7 +533,7 @@
     "desc": "Se prevé que la temperatura máxima de la jornada de hoy ronde los 15 grados, mientras que el termómetro marcará cerca de 4 grados de mínima",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/08/25/2025082508103637785.jpg",
     "pub": 1792739889,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "‘Tres noches en Ítaca’ llega al Bergidum con una historia sobre el duelo, la memoria y el perdón",
@@ -632,22 +672,6 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "CSIF exige subidas salariales en el sector del automóvil de Castilla y León y una transición \"equilibrada y justa\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/economia/20261022/csif-exige-subidas-salariales-sector-automovil-castilla-leon-transicion-equilibrada-justa/1003744431385_0.html",
-    "desc": "El sindicato independiente reclama compromisos concretos para \"reforzar la competitividad, atraer inversiones e impulsar el Corredor Atlántico\". Más información: CSIF niega que la Junta esté…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11189139.jpg?p=c:3984:2242:nowe:15:502/w:1706/h:960&h=WJlft3jz",
-    "pub": 1792680966,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Entra en vigor el 12 de diciembre: Renfe elimina la reserva de asiento y el suplemento por bici y mascota",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261022/entra-vigor-diciembre-renfe-elimina-reserva-asiento-suplemento-bici-mascota/1003744431373_0.html",
-    "desc": "La medida afectará a los trenes que conectan Salamanca, Valladolid y Palencia, así como a los servicios del corredor entre Burgos, Vitoria, Pamplona y Zaragoza. Más información: Estos son los trenes…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/5906361.jpg?p=w:1706/h:960&h=ct1k8MqD",
-    "pub": 1792680623,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Paralizados los Bonos Consumo al detectar una vulnerabilidad informática",
     "link": "https://www.heraldodeleon.es/leon/leon-paraliza-bonos-consumo-vulnerabilidad-informatica-global/20261022163602114352.html",
     "desc": "La Cámara de Comercio interrumpe la campaña de descuentos del 25%, dotada con 150.000 euros municipales, que permitía comprar bonos para gastar en pequeños comercios y establecimientos hosteleros…",
@@ -661,14 +685,6 @@
     "desc": "El alcalde, José Antonio Diez, recibe a los integrantes de la Policía Local para reconocer sus resultados deportivos y su labor en la organización del XXVIII Campeonato de España, que reunió a 150…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102215402457775.jpg",
     "pub": 1792676592,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "León reúne a más de 400 expertos en Derecho Laboral en el congreso Laborium 2026",
-    "link": "https://www.heraldodeleon.es/leon/leon-reune-mas-400-expertos-derecho-laboral-congreso-laborium-2026/20261022152751114330.html",
-    "desc": "El Auditorio Ciudad de León acoge este viernes 23 de octubre el XXVI Congreso Nacional de ASNALA, con debates sobre transparencia salarial, prevención de riesgos laborales e inteligencia artificial…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102215271880999.jpg",
-    "pub": 1792675671,
     "fuente": "Heraldo de León · León"
   },
   {
@@ -693,22 +709,6 @@
     "desc": "El Procurador del Común reclama garantizar que una comisión interna no pueda retrasar la comunicación inmediata a las autoridades competentes de los posibles casos de acoso sexual Condenado un joven…",
     "img": "https://static.eldiario.es/clip/77b44975-8761-41d4-a80c-4113a88cd36c_16-9-discover-aspect-ratio_default_0.jpg",
     "pub": 1792671142,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "El PP respalda la censura ideológica de Vox al cine en Castilla y León y lo justifica en nombre de la “libertad”",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/pp-respalda-censura-ideologica-vox-cine-castilla-leon-justifica-nombre-libertad-calidad-artistica_1_13606432.html",
-    "desc": "El portavoz de la Junta defiende que una comisión de expertos evalúe los proyectos y opina sobre si 'La bola negra' o 'Torrente' podrían optar a las subvenciones: \"Seguro que sí\" El Gobierno de PP y…",
-    "img": "https://static.eldiario.es/clip/a112e6f5-349c-4e22-854b-a49d501715c4_16-9-discover-aspect-ratio_default_0_x977y322.jpg",
-    "pub": 1792671112,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "La compañía de 'Federico' denuncia a la Consejería de Cultura de Castilla y León por la cancelación de la obra por \"motivos ideológicos\"",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/compania-federico-denuncia-consejeria-cultura-castilla-leon-cancelacion-obra-motivos-ideologicos_1_13606121.html",
-    "desc": "Proyecto 43-2 sospecha que las obras en la Sala Experimental del Miguel Delibes a las que aludió la Consejería son una excusa, ya que sigue habiendo actividad y solo se ha cancelado su…",
-    "img": "https://static.eldiario.es/clip/d83670ef-0e90-44c0-a0b1-7c03dc98d90b_16-9-discover-aspect-ratio_default_0_x1121y281.jpg",
-    "pub": 1792668377,
     "fuente": "eldiario.es · CyL"
   },
   {
