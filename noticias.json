@@ -1,5 +1,77 @@
 [
   {
+    "titulo": "A sus órdenes, mi Coronel",
+    "link": "https://www.lanuevacronica.com/opinion/sus-ordenes-mi-coronel_205138_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792721400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Sajambre celebra su tradición en pleno esplendor del otoño",
+    "link": "https://www.lanuevacronica.com/actualidad/sajambre-celebra-su-tradicion-en-pleno-esplendor-otono_205108_102.html",
+    "desc": "La Feria de Sajambre reúne ganado, productos de la tierra, la Muestra de Queso de los Beyos, actividades ecuestres y música",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/40/3/tradicion-y-sabores-de-montana-se-dan-cita-cada-octubre-en-el-corazon-de-picos-de-europa.jpeg",
+    "pub": 1792721100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205144_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/86/7/23-10-2026-canton.jpeg",
+    "pub": 1792720800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Una realidad que no puede normalizarse",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/realidad-no-puede-normalizarse_205143_102.html",
+    "desc": "El aumento de las personas sin hogar atendidas por Cáritas confirma que la precariedad, la vivienda inaccesible y la falta de redes familiares están empujando a más ciudadanos hacia la exclusión",
+    "img": null,
+    "pub": 1792720800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Negrilla se viste de oro para distinguir a Autismo León",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/negrilla-se-viste-oro-distinguir-autismo-leon_205142_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792720800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Reconocimiento nacional a la solidaridad del instituto de un pueblo de León",
+    "link": "https://www.lanuevacronica.com/actualidad/reconocimiento-nacional-solidaridad-instituto-pueblo-leon_205123_102.html",
+    "desc": "El Premio Nacional de Educación para la Solidaridad Global Vicente Ferrer pone en valor los resultados del proyecto 'Pequeñas acciones impulsan grandes cambios'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/56/4/premiosahagun.jpeg",
+    "pub": 1792720800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Colegio La Granja: La Generación del 27 y la IA centran las actividades del curso",
+    "link": "https://www.lanuevacronica.com/actualidad/colegio-granja-generacion-27-ia-centran-actividades-curso_205121_102.html",
+    "desc": "Entre los objetivos figura lograr avances en robótica y programación o dar a conocer autoras como María Zambrano o Rosa Chacel",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/53/4/lagranja.jpeg",
+    "pub": 1792720800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Discrepancias sindicales en León ante la huelga docente del 4 de noviembre",
+    "link": "https://www.lanuevacronica.com/actualidad/discrepancias-sindicales-en-leon-huelga-docente-4-noviembre_205118_102.html",
+    "desc": "CCOO y UGT respaldan la convocatoria, mientras que el resto de organizaciones se desmarcan por los avances logrados con la Junta",
+    "img": "https://www.lanuevacronica.com/uploads/s1/11/49/75/manifestacionjpd-20-11-20.jpeg",
+    "pub": 1792720800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "San Andrés estudia opciones para poder reformar el pabellón César Álvarez",
+    "link": "https://www.lanuevacronica.com/actualidad/san-andres-estudia-opciones-poder-reformar-pabellon-cesar-alvarez_205117_102.html",
+    "desc": "El consistorio valora posibles colaboraciones público - privadas manteniendo siempre el convenio con el colegio Antonio Valbuena",
+    "img": "https://www.lanuevacronica.com/uploads/s1/26/04/13/2/imagen-mauricio-1582867-4-1000x563.jpeg",
+    "pub": 1792720800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La Bonoloto deja un premio de más de 1,35 millones de euros en Ponferrada",
     "link": "https://www.lanuevacronica.com/el-bierzo/bonoloto-deja-premio-mas-135-millones-euros-en-ponferrada_205145_102.html",
     "desc": "La Administración número 7 de la calle General Vives selló uno de los tres boletos acertantes de primera categoría del sorteo de este jueves",
@@ -80,28 +152,12 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "¿Por qué acusan a la Junta de Castilla y León de \"censurar\" la cultura?",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/por-acusan-junta-castilla-leon-censurar-cultura_205131_102.html",
-    "desc": "La Consejería de Cultura incluye como uno de los requisitos de su línea de subvenciones al cine que las creaciones no \"impliquen adoctrinamiento ideológico\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/72/4/imagen-de-archivo-del-rodaje-de-una-produccion-audiovisual-en-la-plaza-del-grano-de-la-capital-leonesa-laura-pastoriza.jpeg",
-    "pub": 1792691099,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El héroe anónimo de León tiene nombre propio: Emilio Beltrán",
     "link": "https://www.heraldodeleon.es/leon/heroe-anonimo-leon-tiene-nombre-propio-emilio-beltran/20261022193819114372.html",
     "desc": "El bracero mayor de Nuestro Padre Jesús Nazareno auxilió a un hombre de unos 60 años que se desplomó en la calle Covadonga y practicó maniobras de reanimación hasta la llegada de los servicios de…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/27/2026092713574963154.jpg",
     "pub": 1792690699,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Cultural tropieza con la madera",
-    "link": "https://www.lanuevacronica.com/deportes/cultural-tropieza-con-madera_205120_102.html",
-    "desc": "El equipo leonés ha dado seis palos en seis partidos diferentes, siendo el que más de toda la Primera Federación y estando ya a sólo uno de los que tuvo en la temporada del ascenso completa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/62/7/queipologrones.jpeg",
-    "pub": 1792690001,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Nueva jornada | Juega 'El quinteto' con el BF León",
@@ -120,14 +176,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La ULE ya es la primera Escuela de Ingenierías de España con un simulador para la formación avanzada de pilotos",
-    "link": "https://www.lanuevacronica.com/actualidad/ule-ya-es-primera-escuela-ingenierias-espana-con-simulador-formacion-avanzada-pilotos_205126_102.html",
-    "desc": "La certificación por la Agencia Estatal de Seguridad Aérea abre nuevas posibilidades para la docencia, la investigación, la transferencia de conocimiento y el entrenamiento especializado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/64/9/simulador-de-vuelo-de-la-ule.jpeg",
-    "pub": 1792687721,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Miriam Andrés cuestiona la paridad de las listas del PSOE como ha dicho Torró: “De 9 provincias, 7 son hombres\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261022/miriam-andres-cuestiona-paridad-listas-psoe-dicho-torro-provincias-hombres/1003744431590_0.html",
     "desc": "La alcaldesa de Palencia vuelve a la carga tras el 'dedazo' de Ferraz en la elección de listas para las elecciones del 29-N. Más información : Miriam Andrés acusa a Ferraz de saltarse \"de manera…",
@@ -144,14 +192,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Villaquilambre invertirá más de 150.000 euros en mejorar las zonas de esparcimiento canino",
-    "link": "https://www.lanuevacronica.com/actualidad/villaquilambre-invertira-mas-150000-euros-en-mejorar-zonas-esparcimiento-canino_205122_102.html",
-    "desc": "En el municipio hay cerca de 5.000 perros censados",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/54/9/una-de-las-zonas-de-esparcimiento-canino-de-villaquilambre.jpeg",
-    "pub": 1792686322,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Abascal vuelve a Castilla y León la próxima semana en plena ola de altercados contra Vox: tres actos con un gran mitin",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261022/abascal-vuelve-castilla-leon-proxima-semana-plena-ola-altercados-vox-actos-gran-mitin/1003744431543_0.html",
     "desc": "El líder de Vox visitará las tres capitales en plena precampaña de las generales, con el objetivo de arropar a sus candidatos. Más información: Abascal denuncia la \"violencia organizada\" desde…",
@@ -160,52 +200,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Un vecino de Villaquilambre construye refugios para los gatos callejeros del municipio",
-    "link": "https://www.lanuevacronica.com/actualidad/vecino-villaquilambre-construye-refugios-colonias-felinas-municipio_205119_102.html",
-    "desc": "El ayuntamiento comenzará su instalación durante las próximas semanas con la llegada del frío",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/51/1/una-de-las-construcciones-que-se-estan-realizando-en-villaquilambre-para-los-gatos-callejeros.jpeg",
-    "pub": 1792686041,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Villaquilambre destina 157.500 euros a renovar cinco zonas caninas",
     "link": "https://www.heraldodeleon.es/alfoz/villaquilambre/villaquilambre-destina-157500-euros-renovar-cinco-zonas-caninas/20261022181950114357.html",
     "desc": "El Ayuntamiento mejorará los cerramientos y añadirá equipamientos de juego y entrenamiento en espacios de Navatejera, Villaquilambre y Villaobispo, mientras mantiene el control de más de 30 colonias…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102218084645300.jpg",
     "pub": 1792685990,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Bañeza busca un nuevo gestor para el bar del Hogar del Jubilado",
-    "link": "https://www.lanuevacronica.com/actualidad/baneza-busca-nuevo-gestor-bar-hogar-jubilado_205115_102.html",
-    "desc": "El Ayuntamiento bañezano licita por 23.040 euros la concesión de la cafetería durante dos años ante la finalización del contrato actual el próximo 25 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/49/8/bar-hogar-del-jubilado.jpeg",
-    "pub": 1792685212,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Enfado de UPL tras no ser invitado a la apertura del Enise",
-    "link": "https://www.lanuevacronica.com/actualidad/enfado-upl-no-ser-invitado-apertura-enise_205114_102.html",
-    "desc": "El partido leonesista pide explicaciones sobre los criterios seguidos para cursar las invitaciones acusando de poner el evento \"al servicio de intereses partidistas\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/88/3/el-enise-2026-en-imagenes-12.jpeg",
-    "pub": 1792685176,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Fontanos del Torío acogerá un curso sobre setas ecológicas de la mano de Naturgeis",
-    "link": "https://www.lanuevacronica.com/actualidad/fontanos-torio-acogera-curso-sobre-setas-ecologicas-mano-naturgeis_205107_102.html",
-    "desc": "El micólogo Juan Antonio Sánchez Rodríguez impartirá la formación para fomentar nuevas oportunidades económicas en el medio rural",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/39/0/las-setas-son-un-recurso-con-posibilidades-de-desarrollo-para-las-zonas-rurales-l-n-c.jpeg",
-    "pub": 1792685100,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Unicaja vuelve a teñir de azul la Seminci y renueva su compromiso con la cultura en Valladolid",
-    "link": "https://www.lanuevacronica.com/cyl/unicaja-vuelve-tenir-azul-seminci-renueva-su-compromiso-con-cultura-en-valladolid_205113_102.html",
-    "desc": "La entidad financiera patrocina un año más el festival, que celebrará su edición número 71 del 23 al 31 de octubre y que extiende la alfombra azul en el centro de la ciudad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/48/1/image.jpeg",
-    "pub": 1792684686,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Ester Muñoz, el látigo del PP",
