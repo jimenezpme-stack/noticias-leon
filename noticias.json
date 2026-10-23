@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "El batiburrillo y los tutoriales",
+    "link": "https://www.lanuevacronica.com/extras/a-la-contra/batiburrillo-tutoriales_205147_102.html",
+    "desc": "La última de La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/95/0/el-batiburrillo-y-los-tutoriales.jpeg",
+    "pub": 1792738804,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El éxito de Sibuya ahora va sobre ruedas",
+    "link": "https://www.heraldodeleon.es/sabores-de-leon/exito-sibuya-ahora-va-ruedas/20261023084124114381.html",
+    "desc": "La firma leonesa de restauración, que ya factura más de cien millones de euros, amplía su modelo de negocio con Sibuya Events &amp; Organization, una división que combina catering especializado,…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102308382515512.jpg",
+    "pub": 1792737684,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "León se come en Gijón",
     "link": "https://www.heraldodeleon.es/sabores-de-leon/leon-come-gijon/20261023082303114379.html",
     "desc": "La Plaza Mayor gijonesa reúne desde este viernes y hasta el domingo 24 a 23 expositores de alimentación leonesa en una feria que combina promoción gastronómica, tradición y vínculos entre ambas…",
@@ -172,14 +188,6 @@
     "link": "https://www.lanuevacronica.com/actualidad/discrepancias-sindicales-en-leon-huelga-docente-4-noviembre_205118_102.html",
     "desc": "CCOO y UGT respaldan la convocatoria, mientras que el resto de organizaciones se desmarcan por los avances logrados con la Junta",
     "img": "https://www.lanuevacronica.com/uploads/s1/11/49/75/manifestacionjpd-20-11-20.jpeg",
-    "pub": 1792720800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "San Andrés estudia opciones para poder reformar el pabellón César Álvarez",
-    "link": "https://www.lanuevacronica.com/actualidad/san-andres-estudia-opciones-poder-reformar-pabellon-cesar-alvarez_205117_102.html",
-    "desc": "El consistorio valora posibles colaboraciones público - privadas manteniendo siempre el convenio con el colegio Antonio Valbuena",
-    "img": "https://www.lanuevacronica.com/uploads/s1/26/04/13/2/imagen-mauricio-1582867-4-1000x563.jpeg",
     "pub": 1792720800,
     "fuente": "La Nueva Crónica"
   },
@@ -413,14 +421,6 @@
     "desc": "La formación leonesista alerta de accidentes de tráfico y daños en cultivos por el desplazamiento de reses desde el término municipal de Carrizo de la Ribera y cuestiona la eficacia del ultimátum…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/08/12/2025081210023751682.jpg",
     "pub": 1792674438,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El gran magosto de Ponferrada coincidirá con su Mercado de Otoño",
-    "link": "https://www.heraldodeleon.es/el-bierzo/gran-magosto-ponferrada/20261022145824114324.html",
-    "desc": "Habrá 40 puestos en el mercado y el magosto ofrecerá música y un espectáculo de fuego el próximo 31 de octubre",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102214574516467.jpg",
-    "pub": 1792673904,
     "fuente": "Heraldo de León"
   },
   {
