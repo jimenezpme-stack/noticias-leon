@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "León, el reino de la trucha",
+    "link": "https://www.heraldodeleon.es/deportes/mas-deporte/leon-reino-trucha/20261023195137114513.html",
+    "desc": "León llena el fin de semana de pesca, talleres y gastronomía con Destino Pesca |&nbsp;La 58 Semana Internacional de la Trucha y la III Feria Destino Pesca ofrecen demostraciones en el Bernesga,…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102319475096815.jpg",
+    "pub": 1792777897,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Casa Botines descubre la vida cotidiana tras las paredes de La Pedrera",
+    "link": "https://www.heraldodeleon.es/leon/casa-botines-descubre-vida-cotidiana-paredes-pedrera/20261023193446114502.html",
+    "desc": "El museo leonés proyectará el 28 de octubre el documental ‘Living with Gaudí’, dirigido por Pablo Burgos-Bosch, que asistirá a la sesión para acercar al público la historia de una mujer que habitó…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102319335771431.jpg",
+    "pub": 1792776886,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "León lleva el ahorro energético a las aulas para fomentar hábitos sostenibles",
+    "link": "https://www.heraldodeleon.es/leon/leon-lleva-ahorro-energetico-aulas-fomentar-habitos-sostenibles/20261023192825114499.html",
+    "desc": "El Ayuntamiento organiza actividades para estudiantes de Primaria y Secundaria con motivo del Día Mundial del Ahorro de Energía, celebrado el 21 de octubre, en colaboración con la Junta de Castilla…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102319240174003.jpg",
+    "pub": 1792776505,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La música de los abuelos llega a Laguna de Negrillos con la Carroza del Teatro Real",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/musica-abuelos-llega-laguna-negrillos-con-carroza-teatro-real_205190_102.html",
+    "desc": "La explanada de la Casa de Cultura acogerá este domingo el espectáculo protagonizado por Lara Chaves y Alberto Frías que contará con Andrés Tejero Velázquez como pianista",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/04/5/la-carroza-del-teatro-real-llega-este-domingo-a-laguna-de-negrillos-l-n-c.jpeg",
+    "pub": 1792776114,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El Atlético Astorga busca una reacción ante el Gernika en La Eragudina",
     "link": "https://www.heraldodeleon.es/deportes/futbol/atletico-astorga-busca-reaccion-gernika-eragudina/20261023191802114496.html",
     "desc": "El equipo de José Luis Lago quiere pasar página tras el tropiezo frente al Compostela y reforzar su fortaleza como local en un partido exigente que llega con la incorporación del defensa marroquí…",
@@ -16,7 +48,7 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "El Mipelletymas BF León busca en Mijas su segundo triunfo en Liga Challenge",
+    "titulo": "El Mipelletymas BF León busca en Málaga su segundo triunfo en Liga Challenge",
     "link": "https://www.heraldodeleon.es/deportes/baloncesto/mipelletymas-bf-leon-busca-mijas-segundo-triunfo-liga-challenge/20261023191332114495.html",
     "desc": "El conjunto leonés visita este sábado al Unicaja Mijas a las 17.30 horas con el objetivo de consolidar su adaptación a la categoría tras estrenar su casillero de victorias ante el Bosonit Unibasket",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/03/2026100322455916940.jpg",
@@ -46,14 +78,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11185879.jpg?p=w:1706/h:960&h=zSKaUOEA",
     "pub": 1792774685,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La música de los abuelos llega a Laguna de Negrillos con la Carroza del Teatro Real",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/musica-abuelos-llega-laguna-negrillos-con-carroza-teatro-real_205190_102.html",
-    "desc": "La explanada de la Casa de Cultura acogerá este domingo el espectáculo protagonizado por Lara Chaves y Alberto Frías que contará con Andrés Tejero Velázquez como pianista",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/04/5/la-carroza-del-teatro-real-llega-este-domingo-a-laguna-de-negrillos-l-n-c.jpeg",
-    "pub": 1792773904,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "CCOO activa el conflicto laboral por el cierre del centro de formación de Adif en León",
@@ -160,7 +184,7 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Los Premios Concejo 2026 ya tienen ganadores",
+    "titulo": "Los Premios Concejo ya tienen ganadores",
     "link": "https://www.heraldodeleon.es/deportes/cultural/premios-concejo-2026-tienen-ganadores/20261023173332114477.html",
     "desc": "El escritor José Antonio Llamas, la Joven Orquesta Leonesa, Natividad Villoldo, Rosario Granell y Luis Gómez Domingo reciben los galardones del Instituto Leonés de Cultura, dotados con 5.000 euros…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102317321243206.jpg",
@@ -296,14 +320,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Nafti, con la mente en el siempre difícil Barakaldo: \"No elijo al equipo en función del rendimiento a corto plazo\"",
-    "link": "https://www.heraldodeleon.es/deportes/ponferradinasd/https-www-youtube-com-watch-v-g9wzces1b44/20261023145124114454.html",
-    "desc": "El técnico blanquiazul analiza las alternativas de su plantilla, valora la progresión de Pablo Muñoz y Slavy y reclama máxima concentración para un encuentro que se disputará este sábado a las 18.45…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102314482235232.jpg",
-    "pub": 1792759884,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "La Junta de Castilla y León defiende que su impuesto a la fotovoltaica busca \"compromiso\" con el medio rural",
     "link": "https://www.eldiario.es/castilla-y-leon/economia/junta-castilla-leon-defiende-impuesto-fotovoltaica-busca-compromiso-rural_1_13610135.html",
     "desc": "El equipo de PP Y Vox quiere imponer una tasa de entre 600 y 2.000 euros por hectárea a los grandes parques de energía solar fotovoltaica en suelo La patronal renovable critica el nuevo impuesto del…",
@@ -328,14 +344,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Nuevo acto vandálico en el área de peregrinos: roban arbustos recién plantados",
-    "link": "https://www.heraldodeleon.es/el-bierzo/nuevo-acto-vandalico-area-peregrinos-ponferrada-roban-arbustos-recien-plantados/20261023143559114443.html",
-    "desc": "\"Después de los daños que ya sufrimos con las pintadas, es muy triste y desmoralizador\", asegura el concejal responsable, que pide \"civismo\" y \"colaboración ciudadana\"",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102314284541997.jpg",
-    "pub": 1792758959,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Autismo León recibe la Negrilla de Oro por una trayectoria ejemplar",
     "link": "https://www.lanuevacronica.com/actualidad/autismo-leon-recibe-negrilla-oro-por-trayectoria-ejemplar_205165_102.html",
     "desc": "AVANCE | La Nueva Crónica entregó su máximo galardón a una entidad pionera que ha acompañado a las personas con TEA y a sus familias y ha contribuido decisivamente a acercar el autismo a la sociedad…",
@@ -349,7 +357,7 @@
     "desc": "El gran congreso del Incibe ha congregado a más 83.000&nbsp;asistentes en sus veinte ediciones sumando 1.058 patrocinadores, 2.282 ponentes y participantes de 114 países en el International Business…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102314140543160.jpg",
     "pub": 1792757725,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Prisión sin fianza para dos de los detenidos por la muerte de una anciana maniatada en Burgos",
@@ -592,14 +600,6 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "Viernes fresco en León a la espera de un repunte de las temperaturas el fin de semana",
-    "link": "https://www.heraldodeleon.es/leon/viernes-fresco-leon-espera-repunte-temperaturas-fin-semana/20261023091809114382.html",
-    "desc": "Se prevé que la temperatura máxima de la jornada de hoy ronde los 15 grados, mientras que el termómetro marcará cerca de 4 grados de mínima",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/08/25/2025082508103637785.jpg",
-    "pub": 1792739889,
-    "fuente": "Heraldo de León · León"
-  },
-  {
     "titulo": "Gustavo Dorda, nuevo jefe de la Guardia Civil en Valladolid: “Trabajo para que la plantilla esté lo más cubierta posible”",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261023/gustavo-dorda-nuevo-jefe-guardia-civil-valladolid-trabajo-plantilla-cubierta-posible/1003744429022_0.html",
     "desc": "Nacido en Gran Canaria, y con 51 años, tomó posesión del cargo el pasado 4 de septiembre. Suma 30 años de experiencia y es, además, doctor en Derecho. Más información: Gustavo Dorda, más de 30 años…",
@@ -638,14 +638,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385030.jpg?p=c:3599:2024:nowe:195:149/w:1706/h:960&h=vVgPmUuO",
     "pub": 1792694182,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Abascal con 'C' y 'L'",
-    "link": "https://www.heraldodeleon.es/leon/abascal-con-c-y-l/20261022201107114374.html",
-    "desc": "Abascal vuelve a Castilla y León la próxima semana con tres actos en Zamora, Valladolid y Ávila | El presidente de Vox programa un mitin en la Feria de Valladolid el próximo miércoles y otro el…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/15/2026101517540335611.jpg",
-    "pub": 1792692667,
-    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Miriam Andrés cuestiona la paridad de las listas del PSOE como ha dicho Torró: “De 9 provincias, 7 son hombres\"",
@@ -726,6 +718,14 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384553.jpg?p=c:2999:1688:nowe:0:0/w:1706/h:960&h=GHIfArqE",
     "pub": 1792670081,
     "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "La compañía de 'Federico' denuncia a la Consejería de Cultura de Castilla y León por la cancelación de la obra por \"motivos ideológicos\"",
+    "link": "https://www.eldiario.es/castilla-y-leon/politica/compania-federico-denuncia-consejeria-cultura-castilla-leon-cancelacion-obra-motivos-ideologicos_1_13606121.html",
+    "desc": "Proyecto 43-2 sospecha que las obras en la Sala Experimental del Miguel Delibes a las que aludió la Consejería son una excusa, ya que sigue habiendo actividad y solo se ha cancelado su…",
+    "img": "https://static.eldiario.es/clip/d83670ef-0e90-44c0-a0b1-7c03dc98d90b_16-9-discover-aspect-ratio_default_0_x1121y281.jpg",
+    "pub": 1792668377,
+    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "El Rey, primer visitante del Centro de Interpretación de las Fuentes de La Granja",
