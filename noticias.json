@@ -1,11 +1,99 @@
 [
   {
+    "titulo": "Cuca Gamarra promete desde Zamora \"tolerancia cero con la corrupción\" y señala a Sánchez como \"número 1 de las tramas\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261023/cuca-gamarra-promete-zamora-tolerancia-cero-corrupcion-senala-sanchez-numero-tramas/1003744432406_0.html",
+    "desc": "La vicesecretaria del PP acusa al PSOE de ocultar contratos y facturas \"como las joyas de Zapatero\" y advierte de que sus dirigentes \"tendrán que rendir cuentas ante la Justicia\". Más información:…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385379.jpg?p=c:2047:1152:nowe:0:0/w:1706/h:960&h=1JpM5mhO",
+    "pub": 1792753656,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Roban plantas del área de descanso para peregrinos de Campo tras sufrir pintadas",
+    "link": "https://www.lanuevacronica.com/el-bierzo/robos-actos-vandalicos-en-area-descanso-peregrinos-campo_205163_102.html",
+    "desc": "El espacio, que se encuentra en rehabilitación por los alumnos de la Escuela Taller de Ponferrada, ya había sufrido pintadas en la caseta que se está restaurando",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/31/3/campo.jpeg",
+    "pub": 1792753557,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Convocan nueve días de huelga en los autobuses interurbanos de León contra \"el quinto peor\" convenio laboral del país",
+    "link": "https://www.heraldodeleon.es/leon/nueve-dias-huelga-autobuses-interurbanos-leon/20261023130516114425.html",
+    "desc": "Los sindicatos CCOO y UGT anuncian que los paros se iniciarán el 30 de octubre y se sucederán hasta el 30 de diciembre en busca de la equiparación de sus salarios a la media autonómica y la…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102312434282057.jpg",
+    "pub": 1792753516,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "León convoca un concurso para transformar el entorno del Rollo de Santa Ana",
+    "link": "https://www.heraldodeleon.es/leon/leon-prepara-transformacion-rollo-santa-ana-revisa-aperturas-comerciales/20261023130514114424.html",
+    "desc": "El Ayuntamiento destina 205.942 euros a seleccionar un proyecto de reurbanización y mejora ambiental de este enclave histórico del Camino de Santiago, con actuaciones previstas en jardines, arbolado…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/16/2026101610095392695.jpg",
+    "pub": 1792753514,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Roban los arbustos recién plantados en un área de descanso del Camino Francés en Campo",
+    "link": "https://www.elbierzodigital.com/roban-los-arbustos-recien-plantados-en-un-area-de-descanso-del-camino-de-invierno-en-campo/",
+    "desc": "El área de descanso para peregrinos de Campo , en el Camino Francés, ha sufrido un nuevo acto vandálico: la sustracción de varios arbustos recién plantados en la zona ajardinada frente a una caseta…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/roban-los-arbustos-recien-plantados-en-un-area-de-descanso-del-camino-de-invierno-en-campo-el-bierzo-digital.jpeg",
+    "pub": 1792753003,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "León destina 430.000 euros a mejorar la accesibilidad en 22 puntos de la ciudad",
+    "link": "https://www.heraldodeleon.es/leon/leon-destina-430000-euros-mejorar-accesibilidad-22-puntos-ciudad/20261023125042114423.html",
+    "desc": "Excarbi SL ejecutará las obras durante doce meses, con actuaciones en pasos de peatones, aceras e itinerarios escolares y una intervención específica en los accesos al Estadio Reino de León",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/02/26/2026022612414139293.jpg",
+    "pub": 1792752642,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "María Pardo dejará la Consejería y encabezará la lista del PP de Valladolid al Congreso: Carnero repite en el Senado",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261023/maria-pardo-deja-consejeria-encabeza-lista-pp-valladolid-congreso-carnero-repite-senado/1003744432363_0.html",
+    "desc": "Ahora la Junta tendrá que buscar reemplazo para el departamento de Educación. Más información : María Pardo, la nueva consejera de Educación de Castilla y León: una doctora 'cum laude' al frente del…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385351.jpg?p=w:1706/h:960&h=hnEt-3Zx",
+    "pub": 1792752570,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "León adjudica por 792.000 euros el nuevo aparcamiento de Padre Isla con 178 plazas",
+    "link": "https://www.heraldodeleon.es/leon/leon-adjudica-792000-euros-nuevo-aparcamiento-padre-isla/20261023124006114414.html",
+    "desc": "El proyecto, encargado a Excarbi SL con un plazo de ejecución de diez meses, incorporará 178 plazas para coches y motocicletas, espacios para bicicletas y vehículos de movilidad personal y una nueva…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/08/12/2026081210433079115.jpg",
+    "pub": 1792752006,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "León tendrá un nuevo aparcamiento gratuito en Padre Isla con 164 plazas para coches",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-tendra-nuevo-aparcamiento-gratuito-en-padre-isla-con-164-plazas-coches_205162_102.html",
+    "desc": "El Ayuntamiento adjudica por 792.000 euros las obras del estacionamiento, que estará listo en diez meses, y destina otros 430.000 euros a eliminar barreras arquitectónicas en 22 puntos de la ciudad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/39/61/8/parcela-aparcamiento-padre-isla.jpeg",
+    "pub": 1792751793,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Prisión sin fianza para dos de los tres adultos detenidos por la muerte de una anciana maniatada en Burgos",
+    "link": "https://www.eldiario.es/castilla-y-leon/tribunales/prision-fianza-tres-adultos-detenidos-muerte-anciana-maniatada-burgos_1_13609319.html",
+    "desc": "Hay dos procedimientos judiciales con seis personas investigadas por el robo con violencia en casa habitada, homicidio y receptación Los Mossos investigan el bulo xenófobo contra dos jóvenes…",
+    "img": "https://static.eldiario.es/clip/b522fd71-6b24-4aa2-81b1-5261ec0bc156_16-9-discover-aspect-ratio_default_0.jpg",
+    "pub": 1792751604,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
     "titulo": "UPL ve \"una tomadura de pelo\" que León se quede sin una unidad antidisturbios",
     "link": "https://www.heraldodeleon.es/leon/upl-ve-tomadura-pelo-que-leon-quede-unidad-antidisturbios/20261023122334114412.html",
     "desc": "El portavoz municipal leonesista, Eduardo López Sendino, reclama explicaciones al PSOE y al diputado Javier Alfonso Cendón ante la posible instalación en Valladolid de un nuevo grupo de Intervención…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102312333373869.jpg",
     "pub": 1792751014,
     "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La alcaldesa de Palencia del PSOE se ofrece a acoger las obras de teatro \"que puedan sufrir censura\" en Castilla y León",
+    "link": "https://www.eldiario.es/castilla-y-leon/cultura/alcaldesa-palencia-psoe-ofrece-teatro-principal-obras-puedan-sufrir-censura-castilla-leon_1_13609143.html",
+    "desc": "Palencia acogió el proceso creativo de la obra 'Federico' en una residencia, por lo que el Ayuntamiento conoce y subraya \"la dedicación, la investigación, el talento y la profesionalidad que hay…",
+    "img": "https://static.eldiario.es/clip/b103e47f-3914-48c9-a737-4faeb83de7f9_16-9-discover-aspect-ratio_default_0_x1023y303.jpg",
+    "pub": 1792750838,
+    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "Una maqueta de 243 metros rinde homenaje al ferrocarril en La Térmica Cultural",
@@ -400,28 +488,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La crítica situación de Torneros se complica al límite al carecer de mínimas garantías de suministro eléctrico para impulsar su desarrollo industrial",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/situacion-torneros-agrava-aun-mas-carecer-garantias-suministro-electrico-impulsar-desarrollo-industrial-leon/20261023081002114376.html",
-    "desc": "Izquierda Unida acusa al PSOE de incumplir sus compromisos con la provincia y reclama que la próxima legislatura marque el inicio efectivo de las obras de la Plataforma Logística Intermodal de…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/03/21/2025032108022685503.jpg",
-    "pub": 1792735802,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Vox destaca los 29 millones de inversión previstos para el Bierzo en los presupuestos de Castilla y León",
     "link": "https://www.elbierzodigital.com/vox-destaca-los-29-millones-de-inversion-previstos-para-el-bierzo-en-los-presupuestos-de-castilla-y-leon/",
     "desc": "La procuradora de Vox por León, Laura Dorreis, ha destacado que el proyecto de presupuestos de Castilla y León contempla una inversión de 240,5 millones de euros para la provincia , la mayor cuantía…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/vox-destaca-los-29-millones-de-inversion-previstos-para-el-bierzo-en-los-presupuestos-de-castilla-y-leon-el-bierzo-digital.jpg",
     "pub": 1792734414,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La BonoLoto deja en Ponferrada un premio de 1,3 millones",
-    "link": "https://www.heraldodeleon.es/el-bierzo/bonoloto-deja-ponferrada-premio-13-millones-euros/20261023074649114375.html",
-    "desc": "El boleto se validó en la Administración de Lotería número siete, ubicada en la calle General Vives",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102311245991960.jpg",
-    "pub": 1792734409,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Gustavo Dorda, nuevo jefe de la Guardia Civil en Valladolid: “Trabajo para que la plantilla esté lo más cubierta posible”",
@@ -456,22 +528,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Un hombre herido en una colisión entre un turismo y una pick-up en Carracedelo",
-    "link": "https://www.lanuevacronica.com/sucesos/hombre-herido-en-colision-entre-turismo-pick-up-en-carracedelo_205146_102.html",
-    "desc": "El aparatoso accidente se produjo en la carretera LE-5207",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/93/0/accidente.jpeg",
-    "pub": 1792729334,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El fin de la turra",
-    "link": "https://www.lanuevacronica.com/opinion/fin-turra_205141_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792724400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Un herido tras un choque entre dos vehículos en Carracedelo",
     "link": "https://www.elbierzodigital.com/un-herido-tras-un-choque-entre-dos-vehiculos-en-carracedelo/",
     "desc": "Un hombre ha resultado herido este jueves tras sufrir un accidente de tráfico en el municipio de Carracedelo , según informa la oficina de Emergencias 112. El suceso tuvo lugar a las 19.50 horas,…",
@@ -493,7 +549,7 @@
     "desc": "Abascal vuelve a Castilla y León la próxima semana con tres actos en Zamora, Valladolid y Ávila | El presidente de Vox programa un mitin en la Feria de Valladolid el próximo miércoles y otro el…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/15/2026101517540335611.jpg",
     "pub": 1792692667,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "UPL cuestiona el uso partidista de las invitaciones a la apertura de ENISE en León",
@@ -501,7 +557,7 @@
     "desc": "La formación leonesista reclama conocer por qué no se convocó este año a todos los grupos políticos, como asegura que ocurría en ediciones anteriores, y pide preservar el carácter económico y…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/21/2026102113524953044.jpg",
     "pub": 1792691999,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "El héroe anónimo de León tiene nombre propio: Emilio Beltrán",
@@ -616,28 +672,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "\"Tienes a un familiar grave\": ¿Qué hacer ante una llamada que suplanta al Hospital de Salamanca para estafarte?",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261022/familiar-grave-hacer-llamada-suplanta-hospital-salamanca-estafarte/1003744431209_0.html",
-    "desc": "El Complejo Asistencial pide no facilitar datos y comprobar la información llamando a la centralita antes de desplazarse al centro. Más información: Las obras de las urgencias del Hospital de…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/9798799.jpg?p=c:1598:899:nowe:1:0/w:1706/h:960&h=uw-9lKiE",
-    "pub": 1792674770,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "La Justicia condena a un funcionario de prisiones por agresión sexual a una reclusa en Salamanca",
     "link": "https://www.eldiario.es/castilla-y-leon/tribunales/justicia-condena-ocho-anos-carcel-funcionario-prisiones-agresion-sexual-reclusa_1_13606940.html",
     "desc": "El funcionario condenado se aprovechó de su cargo para agredir sexualmente a la mujer entre septiembre de 2023 y enero de 2024 El colegio del profesor detenido en Madrid por agresión sexual asegura…",
     "img": "https://static.eldiario.es/clip/cdd9545a-a025-4048-8cd1-0deacbc1415a_16-9-discover-aspect-ratio_default_0.jpg",
     "pub": 1792674542,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "La cita ideal para disfrutar de Halloween se vive en Vallsur del 29 al 31 de octubre: con mucha magia y diversión",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261022/cita-ideal-disfrutar-halloween-vive-vallsur-octubre-mucha-magia-diversion/1003744431101_0.html",
-    "desc": "Durante tres días, el centro comercial vallisoletano se llena de magia, diversión y muchos personajes. Más información: Las dos ferias para apasionados del coleccionismo que pueden disfrutarse del…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10768516.jpg?p=w:1706/h:960&h=ARPCLXdZ",
-    "pub": 1792671312,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "León activa un dispositivo especial de Todos los Santos con 152 policías y dos líneas 'extra' de bus",
@@ -664,52 +704,12 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "Ponferrada estrena el Teatro Arthemus con un espectáculo familiar de brujas y humor",
-    "link": "https://www.elbierzodigital.com/ponferrada-estrena-el-teatro-arthemus-con-un-espectaculo-familiar-de-brujas-y-humor/",
-    "desc": "Ponferrada contará con un nuevo espacio cultural con la apertura del Teatro Arthemus, impulsado por Arthemus Producción. La sala estrenará su programación los días 31 de octubre y 1 de noviembre con…",
-    "img": null,
-    "pub": 1792670267,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "La compañía de 'Federico' denuncia a la Consejería de Cultura de Castilla y León por la cancelación de la obra por \"motivos ideológicos\"",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/compania-federico-denuncia-consejeria-cultura-castilla-leon-cancelacion-obra-motivos-ideologicos_1_13606121.html",
     "desc": "Proyecto 43-2 sospecha que las obras en la Sala Experimental del Miguel Delibes a las que aludió la Consejería son una excusa, ya que sigue habiendo actividad y solo se ha cancelado su…",
     "img": "https://static.eldiario.es/clip/d83670ef-0e90-44c0-a0b1-7c03dc98d90b_16-9-discover-aspect-ratio_default_0_x1121y281.jpg",
     "pub": 1792668377,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "El alcalde de Valladolid del PP defiende la Seminci y niega que exista “cine ideologizado\"",
-    "link": "https://www.eldiario.es/castilla-y-leon/cultura/alcalde-valladolid-pp-defiende-seminci-niega-exista-cine-ideologizado_1_13606257.html",
-    "desc": "El alcalde, que dividió Cultura para que Vox no tuviera el control de Seminci, reivindica el cine como \"una expresión artística\" equivalente a la libertad El Gobierno de PP y Vox en Castilla y León…",
-    "img": "https://static.eldiario.es/clip/d5d23963-02c0-4b38-a657-7fe3d0a8005e_16-9-discover-aspect-ratio_default_0_x863y135.jpg",
-    "pub": 1792667993,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "La Policía Local, un cuerpo 'amigo'",
-    "link": "https://www.heraldodeleon.es/leon/policia-local-leon-cuerpo-amigo-ninos/20261022130306114268.html",
-    "desc": "El alcalde de León, José Antonio Diez, y el intendente jefe, Miguel Ángel Pellitero, han acompañado a cerca de 850 alumnos capitalinos durante la jornada de puertas abiertas este jueves por San…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102212542018758.jpg",
-    "pub": 1792666986,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "El PSOE pide vender o alquilar las cuatro viviendas que acabaron en manos del Ayuntamiento de Valladolid tras el caso de los áticos",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/psoe-pide-vender-alquilar-pisos-leon-riva-acabaron-manos-ayuntamiento-valladolid_1_13605774.html",
-    "desc": "Los cuatro inmuebles de la plaza Zorrilla siguen vacíos y generan 5.226 euros anuales en gastos de comunidad, según los socialistas Hemeroteca - Las irregularidades en el edificio donde vive León de…",
-    "img": "https://static.eldiario.es/clip/122dce67-4371-41de-895f-da35b8eccc2a_16-9-discover-aspect-ratio_default_0_x795y600.jpg",
-    "pub": 1792661426,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "La unidad de antidisturbios de la Policía Nacional que pedía León se irá a Valladolid",
-    "link": "https://www.heraldodeleon.es/leon/consejo-policia-confirma-que-unidad-antidisturbios-que-pedia-leon-ira-valladolid/20261022112617114233.html",
-    "desc": "El Foro de Debate Leonés accede a documentos&nbsp;oficiales del Consejo de Policía confirmando la ubicación, que podría anunciarse&nbsp;pasadas las elecciones generales, y anuncia movilizaciones…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/02/19/2026021913593158154.jpg",
-    "pub": 1792661177,
-    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "El Rey, primer visitante del Centro de Interpretación de las Fuentes de La Granja",
