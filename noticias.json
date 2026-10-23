@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Astibot, la empresa de Valladolid que ha enseñado a un robot a podar viñedos",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261023/astibot-empresa-valladolid-ensenado-robot-podar-vinedos/1003744431277_0.html",
+    "desc": "La compañía dirigida por Felipe Beteta, que cuenta con 25 trabajadores, ultima la comercialización de TrimBot, un sistema autónomo de poda basado en IA. La escasez de profesionales especializados…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384709.jpg?p=w:1706/h:960&h=rjvtkWpp",
+    "pub": 1792731600,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El restaurante en el que siempre para el actor Antonio Pagudo: tienen morcilla, pulpo con cachelos y carne de buey",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261023/restaurante-siempre-actor-antonio-pagudo-morcilla-pulpo-cachelos-carne-buey-trt/1003744429090_0.html",
+    "desc": "El eterno Javi, de La Que Se Avecina, ha estado comiendo con más amigos famosos. Más información: El restaurante donde para a comer la infanta Elena: tienen parrilla de encina, chuletón de vaca y…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11383333.png?p=c:424:239:nowe:108:24/w:1706/h:960&h=bchZh0fg",
+    "pub": 1792731600,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Gustavo Dorda, nuevo jefe de la Guardia Civil en Valladolid: “Trabajo para que la plantilla esté lo más cubierta posible”",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261023/gustavo-dorda-nuevo-jefe-guardia-civil-valladolid-trabajo-plantilla-cubierta-posible/1003744429022_0.html",
+    "desc": "Nacido en Gran Canaria, y con 51 años, tomó posesión del cargo el pasado 4 de septiembre. Suma 30 años de experiencia y es, además, doctor en Derecho. Más información: Gustavo Dorda, más de 30 años…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11383301.jpg?p=w:1706/h:960&h=0ZJSOHom",
+    "pub": 1792731600,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Un hombre herido en una colisión entre un turismo y una pick-up en Carracedelo",
     "link": "https://www.lanuevacronica.com/sucesos/hombre-herido-en-colision-entre-turismo-pick-up-en-carracedelo_205146_102.html",
     "desc": "El aparatoso accidente se produjo en la carretera LE-5207",
@@ -392,14 +416,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La cita ideal para disfrutar de Halloween se vive en Vallsur del 29 al 31 de octubre: con mucha magia y diversión",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261022/cita-ideal-disfrutar-halloween-vive-vallsur-octubre-mucha-magia-diversion/1003744431101_0.html",
-    "desc": "Durante tres días, el centro comercial vallisoletano se llena de magia, diversión y muchos personajes. Más información: Las dos ferias para apasionados del coleccionismo que pueden disfrutarse del…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10768516.jpg?p=w:1706/h:960&h=ARPCLXdZ",
-    "pub": 1792671312,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "León activa un dispositivo especial de Todos los Santos con 152 policías y dos líneas 'extra' de bus",
     "link": "https://www.heraldodeleon.es/leon/leon-activa-dispositivo-especial-todos-santos-152-policias-dos-lineas-bus/20261022141432114306.html",
     "desc": "El operativo municipal estará vigente del 30 de octubre al 1 de noviembre, con refuerzos hasta el día 2, horario ampliado en el cementerio de Puente Castro, un aparcamiento para 595 vehículos y…",
@@ -552,14 +568,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Tordesillas busca su mejor tapa con 13 establecimientos participantes en concurso y a un precio de 2,50 euros",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261022/tordesillas-busca-mejor-tapa-establecimientos-participantes-concurso-precio-euros/1003744430806_0.html",
-    "desc": "La localidad vallisoletana celebra, del 30 de octubre al 2 de noviembre, un certamen que destaca por su “calidad” y que busca que “se disfrute también del patrimonio” del lugar. Más información: El…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384430.jpg?p=w:1706/h:960&h=afi9-cBT",
-    "pub": 1792663677,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Lavinia, dueña del restaurante de Burgos donde comió boletus y entrecot Pedro Sánchez: “Me siento muy afortunada\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261022/lavinia-duena-restaurante-burgos-comio-boletus-entrecot-pedro-sanchez-siento-afortunada/1003744430738_0.html",
     "desc": "La propietaria del restaurante Arlanza señala que el presidente estuvo \"en su ambiente, muy contento y muy agradable con todo el mundo\". Más información: Sánchez pasa de 'La fuerza del amor' al 'No…",
@@ -678,14 +686,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/09/10/2025091012250724644.jpg",
     "pub": 1792654921,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Fallece Juan Carlos Martín, músico de Teatro Corsario: “Es un doble palo en tres días”",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261022/fallece-juan-carlos-martin-musico-teatro-corsario-doble-palo-dias/1003744430539_0.html",
-    "desc": "La compañía vallisoletana dice adiós a otro de los suyos apenas tres días después de la muerte de Javier Semprún, uno de sus fundadores. Más información: El teatro de luto en Valladolid: fallece el…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384271.jpg?p=w:1706/h:960&h=82IiNnpo",
-    "pub": 1792654365,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Bajada de temperaturas y cielos cubiertos este jueves en León",
