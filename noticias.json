@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "La BonoLoto deja en Ponferrada un premio de 1,3 millones",
+    "link": "https://www.heraldodeleon.es/el-bierzo/bonoloto-deja-ponferrada-premio-13-millones-euros/20261023074649114375.html",
+    "desc": "El boleto se validó en la Administración de Lotería número siete, ubicada en la calle General Vives",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/01/29/2026012908022289554.webp",
+    "pub": 1792734409,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Gustavo Dorda, nuevo jefe de la Guardia Civil en Valladolid: “Trabajo para que la plantilla esté lo más cubierta posible”",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261023/gustavo-dorda-nuevo-jefe-guardia-civil-valladolid-trabajo-plantilla-cubierta-posible/1003744429022_0.html",
+    "desc": "Nacido en Gran Canaria, y con 51 años, tomó posesión del cargo el pasado 4 de septiembre. Suma 30 años de experiencia y es, además, doctor en Derecho. Más información: Gustavo Dorda, más de 30 años…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11383301.jpg?p=w:1706/h:960&h=0ZJSOHom",
+    "pub": 1792731600,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Astibot, la empresa de Valladolid que ha enseñado a un robot a podar viñedos",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261023/astibot-empresa-valladolid-ensenado-robot-podar-vinedos/1003744431277_0.html",
     "desc": "La compañía dirigida por Felipe Beteta, que cuenta con 25 trabajadores, ultima la comercialización de TrimBot, un sistema autónomo de poda basado en IA. La escasez de profesionales especializados…",
@@ -8,18 +24,18 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "El restaurante en el que siempre para el actor Antonio Pagudo: tienen morcilla, pulpo con cachelos y carne de buey",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261023/restaurante-siempre-actor-antonio-pagudo-morcilla-pulpo-cachelos-carne-buey-trt/1003744429090_0.html",
-    "desc": "El eterno Javi, de La Que Se Avecina, ha estado comiendo con más amigos famosos. Más información: El restaurante donde para a comer la infanta Elena: tienen parrilla de encina, chuletón de vaca y…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11383333.png?p=c:424:239:nowe:108:24/w:1706/h:960&h=bchZh0fg",
+    "titulo": "Subastan 20 fincas rústicas en ocho pueblos desde 19 euros y hasta casi 20.000: hay terrenos de seis hectáreas",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/soria/20261023/subastan-fincas-rusticas-pueblos-euros-terrenos-hectareas-trt/1003744429494_0.html",
+    "desc": "Hacienda saca a subasta terrenos en ocho municipios con precios de salida de entre 19 y 19.973 euros. Más información: Subastan 20 fincas rústicas y parcelas desde solo 44 euros: hay extensiones de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384833.jpg?p=w:1706/h:960&h=3af8-GsC",
     "pub": 1792731600,
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Gustavo Dorda, nuevo jefe de la Guardia Civil en Valladolid: “Trabajo para que la plantilla esté lo más cubierta posible”",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261023/gustavo-dorda-nuevo-jefe-guardia-civil-valladolid-trabajo-plantilla-cubierta-posible/1003744429022_0.html",
-    "desc": "Nacido en Gran Canaria, y con 51 años, tomó posesión del cargo el pasado 4 de septiembre. Suma 30 años de experiencia y es, además, doctor en Derecho. Más información: Gustavo Dorda, más de 30 años…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11383301.jpg?p=w:1706/h:960&h=0ZJSOHom",
+    "titulo": "El restaurante en el que siempre para el actor Antonio Pagudo: tienen morcilla, pulpo con cachelos y carne de buey",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261023/restaurante-siempre-actor-antonio-pagudo-morcilla-pulpo-cachelos-carne-buey-trt/1003744429090_0.html",
+    "desc": "El eterno Javi, de La Que Se Avecina, ha estado comiendo con más amigos famosos. Más información: El restaurante donde para a comer la infanta Elena: tienen parrilla de encina, chuletón de vaca y…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11383333.png?p=c:424:239:nowe:108:24/w:1706/h:960&h=bchZh0fg",
     "pub": 1792731600,
     "fuente": "El Español · CyL"
   },
@@ -408,12 +424,12 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "UxSA llevará al Pleno doce preguntas sobre el futuro del pabellón César Álvarez",
-    "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/uxsa-llevara-pleno-doce-preguntas-futuro-pabellon-cesar-alvarez/20261022143018114311.html",
-    "desc": "El grupo municipal de San Andrés del Rabanedo reclama explicaciones sobre las negociaciones para recuperar la instalación de Pinilla, cerrada desde 2023, y pide garantías para preservar el uso…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102214224632706.jpg",
-    "pub": 1792672218,
-    "fuente": "Heraldo de León"
+    "titulo": "La cita ideal para disfrutar de Halloween se vive en Vallsur del 29 al 31 de octubre: con mucha magia y diversión",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261022/cita-ideal-disfrutar-halloween-vive-vallsur-octubre-mucha-magia-diversion/1003744431101_0.html",
+    "desc": "Durante tres días, el centro comercial vallisoletano se llena de magia, diversión y muchos personajes. Más información: Las dos ferias para apasionados del coleccionismo que pueden disfrutarse del…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10768516.jpg?p=w:1706/h:960&h=ARPCLXdZ",
+    "pub": 1792671312,
+    "fuente": "El Español · CyL"
   },
   {
     "titulo": "León activa un dispositivo especial de Todos los Santos con 152 policías y dos líneas 'extra' de bus",
@@ -568,11 +584,11 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Lavinia, dueña del restaurante de Burgos donde comió boletus y entrecot Pedro Sánchez: “Me siento muy afortunada\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261022/lavinia-duena-restaurante-burgos-comio-boletus-entrecot-pedro-sanchez-siento-afortunada/1003744430738_0.html",
-    "desc": "La propietaria del restaurante Arlanza señala que el presidente estuvo \"en su ambiente, muy contento y muy agradable con todo el mundo\". Más información: Sánchez pasa de 'La fuerza del amor' al 'No…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384429.jpg?p=w:1706/h:960&h=1aCkLjFM",
-    "pub": 1792662492,
+    "titulo": "Tordesillas busca su mejor tapa con 13 establecimientos participantes en concurso y a un precio de 2,50 euros",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261022/tordesillas-busca-mejor-tapa-establecimientos-participantes-concurso-precio-euros/1003744430806_0.html",
+    "desc": "La localidad vallisoletana celebra, del 30 de octubre al 2 de noviembre, un certamen que destaca por su “calidad” y que busca que “se disfrute también del patrimonio” del lugar. Más información: El…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384430.jpg?p=w:1706/h:960&h=afi9-cBT",
+    "pub": 1792663677,
     "fuente": "El Español · CyL"
   },
   {
@@ -662,22 +678,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384314.jpg?p=c:2805:1578:nowe:0:270/w:1706/h:960&h=FRvPN8ew",
     "pub": 1792657552,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Gadis renueva su programa educativo para fomentar la alimentación saludable en los colegios",
-    "link": "https://www.elbierzodigital.com/gadis-renueva-su-programa-educativo-para-fomentar-la-alimentacion-saludable-en-los-colegios/",
-    "desc": "Gadis vuelve a las aulas con una nueva edición de su programa educativo Alimentes , que incorpora actividades para fomentar hábitos de vida saludables desde edades tempranas. Entre las novedades de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/gadis-renueva-su-programa-educativo-para-fomentar-la-alimentacion-saludable-en-los-colegios-el-bierzo-digital.jpg",
-    "pub": 1792655983,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Diego Manrique vuelve a destacar entre los mejores fotógrafos panorámicos del mundo",
-    "link": "https://www.elbierzodigital.com/diego-manrique-vuelve-a-destacar-entre-los-mejores-fotografos-panoramicos-del-mundo/",
-    "desc": "El fotógrafo Diego Manrique Díez , natural de Bembibre, ha vuelto a situarse entre los referentes internacionales de la fotografía panorámica tras lograr destacados resultados en los Epson…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/diego-manrique-vuelve-a-destacar-entre-los-mejores-fotografos-panoramicos-del-mundo-el-bierzo-digital.jpg",
-    "pub": 1792655631,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "La Fele activa una web de apoyo a empresas y trabajadores ante el 11-N",
