@@ -6,14 +6,14 @@
       "ok": true,
       "items": 15,
       "nuevos": 15,
-      "ts": 1792793829,
+      "ts": 1792795706,
       "con_foto": 15
     },
     {
       "fuente": "El Bierzo Digital",
       "url": "https://www.elbierzodigital.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 7h",
+      "error": "omitida, se reintenta en 6h",
       "ts": 1792772566
     },
     {
@@ -22,7 +22,7 @@
       "ok": true,
       "items": 20,
       "nuevos": 20,
-      "ts": 1792793829,
+      "ts": 1792795706,
       "con_foto": 20
     },
     {
@@ -31,7 +31,7 @@
       "ok": true,
       "items": 20,
       "nuevos": 12,
-      "ts": 1792793829,
+      "ts": 1792795706,
       "con_foto": 20
     },
     {
@@ -40,7 +40,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1792793829,
+      "ts": 1792795706,
       "con_foto": 30
     },
     {
@@ -49,7 +49,7 @@
       "ok": true,
       "items": 29,
       "nuevos": 27,
-      "ts": 1792793829,
+      "ts": 1792795706,
       "con_foto": 27
     },
     {
@@ -58,7 +58,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 3,
-      "ts": 1792793829,
+      "ts": 1792795706,
       "con_foto": 3
     },
     {
@@ -67,7 +67,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 17,
-      "ts": 1792793829,
+      "ts": 1792795706,
       "con_foto": 20
     },
     {
