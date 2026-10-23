@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "El fin de la turra",
+    "link": "https://www.lanuevacronica.com/opinion/fin-turra_205141_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792724400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Llegar a León por el Camino",
     "link": "https://www.lanuevacronica.com/opinion/llegar-leon-por-camino_205140_102.html",
     "desc": "",
@@ -118,14 +126,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/09/-el-bierzo-digital-161-scaled-e1757347439374.jpeg",
     "pub": 1792696635,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Un herido en un accidente entre un turismo y una pick-up en Carracedelo",
-    "link": "https://www.lanuevacronica.com/actualidad/herido-en-accidente-entre-turismo-pick-up-en-carracedelo_205137_102.html",
-    "desc": "Según la información facilitada por el 112, el varón se encontraba consciente y fuera del turismo cuando se dio aviso a los servicios de emergencia, aunque fue necesario solicitar asistencia…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/83/0/imagen-de-archivo-de-la-le-5207-a-su-paso-por-carraceledo.jpeg",
-    "pub": 1792695526,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Pollán advierte al Gobierno y a las ONG de que Castilla y León no financiará la inmigración ilegal: “Ni un solo euro”",
