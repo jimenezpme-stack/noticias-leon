@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Llegar a León por el Camino",
+    "link": "https://www.lanuevacronica.com/opinion/llegar-leon-por-camino_205140_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792723200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La recomendación de Güell",
+    "link": "https://www.lanuevacronica.com/opinion/recomendacion-guell_205139_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792722000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Impulsan la ganadería regenerativa como herramienta contra los incendios y el cambio climático",
+    "link": "https://www.lanuevacronica.com/el-bierzo/impulsan-ganaderia-regenerativa-como-herramienta-contra-incendios-cambio-climatico_205129_102.html",
+    "desc": "La Asociación para el Desarrollo Rural Bierzo-Cabrera divulgará los beneficios del pastoreo para la biodiversidad y presentará un manual práctico para ganaderos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/74/10/6/una-imagen-que-refleja-la-importancia-de-la-ganaderia-en-el-paisaje-y-la-vida-tradicional-en-sintonia-con-lo-desentranado-por-el-autor-en-su-libro-l-n-c.jpeg",
+    "pub": 1792722000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Sobrado vuelve a encender el tambor para celebrar el magosto pese a una cosecha castigada por el calor",
+    "link": "https://www.lanuevacronica.com/el-bierzo/sobrado-vuelve-encender-tambor-celebrar-magosto-pese-cosecha-castigada-por-calor_204971_102.html",
+    "desc": "La cita será el 23 de octubre, a las 19:30 horas, en la nave situada detrás del Ayuntamiento, con 65 kilos de castañas, empanada, bollo preñao, bebida y música",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/56/35/4/magosto-sobrado-2.jpeg",
+    "pub": 1792722000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "A sus órdenes, mi Coronel",
     "link": "https://www.lanuevacronica.com/opinion/sus-ordenes-mi-coronel_205138_102.html",
     "desc": "",
@@ -96,14 +128,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "¿Quién no tiene un genio en casa?",
-    "link": "https://www.lanuevacronica.com/a-la-contra-2/quien-no-tiene-genio-en-casa_205136_102.html",
-    "desc": "La última de La Nueva Crónica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/81/2/quien-no-tiene-un-genio-en-casa.jpeg",
-    "pub": 1792694338,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Pollán advierte al Gobierno y a las ONG de que Castilla y León no financiará la inmigración ilegal: “Ni un solo euro”",
     "link": "https://www.elespanol.com/castilla-y-leon/region/segovia/20261022/pollan-advierte-gobierno-ong-castilla-leon-no-financiara-inmigracion-ilegal-solo-euro/1003744431741_0.html",
     "desc": "El vicepresidente de la Junta defiende en un acto electoral en Segovia que ningún dinero público se destine a financiar la inmigración ilegal. Más información : Abascal denuncia la \"violencia…",
@@ -112,36 +136,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Carrera de la Mujer, Feria de la Miel y 'Otoño en Babia', este fin de semana en León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/carrera-mujer-feria-miel-otono-en-babia-este-fin-semana-en-leon_205134_102.html",
-    "desc": "Todos los planes de los que disfrutar estos días a lo largo de la provincia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/77/4/todos-los-planes-de-los-que-disfrutar-este-fin-de-semana-en-leon-fernando-otero-saul-aren.jpeg",
-    "pub": 1792693401,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Abascal con 'C' y 'L'",
     "link": "https://www.heraldodeleon.es/leon/abascal-con-c-y-l/20261022201107114374.html",
     "desc": "Abascal vuelve a Castilla y León la próxima semana con tres actos en Zamora, Valladolid y Ávila | El presidente de Vox programa un mitin en la Feria de Valladolid el próximo miércoles y otro el…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/15/2026101517540335611.jpg",
     "pub": 1792692667,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Herida una mujer de unos 60 años tras volcar su coche en Joarilla de las Matas",
-    "link": "https://www.lanuevacronica.com/actualidad/herida-mujer-60-anos-volcar-su-coche-en-joarilla-matas_205133_102.html",
-    "desc": "El turismo quedó volcado sobre uno de sus laterales en la LE-6714 y la afectada, que logró salir del vehículo, presentaba dolores en el pecho y la cabeza",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/76/2/le-6714-a-su-paso-por-joarilla-de-las-matas.jpeg",
-    "pub": 1792692428,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Asprona Bierzo reivindica su peso social y económico con los Premios Aspronauta",
-    "link": "https://www.lanuevacronica.com/el-bierzo/asprona-bierzo-reivindica-su-peso-social-economico-con-premios-aspronauta_205132_102.html",
-    "desc": "La entidad ha pasado de 70 a más de 270 trabajadores desde 2016 y atiende a cerca de un millar de familias. Su director reclama apoyo para seguir creciendo y los galardonados ponen el foco en la…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/74/0/premios-asprona.jpeg",
-    "pub": 1792692088,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "UPL cuestiona el uso partidista de las invitaciones a la apertura de ENISE en León",
