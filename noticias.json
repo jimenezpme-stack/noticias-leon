@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "León con Orgullo renueva su imagen",
+    "link": "https://www.heraldodeleon.es/leon/leon-orgullo-renueva-imagen-reclama-ley-autonomica-lgtbiaq/20261023202752114542.html",
+    "desc": "La asociación presenta un logotipo diseñado por Laura Rodríguez de Luna y Cuarto Estudio Creativo y denuncia que Castilla y León sigue sin una normativa propia de igualdad para el colectivo",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102320273142785.jpg",
+    "pub": 1792780072,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "Cultural - Pontevedra: 'Que la línea ascendente no pare'",
     "link": "https://www.lanuevacronica.com/deportes/cultural-pontevedra-linea-ascendente-no-pare_205195_102.html",
     "desc": "La Cultural recibe al Pontevedra este sábado (21 horas) con la sensible baja de Pedro Benito, la posible de Oier López y buscando hacerse fuerte en un Reino imbatible",
@@ -312,14 +320,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Jandro Castro avisa sobre el Pontevedra: \"Tenemos que estar muy intensos para quitarles el balón; nosotros, a la nuestro\"",
-    "link": "https://www.heraldodeleon.es/deportes/cultural/jandro-castro-avisa-pontevedra-tenemos-que-estar-muy-intensos-quitarles-balon/20261023150636114458.html",
-    "desc": "El entrenador de la Cultural Leonesa prepara el duelo ante el Pontevedra de este sábado, a las 21.00 horas en el Reino de León, con la intención de mantener la solidez defensiva y recuperar…",
-    "img": "https://i.ytimg.com/vi/KAR19N8g3zU/hqdefault.jpg",
-    "pub": 1792760796,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Mañueco reclama soluciones para el Manzanal y la A-76 y Rueda acusa a Sánchez de frenar el alquiler",
     "link": "https://www.lanuevacronica.com/el-bierzo/manueco-reclama-soluciones-manzanal-a-76-rueda-acusa-sanchez-frenar-alquiler_205171_102.html",
     "desc": "Los presidentes de Castilla y León y Galicia cargan contra la política estatal de vivienda, la corrupción y la gestión territorial",
@@ -560,14 +560,6 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "Bomberos de León aseguran la entrada del centro de salud de José Aguado",
-    "link": "https://www.heraldodeleon.es/leon/bomberos-leon-aseguran-entrada-centro-salud-jose-aguado/20261023105215114398.html",
-    "desc": "El desprendimiento de elementos del tejadillo de acceso obligó a intervenir durante la madrugada tras la alerta del personal sanitario, que advirtió del peligro para los pacientes",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102310490949717.jpg",
-    "pub": 1792745535,
-    "fuente": "Heraldo de León · León"
-  },
-  {
     "titulo": "Los niños de Castilla y León tienen su primer móvil a los 11 años: “No es demonizar el mundo digital, sino proteger”",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261023/ninos-castilla-leon-primer-movil-anos-no-demonizar-mundo-digital-proteger/1003744432058_0.html",
     "desc": "Un informe de Unicef elaborado a partir de 4.788 escolares revela que el 51,9% de los alumnos de quinto y sexto de Primaria ya tiene teléfono propio. Más información: Los peligros del abuso de…",
@@ -725,6 +717,14 @@
     "desc": "El alcalde, que dividió Cultura para que Vox no tuviera el control de Seminci, reivindica el cine como \"una expresión artística\" equivalente a la libertad El Gobierno de PP y Vox en Castilla y León…",
     "img": "https://static.eldiario.es/clip/d5d23963-02c0-4b38-a657-7fe3d0a8005e_16-9-discover-aspect-ratio_default_0_x863y135.jpg",
     "pub": 1792667993,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "El PSOE pide vender o alquilar las cuatro viviendas que acabaron en manos del Ayuntamiento de Valladolid tras el caso de los áticos",
+    "link": "https://www.eldiario.es/castilla-y-leon/politica/psoe-pide-vender-alquilar-pisos-leon-riva-acabaron-manos-ayuntamiento-valladolid_1_13605774.html",
+    "desc": "Los cuatro inmuebles de la plaza Zorrilla siguen vacíos y generan 5.226 euros anuales en gastos de comunidad, según los socialistas Hemeroteca - Las irregularidades en el edificio donde vive León de…",
+    "img": "https://static.eldiario.es/clip/122dce67-4371-41de-895f-da35b8eccc2a_16-9-discover-aspect-ratio_default_0_x795y600.jpg",
+    "pub": 1792661426,
     "fuente": "eldiario.es · CyL"
   },
   {
