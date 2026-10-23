@@ -1,19 +1,99 @@
 [
   {
-    "titulo": "Cuca Gamarra promete desde Zamora \"tolerancia cero con la corrupción\" y señala a Sánchez como \"número 1 de las tramas\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261023/cuca-gamarra-promete-zamora-tolerancia-cero-corrupcion-senala-sanchez-numero-tramas/1003744432406_0.html",
-    "desc": "La vicesecretaria del PP acusa al PSOE de ocultar contratos y facturas \"como las joyas de Zapatero\" y advierte de que sus dirigentes \"tendrán que rendir cuentas ante la Justicia\". Más información:…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385379.jpg?p=c:2047:1152:nowe:0:0/w:1706/h:960&h=1JpM5mhO",
-    "pub": 1792753656,
+    "titulo": "Transportes cortará de noche la A-6 en los túneles de Villafranca, Trabadelo y Piedrafita",
+    "link": "https://www.lanuevacronica.com/el-bierzo/transportes-cortara-noche-a-6-en-tuneles-villafranca-trabadelo-piedrafita_205168_102.html",
+    "desc": "Las restricciones se prolongarán del 26 al 30 de octubre, entre las 22:00 y las 6:00 horas, con desvíos señalizados por la N-6 para revisar los sistemas de ventilación",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/38/8/whatsapp-image-2026-10-23-at-13-32-35.jpeg",
+    "pub": 1792755535,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un nuevo terremoto de magnitud 2,7 vuelve a Priaranza tras el seísmo que sacudió El Bierzo",
+    "link": "https://www.lanuevacronica.com/sucesos/nuevo-terremoto-magnitud-27-vuelve-priaranza-seismo-sacudio-bierzo_205169_102.html",
+    "desc": "El movimiento se produjo este viernes a las 12.50 horas, con una profundidad registrada de cero kilómetros, nueve días después del temblor de magnitud 4,2 que se sintió en toda la comarca y dejó más…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/25/67/71/6/priaranza1712018-4-1000x563.jpeg",
+    "pub": 1792755479,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Detenido por atracar con un cuchillo una gasolinera de Camponaraya",
+    "link": "https://www.lanuevacronica.com/sucesos/detenido-por-atracar-con-cuchillo-gasolinera-camponaraya_205167_102.html",
+    "desc": "El sospechoso amenazó a la empleada y se llevó unos 200 euros de la caja registradora en un asalto cometido el pasado 17 de octubre en la A-6",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/37/2/imagen-ladron.jpeg",
+    "pub": 1792755378,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Detenido por atracar con un cuchillo una gasolinera de Camponaraya",
+    "link": "https://www.heraldodeleon.es/el-bierzo/detenido-atracar-cuchillo-gasolinera-camponaraya/20261023132959114428.html",
+    "desc": "El arrestado está acusado de amenazar a una empleada para llevarse unos 200 euros de la caja de una estación de servicio de la A-6, en sentido A Coruña; la Guardia Civil lo identificó en la…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102313284420744.jpg",
+    "pub": 1792754999,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Convocan nueve jornadas de huelga en el transporte interurbano de viajeros de León",
+    "link": "https://www.lanuevacronica.com/actualidad/convocan-nueve-jornadas-huelga-en-transporte-interurbano-viajeros-leon_205166_102.html",
+    "desc": "CCOO y UGT reclaman equiparar sus salarios a la media de la comunidad y regularización de la jornada y convocan la primera jornada de parón para el viernes 30 de octubre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/35/0/convocan-nueve-jornadas-de-huelga-en-el-transporte-interurbano-de-viajeros-de-leon.jpeg",
+    "pub": 1792754995,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Mañueco mueve ficha en Educación: nombra a María del Valle Ares nueva consejera",
+    "link": "https://www.elbierzodigital.com/manueco-mueve-ficha-en-educacion-nombra-a-maria-del-valle-ares-nueva-consejera/",
+    "desc": "Alfonso Fernández Mañueco ha elegido a María del Valle Ares como nueva consejera de Educación de Castilla y León . Nacida en Burgos y criada en Ponferrada, asume el cargo tras ejercer como…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/manueco-mueve-ficha-en-educacion-nombra-a-maria-del-valle-ares-nueva-consejera-el-bierzo-digital.jpg",
+    "pub": 1792754979,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "María del Valle Ares, nueva consejera de Educación: licenciada en Derecho y miembro del Consultivo",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261023/maria-valle-ares-nueva-consejera-educacion-licenciada-derecho-consultivo/1003744432474_0.html",
+    "desc": "Será la sustituta de María Pardo, que encabezará la lista del PP al Congreso. Más información: María Pardo dejará la Consejería y encabezará la lista del PP de Valladolid al Congreso: Carnero repite…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385425.jpg?p=w:1706/h:960&h=v8lsZcxc",
+    "pub": 1792754680,
     "fuente": "El Español · CyL"
   },
   {
     "titulo": "Roban plantas del área de descanso para peregrinos de Campo tras sufrir pintadas",
     "link": "https://www.lanuevacronica.com/el-bierzo/robos-actos-vandalicos-en-area-descanso-peregrinos-campo_205163_102.html",
-    "desc": "El espacio, que se encuentra en rehabilitación por los alumnos de la Escuela Taller de Ponferrada, ya había sufrido pintadas en la caseta que se está restaurando",
+    "desc": "El espacio, que se encuentra en rehabilitación por los alumnos de la Escuela Taller de Ponferrada, suma ya dos actos vandálicos consecutivos en la caseta que se está restaurando",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/60/31/3/campo.jpeg",
-    "pub": 1792753557,
+    "pub": 1792754324,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León da el primer paso para reformar el Rollo de Santa Ana en plena polémica por su fuente",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-da-primer-paso-reformar-rollo-santa-ana-en-plena-polemica-por-su-fuente_205164_102.html",
+    "desc": "El Ayuntamiento aprueba un concurso de proyectos dotado con más de 200.000 euros para transformar este acceso del Camino de Santiago, mientras UPL reclama que se conserve la fuente ornamental",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/33/5/leon-da-el-primer-paso-para-reformar-el-rollo-de-santa-ana-en-plena-polemica-por-su-fuente.jpeg",
+    "pub": 1792754004,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León pide eliminar dos domingos de apertura comercial autorizada",
+    "link": "https://www.heraldodeleon.es/leon/leon-pide-eliminar-dos-domingos-apertura-comercial-autorizada/20261023131214114426.html",
+    "desc": "El Ayuntamiento trasladará a la Junta de Castilla y León la propuesta unánime del Consejo Municipal de Comercio para suprimir las aperturas del tercer domingo de agosto y del domingo más próximo a…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/01/31/2025013114205370291.jpg",
+    "pub": 1792753934,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El restaurante donde para Santiago Abascal a comer: tiene lechazo asado en horno de leña, chuletillas y carne a la brasa",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261023/restaurante-santiago-abascal-comer-lechazo-asado-horno-lena-chuletillas-carne-brasa-trt/1003744432345_0.html",
+    "desc": "El líder de Vox ha hecho una parada durante sus actos de precampaña. Más información: Los diez mejores restaurantes de Valladolid para comer lechazo",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385382.jpg?p=w:1706/h:960&h=tl_hxmlS",
+    "pub": 1792753721,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Cuca Gamarra promete desde Zamora \"tolerancia cero con la corrupción\" y señala a Sánchez como \"número 1 de las tramas\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261023/cuca-gamarra-promete-zamora-tolerancia-cero-corrupcion-senala-sanchez-numero-tramas/1003744432406_0.html",
+    "desc": "La vicesecretaria del PP acusa al PSOE de ocultar contratos y facturas \"como las joyas de Zapatero\" y advierte de que sus dirigentes \"tendrán que rendir cuentas ante la Justicia\". Más información:…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385407.jpg?p=w:1706/h:960&h=JM5NvcIr",
+    "pub": 1792753656,
+    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Convocan nueve días de huelga en los autobuses interurbanos de León contra \"el quinto peor\" convenio laboral del país",
@@ -48,9 +128,9 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "María Pardo dejará la Consejería y encabezará la lista del PP de Valladolid al Congreso: Carnero repite en el Senado",
+    "titulo": "María Pardo deja la Consejería y encabezará la lista del PP de Valladolid al Congreso: Carnero repite en el Senado",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261023/maria-pardo-deja-consejeria-encabeza-lista-pp-valladolid-congreso-carnero-repite-senado/1003744432363_0.html",
-    "desc": "Ahora la Junta tendrá que buscar reemplazo para el departamento de Educación. Más información : María Pardo, la nueva consejera de Educación de Castilla y León: una doctora 'cum laude' al frente del…",
+    "desc": "María del Valle Ares será la sustituta en la Consejería de Educación. Más información : María Pardo, la nueva consejera de Educación de Castilla y León: una doctora 'cum laude' al frente del mejor…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385351.jpg?p=w:1706/h:960&h=hnEt-3Zx",
     "pub": 1792752570,
     "fuente": "El Español · CyL"
@@ -216,14 +296,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La repostería abre nuevas oportunidades a quince mujeres en Huergas de Babia",
-    "link": "https://www.lanuevacronica.com/actualidad/reposteria-abre-nuevas-oportunidades-quince-mujeres-en-huergas-babia_205156_102.html",
-    "desc": "Cuatro Valles impulsa un curso en la localidad para mejorar la formación de mujeres vinculadas a la hostelería y favorecer el emprendimiento rural",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/13/8/la-reposteria-abre-nuevas-oportunidades-a-quince-mujeres-en-huergas-de-babia.jpeg",
-    "pub": 1792746611,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León programa seis jornadas de donación de sangre y abre el plazo de los Premios Fundaspe",
     "link": "https://www.heraldodeleon.es/leon/leon-programa-seis-jornadas-donacion-sangre-abre-plazo-premios-fundaspe-2026/20261023110847114401.html",
     "desc": "La Hermandad de Donantes de Sangre recorrerá seis localidades de la provincia entre el 23 y el 30 de octubre, mientras la Fundación de los Donantes Españoles admite candidaturas a sus galardones…",
@@ -328,12 +400,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Un fallo de seguridad a nivel mundial deja en pausa los Bonos Consumo de León y Ponferrada",
-    "link": "https://www.lanuevacronica.com/actualidad/fallo-seguridad-alcance-mundial-deja-en-pausa-bonos-consumo-leon-ponferrada_205152_102.html",
-    "desc": "La Cámara de Comercio suspende temporalmente la campaña como medida preventiva ante una vulnerabilidad informática de alcance internacional y trabaja para restablecer el servicio lo antes posible",
-    "img": "https://www.lanuevacronica.com/uploads/s1/13/91/94/bonos-consumo-leon-08072022.jpeg",
-    "pub": 1792744261,
-    "fuente": "La Nueva Crónica"
+    "titulo": "El Bierzo vuelve a temblar: un nuevo seísmo reaviva la alerta tras el terremoto del día 15",
+    "link": "https://www.elbierzodigital.com/el-bierzo-vuelve-a-temblar-un-nuevo-seismo-reaviva-la-alerta-tras-el-terremoto-del-dia-15/",
+    "desc": "El Bierzo vuelve a registrar actividad sísmica . El Instituto Geográfico Nacional (IGN) ha detectado este viernes, 23 de octubre , a las 12:50 horas, un terremoto de magnitud 2,7 mbLg con epicentro…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-17-at-19.21.00.jpeg",
+    "pub": 1792744493,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Cuatro detenidos por destrozos en coches y mobiliario durante las fiestas de Astorga",
@@ -350,14 +422,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2018/11/ICAL408090.jpg",
     "pub": 1792744008,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Fabularia Teatro clausura el Festival de Otoño en Las Médulas con la sátira del Padre Isla",
-    "link": "https://www.lanuevacronica.com/el-bierzo/fabularia-teatro-clausura-festival-otono-en-medulas-con-satira-padre-isla_205149_102.html",
-    "desc": "El Monasterio de Carracedo acoge este sábado la última función de un certamen que ha reunido siete espectáculos desde septiembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/99/4/fray-gerundio-3-fabularia-teatro.jpeg",
-    "pub": 1792742806,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Sánchez denuncia la \"censura\" de PP y Vox con las ayudas al cine en CyL y Feijóo rechaza financiar películas \"sectarias\"",
@@ -408,14 +472,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Leo Messi desata la locura a su llegada a Oviedo",
-    "link": "https://www.lanuevacronica.com/gente/leo-messi-desata-la-locura-a-su-llegada-a-oviedo-junto-a-antonella-roccuzzo-para-recibir-el-princesa-de-asturias_205148_102.html",
-    "desc": "Una visita a Asturias que será fugaz, ya que al terminar la entrega de premios tendrá que coger un vuelo a Nueva York, ya que el sábado 24 de octubre jugará con su equipo, el Inter de Miami",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/96/7/fotonoticia-20261022141838-1920.jpeg",
-    "pub": 1792740750,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Farrapos de Ghaita lleva su folk-rock al Morticia",
     "link": "https://www.elbierzodigital.com/farrapos-de-ghaita-lleva-su-folk-rock-al-morticia/",
     "desc": "El pub Morticia de Ponferrada continúa con su programación musical y este sábado, 24 de octubre, presenta al grupo de folk-rock gallego Farrapos de Ghaita, que se subirá al escenario a las 22.30…",
@@ -448,14 +504,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El batiburrillo y los tutoriales",
-    "link": "https://www.lanuevacronica.com/extras/a-la-contra/batiburrillo-tutoriales_205147_102.html",
-    "desc": "La última de La Nueva Crónica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/95/0/el-batiburrillo-y-los-tutoriales.jpeg",
-    "pub": 1792738804,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Cupa Stone recibe el Premio Interiores a la Innovación en superficies porcelánicas para encimeras",
     "link": "https://www.elbierzodigital.com/cupa-stone-recibe-el-premio-interiores-a-la-innovacion-en-superficies-porcelanicas-para-encimeras/",
     "desc": "Ceratop, la marca de superficies de piedra sinterizada de Cupa Stone , ha recibido el Premio a la Innovación en superficies porcelánicas para encimeras de la revista Interiores . El galardón,…",
@@ -464,27 +512,19 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El éxito de Sibuya ahora va sobre ruedas",
-    "link": "https://www.heraldodeleon.es/sabores-de-leon/exito-sibuya-ahora-va-ruedas/20261023084124114381.html",
-    "desc": "La firma leonesa de restauración, que ya factura más de cien millones de euros, amplía su modelo de negocio con Sibuya Events &amp; Organization, una división que combina catering especializado,…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102308382515512.jpg",
-    "pub": 1792737684,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "León se come en Gijón",
-    "link": "https://www.heraldodeleon.es/sabores-de-leon/leon-come-gijon/20261023082303114379.html",
-    "desc": "La Plaza Mayor gijonesa reúne desde este viernes y hasta el domingo 24 a 23 expositores de alimentación leonesa en una feria que combina promoción gastronómica, tradición y vínculos entre ambas…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102308211710110.jpg",
-    "pub": 1792736583,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "La BonoLoto deja más de 1,3 millones de euros en Ponferrada",
     "link": "https://www.elbierzodigital.com/la-bonoloto-deja-mas-de-13-millones-de-euros-en-ponferrada/",
     "desc": "El sorteo de la BonoLoto celebrado este jueves ha dejado un premio de 1.350.537 euros en Ponferrada. El boleto, agraciado con la combinación de primera categoría, correspondiente a seis aciertos,…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-12.jpg",
     "pub": 1792736401,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Un detenido por un atraco a punta de cuchillo en una gasolinera en Camponaraya",
+    "link": "https://www.elbierzodigital.com/un-detenido-por-un-atraco-a-punta-de-cuchillo-en-una-gasolinera-en-camponaraya/",
+    "desc": "Un cuchillo de cocina y 200 euros . Ese fue el botín de un robo con intimidación cometido el pasado sábado, 17 de octubre, en una gasolinera de la A-6, en sentido A Coruña, a su paso por Camponaraya…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/un-detenido-por-un-atraco-a-punta-de-cuchillo-en-una-gasolinera-en-camponaraya-el-bierzo-digital.jpg",
+    "pub": 1792735890,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -608,14 +648,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Cuatrovientos celebra su magosto el 31 de octubre",
-    "link": "https://www.elbierzodigital.com/cuatrovientos-celebra-su-magosto-el-31-de-octubre/",
-    "desc": "La Asociación Vecinal de Cuatrovientos celebra el próximo 31 de octubre el magosto del barrio, que en esta ocasión será también una fiesta de Halloween para aquellos que quieran acudir disfrazados.…",
-    "img": null,
-    "pub": 1792680453,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Paralizados los Bonos Consumo al detectar una vulnerabilidad informática",
     "link": "https://www.heraldodeleon.es/leon/leon-paraliza-bonos-consumo-vulnerabilidad-informatica-global/20261022163602114352.html",
     "desc": "La Cámara de Comercio interrumpe la campaña de descuentos del 25%, dotada con 150.000 euros municipales, que permitía comprar bonos para gastar en pequeños comercios y establecimientos hosteleros…",
@@ -624,28 +656,12 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "Burgos organiza una feria de vinos del mundo con seis catas internacionales desde 10 euros a partir del 30 de octubre",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261022/burgos-organiza-feria-vinos-mundo-catas-internacionales-euros-partir-octubre/1003744431349_0.html",
-    "desc": "El ciclo se celebrará entre el 30 de octubre y el 4 de diciembre en el Fórum Evolución. Más información : Los vinos y quesos más exquisitos de Castilla y León se citan en Tordesillas",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384755.jpg?p=w:1706/h:960&h=G0-mdPAM",
-    "pub": 1792678881,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "El Grupo San Marcelo de León conquista el oro nacional de BTT policial por equipos",
     "link": "https://www.heraldodeleon.es/leon/grupo-san-marcelo-leon-conquista-oro-nacional-btt-policial-equipos/20261022154312114349.html",
     "desc": "El alcalde, José Antonio Diez, recibe a los integrantes de la Policía Local para reconocer sus resultados deportivos y su labor en la organización del XXVIII Campeonato de España, que reunió a 150…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102215402457775.jpg",
     "pub": 1792676592,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Segovia busca convertir su industria cárnica en un motor de innovación y turismo: \"Será un núcleo de digitalización\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/segovia/20261022/segovia-busca-convertir-industria-carnica-motor-innovacion-turismo-nucleo-digitalizacion/1003744431257_0.html",
-    "desc": "La Diputación suma a la patronal y a la Cámara de Comercio al centro que pretende modernizar el sector, atraer talento joven y abrir las puertas de granjas e industrias a los visitantes. Más…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384692.jpg?p=w:1706/h:960&h=UhoAj1-9",
-    "pub": 1792676090,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "León reúne a más de 400 expertos en Derecho Laboral en el congreso Laborium 2026",
@@ -664,28 +680,12 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "La trashumancia lleva a Madrid la lucha por recuperar la cabra de Guisando: “Hemos pasado de 5 a 61 en dos años”",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20261022/trashumancia-lleva-madrid-lucha-recuperar-cabra-guisando-pasado-anos/1003744431220_0.html",
-    "desc": "El rebaño de la Diputación de Ávila cruza la provincia camino de Madrid para dar visibilidad a una raza autóctona ligada a Gredos. Más información: Orejitas o Esperanza, nace la primera cría de…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384667.jpg?p=w:1706/h:960&h=RdDXDpCx",
-    "pub": 1792675165,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "La Justicia condena a un funcionario de prisiones por agresión sexual a una reclusa en Salamanca",
     "link": "https://www.eldiario.es/castilla-y-leon/tribunales/justicia-condena-ocho-anos-carcel-funcionario-prisiones-agresion-sexual-reclusa_1_13606940.html",
     "desc": "El funcionario condenado se aprovechó de su cargo para agredir sexualmente a la mujer entre septiembre de 2023 y enero de 2024 El colegio del profesor detenido en Madrid por agresión sexual asegura…",
     "img": "https://static.eldiario.es/clip/cdd9545a-a025-4048-8cd1-0deacbc1415a_16-9-discover-aspect-ratio_default_0.jpg",
     "pub": 1792674542,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "León activa un dispositivo especial de Todos los Santos con 152 policías y dos líneas 'extra' de bus",
-    "link": "https://www.heraldodeleon.es/leon/leon-activa-dispositivo-especial-todos-santos-152-policias-dos-lineas-bus/20261022141432114306.html",
-    "desc": "El operativo municipal estará vigente del 30 de octubre al 1 de noviembre, con refuerzos hasta el día 2, horario ampliado en el cementerio de Puente Castro, un aparcamiento para 595 vehículos y…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102214131069246.jpg",
-    "pub": 1792671272,
-    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "El Defensor del Pueblo de Castilla y León pide cambiar el protocolo de acoso de la Escuela Taurina de Salamanca",
