@@ -1,11 +1,83 @@
 [
   {
+    "titulo": "Tributo a Nino Bravo, Camilo Sesto y Raphael en Bembibre",
+    "link": "https://www.lanuevacronica.com/el-bierzo/tributo-nino-bravo-camilo-sesto-raphael-en-bembibre_205157_102.html",
+    "desc": "El espectáculo 'Noches encendidas', de la compañía Diverfest, llegará el 7 de noviembre a las 20:00 horas al Teatro Benevívere con un concierto en directo bajo la luz de cientos de velas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/17/8/raphael.jpeg",
+    "pub": 1792747555,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Gamarra promete en Zamora declarar profesión de riesgo a Policía y Guardia Civil y el fin del \"abandono ferroviario\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261023/gamarra-promete-zamora-declarar-profesion-riesgo-policia-guardia-civil-fin-abandono-ferroviario/1003744432129_0.html",
+    "desc": "La vicesecretaria de Regeneración del PP se reúne en la capital con sindicatos policiales, guardias civiles y colectivos judiciales para presentar sus propuestas de cara a las elecciones de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385228.jpg?p=c:1671:940:nowe:236:364/w:1706/h:960&h=K2YSbBzH",
+    "pub": 1792747469,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El Padre Isla baja el telón del Festival de Otoño en Las Médulas",
+    "link": "https://www.heraldodeleon.es/cultura/padre-isla-baja-telon-festival-otono-medulas/20261023112321114404.html",
+    "desc": "Fabularia Teatro representa este sábado, 24 de octubre, en el Monasterio de Carracedo su adaptación de ‘Fray Gerundio de Campazas, alias Zotes’, con la que concluye una segunda edición que ha…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102311204973066.jpg",
+    "pub": 1792747401,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El gordo de la Bonoloto cae en Ponferrada: más de 1,35 millones de euros en un boleto premiado",
+    "link": "https://www.elbierzodigital.com/el-gordo-de-la-bonoloto-cae-en-ponferrada-mas-de-135-millones-de-euros-en-un-boleto-premiado/",
+    "desc": "Ponferrada está de enhorabuena. El sorteo de la Bonoloto celebrado este jueves, 22 de octubre, dejó un premio de primera categoría de 1.350.537,82 euros en la ciudad berciana. En total, fueron tres…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-12.jpg",
+    "pub": 1792746920,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La repostería abre nuevas oportunidades a quince mujeres en Huergas de Babia",
+    "link": "https://www.lanuevacronica.com/actualidad/reposteria-abre-nuevas-oportunidades-quince-mujeres-en-huergas-babia_205156_102.html",
+    "desc": "Cuatro Valles impulsa un curso en la localidad para mejorar la formación de mujeres vinculadas a la hostelería y favorecer el emprendimiento rural",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/13/8/la-reposteria-abre-nuevas-oportunidades-a-quince-mujeres-en-huergas-de-babia.jpeg",
+    "pub": 1792746611,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León programa seis jornadas de donación de sangre y abre el plazo de los Premios Fundaspe",
+    "link": "https://www.heraldodeleon.es/leon/leon-programa-seis-jornadas-donacion-sangre-abre-plazo-premios-fundaspe-2026/20261023110847114401.html",
+    "desc": "La Hermandad de Donantes de Sangre recorrerá seis localidades de la provincia entre el 23 y el 30 de octubre, mientras la Fundación de los Donantes Españoles admite candidaturas a sus galardones…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102311070314913.jpg",
+    "pub": 1792746527,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Fallece Teresa Cordero, chef y alma del restaurante Puerto Chico: \"Era maravillosa y hacía disfrutar a todo el mundo\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261023/fallece-teresa-cordero-chef-alma-restaurante-puerto-chico-maravillosa-disfrutar-mundo/1003744432111_0.html",
+    "desc": "La cocinera convirtió la gastronomía en una forma de compartir su pasión por los viajes junto a su compañera Isabel González. Más información : 'Recetas del Cielo', una obra muy especial para…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385202.jpg?p=w:1706/h:960&h=zH2L2Ns9",
+    "pub": 1792746484,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Guía de los magostos del Bierzo 2026: dónde disfrutar de las castañas asadas este otoño",
     "link": "https://www.elbierzodigital.com/guia-de-los-magostos-del-bierzo-2026-donde-disfrutar-de-las-castanas-asadas-este-otono/",
     "desc": "La temporada de magostos de 2026 llega con una agenda que se extiende desde finales de octubre hasta mediados de noviembre. A las castañadas vecinales se suman propuestas infantiles, degustaciones,…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/10/guia-de-magostos-en-el-bierzo-2025-el-bierzo-digital.jpg",
     "pub": 1792746381,
     "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Ruta circular por los bosques de Orzonaga",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/ruta-circular-por-bosques-orzonaga_205155_102.html",
+    "desc": "Un trayecto con niños que cuenta con 280 metros de desnivel y una duración de entre dos y cuatro horas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/03/3/11-vista-de-orzonaga-y-las-montan-as.jpeg",
+    "pub": 1792746051,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un decreto del Ayuntamiento deja en el aire parte de las actividades del Coto Escolar de León",
+    "link": "https://www.lanuevacronica.com/actualidad/decreto-ayuntamiento-deja-en-aire-parte-actividades-coto-escolar-leon_205154_102.html",
+    "desc": "Los trabajadores aseguran que no están en huelga, sino que han dejado de asumir funciones superiores a su categoría, y reclaman al Consistorio leonés que cumpla los acuerdos alcanzados",
+    "img": "https://www.lanuevacronica.com/uploads/s1/11/27/65/coto-escolar-28-09-2020.jpeg",
+    "pub": 1792746015,
+    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La directora del Coto se va y los monitores exigen que se cumpla el acuerdo laboral",
@@ -46,6 +118,14 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2021/09/cinematographer-2808321_960_720.jpg",
     "pub": 1792745018,
     "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El sector audiovisual de Castilla y León pide a PP y Vox que no den las ayudas por la ideología \"atribuida a sus autores\"",
+    "link": "https://www.eldiario.es/castilla-y-leon/cultura/sector-audiovisual-castilla-leon-pide-pp-vox-no-den-ayudas-ideologia-atribuida-autores_1_13608642.html",
+    "desc": "A pesar de las críticas, las asociaciones reclaman que no se impugne o anule la convocatoria porque la paralización de las ayudas podría \"perjudicar\" al tejido audiovisual Cultura da el primer paso…",
+    "img": "https://static.eldiario.es/clip/911a129d-69c6-43b4-a444-10914da4f420_16-9-discover-aspect-ratio_default_0_x1509y511.jpg",
+    "pub": 1792744874,
+    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "Sancedo actualiza su callejero tras la aprobación de las normas urbanísticas",
@@ -99,7 +179,7 @@
     "titulo": "Sánchez denuncia la \"censura\" de PP y Vox con las ayudas al cine en CyL y Feijóo rechaza financiar películas \"sectarias\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261023/pedro-sanchez-denuncia-revuelta-censura-pp-vox-ayudas-cine-cyl-lleva-involucion/1003744431963_0.html",
     "desc": "El presidente del Gobierno pide \"no permitir que avance el pasado\" mientras que el líder del PP defiende la \"cultura sin censura\". Más información: El consejero de Vox defiende su veto al…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385065.jpg?p=c:3599:2026:nowe:400:0/w:1706/h:960&h=STWSZw2Y",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385206.jpg?p=c:3933:2213:nowe:0:0/w:1706/h:960&h=Mb9tZcX1",
     "pub": 1792742662,
     "fuente": "El Español · CyL"
   },
@@ -243,7 +323,7 @@
     "titulo": "La BonoLoto deja en Ponferrada un premio de 1,3 millones",
     "link": "https://www.heraldodeleon.es/el-bierzo/bonoloto-deja-ponferrada-premio-13-millones-euros/20261023074649114375.html",
     "desc": "El boleto se validó en la Administración de Lotería número siete, ubicada en la calle General Vives",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/01/29/2026012908022289554.webp",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102311245991960.jpg",
     "pub": 1792734409,
     "fuente": "Heraldo de León"
   },
@@ -328,38 +408,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "A sus órdenes, mi Coronel",
-    "link": "https://www.lanuevacronica.com/opinion/sus-ordenes-mi-coronel_205138_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792721400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Sajambre celebra su tradición en pleno esplendor del otoño",
-    "link": "https://www.lanuevacronica.com/actualidad/sajambre-celebra-su-tradicion-en-pleno-esplendor-otono_205108_102.html",
-    "desc": "La Feria de Sajambre reúne ganado, productos de la tierra, la Muestra de Queso de los Beyos, actividades ecuestres y música",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/40/3/tradicion-y-sabores-de-montana-se-dan-cita-cada-octubre-en-el-corazon-de-picos-de-europa.jpeg",
-    "pub": 1792721100,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205144_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/86/7/23-10-2026-canton.jpeg",
-    "pub": 1792720800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Una realidad que no puede normalizarse",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/realidad-no-puede-normalizarse_205143_102.html",
-    "desc": "El aumento de las personas sin hogar atendidas por Cáritas confirma que la precariedad, la vivienda inaccesible y la falta de redes familiares están empujando a más ciudadanos hacia la exclusión",
-    "img": null,
-    "pub": 1792720800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Un herido tras un choque entre dos vehículos en Carracedelo",
     "link": "https://www.elbierzodigital.com/un-herido-tras-un-choque-entre-dos-vehiculos-en-carracedelo/",
     "desc": "Un hombre ha resultado herido este jueves tras sufrir un accidente de tráfico en el municipio de Carracedelo , según informa la oficina de Emergencias 112. El suceso tuvo lugar a las 19.50 horas,…",
@@ -440,20 +488,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Villaquilambre destina 157.500 euros a renovar cinco zonas caninas",
-    "link": "https://www.heraldodeleon.es/alfoz/villaquilambre/villaquilambre-destina-157500-euros-renovar-cinco-zonas-caninas/20261022181950114357.html",
-    "desc": "El Ayuntamiento mejorará los cerramientos y añadirá equipamientos de juego y entrenamiento en espacios de Navatejera, Villaquilambre y Villaobispo, mientras mantiene el control de más de 30 colonias…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102218084645300.jpg",
-    "pub": 1792685990,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Ester Muñoz, el látigo del PP",
     "link": "https://www.heraldodeleon.es/leon/ester-munoz-latigo-pp/20261022170812114354.html",
     "desc": "La diputada leonesa repetirá como cabeza de lista al Congreso el 29 de noviembre y consolida su papel como una de las voces más combativas de Alberto Núñez Feijóo frente a Pedro Sánchez",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102217073086150.jpg",
     "pub": 1792681692,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "CSIF exige subidas salariales en el sector del automóvil de Castilla y León y una transición \"equilibrada y justa\"",
@@ -552,14 +592,6 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "Sergio de Larrea, el vallisoletano que debuta en la NBA y que salió de la cancha de un colegio: “Día histórico para esta tierra\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261022/sergio-larrea-vallisoletano-debuta-nba-salio-cancha-colegio-dia-historico-tierra/1003744431178_0.html",
-    "desc": "Su estreno con Dallas se produjo frente a los Houston Rockets y con buenas sensaciones. Más información: El joven vallisoletano que deslumbra en la Liga de Verano de la NBA",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384638.jpg?p=w:1706/h:960&h=PkpfYlwR",
-    "pub": 1792673485,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "La cita ideal para disfrutar de Halloween se vive en Vallsur del 29 al 31 de octubre: con mucha magia y diversión",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261022/cita-ideal-disfrutar-halloween-vive-vallsur-octubre-mucha-magia-diversion/1003744431101_0.html",
     "desc": "Durante tres días, el centro comercial vallisoletano se llena de magia, diversión y muchos personajes. Más información: Las dos ferias para apasionados del coleccionismo que pueden disfrutarse del…",
@@ -640,22 +672,6 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "La Junta destina 420.000 euros a reforzar la prevención de incendios forestales en siete municipios del Bierzo",
-    "link": "https://www.elbierzodigital.com/la-junta-destina-420-000-euros-a-reforzar-la-prevencion-de-incendios-forestales-en-siete-municipios-del-bierzo/",
-    "desc": "La Junta de Castilla y León ha autorizado una inversión cercana a los 420.000 euros para reforzar la prevención y extinción de incendios forestales en siete municipios de la comarca forestal de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/08/cicatrices-en-el-paisaje-de-villafranca-del-bierzo-tras-el-fuego-el-bierzo-digital-4.jpeg",
-    "pub": 1792668354,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Abascal denuncia la \"violencia organizada\" desde Moncloa para \"acosar\" a Vox en cada acto tras los altercados en La Coruña",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261022/abascal-denuncia-violencia-organizada-moncloa-acosar-actos-vox-altercados-coruna/1003744430907_0.html",
-    "desc": "Asegura que el calificativo de 'dictador' de Milei a Sánchez es “bastante pequeño para el jefe de una mafia que ha intentado convencer a unos narcos para eliminar a una juez” Más noticias : Los…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384520.jpg?p=c:1440:811:nowe:80:129/w:1706/h:960&h=1WlN77bR",
-    "pub": 1792668300,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "El alcalde de Valladolid del PP defiende la Seminci y niega que exista “cine ideologizado\"",
     "link": "https://www.eldiario.es/castilla-y-leon/cultura/alcalde-valladolid-pp-defiende-seminci-niega-exista-cine-ideologizado_1_13606257.html",
     "desc": "El alcalde, que dividió Cultura para que Vox no tuviera el control de Seminci, reivindica el cine como \"una expresión artística\" equivalente a la libertad El Gobierno de PP y Vox en Castilla y León…",
@@ -688,27 +704,11 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "Las entidades sociales alertan de recortes en residencias y ayudas a los más vulnerables en los presupuestos de Castilla y León",
-    "link": "https://www.eldiario.es/castilla-y-leon/sociedad/entidades-sociales-alertan-recortes-residencias-ayudas-vulnerables-presupuestos-castilla-leon_1_13605614.html",
-    "desc": "La Plataforma Social Castilla y León critica la reducción de la Renta Garantizada de Ciudadanía y un recorte del 46% en las inversiones para centros de mayores en las cuentas autonómicas para 2027…",
-    "img": "https://static.eldiario.es/clip/ebb6f67b-e868-4d8a-b458-44a57d0d479a_16-9-discover-aspect-ratio_default_0.jpg",
-    "pub": 1792659589,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
     "titulo": "León recorrerá sus calles para visibilizar los problemas de la vivienda",
     "link": "https://www.heraldodeleon.es/leon/leon-recorrera-calles-visibilizar-problemas-acceso-vivienda/20261022102725114220.html",
     "desc": "El paseo ciudadano se celebrará el sábado 24 de octubre, a las 12.00 horas, con salida en Ordoño II y Gil y Carrasco y llegada a la plaza de Botines, donde se leerá un manifiesto",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102210261974961.jpg",
     "pub": 1792657645,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "La Fele activa una web de apoyo a empresas y trabajadores ante el 11-N",
-    "link": "https://www.heraldodeleon.es/leon/fele-activa-web-apoyo-empresas-trabajadores-huelga-11-n/20261022094201114208.html",
-    "desc": "La patronal leonesa rechaza la convocatoria por considerarla política y ofrece recursos prácticos para resolver dudas laborales, organizar la actividad y comunicar incidencias",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/09/10/2025091012250724644.jpg",
-    "pub": 1792654921,
     "fuente": "Heraldo de León · León"
   },
   {
