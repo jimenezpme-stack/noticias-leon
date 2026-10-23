@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "El Bierzo se prepara para un sábado repleto de magostos en una docena de localidades",
+    "link": "https://www.elbierzodigital.com/el-bierzo-se-prepara-para-un-sabado-repleto-de-magostos-en-una-docena-de-localidades/",
+    "desc": "El otoño berciano tiene uno de sus grandes protagonistas en el magosto , una tradición que reúne gastronomía, música y convivencia alrededor de las castañas asadas. Este sábado 24 de octubre ,…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2018/11/ICAL408090.jpg",
+    "pub": 1792744008,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Fabularia Teatro clausura el Festival de Otoño en Las Médulas con la sátira del Padre Isla",
+    "link": "https://www.lanuevacronica.com/el-bierzo/fabularia-teatro-clausura-festival-otono-en-medulas-con-satira-padre-isla_205149_102.html",
+    "desc": "El Monasterio de Carracedo acoge este sábado la última función de un certamen que ha reunido siete espectáculos desde septiembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/99/4/fray-gerundio-3-fabularia-teatro.jpeg",
+    "pub": 1792742806,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Pedro Sánchez denuncia en La Revuelta la \"censura\" de PP y Vox con las ayudas al cine en CyL: \"Lleva a una involución\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261023/pedro-sanchez-denuncia-revuelta-censura-pp-vox-ayudas-cine-cyl-lleva-involucion/1003744431963_0.html",
+    "desc": "El presidente del Gobierno asegura que medidas como la impulsada por la Junta \"no llevan a una alternancia\" y pide \"no permitir que avance el pasado\". Más información: El consejero de Vox defiende…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385065.jpg?p=c:3599:2026:nowe:400:0/w:1706/h:960&h=STWSZw2Y",
+    "pub": 1792742662,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El gasto de los hogares leoneses en Navidad subirá este año hasta los 513 euros de media",
+    "link": "https://www.heraldodeleon.es/leon/gasto-hogares-leoneses-navidad-subira-ano-513-euros/20261023100303114388.html",
+    "desc": "Un estudio revela que&nbsp;el sábado anterior al Día de Reyes, el 2 de enero de 2027, sea la jornada con mayor actividad de toda la campaña en las tiendas físicas",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/12/03/2025120312370539408.jpg",
+    "pub": 1792742583,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "Cultura abre la vía judicial contra las ayudas al cine de Castilla y León",
     "link": "https://www.heraldodeleon.es/castilla-y-leon/cultura-abre-via-judicial-ayudas-cine-castilla-leon/20261023095544114387.html",
     "desc": "El Ministerio cuestiona las cláusulas de la Junta que excluyen de las subvenciones las obras que considere vinculadas al adoctrinamiento ideológico o la propaganda partidista y advierte de posibles…",
@@ -256,14 +288,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Colegio La Granja: La Generación del 27 y la IA centran las actividades del curso",
-    "link": "https://www.lanuevacronica.com/actualidad/colegio-granja-generacion-27-ia-centran-actividades-curso_205121_102.html",
-    "desc": "Entre los objetivos figura lograr avances en robótica y programación o dar a conocer autoras como María Zambrano o Rosa Chacel",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/53/4/lagranja.jpeg",
-    "pub": 1792720800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Un herido tras un choque entre dos vehículos en Carracedelo",
     "link": "https://www.elbierzodigital.com/un-herido-tras-un-choque-entre-dos-vehiculos-en-carracedelo/",
     "desc": "Un hombre ha resultado herido este jueves tras sufrir un accidente de tráfico en el municipio de Carracedelo , según informa la oficina de Emergencias 112. El suceso tuvo lugar a las 19.50 horas,…",
@@ -422,14 +446,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384692.jpg?p=w:1706/h:960&h=UhoAj1-9",
     "pub": 1792676090,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "'Fisios' de 10 países analizan en León el potencial de la IA para ajustar entrenamientos",
-    "link": "https://www.heraldodeleon.es/universidad/fisios-10-paises-analizan-leon-potencial-ia-ajustar-entrenamientos/20261022153434114346.html",
-    "desc": "Más de 25 expertos internacionales participan en el III Congreso Internacional ‘Pleokinetic’ de la Universidad de León",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/22/2026102215313154184.jpg",
-    "pub": 1792676074,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "León reúne a más de 400 expertos en Derecho Laboral en el congreso Laborium 2026",
@@ -637,22 +653,6 @@
     "desc": "La inteligencia artificial (IA) ya contribuye a investigar nuevas estrategias contra la resistencia a los antibióticos y al desarrollo de chips que, en un futuro próximo, podrán implantarse en el…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/psoe-y-frente-amplio-se-reparten-los-puestos-clave-al-senado-en-castilla-y-leon-el-bierzo-digital-1.jpeg",
     "pub": 1792664191,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Tordesillas busca su mejor tapa con 13 establecimientos participantes en concurso y a un precio de 2,50 euros",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261022/tordesillas-busca-mejor-tapa-establecimientos-participantes-concurso-precio-euros/1003744430806_0.html",
-    "desc": "La localidad vallisoletana celebra, del 30 de octubre al 2 de noviembre, un certamen que destaca por su “calidad” y que busca que “se disfrute también del patrimonio” del lugar. Más información: El…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384430.jpg?p=w:1706/h:960&h=afi9-cBT",
-    "pub": 1792663677,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El PSOE reclama un profesor para el grado de FP de Emergencias en Ponferrada",
-    "link": "https://www.elbierzodigital.com/el-psoe-reclama-un-profesor-para-el-grado-de-fp-de-emergencias-en-ponferrada/",
-    "desc": "El PSOE de Ponferrada denunció este jueves que el ciclo de FP de grado medio en Emergencias que se imparte en la capital berciana ha comenzado sin un docente que se encargue de algunas de las…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-psoe-reclama-un-profesor-para-el-grado-de-fp-de-emergencias-en-ponferrada-el-bierzo-digital.jpg",
-    "pub": 1792661945,
     "fuente": "El Bierzo Digital"
   },
   {
