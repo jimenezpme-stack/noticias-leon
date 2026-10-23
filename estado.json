@@ -6,7 +6,7 @@
       "ok": true,
       "items": 15,
       "nuevos": 15,
-      "ts": 1792757352,
+      "ts": 1792759547,
       "con_foto": 15
     },
     {
@@ -15,7 +15,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1792757352,
+      "ts": 1792759547,
       "con_foto": 27
     },
     {
@@ -24,7 +24,7 @@
       "ok": true,
       "items": 20,
       "nuevos": 20,
-      "ts": 1792757352,
+      "ts": 1792759547,
       "con_foto": 20
     },
     {
@@ -33,7 +33,7 @@
       "ok": true,
       "items": 20,
       "nuevos": 7,
-      "ts": 1792757352,
+      "ts": 1792759547,
       "con_foto": 20
     },
     {
@@ -42,17 +42,17 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1792757352,
+      "ts": 1792759547,
       "con_foto": 30
     },
     {
       "fuente": "eldiario.es · CyL",
       "url": "https://www.eldiario.es/rss/castilla-y-leon/",
       "ok": true,
-      "items": 27,
-      "nuevos": 25,
-      "ts": 1792757352,
-      "con_foto": 25
+      "items": 28,
+      "nuevos": 26,
+      "ts": 1792759547,
+      "con_foto": 26
     },
     {
       "fuente": "20minutos León",
@@ -60,7 +60,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 3,
-      "ts": 1792757352,
+      "ts": 1792759547,
       "con_foto": 3
     },
     {
@@ -68,9 +68,9 @@
       "url": "https://www.20minutos.es/rss/castilla-y-leon/",
       "ok": true,
       "items": 26,
-      "nuevos": 17,
-      "ts": 1792757352,
-      "con_foto": 20
+      "nuevos": 18,
+      "ts": 1792759547,
+      "con_foto": 21
     },
     {
       "fuente": "León4Sport",
@@ -124,13 +124,13 @@
   ],
   "publicadas": 100,
   "reparto": {
-    "Heraldo de León": 20,
+    "El Español · CyL": 15,
+    "El Bierzo Digital": 24,
     "La Nueva Crónica": 15,
-    "El Español · CyL": 17,
-    "El Bierzo Digital": 22,
+    "Heraldo de León": 20,
+    "20minutos CyL": 8,
     "eldiario.es · CyL": 8,
     "Heraldo de León · León": 7,
-    "20minutos CyL": 8,
     "20minutos León": 3
   },
   "minimo_por_fuente": 8
