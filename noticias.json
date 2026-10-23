@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "La música de los abuelos llega a Laguna de Negrillos con la Carroza del Teatro Real",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/musica-abuelos-llega-laguna-negrillos-con-carroza-teatro-real_205190_102.html",
+    "desc": "La explanada de la Casa de Cultura acogerá este domingo el espectáculo protagonizado por Lara Chaves y Alberto Frías que contará con Andrés Tejero Velázquez como pianista",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/04/5/la-carroza-del-teatro-real-llega-este-domingo-a-laguna-de-negrillos-l-n-c.jpeg",
+    "pub": 1792773904,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "CCOO activa el conflicto laboral por el cierre del centro de formación de Adif en León",
+    "link": "https://www.heraldodeleon.es/leon/ccoo-activa-conflicto-laboral-cierre-centro-formacion-adif-leon/20261023184224114494.html",
+    "desc": "El sindicato reclama a la dirección una explicación sobre el futuro de las instalaciones y exige garantías para los puestos de trabajo, el gabinete de psicología y los reconocimientos médicos del…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/14/2026101410501087684.jpg",
+    "pub": 1792773744,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Los 'Cuentos para bebés' de Emma S. Varela cierran el festival leonés Palabra",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/cuentos-bebes-emma-s-varela-cierran-festival-leones-palabra_205189_102.html",
+    "desc": "El encuentro, dirigido a menores de tres años, tendrá lugar este domingo en el Palacio del Conde Luna",
+    "img": "https://www.lanuevacronica.com/uploads/s1/27/86/01/8/emma-s-varela-recala-este-viernes-en-el-corte-ingles-de-leon-con-una-bruja-sin-cuento.jpeg",
+    "pub": 1792773664,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El 'Cancionero leonés' de Miguel Manzano, ya disponible en la web del ILC",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/cancionero-leones-miguel-manzano-ya-disponible-en-web-ilc_205188_102.html",
+    "desc": "El Instituto Leonés de Cultura celebrará este sábado un acto en homenaje al musicólogo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/02/9/un-fragmento-del-cartel-del-homenaje-a-miguel-manzano.jpeg",
+    "pub": 1792773441,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "De la vertiente académica de la cultura pop a Los Nikis, en Santa Colomba de Somoza",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/vertiente-academica-cultura-pop-nikis-en-santa-colomba-somoza_205187_102.html",
+    "desc": "La Fundación Club 45 acoge esta semana la segunda jornada del curso 'Un mundo tecnicolor' y da la bienvenida al bajista Joaquín Rodríguez",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/99/9/joaquin-rodriguez-bajista-de-los-nikis-estara-en-la-fundacion-club-45-l-n-c.jpeg",
+    "pub": 1792773095,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Instituto Leonés de Cultura da a conocer los ganadores de los Premios Concejo 2026",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/instituto-leones-cultura-da-conocer-ganadores-premios-concejo-2026_205181_102.html",
+    "desc": "José Antonio Llamas, la Joven Orquesta Leonesa (JOL), Natividad Villoldo, Rosario Granell y Luis Gómez Domingo han sido distinguidos en la quinta edición de los galardones",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/86/2/una-imagen-del-jurado-de-los-premios-concejo-2026-l-n-c.jpeg",
+    "pub": 1792772599,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "León analiza cómo reducir una brecha salarial que roza los 5.000 euros",
     "link": "https://www.heraldodeleon.es/leon/leon-analiza-como-reducir-brecha-salarial-que-roza-5000-euros/20261023181713114492.html",
     "desc": "El congreso Laborium 2026 reúne a más de 400 especialistas en Derecho Laboral para estudiar la aplicación de la normativa europea sobre transparencia retributiva y los cambios que exigirá a las…",
@@ -22,14 +70,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385749.jpg?p=w:1706/h:960&h=dBdLlUb6",
     "pub": 1792771457,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El Instituto Leonés de Cultura da a conocer los ganadores de los Premios Concejo 2026",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/instituto-leones-cultura-da-conocer-ganadores-premios-concejo-2026_205181_102.html",
-    "desc": "José Antonio Llamas, la Joven Orquesta Leonesa (JOL), Natividad Villoldo, Rosario Granell y Luis Gómez Domingo han sido distinguidos en la quinta edición de los galardones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/86/2/una-imagen-del-jurado-de-los-premios-concejo-2026-l-n-c.jpeg",
-    "pub": 1792771259,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El Ademar busca en Alicante su primera victoria a domicilio",
@@ -94,14 +134,6 @@
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/23/6adb7156dc1de8-86695804.jpeg",
     "pub": 1792766755,
     "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "Enise supera los 83.600 asistentes en 20 ediciones y sitúa a León en el mapa mundial de la ciberseguridad",
-    "link": "https://www.lanuevacronica.com/actualidad/enise-supera-83600-asistentes-en-20-ediciones-situa-leon-en-mapa-mundial-ciberseguridad_205176_102.html",
-    "desc": "El encuentro cierra su vigésima edición con un balance histórico de 2.282 ponentes, más de un millar de patrocinadores y representantes de 114 países a lo largo de su trayectoria",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/57/70/3/el-enise-2026-en-imagenes-2.jpeg",
-    "pub": 1792765544,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Anticorrupción pide imputar a Zapatero por malversación tras aceptar las joyas",
@@ -320,30 +352,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "La seleccionadora Sonia Bermúdez se cita en Astorga con Cris Martínez y la RFEF",
-    "link": "https://www.heraldodeleon.es/deportes/futbol/futbol-femenino-cita-astorga-seleccionadora-sonia-bermudez/20261023135105114432.html",
-    "desc": "La seleccionadora nacional participará junto a la futbolista maragata y la directora de fútbol femenino de la RFEF en una jornada formativa&nbsp;que ya cerró la plazas por su elevada participación",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102313502871809.webp",
-    "pub": 1792756265,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Roban plantas del área de descanso para peregrinos de Campo tras sufrir pintadas",
-    "link": "https://www.lanuevacronica.com/el-bierzo/robos-actos-vandalicos-en-area-descanso-peregrinos-campo_205163_102.html",
-    "desc": "El espacio, que se encuentra en rehabilitación por los alumnos de la Escuela Taller de Ponferrada, suma ya dos actos vandálicos consecutivos en la caseta que se está restaurando",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/31/3/campo.jpeg",
-    "pub": 1792755912,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Detenido por atracar con un cuchillo una gasolinera de Camponaraya",
-    "link": "https://www.lanuevacronica.com/sucesos/detenido-por-atracar-con-cuchillo-gasolinera-camponaraya_205167_102.html",
-    "desc": "El sospechoso amenazó a la empleada y se llevó unos 200 euros de la caja registradora en un asalto cometido el pasado 17 de octubre en la A-6",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/37/2/imagen-ladron.jpeg",
-    "pub": 1792755818,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Un nuevo terremoto de magnitud 2,7 vuelve a Priaranza tras el seísmo que sacudió El Bierzo",
     "link": "https://www.lanuevacronica.com/sucesos/nuevo-terremoto-magnitud-27-vuelve-priaranza-seismo-sacudio-bierzo_205169_102.html",
     "desc": "El movimiento se produjo este viernes a las 12.50 horas, con una profundidad registrada de cero kilómetros, nueve días después del temblor de magnitud 4,2 que se sintió en toda la comarca y dejó más…",
@@ -366,14 +374,6 @@
     "img": "https://static.eldiario.es/clip/76553858-20fc-493a-9fc7-f4ef314a4c57_16-9-discover-aspect-ratio_default_0_x1072y320.jpg",
     "pub": 1792754180,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "León da el primer paso para reformar el Rollo de Santa Ana en plena polémica por su fuente",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-da-primer-paso-reformar-rollo-santa-ana-en-plena-polemica-por-su-fuente_205164_102.html",
-    "desc": "El Ayuntamiento aprueba un concurso de proyectos dotado con más de 200.000 euros para transformar este acceso del Camino de Santiago, mientras UPL reclama que se conserve la fuente ornamental",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/33/5/leon-da-el-primer-paso-para-reformar-el-rollo-de-santa-ana-en-plena-polemica-por-su-fuente.jpeg",
-    "pub": 1792754004,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "León pide eliminar dos domingos de apertura comercial autorizada",
@@ -632,14 +632,6 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "UPL cuestiona el uso partidista de las invitaciones a la apertura de ENISE en León",
-    "link": "https://www.heraldodeleon.es/leon/upl-cuestiona-uso-partidista-invitaciones-apertura-enise-leon/20261022195959114373.html",
-    "desc": "La formación leonesista reclama conocer por qué no se convocó este año a todos los grupos políticos, como asegura que ocurría en ediciones anteriores, y pide preservar el carácter económico y…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/21/2026102113524953044.jpg",
-    "pub": 1792691999,
-    "fuente": "Heraldo de León · León"
-  },
-  {
     "titulo": "Miriam Andrés cuestiona la paridad de las listas del PSOE como ha dicho Torró: “De 9 provincias, 7 son hombres\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261022/miriam-andres-cuestiona-paridad-listas-psoe-dicho-torro-provincias-hombres/1003744431590_0.html",
     "desc": "La alcaldesa de Palencia vuelve a la carga tras el 'dedazo' de Ferraz en la elección de listas para las elecciones del 29-N. Más información : Miriam Andrés acusa a Ferraz de saltarse \"de manera…",
@@ -726,6 +718,14 @@
     "img": "https://static.eldiario.es/clip/d83670ef-0e90-44c0-a0b1-7c03dc98d90b_16-9-discover-aspect-ratio_default_0_x1121y281.jpg",
     "pub": 1792668377,
     "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "Abascal denuncia la \"violencia organizada\" desde Moncloa para \"acosar\" a Vox en cada acto tras los altercados en La Coruña",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261022/abascal-denuncia-violencia-organizada-moncloa-acosar-actos-vox-altercados-coruna/1003744430907_0.html",
+    "desc": "Asegura que el calificativo de 'dictador' de Milei a Sánchez es “bastante pequeño para el jefe de una mafia que ha intentado convencer a unos narcos para eliminar a una juez” Más noticias : Los…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384520.jpg?p=c:1440:811:nowe:80:129/w:1706/h:960&h=1WlN77bR",
+    "pub": 1792668300,
+    "fuente": "El Español · CyL"
   },
   {
     "titulo": "El Rey, primer visitante del Centro de Interpretación de las Fuentes de La Granja",
