@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "El PP critica el rechazo del PSOE a plazos para la Vía de la Plata y el Lazo del Manzanal",
+    "link": "https://www.lanuevacronica.com/actualidad/pp-critica-rechazo-psoe-plazos-via-plata-lazo-manzanal_205212_102.html",
+    "desc": "Los populares cuestionan el voto en contra de los socialistas a una propuesta aprobada en las Cortes para reclamar al Gobierno un calendario concreto de actuaciones ferroviarias.",
+    "img": "https://www.lanuevacronica.com/uploads/s1/27/69/71/3/ruta-plata.jpeg",
+    "pub": 1792836970,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Emilio Gancedo se sumerge en la historia de Riaño",
+    "link": "https://www.heraldodeleon.es/cultura/gancedo-sumerge-historia-riano/20261024121400114578.html",
+    "desc": "Emilio Gancedo publica ‘Riaño. El Estado contra la Montaña’, una visión poliédrica de las circunstancias y consecuencias de la construcción del embalse&nbsp;que invita a reflexionar sobre “una…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102412071920473.jpg",
+    "pub": 1792836840,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Un fármaco podría evitar 125 reingresos al año en pacientes cardíacos de Castilla y León",
+    "link": "https://www.elespanol.com/castilla-y-leon/sociedad/sanidad/20261024/farmaco-podria-evitar-reingresos-ano-pacientes-cardiacos-castilla-leon/1003744433518_0.html",
+    "desc": "El ensayo DapaTAVI, que lidera el Clínico de Valladolid, demuestra que la dapagliflozina reduce las hospitalizaciones y la mortalidad tras el reemplazo de la válvula aórtica. Más información :…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386084.jpg?p=c:4000:2251:nowe:0:201/w:1706/h:960&h=K7vAmqcT",
+    "pub": 1792836628,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Las peleas y agresiones 'golpean' León: 228 delitos en un año",
+    "link": "https://www.lanuevacronica.com/actualidad/peleas-agresiones-golpean-leon-228-delitos-en-ano_205211_102.html",
+    "desc": "La provincia registra un incremento del 14,6 % en los delitos de lesiones y riñas tumultuarias, por encima de la media autonómica, y se sitúa como la segunda de Castilla y León con más infracciones…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/14/09/05/delito-vishing-policia-nacional.jpeg",
+    "pub": 1792836229,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "10 años de 'Ser o no ser' de Javi Morán en la Casa de León en Madrid",
     "link": "https://www.heraldodeleon.es/cultura/10-anos-ser-ser-javi-moran-casa-leon-madrid/20261024120000114568.html",
     "desc": "El músico maragato llenó la calle del Pez con las canciones de su primer álbum en una velada entre la emoción y la celebración",
@@ -187,7 +219,7 @@
     "titulo": "El sorteo de Euromillones deja el premio de 'El millón' en la localidad de Fabero",
     "link": "https://www.heraldodeleon.es/el-bierzo/sorteo-euromillones-deja-premio-millon-localidad-fabero/20261024092045114544.html",
     "desc": "El sorteo de Euromillones celebrado este viernes ha dejado en la localidad leonesa de Fabero el premio de ‘El Millón’ a un boleto validado en la Administración de Loterías número uno, ubica en…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102409203015736.jpg",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102412212815164.jpg",
     "pub": 1792826445,
     "fuente": "Heraldo de León"
   },
@@ -277,22 +309,6 @@
     "desc": "",
     "img": null,
     "pub": 1792807800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los personajes del tío Ful: Chus, de Casa Benito",
-    "link": "https://www.lanuevacronica.com/a-la-contra-2/personajes-tio-ful-chus-casa-benito_205204_102.html",
-    "desc": "Jesús, la tercera generación del bar con más sabor del Barrio Húmedo, sabe que lleva sobre sus espaldas una larga tradición a la que no quiere renunciar, es la esencia de León: El Benito",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/24/9/frame-24personaje.jpeg",
-    "pub": 1792807200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El leonés Miguel Pérez García 'Trébol': el proyeccionista proyectado en los festivales",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/leones-miguel-perez-garcia-trebol-proyeccionista-proyectado-en-festivales_205197_102.html",
-    "desc": "El documental 'Trébol, el proyeccionista' dirigido por Bal Ferrero y producido por C&M Films Group rinde homenaje al leonés de Benavides de Órbigo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/22/5/el-protagonista-del-documental-miguel-perez-garcia-trebol-junto-al-director-del-mismo-bal-ferrero-junto-a-la-coleccion-del-leones-c-m-films-group.jpeg",
-    "pub": 1792807200,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -389,7 +405,7 @@
     "desc": "El congreso Laborium 2026 reúne a más de 400 especialistas en Derecho Laboral para estudiar la aplicación de la normativa europea sobre transparencia retributiva y los cambios que exigirá a las…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102318133230630.jpg",
     "pub": 1792772233,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Vallaqueso abre sus puertas para deleitar a los amantes de un producto único con 28 expositores y varias actividades",
@@ -501,14 +517,6 @@
     "desc": "UCCL pide cautela ante las informaciones sobre posibles contagios a personas y reclama al Ministerio de Agricultura información. Más información: Detectan el virus Shamonda en una explotación bovina…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10043498.jpg?p=c:3092:1739:nowe:0:141/w:1706/h:960&h=1yCWJbBk",
     "pub": 1792759487,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La ecofactoría en Palencia de Veolia alcanza una autosuficiencia del 80% gracias al biogás de la depuración",
-    "link": "https://www.elespanol.com/castilla-y-leon/economia/empresas/20261023/ecofactoria-palencia-veolia-alcanza-autosuficiencia-gracias-biogas-depuracion/1003744432709_0.html",
-    "desc": "En la Comunidad, la planta depuradora de Palencia se ha convertido en un referente de economía circular por su autosuficiencia energética y papel como centro de innovación. Más información: Veolia…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385555.jpg?p=w:1706/h:960&h=gxgzrP-h",
-    "pub": 1792759261,
     "fuente": "El Español · CyL"
   },
   {
@@ -710,14 +718,6 @@
     "img": "https://static.eldiario.es/clip/b103e47f-3914-48c9-a737-4faeb83de7f9_16-9-discover-aspect-ratio_default_0_x1023y303.jpg",
     "pub": 1792750838,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Una maqueta de 243 metros rinde homenaje al ferrocarril en La Térmica Cultural",
-    "link": "https://www.elbierzodigital.com/una-maqueta-de-243-metros-rinde-homenaje-al-ferrocarril-en-la-termica-cultural/",
-    "desc": "La Sala de Turbinas de La Térmica Cultural acoge este fin de semana una exposición de maquetas ferroviarias organizada por el Club Ibérico de Módulos H0 y el Club Hispalense de Aficionados al…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/maqueta-ferroviaria-el-bierzo-digital-22.jpeg",
-    "pub": 1792750489,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "El sector audiovisual de Castilla y León pide a PP y Vox que no den las ayudas por la ideología \"atribuida a sus autores\"",
