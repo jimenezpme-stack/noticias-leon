@@ -1,5 +1,77 @@
 [
   {
+    "titulo": "El calendario y la memoria",
+    "link": "https://www.lanuevacronica.com/opinion/calendario-memoria_205199_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792808400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El crepúsculo del opinador",
+    "link": "https://www.lanuevacronica.com/opinion/crepusculo-opinador_205198_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792807800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los personajes del tío Ful: Chus, de Casa Benito",
+    "link": "https://www.lanuevacronica.com/a-la-contra-2/personajes-tio-ful-chus-casa-benito_205204_102.html",
+    "desc": "Jesús, la tercera generación del bar con más sabor del Barrio Húmedo, sabe que lleva sobre sus espaldas una larga tradición a la que no quiere renunciar, es la esencia de León: El Benito",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/24/9/frame-24personaje.jpeg",
+    "pub": 1792807200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El leonés Miguel Pérez García 'Trébol': el proyeccionista proyectado en los festivales",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/leones-miguel-perez-garcia-trebol-proyeccionista-proyectado-en-festivales_205197_102.html",
+    "desc": "El documental 'Trébol, el proyeccionista' dirigido por Bal Ferrero y producido por C&M Films Group rinde homenaje al leonés de Benavides de Órbigo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/22/5/el-protagonista-del-documental-miguel-perez-garcia-trebol-junto-al-director-del-mismo-bal-ferrero-junto-a-la-coleccion-del-leones-c-m-films-group.jpeg",
+    "pub": 1792807200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El color del dolor",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/color-dolor_205196_102.html",
+    "desc": "El crítico literario escribe sobre la novela de Isolda Patrón-Costas, 'La vergüenza es de color azul'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/20/9/isolda-patron-costas-y-la-portada-de-su-publicacion-menoscuarto-ediciones.jpeg",
+    "pub": 1792807200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Desayunos y tapas detrás de la Catedral de León",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/desayunos-tapas-detras-catedral-leon_205194_102.html",
+    "desc": "La tortilla de jalapeños y queso cheddar destaca entre las especialidades del bar La Francachela ubicado en la calle San Pedro, que también ofrece tortillas para llevar",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/17/7/desayunos-y-tapas-detras-de-la-catedral-de-leon.jpeg",
+    "pub": 1792807200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los hoteles de León encadenan ya cinco meses consecutivos a la baja",
+    "link": "https://www.lanuevacronica.com/actualidad/hoteles-leon-encadenan-ya-cinco-meses-consecutivos-baja_205193_102.html",
+    "desc": "La provincia registra 91.036 viajeros y 143.207 pernoctaciones en septiembre, el peor desde 2021 con una pérdida del 4,1% respecto al mismo periodo de 2025",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/15/5/leon-registro-por-quinto-mes-consecutivo-un-descenso-en-viajeros.jpeg",
+    "pub": 1792807200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_205177_102.html",
+    "desc": "El humorista gráfico Rubén Cantón lanza una nueva pregunta sobre curiosidades de la provincia de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/81/1/24-10-2026-las-cucerias-de-canton.jpeg",
+    "pub": 1792807200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Presupuesto para independizarse: cuánto cuesta amueblar tu primer piso y cómo reducir gastos",
+    "link": "https://www.lanuevacronica.com/estilo-vida/presupuesto-independizarse-cuanto-cuesta-amueblar-tu-primer-piso-como-reducir-gastos_205106_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/37/4/image.jpeg",
+    "pub": 1792807200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El Millón de Euromillones deja una lluvia de billetes en un municipio de Castilla y León",
     "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261023/millon-euromillones-deja-lluvia-billetes-municipio-castilla-leon/1003744433401_0.html",
     "desc": "En el sorteo de hoy no ha habido acertantes de Primera Categoría y el Eurobote asciende a los 79 millones. Más información: La Lotería Nacional deja un buen saco de billetes en Valladolid con un…",
@@ -96,14 +168,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La Nueva Crónica repasa en un vídeo un año de noticias que marcaron a León",
-    "link": "https://www.lanuevacronica.com/actualidad/nueva-cronica-repasa-en-video-ano-noticias-marcaron-leon_205191_102.html",
-    "desc": "Un vídeo elaborado por Laura Pastoriza y protagonizado por el equipo del periódico recorre lo más destacado de los últimos doce meses durante la gala de la Negrilla de Oro que reconoció a Autismo León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/07/5/frame-23resumen.jpeg",
-    "pub": 1792775437,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Cultura desmiente el “bulo” en redes que asegura que se va a prohibir la exhibición de ‘La bola negra’ en Castilla y León",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261023/cultura-desmiente-bulo-redes-asegura-va-prohibir-exhibicion-bola-negra-castilla-leon/1003744433163_0.html",
     "desc": "La consejería defiende un modelo de apoyo público a la cinematografía en el que el valor de una producción “se mida por sus méritos artísticos y cinematográficos”. Más información: El consejero de…",
@@ -136,36 +200,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "De la vertiente académica de la cultura pop a Los Nikis, en Santa Colomba de Somoza",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/vertiente-academica-cultura-pop-nikis-en-santa-colomba-somoza_205187_102.html",
-    "desc": "La Fundación Club 45 acoge esta semana la segunda jornada del curso 'Un mundo tecnicolor' y da la bienvenida al bajista Joaquín Rodríguez",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/99/9/joaquin-rodriguez-bajista-de-los-nikis-estara-en-la-fundacion-club-45-l-n-c.jpeg",
-    "pub": 1792773095,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Instituto Leonés de Cultura da a conocer los ganadores de los Premios Concejo 2026",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/instituto-leones-cultura-da-conocer-ganadores-premios-concejo-2026_205181_102.html",
-    "desc": "José Antonio Llamas, la Joven Orquesta Leonesa (JOL), Natividad Villoldo, Rosario Granell y Luis Gómez Domingo han sido distinguidos en la quinta edición de los galardones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/86/2/una-imagen-del-jurado-de-los-premios-concejo-2026-l-n-c.jpeg",
-    "pub": 1792772599,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León analiza cómo reducir una brecha salarial que roza los 5.000 euros",
     "link": "https://www.heraldodeleon.es/leon/leon-analiza-como-reducir-brecha-salarial-que-roza-5000-euros/20261023181713114492.html",
     "desc": "El congreso Laborium 2026 reúne a más de 400 especialistas en Derecho Laboral para estudiar la aplicación de la normativa europea sobre transparencia retributiva y los cambios que exigirá a las…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102318133230630.jpg",
     "pub": 1792772233,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La ULE gradúa a 101 profesionales llamados a contribuir al bienestar animal y la salud pública",
-    "link": "https://www.lanuevacronica.com/actualidad/ule-gradua-101-profesionales-llamados-contribuir-bienestar-animal-salud-publica_205186_102.html",
-    "desc": "El Aula Magna de San Isidoro acogió este viernes la graduación de 85 estudiantes de Veterinaria y de 19 de Ciencias y Tecnología de los Alimentos en un acto en el que se puso de manifiesto la…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/95/5/graduacion-veterinaria-3.jpeg",
-    "pub": 1792771983,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Vallaqueso abre sus puertas para deleitar a los amantes de un producto único con 28 expositores y varias actividades",
@@ -184,14 +224,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "'La poesía y la música de Joaquín Sabina' suenan en San Miguel de Escalada",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/poesia-musica-joaquin-sabina-suenan-en-san-miguel-escalada_205184_102.html",
-    "desc": "La publicación de Daniel J. Nappo será protagonista este sábado en un acto que contará con el acompañamiento musical de los hermanos Escobar",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/92/2/los-hermanos-escobar-participaran-en-el-acto-de-este-sabado-en-san-miguel-de-escalada-l-n-c.jpeg",
-    "pub": 1792770547,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Las listas del PP para el 29-N: cambia números 1 en tres provincias y mueve nombres entre Congreso y Senado",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261023/listas-pp-cambia-numeros-valladolid-zamora-mueve-nombres-congreso-senado/1003744432835_0.html",
     "desc": "Entre los principales cambios destaca la incorporación de María Pardo como cabeza de lista al Congreso por Valladolid que provoca su salida de la Consejería. Más información: María Pardo deja la…",
@@ -206,14 +238,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102317410939423.jpg",
     "pub": 1792770095,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El alcalde de León, Embajador de la Olla Ferroviaria de Balmaseda (Vizcaya)",
-    "link": "https://www.lanuevacronica.com/actualidad/alcalde-leon-embajador-olla-ferroviaria-balmaseda-vizcaya_205182_102.html",
-    "desc": "La Cofradía de la Putxera distingue al Ayuntamiento de la capital por la estrecha vinculación de la ciudad con el Ferrocarril de La Robla",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/89/2/distincion-olla-ferroviaria-cofradia-putxera-balmaseda-23102026.jpeg",
-    "pub": 1792770093,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Los Premios Concejo ya tienen ganadores",
@@ -248,14 +272,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Lluvia de colores en el evento más soliDARIO en La Pola",
-    "link": "https://www.lanuevacronica.com/actualidad/lluvia-colores-en-evento-mas-solidario-en-pola_205174_102.html",
-    "desc": "El CEIP Federico García Lorca reunió este viernes a escolares y familias en una jornada para apoyar al pequeño astronauta y dar visibilidad a la FOP",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/73/9/escolares-de-la-pola-cinera-y-villamanin-participaron-en-una-convocatoria-que-unio-deporte-convivencia-y-solidaridad-estefania-nino-8.jpeg",
-    "pub": 1792763700,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ponferrada reúne a más de 120 escolares en una jornada de atletismo",
     "link": "https://www.heraldodeleon.es/deportes/atletismo/ponferrada-reune-mas-120-escolares-jornada-atletismo/20261023154825114473.html",
     "desc": "El Estadio Colomán Trabado acoge este sábado una competición con carreras de velocidad y fondo, lanzamiento de disco y salto de longitud, con participación desde la categoría prebenjamín hasta juvenil",
@@ -270,14 +286,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/08/24/2026082417182919587.jpg",
     "pub": 1792762523,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Ponferradina - Barakaldo: 'A reencontrarse con la mejor versión'",
-    "link": "https://www.lanuevacronica.com/deportes/ponferradina-barakaldo-reencontrarse-con-mejor-version_205173_102.html",
-    "desc": "La Ponferradina recibe al Barakaldo este sábado desde las 18:45 horas con la necesidad de volver a sumar en casa y hacer bueno el último punto en Zamora",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/40/35/6/la-deportiva-se-vio-sorprendida-por-un-real-aviles-que-se-llevo-los-tres-puntos-del-toralin-reportaje-grafico-quinito-19.jpeg",
-    "pub": 1792762456,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Minuto de silencio en León en recuerdo de Gloria, asesinada el martes en Madrid",
@@ -326,14 +334,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385569.jpg?p=w:1706/h:960&h=wPT7h9Z2",
     "pub": 1792760858,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Mañueco reclama soluciones para el Manzanal y la A-76 y Rueda acusa a Sánchez de frenar el alquiler",
-    "link": "https://www.lanuevacronica.com/el-bierzo/manueco-reclama-soluciones-manzanal-a-76-rueda-acusa-sanchez-frenar-alquiler_205171_102.html",
-    "desc": "Los presidentes de Castilla y León y Galicia cargan contra la política estatal de vivienda, la corrupción y la gestión territorial",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/48/2/presidentes-vale.jpeg",
-    "pub": 1792760633,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Junta de Castilla y León defiende que su impuesto a la fotovoltaica busca \"compromiso\" con el medio rural",
