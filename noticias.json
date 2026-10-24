@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "El Embutidos Pajariel viaja a Coruña en busca de una victoria",
+    "link": "https://www.heraldodeleon.es/deportes/baloncesto/embutidos-pajariel-viaja-coruna-busca-victoria/20261024125652114585.html",
+    "desc": "El choque, la segunda salida de la temporada para las berciana, será este domingo (19:00 horas) en el colegio Elviña",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/23/2026092308530288655.jpg",
+    "pub": 1792839412,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El nuevo líder de Izquierda Unida en Castilla y León será el candidato de Frente Amplio al Senado por Burgos",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261024/nuevo-lider-izquierda-unida-castilla-leon-candidato-frente-amplio-senado-burgos/1003744433536_0.html",
+    "desc": "Así lo ha comunicado el partido este sábado, 24 de octubre, a casi un mes de las elecciones del 29-N. Más información : El nuevo coordinador de IU en Castilla y León se estrena: “El Frente Amplio es…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386092.jpg?p=w:1706/h:960&h=mLEiURPi",
+    "pub": 1792839010,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Fibra óptica ultra segura une Scayle e Incibe creando un laboratorio cuántico bajo León",
+    "link": "https://www.heraldodeleon.es/leon/red-fibra-optica/20261024124302114584.html",
+    "desc": "La puesta en marcha de esta tecnología ha sido anunciada en el Enise y sitúa a León como referente en el despliegue de redes de distribución cuántica de claves (QKD)",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102412404217010.jpg",
+    "pub": 1792838582,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Mañueco 'carga' contra el Gobierno por el impago de las ayudas por ataques del lobo",
+    "link": "https://www.lanuevacronica.com/actualidad/manueco-carga-contra-gobierno-por-impago-ayudas-por-ataques-lobo_205213_102.html",
+    "desc": "El presidente de la Junta reclama las transferencias pendientes de 2025 y 2026 y denuncia que Castilla y León ha tenido que asumir con fondos propios las indemnizaciones a los ganaderos.",
+    "img": "https://www.lanuevacronica.com/uploads/s1/28/03/65/5/la-union-europea-ratifica-la-rebaja-de-la-proteccion-del-lobo.jpeg",
+    "pub": 1792838414,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El PP critica el rechazo del PSOE a plazos para la Vía de la Plata y el Lazo del Manzanal",
     "link": "https://www.lanuevacronica.com/actualidad/pp-critica-rechazo-psoe-plazos-via-plata-lazo-manzanal_205212_102.html",
     "desc": "Los populares cuestionan el voto en contra de los socialistas a una propuesta aprobada en las Cortes para reclamar al Gobierno un calendario concreto de actuaciones ferroviarias.",
@@ -304,14 +336,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "El crepúsculo del opinador",
-    "link": "https://www.lanuevacronica.com/opinion/crepusculo-opinador_205198_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792807800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Millón de Euromillones deja una lluvia de billetes en un municipio de Castilla y León",
     "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261023/millon-euromillones-deja-lluvia-billetes-municipio-castilla-leon/1003744433401_0.html",
     "desc": "En el sorteo de hoy no ha habido acertantes de Primera Categoría y el Eurobote asciende a los 79 millones. Más información: La Lotería Nacional deja un buen saco de billetes en Valladolid con un…",
@@ -368,14 +392,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "El Mipelletymas BF León busca en Málaga su segundo triunfo en Liga Challenge",
-    "link": "https://www.heraldodeleon.es/deportes/baloncesto/mipelletymas-bf-leon-busca-mijas-segundo-triunfo-liga-challenge/20261023191332114495.html",
-    "desc": "El conjunto leonés visita este sábado al Unicaja Mijas a las 17.30 horas con el objetivo de consolidar su adaptación a la categoría tras estrenar su casillero de victorias ante el Bosonit Unibasket",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/03/2026100322455916940.jpg",
-    "pub": 1792775612,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Cultura desmiente el “bulo” en redes que asegura que se va a prohibir la exhibición de ‘La bola negra’ en Castilla y León",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261023/cultura-desmiente-bulo-redes-asegura-va-prohibir-exhibicion-bola-negra-castilla-leon/1003744433163_0.html",
     "desc": "La consejería defiende un modelo de apoyo público a la cinematografía en el que el valor de una producción “se mida por sus méritos artísticos y cinematográficos”. Más información: El consejero de…",
@@ -389,7 +405,7 @@
     "desc": "El sindicato reclama a la dirección una explicación sobre el futuro de las instalaciones y exige garantías para los puestos de trabajo, el gabinete de psicología y los reconocimientos médicos del…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/14/2026101410501087684.jpg",
     "pub": 1792773744,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Ponferrada pierde más de 18.000 turistas hasta septiembre, un 16% menos que en 2025",
@@ -688,28 +704,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "León adjudica por 792.000 euros el aparcamiento de Padre Isla con 178 plazas",
-    "link": "https://www.heraldodeleon.es/leon/leon-adjudica-792000-euros-nuevo-aparcamiento-padre-isla/20261023124006114414.html",
-    "desc": "El proyecto, encargado a Excarbi SL con un plazo de ejecución de diez meses, incorporará 178 plazas para coches y motocicletas, espacios para bicicletas y vehículos de movilidad personal y una nueva…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/08/12/2026081210433079115.jpg",
-    "pub": 1792752006,
-    "fuente": "Heraldo de León · León"
-  },
-  {
     "titulo": "Prisión sin fianza para dos de los tres adultos detenidos por la muerte de una anciana maniatada en Burgos",
     "link": "https://www.eldiario.es/castilla-y-leon/tribunales/prision-fianza-tres-adultos-detenidos-muerte-anciana-maniatada-burgos_1_13609319.html",
     "desc": "Hay dos procedimientos judiciales con seis personas investigadas por el robo con violencia en casa habitada, homicidio y receptación Los Mossos investigan el bulo xenófobo contra dos jóvenes…",
     "img": "https://static.eldiario.es/clip/b522fd71-6b24-4aa2-81b1-5261ec0bc156_16-9-discover-aspect-ratio_default_0.jpg",
     "pub": 1792751604,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "UPL ve \"una tomadura de pelo\" que León se quede sin una unidad antidisturbios",
-    "link": "https://www.heraldodeleon.es/leon/upl-ve-tomadura-pelo-que-leon-quede-unidad-antidisturbios/20261023122334114412.html",
-    "desc": "El portavoz municipal leonesista, Eduardo López Sendino, reclama explicaciones al PSOE y al diputado Javier Alfonso Cendón ante la posible instalación en Valladolid de un nuevo grupo de Intervención…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102312333373869.jpg",
-    "pub": 1792751014,
-    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "La alcaldesa de Palencia del PSOE se ofrece a acoger las obras de teatro \"que puedan sufrir censura\" en Castilla y León",
