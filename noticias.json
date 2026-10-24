@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "La Bañeza muestra su compromiso con la lucha contra el cáncer de mama",
+    "link": "https://www.lanuevacronica.com/actualidad/baneza-muestra-su-compromiso-con-lucha-contra-cancer-mama_205228_102.html",
+    "desc": "El alcalde de La Bañeza, Javier Carrera de Blas, acompañado por la concejal de Sanidad, Amada Moratinos, ha visitado la mesa informativa para trasladar personalmente el respaldo del Consistorio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/63/14/8/la-baneza-ha-mostrado-su-apoyo-a-la-junta-local-de-la-asociacion-espanola-contra-el-cancer-aecc.jpeg",
+    "pub": 1792858459,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Bomberos León utiliza una manta ignífuga para sofocar el incendio un coche eléctrico en Trobajo",
+    "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/bomberos-leon-utiliza-manta-ignifuga-sofocar-incendio-coche-electrico-trobajo/20261024180809114608.html",
+    "desc": "El vehículo comenzó a arder mientras estaba conectado a un punto de recarga en el polígono industrial",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102418045730716.jpg",
+    "pub": 1792858089,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "Protección Civil de La Bañeza recibe una mención especial por su intervención durante los incendios",
     "link": "https://www.lanuevacronica.com/actualidad/proteccion-civil-baneza-recibe-mencion-especial-por-su-intervencion-durante-incendios_205227_102.html",
     "desc": "El reconocimiento pone en valor el compromiso, la dedicación y la labor de los voluntarios de la agrupación bañezana",
@@ -320,14 +336,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "León sufrirá este domingo restricciones de tráfico por la Carrera de la Mujer",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-sufrira-este-domingo-restricciones-trafico-por-carrera-mujer_205210_102.html",
-    "desc": "A partir de las 7:30 horas se cortará el paseo del Parque, a partir de las 10:30 horas se cortará el resto del itinerario",
-    "img": "https://www.lanuevacronica.com/uploads/s1/13/76/24/plaza-toros-31-05-22-web.jpeg",
-    "pub": 1792834028,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Las peleas aumentan un 14,6% en León y rozan los máximos históricos en Castilla y León",
     "link": "https://www.elbierzodigital.com/las-peleas-aumentan-un-146-en-leon-y-rozan-los-maximos-historicos-en-castilla-y-leon/",
     "desc": "Los delitos de lesiones leves y riñas tumultuarias aumentaron un 14,6% en la provincia de León durante 2025, hasta alcanzar los 228 casos. La cifra sitúa a León como la segunda provincia de Castilla…",
@@ -381,14 +389,6 @@
     "desc": "La cita, dentro de los actos del 40 aniversario de la entidad, será el miércoles 28 de octubre con entrada libre y gratuita",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102410172643431.jpg",
     "pub": 1792829885,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Llega 'Alauto 3.0'",
-    "link": "https://www.heraldodeleon.es/sociedad/llega-alauto-30/20261024101655114547.html",
-    "desc": "Alfonso García cambia de escenario, ahora será '3.0' y deja un recuerdo imborrable en la Avenida Europa, pero mantiene intacta la esencia de una casa que ha hecho de la confianza, la garantía…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/03/28/2025032810190697017.jpg",
-    "pub": 1792829815,
     "fuente": "Heraldo de León"
   },
   {
