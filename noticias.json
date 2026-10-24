@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Jandro Castro denuncia el arbitraje y ve una \"desconexión\"",
+    "link": "https://www.heraldodeleon.es/deportes/cultural/jandro-castro-denuncia-arbitraje-ve-desconexion/20261024233909114679.html",
+    "desc": "El entrenador de la Cultural considera que el equipo mereció más ante el Pontevedra, critica la anulación del gol del empate y asegura que el vestuario está tocado tras caer por 1-2",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/21/2026092108505735290.jpg",
+    "pub": 1792877949,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Ribera con Montaña: Pasó lo que se suponía que iba a pasar y se cantó otra vez el «¡Viva la Montaña!» (y van 12)",
+    "link": "https://www.lanuevacronica.com/deportes/ribera-con-montana-paso-se-suponia-iba-pasar-se-canto-otra-vez-viva-montana-y-van-12_205243_102.html",
+    "desc": "Contundente victoria de la Montaña frente a la Ribera pues cuando Samuel fue 'el gallo' del reto aún les quedaban otros seis luchadores a los montañeses",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/53/0/manteo-lucha.jpeg",
+    "pub": 1792877434,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Jandro Castro pide el cese a gritos: la Cultural se hunde",
+    "link": "https://www.heraldodeleon.es/deportes/cultural/jandro-castro-pide-cese-gritos-cultural-hunde-pontevedra-cae-borde-abismo/20261024231705114677.html",
+    "desc": "El equipo leonés desperdicia la ventaja de Jorge Delgado, encaja dos goles en tres minutos y ve cómo el VAR anula en el descuento el tanto del empate de Róber Pier antes de certificar una derrota…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102423131747963.jpg",
+    "pub": 1792876625,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "Ponferradina 0-0 Barakaldo: 'Con Slavy también falta gol'",
     "link": "https://www.lanuevacronica.com/deportes/ponferradina-0-0-barakaldo-con-slavy-tambien-falta-gol_205236_102.html",
     "desc": "El equipo de Mehdi Nafti se vuelve a quedar corto de pólvora contra un Barakaldo que dispuso de las ocasiones más claras para llevarse un partido áspero",
@@ -8,7 +32,7 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "🔴 En directo | Cultural 1-2 Pontevedra | La Cultural cae en el Reino y condena a Jandro Castro",
+    "titulo": "🔴 En directo | Cultural 1-2 Pontevedra | Jandro Castro no sirve",
     "link": "https://www.heraldodeleon.es/deportes/cultural/directo-cultural-pontevedra-equipo-jandro-castro-busca-tres-puntos-clave/20261024201653114650.html",
     "desc": "Duelo de altura en el Reino de León y de nuevo con una Cultural obligada a sumar 'de tres'",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102422045419718.jpg",
@@ -288,22 +312,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Dos premios millonarios dejan más de 2,3 millones de euros en El Bierzo en apenas 24 horas",
-    "link": "https://www.lanuevacronica.com/el-bierzo/dos-premios-millonarios-dejan-mas-23-millones-euros-en-bierzo-en-apenas-24-horas_205214_102.html",
-    "desc": "Tras repartir la Bonoloto 1,35 millones en Ponferrada, ahora El Millón de Euromillones ha dejado otro millón en Fabero",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/13/72/7/whatsapp-image-2026-09-27-at-10-42-15.jpeg",
-    "pub": 1792839679,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Embutidos Pajariel viaja a Coruña en busca de una victoria",
-    "link": "https://www.heraldodeleon.es/deportes/baloncesto/embutidos-pajariel-viaja-coruna-busca-victoria/20261024125652114585.html",
-    "desc": "El choque, la segunda salida de la temporada para las berciana, será este domingo (19:00 horas) en el colegio Elviña",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/23/2026092308530288655.jpg",
-    "pub": 1792839412,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "El nuevo líder de Izquierda Unida en Castilla y León será el candidato de Frente Amplio al Senado por Burgos",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261024/nuevo-lider-izquierda-unida-castilla-leon-candidato-frente-amplio-senado-burgos/1003744433536_0.html",
     "desc": "Así lo ha comunicado el partido este sábado, 24 de octubre, a casi un mes de las elecciones del 29-N. Más información : El nuevo coordinador de IU en Castilla y León se estrena: “El Frente Amplio es…",
@@ -317,7 +325,7 @@
     "desc": "La puesta en marcha de esta tecnología ha sido anunciada en el Enise y sitúa a León como referente en el despliegue de redes de distribución cuántica de claves (QKD)",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102412404217010.jpg",
     "pub": 1792838582,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Un fármaco podría evitar 125 reingresos al año en pacientes cardíacos de Castilla y León",
@@ -725,14 +733,6 @@
     "desc": "El Procurador del Común reclama garantizar que una comisión interna no pueda retrasar la comunicación inmediata a las autoridades competentes de los posibles casos de acoso sexual Condenado un joven…",
     "img": "https://static.eldiario.es/clip/77b44975-8761-41d4-a80c-4113a88cd36c_16-9-discover-aspect-ratio_default_0.jpg",
     "pub": 1792671142,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "El PP respalda la censura ideológica de Vox al cine en Castilla y León y lo justifica en nombre de la “libertad”",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/pp-respalda-censura-ideologica-vox-cine-castilla-leon-justifica-nombre-libertad-calidad-artistica_1_13606432.html",
-    "desc": "El portavoz de la Junta defiende que una comisión de expertos evalúe los proyectos y opina sobre si 'La bola negra' o 'Torrente' podrían optar a las subvenciones: \"Seguro que sí\" El Gobierno de PP y…",
-    "img": "https://static.eldiario.es/clip/a112e6f5-349c-4e22-854b-a49d501715c4_16-9-discover-aspect-ratio_default_0_x977y322.jpg",
-    "pub": 1792671112,
     "fuente": "eldiario.es · CyL"
   },
   {
