@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Manual básico para ser de derechas y feminista",
+    "link": "https://www.lanuevacronica.com/opinion/manual-basico-ser-derechas-feminista_205202_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792810200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ese tal Tarrés",
+    "link": "https://www.lanuevacronica.com/opinion/ese-tarres_205201_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792809600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León, ciudad de ensueño",
+    "link": "https://www.lanuevacronica.com/opinion/leon-ciudad-ensueno_205200_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792809000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Asorbier cumple 30 años peleando por dar voz a las manos y se movilizará por una educación integrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/asorbier-cumple-30-anos-peleando-por-dar-voz-manos-se-movilizara-por-educacion-integrada_205124_102.html",
+    "desc": "Reivindica más intérpretes de signos, educación accesible, una sociedad que deje de confundir la sordera con la incapacidad para comunicarse y prepara una concentración en el IESVE",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/59/6/dia-lengua-de-signos.jpeg",
+    "pub": 1792809000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El calendario y la memoria",
     "link": "https://www.lanuevacronica.com/opinion/calendario-memoria_205199_102.html",
     "desc": "",
@@ -80,14 +112,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Autismo León, ejemplo y Negrilla de Oro",
-    "link": "https://www.lanuevacronica.com/actualidad/autismo-leon-ejemplo-negrilla-oro_205185_102.html",
-    "desc": "La asociación recibió el premio anual de La Nueva Crónica en una emotiva gala con más de 300 invitados celebrada en el Nuevo Recreo Industrial",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/11/0/frame-23negrilla.jpeg",
-    "pub": 1792782346,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León con Orgullo renueva su imagen",
     "link": "https://www.heraldodeleon.es/leon/leon-orgullo-renueva-imagen-reclama-ley-autonomica-lgtbiaq/20261023202752114542.html",
     "desc": "La asociación presenta un logotipo diseñado por Laura Rodríguez de Luna y Cuarto Estudio Creativo y denuncia que Castilla y León sigue sin una normativa propia de igualdad para el colectivo",
@@ -136,14 +160,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La música de los abuelos llega a Laguna de Negrillos con la Carroza del Teatro Real",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/musica-abuelos-llega-laguna-negrillos-con-carroza-teatro-real_205190_102.html",
-    "desc": "La explanada de la Casa de Cultura acogerá este domingo el espectáculo protagonizado por Lara Chaves y Alberto Frías que contará con Andrés Tejero Velázquez como pianista",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/04/5/la-carroza-del-teatro-real-llega-este-domingo-a-laguna-de-negrillos-l-n-c.jpeg",
-    "pub": 1792776114,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Atlético Astorga busca una reacción ante el Gernika en La Eragudina",
     "link": "https://www.heraldodeleon.es/deportes/futbol/atletico-astorga-busca-reaccion-gernika-eragudina/20261023191802114496.html",
     "desc": "El equipo de José Luis Lago quiere pasar página tras el tropiezo frente al Compostela y reforzar su fortaleza como local en un partido exigente que llega con la incorporación del defensa marroquí…",
@@ -182,22 +198,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/14/2026101410501087684.jpg",
     "pub": 1792773744,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Los 'Cuentos para bebés' de Emma S. Varela cierran el festival leonés Palabra",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/cuentos-bebes-emma-s-varela-cierran-festival-leones-palabra_205189_102.html",
-    "desc": "El encuentro, dirigido a menores de tres años, tendrá lugar este domingo en el Palacio del Conde Luna",
-    "img": "https://www.lanuevacronica.com/uploads/s1/27/86/01/8/emma-s-varela-recala-este-viernes-en-el-corte-ingles-de-leon-con-una-bruja-sin-cuento.jpeg",
-    "pub": 1792773664,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El 'Cancionero leonés' de Miguel Manzano, ya disponible en la web del ILC",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/cancionero-leones-miguel-manzano-ya-disponible-en-web-ilc_205188_102.html",
-    "desc": "El Instituto Leonés de Cultura celebrará este sábado un acto en homenaje al musicólogo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/02/9/un-fragmento-del-cartel-del-homenaje-a-miguel-manzano.jpeg",
-    "pub": 1792773441,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "León analiza cómo reducir una brecha salarial que roza los 5.000 euros",
