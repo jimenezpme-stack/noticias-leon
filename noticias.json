@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Un incendio calcina un vehículo eléctrico en el polígono industrial de Trobajo del Camino",
+    "link": "https://www.lanuevacronica.com/actualidad/incendio-calcina-vehiculo-electrico-en-poligono-industrial-trobajo-camino_205223_102.html",
+    "desc": "Los Bomberos de León han intervenido en la extinción de las llamas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/80/9/imagen-del-turismo-electico-calcinado-por-las-llamas-en-trobajo-del-camino.jpeg",
+    "pub": 1792855148,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Prada San Martín se corona como el mejor godello de España con 96 puntos",
+    "link": "https://www.lanuevacronica.com/el-bierzo/prada-san-martin-se-corona-como-mejor-godello-espana-con-96-puntos_205215_102.html",
+    "desc": "La guía de vinos de la Semana Vitivinícola sitúa en lo más alto al blanco ecológico de crianza de Palacio de Canedo, por delante de otros 23 godellos seleccionados",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/35/9/sanmartin-godello-etiqueta.jpeg",
+    "pub": 1792855023,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Eduardo Morán: \"No estoy decepcionado con mi partido, pero sí con algunas personas\"",
+    "link": "https://www.lanuevacronica.com/el-bierzo/eduardo-moran-no-estoy-decepcionado-con-mi-partido-pero-si-con-algunas-personas_205220_102.html",
+    "desc": "El alcalde de Camponaraya dice respetar que se le deje fuera de la carrera al Senado y sopesa repetir como cabeza de las municipales de 2027",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/37/94/4/eduardo-moran.jpeg",
+    "pub": 1792854903,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "UPL exige 30 horas de intérprete de lengua de signos para una alumna del IES Virgen de la Encina",
+    "link": "https://www.lanuevacronica.com/el-bierzo/upl-exige-30-horas-interprete-lengua-signos-alumna-ies-virgen-encina_205221_102.html",
+    "desc": "Reclama a la Junta que cubra toda la jornada lectiva de la estudiante con sordera profunda y plantea cambios para garantizar la lengua de signos como recurso educativo esencial",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/54/39/7/www-ies-virgen-de-la-encina-4-1000x563.jpeg",
+    "pub": 1792854686,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Gamarra acusa al Gobierno de Sánchez de abandonar Burgos y promete recuperar las inversiones pendientes",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261024/gamarra-acusa-gobierno-sanchez-abandonar-burgos-promete-recuperar-inversiones-pendientes/1003744433722_0.html",
+    "desc": "La vicesecretaria nacional de Regeneración Institucional del PP asegura que las elecciones permitirán elegir \"entre decencia o delincuencia\". Más información: Tellado llama a \"derogar el sanchismo,…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386206.jpg?p=w:1706/h:960&h=8_yNrAO_",
+    "pub": 1792854466,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Camponaraya abre su Feria de la Miel con 25 expositores y el reto de sostener al sector apícola",
+    "link": "https://www.lanuevacronica.com/el-bierzo/camponaraya-abre-su-feria-miel-con-25-expositores-reto-sostener-sector-apicola_205219_102.html",
+    "desc": "La novena edición estrena el 'Pasaporte a la Miel' y cuenta por primera vez con la colaboración de la Diputación, mientras los productores afrontan otra campaña marcada por la escasez de cosecha",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/42/7/apertura-miel.jpeg",
+    "pub": 1792854427,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Tellado llama a \"derogar el sanchismo, de la A de Ábalos a la Z de Zapatero\": \"El PSOE es el partido del amor por el delito\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261024/tellado-llama-derogar-sanchismo-abalos-zapatero-psoe-partido-amor-delito/1003744433708_0.html",
     "desc": "El secretario general del PP ha participado en un acto de precampaña este sábado en Valladolid. Más información: Feijóo presentará a los cabezas de lista del PP para las elecciones generales del…",
@@ -72,14 +120,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Camponaraya abre su Feria de la Miel con 25 expositores y el reto de sostener al sector apícola",
-    "link": "https://www.lanuevacronica.com/el-bierzo/camponaraya-abre-su-feria-miel-con-25-expositores-reto-sostener-sector-apicola_205219_102.html",
-    "desc": "La novena edición estrena el 'Pasaporte a la Miel' y cuenta por primera vez con la colaboración de la Diputación, mientras los productores afrontan otra campaña marcada por la escasez de cosecha",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/42/7/apertura-miel.jpeg",
-    "pub": 1792844872,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Camponaraya reúne a 25 expositores en una Feria de la Miel marcada por las malas cosechas",
     "link": "https://www.elbierzodigital.com/camponaraya-reune-a-25-expositores-en-una-feria-de-la-miel-marcada-por-las-malas-cosechas/",
     "desc": "Camponaraya ha inaugurado este sábado la novena edición de su Feria de la Miel del Bierzo , que reúne durante el fin de semana a 25 expositores en un contexto complicado para la apicultura comarcal,…",
@@ -96,14 +136,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "UPL exige 30 horas de intérprete de lengua de signos para una alumna del IES Virgen de la Encina",
-    "link": "https://www.lanuevacronica.com/el-bierzo/upl-exige-30-horas-interprete-lengua-signos-alumna-ies-virgen-encina_205221_102.html",
-    "desc": "Reclama a la Junta que cubra toda la jornada lectiva de la estudiante con sordera profunda y plantea cambios para garantizar la lengua de signos como recurso educativo esencial",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/54/39/7/www-ies-virgen-de-la-encina-4-1000x563.jpeg",
-    "pub": 1792843209,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El PP reprocha el \"nulo\" apoyo del Gobierno a la Vía de la Plata y el lazo del Manzanal",
     "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/pp-reprocha-complacencia-psoe-nulo-apoyo-gobierno-via-plata-lazo-manzanal/20261024135945114591.html",
     "desc": "Los populares lamentan el voto en contra de los socialistas a la PNL presentada en las Cortes de Castilla y León en las que se pedía al Gobierno “un calendario concreto de actuaciones” en la mejora…",
@@ -118,14 +150,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386131.jpg?p=w:1706/h:960&h=AnA-OZsR",
     "pub": 1792842780,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Eduardo Morán: \"No estoy decepcionado con mi partido, pero sí con algunas personas\"",
-    "link": "https://www.lanuevacronica.com/el-bierzo/eduardo-moran-no-estoy-decepcionado-con-mi-partido-pero-si-con-algunas-personas_205220_102.html",
-    "desc": "El alcalde de Camponaraya dice respetar que se le deje fuera de la carrera al Senado y sopesa repetir como cabeza de las municipales de 2027",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/37/94/4/eduardo-moran.jpeg",
-    "pub": 1792842768,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "UPL exige que una intérprete cubra la jornada lectiva de una alumna sorda",
@@ -173,14 +197,6 @@
     "desc": "El Ademar visita a Alicante este domingo (12:00 horas) con la primera victoria a domicilio como objetivo antes de entrar en la parte más dura del calendario",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/49/45/1/ademar-aranda-6.jpeg",
     "pub": 1792840181,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Prada San Martín se corona como el mejor godello de España con 96 puntos",
-    "link": "https://www.lanuevacronica.com/el-bierzo/prada-san-martin-se-corona-como-mejor-godello-espana-con-96-puntos_205215_102.html",
-    "desc": "La guía de vinos de la Semana Vitivinícola sitúa en lo más alto al blanco ecológico de crianza de Palacio de Canedo, por delante de otros 23 godellos seleccionados",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/35/9/sanmartin-godello-etiqueta.jpeg",
-    "pub": 1792839955,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -333,14 +349,6 @@
     "desc": "El consejero de Agricultura de la Junta asiste a la inauguración de la LVIII Semana Internacional y Tercera Edición de Destino Pesca",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/62/32/3/las-autoridades-presentes-en-la-inauguracion-de-la-semana-internacional-de-la-trucha.jpeg",
     "pub": 1792832957,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Guía para comprar CBD online por primera vez: qué formatos existen y cómo elegir una tienda fiable",
-    "link": "https://www.lanuevacronica.com/estilo-vida/guia-comprar-cbd-online-por-primera-vez-formatos-existen-como-elegir-tienda-fiable_205207_102.html",
-    "desc": "¿Vas a comprar CBD online por primera vez? Te explicamos qué formatos existen, qué debe mostrar una tienda de confianza y qué comprobar antes de hacer tu primer pedido",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/30/3/flores-de-cbd.webp",
-    "pub": 1792832502,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -670,14 +678,6 @@
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2021/04/14/archivo-sede-del-tribunal-superior-de-justicia-de-castilla-y-leon-en-burgos.jpeg",
     "pub": 1792757644,
     "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "VOX destaca los 240,5 millones de inversión para León en los presupuestos de 2027",
-    "link": "https://www.heraldodeleon.es/leon/vox-destaca-2405-millones-inversion-leon-presupuestos-2027/20261023140823114435.html",
-    "desc": "La procuradora Laura Dorreis Alonso resalta las partidas destinadas a sanidad, vivienda, infraestructuras y agricultura, así como el incremento de los fondos previstos para El Bierzo",
-    "img": "https://i.ytimg.com/vi/09CjxZ95OHE/hqdefault.jpg",
-    "pub": 1792757303,
-    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Mañueco cede al PP de Feijóo a su consejera de Educación para que vaya al Congreso tras cuatro meses en el puesto",
