@@ -1,18 +1,58 @@
 [
   {
+    "titulo": "Protección Civil de La Bañeza recibe una mención especial por su intervención durante los incendios",
+    "link": "https://www.lanuevacronica.com/actualidad/proteccion-civil-baneza-recibe-mencion-especial-por-su-intervencion-durante-incendios_205227_102.html",
+    "desc": "El reconocimiento pone en valor el compromiso, la dedicación y la labor de los voluntarios de la agrupación bañezana",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/63/08/6/al-acto-asistieron-el-alcalde-de-la-baneza-javier-carrera-de-blas-y-la-teniente-de-alcalde-y-concejal-de-seguridad-ciudadana-elena-bailez-quienes-acompanaron-a-proteccion-civil-de-la-baneza.jpeg",
+    "pub": 1792857543,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Asturiana de los Valles 'presume' de raza en Villablino",
+    "link": "https://www.lanuevacronica.com/actualidad/asturiana-valles-presume-raza-en-villablino_205225_102.html",
+    "desc": "El XXIX Certamen Provincial reunió a 27 ganaderías en el recinto ferial Las Rozas, poniendo en valor el trabajo de selección y mejora genética",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/63/04/2/villablino-vuelve-a-ser-escaparate-de-la-excelencia-ganadera-1.jpeg",
+    "pub": 1792856700,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Villamartín del Sil rinde homenaje a las 19 víctimas de la represión franquista",
+    "link": "https://www.lanuevacronica.com/el-bierzo/villamartin-sil-rinde-homenaje-19-victimas-represion-franquista_205218_102.html",
+    "desc": "El cementerio de la localidad acogerá el lunes 2 de noviembre la inauguración de una placa con los nombres de los vecinos asesinados",
+    "img": "https://www.lanuevacronica.com/uploads/s1/13/67/41/www-villamartin-del-sil.jpeg",
+    "pub": 1792856660,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Asociación de Personas Sordas del Bierzo cumple 30 años y reclama más intérpretes",
+    "link": "https://www.lanuevacronica.com/el-bierzo/asociacion-personas-sordas-bierzo-cumple-30-anos-reclama-mas-interpretes_205217_102.html",
+    "desc": "Su presidente, Juan Manuel Quiroga, advierte de que la integración sigue sin ser una realidad y pide a las administraciones y a Educación que atiendan las necesidades del colectivo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/39/3/cumpleanos-asorbire.jpeg",
+    "pub": 1792856319,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León despliega todo el sabor de su despensa en Gijón",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-despliega-todo-sabor-su-despensa-en-gijon_205224_102.html",
+    "desc": "La Diputación de León ha inaugurado este sábado la III Feria de Productos de León en Gijón",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/82/4/un-momento-de-la-iv-feria-de-productos-de-leon-en-asturias.jpeg",
+    "pub": 1792855960,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Camponaraya abre su Feria de la Miel con 25 expositores y el reto de sostener al sector apícola",
+    "link": "https://www.lanuevacronica.com/el-bierzo/camponaraya-abre-su-feria-miel-con-25-expositores-reto-sostener-sector-apicola_205219_102.html",
+    "desc": "La novena edición estrena el 'Pasaporte a la Miel' y cuenta por primera vez con la colaboración de la Diputación, mientras los productores afrontan otra campaña marcada por la escasez de cosecha",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/42/7/apertura-miel.jpeg",
+    "pub": 1792855958,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Un incendio calcina un vehículo eléctrico en el polígono industrial de Trobajo del Camino",
     "link": "https://www.lanuevacronica.com/actualidad/incendio-calcina-vehiculo-electrico-en-poligono-industrial-trobajo-camino_205223_102.html",
     "desc": "Los Bomberos de León han intervenido en la extinción de las llamas",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/62/80/9/imagen-del-turismo-electico-calcinado-por-las-llamas-en-trobajo-del-camino.jpeg",
     "pub": 1792855148,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Prada San Martín se corona como el mejor godello de España con 96 puntos",
-    "link": "https://www.lanuevacronica.com/el-bierzo/prada-san-martin-se-corona-como-mejor-godello-espana-con-96-puntos_205215_102.html",
-    "desc": "La guía de vinos de la Semana Vitivinícola sitúa en lo más alto al blanco ecológico de crianza de Palacio de Canedo, por delante de otros 23 godellos seleccionados",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/35/9/sanmartin-godello-etiqueta.jpeg",
-    "pub": 1792855023,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -40,28 +80,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Camponaraya abre su Feria de la Miel con 25 expositores y el reto de sostener al sector apícola",
-    "link": "https://www.lanuevacronica.com/el-bierzo/camponaraya-abre-su-feria-miel-con-25-expositores-reto-sostener-sector-apicola_205219_102.html",
-    "desc": "La novena edición estrena el 'Pasaporte a la Miel' y cuenta por primera vez con la colaboración de la Diputación, mientras los productores afrontan otra campaña marcada por la escasez de cosecha",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/42/7/apertura-miel.jpeg",
-    "pub": 1792854427,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Tellado llama a \"derogar el sanchismo, de la A de Ábalos a la Z de Zapatero\": \"El PSOE es el partido del amor por el delito\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261024/tellado-llama-derogar-sanchismo-abalos-zapatero-psoe-partido-amor-delito/1003744433708_0.html",
     "desc": "El secretario general del PP ha participado en un acto de precampaña este sábado en Valladolid. Más información: Feijóo presentará a los cabezas de lista del PP para las elecciones generales del…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386200.jpg?p=g:fp:0.5:0.33/w:1706/h:960&h=qKUPD1Nx",
     "pub": 1792853643,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Unicaja Mijas - Mipelletymas BF León | 17:30 | BFL en busca de la segunda victoria",
-    "link": "https://www.heraldodeleon.es/deportes/baloncesto/unicaja-mijas-mipelletymas-bf-leon-17-30/20261024163753114599.html",
-    "desc": "BFL visita al Unicaja Mijas en la cuarta jornada de la Liga Femenina Challenge. Tras la victoria del pasado fin de semana, el equipo dirigido por Rafa González se verá las caras con un histórico del…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/03/2026100322455156969.jpg",
-    "pub": 1792852673,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Vivienda, pensiones, rearme y participación, ejes de las 'Jornadas CGT' en León",
@@ -166,22 +190,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2024/10/28/2024102810311990305.jpg",
     "pub": 1792841072,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Villamartín del Sil rinde homenaje a las 19 víctimas de la represión franquista",
-    "link": "https://www.lanuevacronica.com/el-bierzo/villamartin-sil-rinde-homenaje-19-victimas-represion-franquista_205218_102.html",
-    "desc": "El cementerio de la localidad acogerá el lunes 2 de noviembre la inauguración de una placa con los nombres de los vecinos asesinados",
-    "img": "https://www.lanuevacronica.com/uploads/s1/13/67/41/www-villamartin-del-sil.jpeg",
-    "pub": 1792840705,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Asociación de Personas Sordas del Bierzo cumple 30 años y reclama más intérpretes",
-    "link": "https://www.lanuevacronica.com/el-bierzo/asociacion-personas-sordas-bierzo-cumple-30-anos-reclama-mas-interpretes_205217_102.html",
-    "desc": "Su presidente, Juan Manuel Quiroga, advierte de que la integración sigue sin ser una realidad y pide a las administraciones y a Educación que atiendan las necesidades del colectivo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/39/3/cumpleanos-asorbire.jpeg",
-    "pub": 1792840447,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El Prada San Martín de la DO Bierzo, elegido mejor vino godello de España",
@@ -336,22 +344,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Autismo León, premio a una trayectoria ejemplar",
-    "link": "https://www.lanuevacronica.com/actualidad/autismo-leon-premio-trayectoria-ejemplar_205209_102.html",
-    "desc": "La Nueva Crónica entregó ayer su máxima distinción a esta asociación leonesa en un acto celebrado en el Nuevo Recreo Industrial que congregó a cientos de personas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/96/3/la-entrega-de-la-negrilla-de-oro-2026-acabo-con-una-foto-de-familia-general-en-el-salon-de-actos-del-nuevo-recreo-industrial.jpeg",
-    "pub": 1792833591,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Pino subraya que la apuesta por la pesca se reflejará en el presupuesto",
-    "link": "https://www.lanuevacronica.com/actualidad/pino-subraya-apuesta-por-pesca-se-reflejara-en-presupuesto_205208_102.html",
-    "desc": "El consejero de Agricultura de la Junta asiste a la inauguración de la LVIII Semana Internacional y Tercera Edición de Destino Pesca",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/32/3/las-autoridades-presentes-en-la-inauguracion-de-la-semana-internacional-de-la-trucha.jpeg",
-    "pub": 1792832957,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Yanira Chacón cumple su sueño en Fabero: emprender y sembrar bienestar en su tierra",
     "link": "https://www.elbierzodigital.com/yanira-chacon-cumple-su-sueno-en-fabero-emprender-y-sembrar-bienestar-en-su-tierra/",
     "desc": "Irradia juventud, serenidad y madurez. Yanira Chacón es una joven de 23 años, nacida en Fabero y con las ideas muy claras. Asegura haber cumplido su sueño y, además, lo ha hecho en el lugar en el…",
@@ -389,6 +381,14 @@
     "desc": "La cita, dentro de los actos del 40 aniversario de la entidad, será el miércoles 28 de octubre con entrada libre y gratuita",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102410172643431.jpg",
     "pub": 1792829885,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Llega 'Alauto 3.0'",
+    "link": "https://www.heraldodeleon.es/sociedad/llega-alauto-30/20261024101655114547.html",
+    "desc": "Alfonso García cambia de escenario, ahora será '3.0' y deja un recuerdo imborrable en la Avenida Europa, pero mantiene intacta la esencia de una casa que ha hecho de la confianza, la garantía…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/03/28/2025032810190697017.jpg",
+    "pub": 1792829815,
     "fuente": "Heraldo de León"
   },
   {
