@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Ligero ascenso de las temperaturas para despedir la semana este domingo en León",
+    "link": "https://www.heraldodeleon.es/leon/ligero-ascenso-temperaturas-despedir-semana-domingo-leon/20261025092135114702.html",
+    "desc": "Las temperaturas irán al alza durante el día, con máximas que podrían alcanzar los 19 grados y mínimas alrededor de los 4 grados",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/02/24/2026022409394376730.jpg",
+    "pub": 1792916495,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Santos hace historia: doble oro mundial en tenis de mesa para personas con Párkinson",
+    "link": "https://www.heraldodeleon.es/deportes/mas-deporte/nuria-santos-hace-historia-shanghai-doble-oro-mundial-tenis-mesa-personas-parkinson/20261025091145114701.html",
+    "desc": "La palista leonesa, actual campeona de España, brilló esta noche en Shanghai coronándose como la mejor del mundo tanto en individual como en dobles&nbsp;",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102508532094373.jpg",
+    "pub": 1792915905,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "La Asturiana de los Valles reúne a 27 ganaderías en Villablino",
     "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/asturiana-valles-reune-27-ganaderias-villablino/20261025085640114700.html",
     "desc": "El recinto ferial de Las Rozas acogió el XXIX Certamen Provincial, con 160 animales procedentes de Laciana, San Emiliano, Cabrillanes, Luna y El Bierzo",
@@ -264,22 +280,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Arranca el Certamen de Teatro Aficionado Josefina Blanco de MonteLeón con cuatro obras",
-    "link": "https://www.heraldodeleon.es/cultura/arranca-i-certamen-teatro-aficionado-josefina-blanco-monteleon-cuatro-obras-san-francisco/20261024144757114601.html",
-    "desc": "Desde este domingo 25 hasta el 15 de noviembre se podrán ver en la ciudad 'El lazarillo de Tormes', 'Madre no hay más que muchas', 'Las horas serenas' y 'Páncreas'",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102414472150329.jpg",
-    "pub": 1792846077,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Peppa Pig viaja a España",
-    "link": "https://www.heraldodeleon.es/cultura/peppa-pig-viaja-espana/20261024143355114598.html",
-    "desc": "La nueva historia de Peppa Pig transcurre en España. De ella pueden disfrutar este otoño los más pequeños.&nbsp; &nbsp;",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102414311049086.jpg",
-    "pub": 1792845235,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Cortes de tráfico este domingo entre las 7 y las 15 por la Carrera de la Mujer",
     "link": "https://www.heraldodeleon.es/leon/cortes-trafico-domingo-entre-7-00-15-00-carrera-mujer/20261024132432114588.html",
     "desc": "Según las previsiones oficiales, a&nbsp;partir de las 7:30 horas se cortará el paseo del Parque y&nbsp;a partir de las 10:30 horas se cortará el resto del itinerario",
@@ -320,7 +320,7 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "Calentar una vivienda en León puede rozar los 1.300 euros este invierno al dispararse la subida de precios en el gas y el gasóleo",
+    "titulo": "Calentar una vivienda en León puede rozar los 1.300 euros al dispararse el gas y el gasóleo",
     "link": "https://www.heraldodeleon.es/leon/calentar-vivienda-leon-puede-rozar-1300-euros-invierno/20261024094020114391.html",
     "desc": "El coste de la calefacción vuelve a poner a prueba la economía doméstica ante el encarecimiento del gas. Los datos de Roams y las advertencias de distintas organizaciones de consumidores y…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102409380380081.jpg",
@@ -438,14 +438,6 @@
     "img": "https://static.eldiario.es/clip/76553858-20fc-493a-9fc7-f4ef314a4c57_16-9-discover-aspect-ratio_default_0_x1072y320.jpg",
     "pub": 1792754180,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "León pide eliminar dos domingos de apertura comercial autorizada",
-    "link": "https://www.heraldodeleon.es/leon/leon-pide-eliminar-dos-domingos-apertura-comercial-autorizada/20261023131214114426.html",
-    "desc": "El Ayuntamiento trasladará a la Junta de Castilla y León la propuesta unánime del Consejo Municipal de Comercio para suprimir las aperturas del tercer domingo de agosto y del domingo más próximo a…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/01/31/2025013114205370291.jpg",
-    "pub": 1792753934,
-    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "El PSOE cederá el número dos de su candidatura al Senado en Zamora al Frente Amplio",
