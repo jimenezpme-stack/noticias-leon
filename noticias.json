@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "A vivir",
+    "link": "https://www.lanuevacronica.com/opinion/vivir_205239_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792899000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un 'otaku' frente a la barbarie",
+    "link": "https://www.lanuevacronica.com/opinion/otaku-frente-barbarie_205241_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792898400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Desesperado",
+    "link": "https://www.lanuevacronica.com/opinion/desesperado_205240_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792897800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Coyanza invertirá 356.000 euros en renovar aceras y calzadas de una treintena de calles",
     "link": "https://www.lanuevacronica.com/actualidad/coyanza-invertira-356000-euros-en-renovar-aceras-calzadas-treintena-calles_205125_102.html",
     "desc": "El Ayuntamiento de Valencia de Don Juan acometerá las obras con cargo al Plan Pios 2025, con actuaciones en diferentes puntos del municipio y un plazo de ejecución de seis meses",
@@ -120,14 +144,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "El mastín, protagonista en el Hípico de León",
-    "link": "https://www.lanuevacronica.com/actualidad/mastin-protagonista-en-hipico-leon_205232_102.html",
-    "desc": "El Hípico de León acogió este sábado una nueva edición de la Exposición Monográfica del Mastín Español",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/63/37/7/la-diputada-de-desarrollo-rural-irene-gonzalez-y-el-concejal-de-desarrollo-urbano-luis-miguel-garcia-copete-fueron-los-encargados-de-entregar-los-premios-a-los-ejemplares-vencedores.jpeg",
-    "pub": 1792863542,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La despensa leonesa seduce a Gijón",
     "link": "https://www.heraldodeleon.es/sabores-de-leon/despensa-leonesa-seduce-gijon/20261024192908114646.html",
     "desc": "La III Feria de Productos de León consolida Gijón como escaparate comercial y cita estratégica para potenciar ventas, abrir canales de comercialización y posicionar la oferta agroalimentaria fuera…",
@@ -197,22 +213,6 @@
     "desc": "El XXIX Certamen Provincial reunió a 27 ganaderías en el recinto ferial Las Rozas, poniendo en valor el trabajo de selección y mejora genética",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/63/04/2/villablino-vuelve-a-ser-escaparate-de-la-excelencia-ganadera-1.jpeg",
     "pub": 1792856700,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León despliega todo el sabor de su despensa en Gijón",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-despliega-todo-sabor-su-despensa-en-gijon_205224_102.html",
-    "desc": "La Diputación de León ha inaugurado este sábado la III Feria de Productos de León en Gijón",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/82/4/un-momento-de-la-iv-feria-de-productos-de-leon-en-asturias.jpeg",
-    "pub": 1792855960,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un incendio calcina un vehículo eléctrico en el polígono industrial de Trobajo del Camino",
-    "link": "https://www.lanuevacronica.com/actualidad/incendio-calcina-vehiculo-electrico-en-poligono-industrial-trobajo-camino_205223_102.html",
-    "desc": "Los Bomberos de León han intervenido en la extinción de las llamas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/80/9/imagen-del-turismo-electico-calcinado-por-las-llamas-en-trobajo-del-camino.jpeg",
-    "pub": 1792855148,
     "fuente": "La Nueva Crónica"
   },
   {
