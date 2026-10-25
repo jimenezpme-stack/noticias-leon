@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Sobremesa en Devesa",
+    "link": "https://www.lanuevacronica.com/opinion/sobremesa-en-devesa_205235_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792918691,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Ligero ascenso de las temperaturas para despedir la semana este domingo en León",
     "link": "https://www.heraldodeleon.es/leon/ligero-ascenso-temperaturas-despedir-semana-domingo-leon/20261025092135114702.html",
     "desc": "Las temperaturas irán al alza durante el día, con máximas que podrían alcanzar los 19 grados y mínimas alrededor de los 4 grados",
@@ -46,14 +54,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102421352514142.jpg",
     "pub": 1792914001,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Sobremesa en Devesa",
-    "link": "https://www.lanuevacronica.com/opinion/sobremesa-en-devesa_205235_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792900800,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Desideologización",
