@@ -6,7 +6,7 @@
       "ok": true,
       "items": 15,
       "nuevos": 15,
-      "ts": 1792901181,
+      "ts": 1792902873,
       "con_foto": 7
     },
     {
@@ -22,7 +22,7 @@
       "ok": true,
       "items": 20,
       "nuevos": 20,
-      "ts": 1792901181,
+      "ts": 1792902873,
       "con_foto": 20
     },
     {
@@ -31,14 +31,14 @@
       "ok": true,
       "items": 20,
       "nuevos": 17,
-      "ts": 1792901181,
+      "ts": 1792902873,
       "con_foto": 20
     },
     {
       "fuente": "El Español · CyL",
       "url": "https://www.elespanol.com/rss/castilla-y-leon/",
       "ok": false,
-      "error": "omitida, se reintenta en 11h",
+      "error": "omitida, se reintenta en 10h",
       "ts": 1792895440
     },
     {
@@ -47,7 +47,7 @@
       "ok": true,
       "items": 29,
       "nuevos": 27,
-      "ts": 1792901181,
+      "ts": 1792902873,
       "con_foto": 27
     },
     {
@@ -56,7 +56,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 2,
-      "ts": 1792901181,
+      "ts": 1792902873,
       "con_foto": 2
     },
     {
@@ -65,7 +65,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 16,
-      "ts": 1792901181,
+      "ts": 1792902873,
       "con_foto": 18
     },
     {
