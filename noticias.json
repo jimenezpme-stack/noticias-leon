@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "La Carrera de la Mujer vuelve a vestir de rosa las calles de León",
+    "link": "https://www.lanuevacronica.com/deportes/carrera-mujer-vuelve-vestir-rosa-calles-leon_205255_102.html",
+    "desc": "Miles de personas se sumaron a la cita de visibilidad y solidaridad destinando el 70 por ciento a la investigación oncológica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/65/52/6/carrera-de-la-mujer-19.jpeg",
+    "pub": 1792928202,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "\"No lo podía creer, era una llamada para ir a la selección\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/no-podia-creer-era-llamada-ir-seleccion_205247_102.html",
+    "desc": "Israel Tejerina Rueda, leonés que en julio hizo 33 años, juega al fútbol sala en el equipo de Proyecto Convivo y hace unos días recibió una llamada especial para acudir a la selección española de…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/65/03/8/israel-tejerina-en-un-partido-de-su-liga-que-jugaron-en-valladolid.jpeg",
+    "pub": 1792927772,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Beatriz Abad presenta su novela 'Ciudad las palabras' en La Comunal de Val de San Lorenzo",
+    "link": "https://www.heraldodeleon.es/cultura/beatriz-abad-presenta-novela-ciudad-palabras-comunal-val-san-lorenzo/20261025122808114727.html",
+    "desc": "La enfermera y escritora leonesa charlará el próximo sábado 31 de su más reciente ficción histórica ambientada en los convulsos años 30 del siglo pasado&nbsp;",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102512274851407.jpg",
+    "pub": 1792927688,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Aitor Márquez, ganador del primer premio del concurso de dibujo infantil sobre la Reina Urraca I",
+    "link": "https://www.lanuevacronica.com/actualidad/aitor-marquez-ganador-primer-premio-concurso-dibujo-infantil-sobre-reina-urraca_205254_102.html",
+    "desc": "El certamen, convocado por la Secretaría de Mujer, Derechos e Igualdad de UPL, con motivo del 900 aniversario del fallecimiento de la reina leonesa, ha contado con una amplia participación de…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/65/16/0/aitor-marquez-de-8-anos-gana-el-primer-premio-del-concurso-de-dibujo-infantil-sobre-la-reina-urraca-i-de-leon.jpeg",
+    "pub": 1792927148,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Una marea rosa por las mujeres",
     "link": "https://www.heraldodeleon.es/leon/marea-rosa-mujeres/20261025120857114725.html",
     "desc": "6.000 personas se dan cita en la XII Carrera de la Mujer de Almom y tiñen de rosa el domingo en las calles de León contra el cáncer de mama",
@@ -69,14 +101,6 @@
     "desc": "El suceso se ha registrado en torno a las 8.23 horas",
     "img": "https://www.lanuevacronica.com/uploads/s1/29/01/04/0/quintadasahagun.jpeg",
     "pub": 1792924382,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "\"No lo podía creer, era una llamada para ir a la selección»\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/no-podia-creer-era-llamada-ir-seleccion_205247_102.html",
-    "desc": "Israel Tejerina Rueda, leonés que en julio hizo 33 años, juega al fútbol sala en el equipo de Proyecto Convivo y hace unos días recibió una llamada especial para acudir a la selección española de…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/65/03/8/israel-tejerina-en-un-partido-de-su-liga-que-jugaron-en-valladolid.jpeg",
-    "pub": 1792924235,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -200,22 +224,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "\"Las nuevas tecnologías me parecen una ventana perfecta para innovar en educación\"",
-    "link": "https://www.lanuevacronica.com/el-bierzo/david-valle-cambacreator_204978_102.html",
-    "desc": "Entrevista a David del Valle Ramón, maestro de Infantil y Primaria en el CEIP Virgen de la Quinta Angustia de Cacabelos y ponente en el Canva World Tour",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/72/8/david-canva-1.jpeg",
-    "pub": 1792899900,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Tragar sables en campaña",
-    "link": "https://www.lanuevacronica.com/opinion/tragar-sables-en-campana_205238_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792899600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Bicho: \"Nos vamos muy jodidos\"",
     "link": "https://www.heraldodeleon.es/deportes/cultural/bicho-cinco-minutos-nos-han-dado-vuelta-nos-vamos-muy-jodidos/20261024235632114681.html",
     "desc": "Bicho reconoce la frustración de la Cultural tras la remontada del Pontevedra | El capitán culturalista destaca la buena primera parte del equipo, lamenta el cambio de escenario tras el descanso y…",
@@ -269,14 +277,6 @@
     "desc": "La III Feria de Productos de León consolida Gijón como escaparate comercial y cita estratégica para potenciar ventas, abrir canales de comercialización y posicionar la oferta agroalimentaria fuera…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102419211814986.jpg",
     "pub": 1792862948,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El rey futbolín (en Trobajo)",
-    "link": "https://www.heraldodeleon.es/sociedad/rey-futbolin-trobajo/20261024191043114641.html",
-    "desc": "El pabellón Camino de Santiago reúne a jugadores de cinco comunidades autónomas en una jornada de alto nivel deportivo, con una notable afluencia de público y aficionados que han seguido de cerca…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102418592212634.jpg",
-    "pub": 1792861843,
     "fuente": "Heraldo de León"
   },
   {
