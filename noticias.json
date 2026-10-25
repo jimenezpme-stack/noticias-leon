@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Herida una mujer de 30 años en una colisión entre un coche y un patinete en León",
+    "link": "https://www.lanuevacronica.com/actualidad/herida-mujer-30-anos-en-colision-entre-coche-patinete-en-leon_205268_102.html",
+    "desc": "La conductora del patinete ha sufrido contusiones en un accidente registrado en la calle Antonio Valbuena de la capital leonesa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/65/28/6/patinete-en-el-suelo-tras-caer-en-el-bache-de-la-avenida-alvaro-lopez-nunez.jpeg",
+    "pub": 1792946008,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La cataplasma: 'al pobre que no le falte de nada'",
+    "link": "https://www.lanuevacronica.com/extras/la-cataplasma/cataplasma-pobre-no-falte-nada_205267_102.html",
+    "desc": "Fulgencio Fernández se asoma a una ventana en la que tendrán cabida los personajes que nunca llegaron a pensar que sus historias le podían llegar a interesar a alguien",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/66/17/8/frame-25cataplasma.jpeg",
+    "pub": 1792945767,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Alantre representará a la autonomía leonesa en las elecciones",
+    "link": "https://www.lanuevacronica.com/actualidad/alantre-representara-autonomia-leonesa-en-elecciones_205266_102.html",
+    "desc": "La lista está encabezada por Xosé Antón Fernández, con el apoyo de Conceyu País LlionésAlantre ha presentado más de 600 avales, cifra que supera los 423 necesarios para poder representar al…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/66/15/8/foto-presentacion-de-alantre-de-cara-a-las-elecciones.jpeg",
+    "pub": 1792944965,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los pendones leoneses toman Gijón para despedir una feria de récord",
+    "link": "https://www.lanuevacronica.com/actualidad/pendones-leoneses-toman-gijon-despedir-feria-record_205265_102.html",
+    "desc": "Más de una veintena de varas y paños tradicionales han desfilado desde el Campo Valdés recorriendo la fachada marítima gijonesa, trasladando el colorido y la cultura leonesa al corazón de la ciudad…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/66/03/8/los-pendones-en-la-feria-de-productos-de-leon-en-imagenes-4.jpeg",
+    "pub": 1792944767,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La feria Vallaqueso cierra sus puertas tras tres días en los que han recorrido sus expositores más de 8.500 visitantes",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261025/feria-vallaqueso-cierra-puertas-dias-recorrido-expositores-visitantes/1003744434154_0.html",
     "desc": "Los asistentes han podido elegir entre una gran selección de quesos en los 28 expositores con los que ha contado el evento. Más información: Vallaqueso abre sus puertas para deleitar a los amantes…",
@@ -144,14 +176,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "\"No lo podía creer, era una llamada para ir a la selección\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/no-podia-creer-era-llamada-ir-seleccion_205247_102.html",
-    "desc": "Israel Tejerina Rueda, leonés que en julio hizo 33 años, juega al fútbol sala en el equipo de Proyecto Convivo y hace unos días recibió una llamada especial para acudir a la selección española de…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/65/03/8/israel-tejerina-en-un-partido-de-su-liga-que-jugaron-en-valladolid.jpeg",
-    "pub": 1792927772,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Beatriz Abad presenta su novela 'Cuidad las palabras' en La Comunal de Val de San Lorenzo",
     "link": "https://www.heraldodeleon.es/cultura/beatriz-abad-presenta-novela-cuidad-palabras-comunal-val-san-lorenzo/20261025122808114727.html",
     "desc": "La enfermera y escritora leonesa charlará el próximo sábado 31 de su más reciente ficción histórica ambientada en los convulsos años 30 del siglo pasado&nbsp;",
@@ -200,14 +224,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Heridos un hombre y una menor de unos diez años tras colisionar una moto con un jabalí en Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/heridos-hombre-menor-diez-anos-colisionar-moto-con-jabali-en-ponferrada_205250_102.html",
-    "desc": "El suceso tuvo lugar en torno a las 23.18 horas del sábado, cuando el 112 recibió el aviso del accidente",
-    "img": "https://www.lanuevacronica.com/uploads/s1/15/24/74/jabali-archivo-ical-14022021-1.jpeg",
-    "pub": 1792925295,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La marea verde de la mayor marcha contra el cáncer de España supera los 55.000 andarines en su 15 aniversario",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261025/marea-verde-mayor-marcha-cancer-espana-supera-andarines-aniversario/1003744433994_0.html",
     "desc": "El alcalde de Valladolid se muestra \"muy orgulloso\" de la respuesta de la sociedad: \"Al cáncer lo vamos a vencer entre todos\". Más información : La marcha contra el cáncer más numerosa de España…",
@@ -216,28 +232,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "«Desconectaron a mi hija en coma sin decírmelo»",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/desconectaron-mi-hija-en-coma-sin-decirmelo_205249_102.html",
-    "desc": "Nicole Kalu, española de origen africano, con familia en León donde pasaba largas temporadas, llevaba más de un año en coma en un hospital suizo. Su madre denuncia que ha fallecido al ser…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/65/11/0/la-nina-fallecida-en-suiza-nicole-con-su-madre-en-el-centro-y-el-ex-luchador-rowand-mopuntala-que-esta-tratando-de-ayudar-a-la-madre-en-un-homenaje-en-bonar.jpeg",
-    "pub": 1792925007,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Uría: \"Quiero hacer buenas películas, que hablen de la realidad en mi zona\"",
     "link": "https://www.heraldodeleon.es/cultura/sebastian-uria-quiero-hacer-buenas-peliculas-que-hablen-realidad-zona/20261025113619114710.html",
     "desc": "El cineasta berciano estrena este domingo&nbsp;en la Seminci su primer largometraje, 'Adiós, Ríos', una mirada a la despoblación rodada entre el Bierzo y Lugo | \"¿Qué va a pasar cuando los últimos…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102511315581542.jpg",
     "pub": 1792924579,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Herido tras chocar su turismo contra un muro en Sahagún",
-    "link": "https://www.lanuevacronica.com/actualidad/herido-chocar-su-turismo-contra-muro-en-sahagun_205248_102.html",
-    "desc": "El suceso se ha registrado en torno a las 8.23 horas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/29/01/04/0/quintadasahagun.jpeg",
-    "pub": 1792924382,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La producción de remolacha crece un 2,4% en León tras el cierre de Azucarera en La Bañeza",
