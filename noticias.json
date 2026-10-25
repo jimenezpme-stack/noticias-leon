@@ -1,5 +1,69 @@
 [
   {
+    "titulo": "Sobremesa en Devesa",
+    "link": "https://www.lanuevacronica.com/opinion/sobremesa-en-devesa_205235_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792900800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Desideologización",
+    "link": "https://www.lanuevacronica.com/opinion/desideologizacion_205234_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792900500,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "«Que me inseminen»",
+    "link": "https://www.lanuevacronica.com/opinion/que-me-inseminen_205242_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792900200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Bergidum lleva a escena el duelo y el perdón familiar con 'Tres noches en Ítaca'",
+    "link": "https://www.lanuevacronica.com/el-bierzo/bergidum-lleva-escena-duelo-perdon-familiar-con-tres-noches-en-itaca_205150_102.html",
+    "desc": "La obra de Alberto Conejero, dirigida por María Goiricelaya y protagonizada por Marta Larralde, Myriam Gallego y Amaia Lizarralde, se representará el 30 y 31 de octubre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/01/6/tres-noches-en-itaca.jpeg",
+    "pub": 1792900200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Siempre nos quedará Pajares",
+    "link": "https://www.lanuevacronica.com/opinion/siempre-nos-quedara-pajares_205237_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792899900,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "\"Las nuevas tecnologías me parecen una ventana perfecta para innovar en educación\"",
+    "link": "https://www.lanuevacronica.com/el-bierzo/david-valle-cambacreator_204978_102.html",
+    "desc": "Entrevista a David del Valle Ramón, maestro de Infantil y Primaria en el CEIP Virgen de la Quinta Angustia de Cacabelos y ponente en el Canva World Tour",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/72/8/david-canva-1.jpeg",
+    "pub": 1792899900,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Tragar sables en campaña",
+    "link": "https://www.lanuevacronica.com/opinion/tragar-sables-en-campana_205238_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1792899600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Lo que late bajo el hielo",
+    "link": "https://www.lanuevacronica.com/el-bierzo/late-bajo-hielo_205055_102.html",
+    "desc": "El escritor leonés Javier Pérez despliega su gran capacidad para crear una trama que nos mantendrá en vilo de principio a fin, llevándonos nada más y nada menos que hasta tierras polares",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/31/2/portada.jpeg",
+    "pub": 1792899600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "A vivir",
     "link": "https://www.lanuevacronica.com/opinion/vivir_205239_102.html",
     "desc": "",
@@ -56,30 +120,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Las cucerías de Cantón",
-    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_205178_102.html",
-    "desc": "El humorista gráfico Rubén Cantón responde a la pregunta de este sábado sobre una curiosidad de la provincia de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/83/3/25-10-2026-las-cucerias-de-canton.jpeg",
-    "pub": 1792897200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ribera contra Montaña: Pasó lo que se suponía que iba a pasar y se cantó otra vez el «¡Viva la Montaña!» (y van 12)",
-    "link": "https://www.lanuevacronica.com/deportes/ribera-con-montana-paso-se-suponia-iba-pasar-se-canto-otra-vez-viva-montana-y-van-12_205243_102.html",
-    "desc": "Contundente victoria de la Montaña frente a la Ribera pues cuando Samuel fue 'el gallo' del reto aún les quedaban otros seis luchadores a los montañeses",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/53/0/manteo-lucha.jpeg",
-    "pub": 1792895381,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cultural 1-2 Pontevedra: 'La Cultural se hunde entre la polémica'",
-    "link": "https://www.lanuevacronica.com/deportes/cultural-1-2-pontevedra-cultural-se-hunde-entre-polemica_205244_102.html",
-    "desc": "Tres minutos fatídicos condenan a los leoneses con la remontada del Pontevedra tras el gol de Jorge Delgado y una de las mejores primeras partes y otro injustamente anulado a Rober Pier en el 96'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/54/5/la-cultural-mostro-su-mejor-y-peor-cara-ante-el-pontevedra-para-perder-su-primer-partido-en-el-reino-saul-aren.gif",
-    "pub": 1792879033,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Bicho: \"Nos vamos muy jodidos\"",
     "link": "https://www.heraldodeleon.es/deportes/cultural/bicho-cinco-minutos-nos-han-dado-vuelta-nos-vamos-muy-jodidos/20261024235632114681.html",
     "desc": "Bicho reconoce la frustración de la Cultural tras la remontada del Pontevedra | El capitán culturalista destaca la buena primera parte del equipo, lamenta el cambio de escenario tras el descanso y…",
@@ -104,14 +144,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Ponferradina 0-0 Barakaldo: 'Con Slavy también falta gol'",
-    "link": "https://www.lanuevacronica.com/deportes/ponferradina-0-0-barakaldo-con-slavy-tambien-falta-gol_205236_102.html",
-    "desc": "El equipo de Mehdi Nafti se vuelve a quedar corto de pólvora contra un Barakaldo que dispuso de las ocasiones más claras para llevarse un partido áspero",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/63/66/7/san-emeterio-barakaldo-1.jpeg",
-    "pub": 1792871676,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "🔴 En directo | Cultural 1-2 Pontevedra | Jandro Castro no sirve",
     "link": "https://www.heraldodeleon.es/deportes/cultural/directo-cultural-pontevedra-equipo-jandro-castro-busca-tres-puntos-clave/20261024201653114650.html",
     "desc": "Duelo de altura en el Reino de León y de nuevo con una Cultural obligada a sumar 'de tres'",
@@ -126,14 +158,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/03/2026100322455814587.jpg",
     "pub": 1792865348,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Orden de San Lázaro inviste a sus nuevos caballeros y damas en la Basílica de San Isidoro de León",
-    "link": "https://www.lanuevacronica.com/actualidad/orden-san-lazaro-inviste-sus-nuevos-caballeros-damas-en-basilica-san-isidoro-leon_205230_102.html",
-    "desc": "La basílica de san Isidoro acoge la investidura de los miembros que se incorporan a esta institución centenaria",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/63/28/7/investidura-de-nuevos-caballeros-y-damas-del-gran-priorato-de-espana-de-la-orden-militar-y-hospitalaria-de-san-lazaro-7.jpeg",
-    "pub": 1792864953,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Ponferradina firma un empate con el Barakaldo",
@@ -184,36 +208,12 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La Bañeza muestra su compromiso con la lucha contra el cáncer de mama",
-    "link": "https://www.lanuevacronica.com/actualidad/baneza-muestra-su-compromiso-con-lucha-contra-cancer-mama_205228_102.html",
-    "desc": "El alcalde de La Bañeza, Javier Carrera de Blas, acompañado por la concejal de Sanidad, Amada Moratinos, ha visitado la mesa informativa para trasladar personalmente el respaldo del Consistorio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/63/14/8/la-baneza-ha-mostrado-su-apoyo-a-la-junta-local-de-la-asociacion-espanola-contra-el-cancer-aecc.jpeg",
-    "pub": 1792858459,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Una manta ignífuga para sofocar el incendio de un coche eléctrico en Trobajo",
     "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/bomberos-leon-utiliza-manta-ignifuga-sofocar-incendio-coche-electrico-trobajo/20261024180809114608.html",
     "desc": "El vehículo comenzó a arder mientras estaba conectado a un punto de recarga en el polígono industrial",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102418045730716.jpg",
     "pub": 1792858089,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Protección Civil de La Bañeza recibe una mención especial por su intervención durante los incendios",
-    "link": "https://www.lanuevacronica.com/actualidad/proteccion-civil-baneza-recibe-mencion-especial-por-su-intervencion-durante-incendios_205227_102.html",
-    "desc": "El reconocimiento pone en valor el compromiso, la dedicación y la labor de los voluntarios de la agrupación bañezana",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/63/08/6/al-acto-asistieron-el-alcalde-de-la-baneza-javier-carrera-de-blas-y-la-teniente-de-alcalde-y-concejal-de-seguridad-ciudadana-elena-bailez-quienes-acompanaron-a-proteccion-civil-de-la-baneza.jpeg",
-    "pub": 1792857543,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Asturiana de los Valles 'presume' de raza en Villablino",
-    "link": "https://www.lanuevacronica.com/actualidad/asturiana-valles-presume-raza-en-villablino_205225_102.html",
-    "desc": "El XXIX Certamen Provincial reunió a 27 ganaderías en el recinto ferial Las Rozas, poniendo en valor el trabajo de selección y mejora genética",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/63/04/2/villablino-vuelve-a-ser-escaparate-de-la-excelencia-ganadera-1.jpeg",
-    "pub": 1792856700,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Vivienda, pensiones, rearme y participación, ejes de las 'Jornadas CGT' en León",
