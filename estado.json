@@ -6,33 +6,29 @@
       "ok": true,
       "items": 15,
       "nuevos": 15,
-      "ts": 1792952917,
+      "ts": 1792954881,
       "con_foto": 15
     },
     {
       "fuente": "El Bierzo Digital",
       "url": "https://www.elbierzodigital.com/feed/",
-      "ok": true,
-      "items": 30,
-      "nuevos": 30,
-      "ts": 1792952917,
-      "con_foto": 29
+      "ok": false,
+      "error": "https://www.elbierzodigital.com/feed/ -> <urlopen error timed out>",
+      "ts": 1792954881
     },
     {
       "fuente": "Heraldo de León",
       "url": "https://www.heraldodeleon.es/rss/",
       "ok": false,
-      "error": "omitida, se reintenta en 12h",
+      "error": "omitida, se reintenta en 11h",
       "ts": 1792949920
     },
     {
       "fuente": "Heraldo de León · León",
       "url": "https://www.heraldodeleon.es/rss/leon/",
-      "ok": true,
-      "items": 20,
-      "nuevos": 20,
-      "ts": 1792952917,
-      "con_foto": 20
+      "ok": false,
+      "error": "https://www.heraldodeleon.es/rss/leon/ -> The read operation timed out",
+      "ts": 1792954881
     },
     {
       "fuente": "El Español · CyL",
@@ -40,7 +36,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1792952917,
+      "ts": 1792954881,
       "con_foto": 30
     },
     {
@@ -49,7 +45,7 @@
       "ok": true,
       "items": 29,
       "nuevos": 27,
-      "ts": 1792952917,
+      "ts": 1792954881,
       "con_foto": 27
     },
     {
@@ -58,7 +54,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 2,
-      "ts": 1792952917,
+      "ts": 1792954881,
       "con_foto": 2
     },
     {
@@ -67,7 +63,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 16,
-      "ts": 1792952917,
+      "ts": 1792954881,
       "con_foto": 18
     },
     {
@@ -120,14 +116,12 @@
       "ts": 1792942022
     }
   ],
-  "publicadas": 100,
+  "publicadas": 90,
   "reparto": {
     "La Nueva Crónica": 15,
-    "Heraldo de León · León": 19,
-    "El Español · CyL": 23,
-    "El Bierzo Digital": 25,
-    "20minutos CyL": 8,
-    "eldiario.es · CyL": 8,
+    "El Español · CyL": 30,
+    "20minutos CyL": 16,
+    "eldiario.es · CyL": 27,
     "20minutos León": 2
   },
   "minimo_por_fuente": 8
