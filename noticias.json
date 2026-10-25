@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "La leonesa Nuria Santos se corona como doble campeona del mundo de tenis de mesa con párkinson",
+    "link": "https://www.lanuevacronica.com/deportes/leonesa-nuria-santos-se-corona-como-doble-campeona-mundo-tenis-mesa-con-parkinson_205245_102.html",
+    "desc": "El torneo se ha celebrado del 20 al 25 de octubre de 2026 en China, reuniendo a los mejores palistas internacionales.",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/88/3/la-deportista-leonesa-actual-campeona-de-espana-conquista-el-oro-mundial-tanto-en-la-categoria-individual-como-en-la-de-dobles-femeninos.jpeg",
+    "pub": 1792922363,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Corredor Oeste denuncia la destrucción de 35.000 traviesas reusables en la Ruta de la Plata",
+    "link": "https://www.heraldodeleon.es/comarcas/corredor-oeste-denuncia-destruccion-35000-traviesas-reusables-ramal-astorga-baneza/20261025105222114704.html",
+    "desc": "La plataforma carga contra las intenciones del Ministerio de Transportes&nbsp;y asegura que se trata de \"todo un derroche y un bofetón para León\"",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102510555166249.jpg",
+    "pub": 1792921942,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "Dos heridos, entre ellos una niña de 10 años, tras chocar su moto con un jabalí en la N-6",
     "link": "https://www.heraldodeleon.es/el-bierzo/dos-heridos-entre-ellos-nina-10-anos-chocar-moto-jabali-n-6/20261025103235114703.html",
     "desc": "Ambos han sido trasladados en ambulancia de soporte vital básico al Hospital del Bierzo tras una primera atención en el lugar del accidente",
@@ -168,14 +184,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "El Parque de La Candamia: un refugio entre leyendas",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/parque-candamia-refugio-entre-leyendas_205222_102.html",
-    "desc": "La llanura de este espacio fue remodelada en los 90, lo que empezó a conceder a la zona el aspecto del que hoy presume gracias a la inversión del Ayuntamiento de León y su historia, en realidad, se…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/79/3/la-candamia-debe-su-nombre-a-un-santuario-romano-en-honor-a-jupite-candamo-saul-aren.jpeg",
-    "pub": 1792897200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Bicho: \"Nos vamos muy jodidos\"",
     "link": "https://www.heraldodeleon.es/deportes/cultural/bicho-cinco-minutos-nos-han-dado-vuelta-nos-vamos-muy-jodidos/20261024235632114681.html",
     "desc": "Bicho reconoce la frustración de la Cultural tras la remontada del Pontevedra | El capitán culturalista destaca la buena primera parte del equipo, lamenta el cambio de escenario tras el descanso y…",
@@ -277,7 +285,7 @@
     "desc": "El sindicato organiza cuatro charlas los días 3, 4, 9 y 10 de noviembre en Espacio Vías de la capital leonesa",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102415192033095.webp",
     "pub": 1792847980,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Cortes de tráfico este domingo entre las 7 y las 15 por la Carrera de la Mujer",
