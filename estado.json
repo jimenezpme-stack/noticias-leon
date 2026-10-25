@@ -6,7 +6,7 @@
       "ok": true,
       "items": 15,
       "nuevos": 15,
-      "ts": 1792949920,
+      "ts": 1792951281,
       "con_foto": 15
     },
     {
@@ -15,14 +15,14 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1792949920,
+      "ts": 1792951281,
       "con_foto": 29
     },
     {
       "fuente": "Heraldo de León",
       "url": "https://www.heraldodeleon.es/rss/",
       "ok": false,
-      "error": "https://www.heraldodeleon.es/rss/ -> The read operation timed out",
+      "error": "omitida, se reintenta en 12h",
       "ts": 1792949920
     },
     {
@@ -31,7 +31,7 @@
       "ok": true,
       "items": 20,
       "nuevos": 20,
-      "ts": 1792949920,
+      "ts": 1792951281,
       "con_foto": 20
     },
     {
@@ -40,7 +40,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1792949920,
+      "ts": 1792951281,
       "con_foto": 30
     },
     {
@@ -49,7 +49,7 @@
       "ok": true,
       "items": 29,
       "nuevos": 27,
-      "ts": 1792949920,
+      "ts": 1792951281,
       "con_foto": 27
     },
     {
@@ -58,7 +58,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 2,
-      "ts": 1792949920,
+      "ts": 1792951281,
       "con_foto": 2
     },
     {
@@ -67,7 +67,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 16,
-      "ts": 1792949920,
+      "ts": 1792951281,
       "con_foto": 18
     },
     {
