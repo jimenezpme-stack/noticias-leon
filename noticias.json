@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "La tapa del ajo para hacer frente al frío",
+    "link": "https://www.lanuevacronica.com/actualidad/tapa-ajo-hacer-frente-frio_205264_102.html",
+    "desc": "La Plaza Mayor de Santa María del Páramo acogió este domingo la degustación de más de 1.000 raciones de una de sus recetas más típicas, la tapa del ajo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/65/85/9/xx-jornadas-de-degustacion-de-la-tapa-del-ajo-en-santa-maria-del-paramo-6.jpeg",
+    "pub": 1792933579,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los pendones leoneses embelesan a Gijón",
+    "link": "https://www.heraldodeleon.es/leon/pendones-leoneses-san-lorenzo/20261025135447114761.html",
+    "desc": "El espectacular desfile de enseñas de este domingo por el Muro de San Lorenzo de Gijón culmina las celebraciones de la Casa de León en Asturias por San Froilán",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102513272547212.jpg",
+    "pub": 1792932887,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Herida una mujer de 85 años tras ser atropellada por un turismo en Veguellina de Órbigo",
+    "link": "https://www.lanuevacronica.com/actualidad/herida-mujer-85-anos-ser-atropellada-por-turismo-en-veguellina-orbigo_205263_102.html",
+    "desc": "La víctima se encontraba consciente, aunque dolorida, tras el accidente ocurrido en la avenida del Páramo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/14/05/17/vuelco-furgo-veguellina-09082022.jpeg",
+    "pub": 1792932100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Cuarentena, Malvosa o Corzo: los nombres propios del concurso ganadero en Villablino",
     "link": "https://www.lanuevacronica.com/actualidad/cuarentena-malvosa-corzo-nombres-propios-concurso-ganadero-en-villablino_205259_102.html",
     "desc": "El XXIX Certamen Provincial de Asturiana de los Valles premió a los mejores ejemplares entre 160 animales de 27 ganaderías",
@@ -112,14 +136,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La leonesa Nuria Santos se corona como doble campeona del mundo de tenis de mesa con párkinson",
-    "link": "https://www.lanuevacronica.com/deportes/leonesa-nuria-santos-se-corona-como-doble-campeona-mundo-tenis-mesa-con-parkinson_205245_102.html",
-    "desc": "El torneo se ha celebrado del 20 al 25 de octubre de 2026 en China, reuniendo a los mejores palistas internacionales",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/88/3/la-deportista-leonesa-actual-campeona-de-espana-conquista-el-oro-mundial-tanto-en-la-categoria-individual-como-en-la-de-dobles-femeninos.jpeg",
-    "pub": 1792925414,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Heridos un hombre y una menor de unos diez años tras colisionar una moto con un jabalí en Ponferrada",
     "link": "https://www.lanuevacronica.com/el-bierzo/heridos-hombre-menor-diez-anos-colisionar-moto-con-jabali-en-ponferrada_205250_102.html",
     "desc": "El suceso tuvo lugar en torno a las 23.18 horas del sábado, cuando el 112 recibió el aviso del accidente",
@@ -182,14 +198,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/12/21/2025122123191981783.jpg",
     "pub": 1792920755,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Sobremesa en Devesa",
-    "link": "https://www.lanuevacronica.com/opinion/sobremesa-en-devesa_205235_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792918691,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Ligero ascenso de las temperaturas para despedir la semana este domingo en León",
@@ -269,14 +277,6 @@
     "desc": "Duelo de altura en el Reino de León y de nuevo con una Cultural obligada a sumar 'de tres'",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102422045419718.jpg",
     "pub": 1792865813,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El BF León obra el milagro en Málaga: remonta 21 puntos y noquea al Unicaja Mijas",
-    "link": "https://www.heraldodeleon.es/deportes/baloncesto/bf-leon-obra-milagro-malaga-remonta-21-puntos-noquea-unicaja-mijas/20261024200908114651.html",
-    "desc": "Las leonesas, que llegaron a verse 21 puntos abajo en el tercer cuarto, firmaron una segunda mitad extraordinaria. Un triple de Paula Vaquera y una canasta decisiva de Andrea Boquete culminaron una…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/03/2026100322455814587.jpg",
-    "pub": 1792865348,
     "fuente": "Heraldo de León"
   },
   {
@@ -422,14 +422,6 @@
     "img": "https://static.eldiario.es/clip/fbf3a47f-d8bb-425a-9278-c5cf1ed46fa6_16-9-discover-aspect-ratio_default_0_x811y263.jpg",
     "pub": 1792759645,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "El 20 Enise echa el telón con León como referente global de la ciberseguridad",
-    "link": "https://www.heraldodeleon.es/leon/20-enise-echa-telon-confirmando-leon-como-epicentro-ciberseguridad/20261023141525114438.html",
-    "desc": "El gran congreso del Incibe ha congregado a más 83.000&nbsp;asistentes en sus veinte ediciones sumando 1.058 patrocinadores, 2.282 ponentes y participantes de 114 países en el International Business…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102314140543160.jpg",
-    "pub": 1792757725,
-    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Prisión sin fianza para dos de los detenidos por la muerte de una anciana maniatada en Burgos",
