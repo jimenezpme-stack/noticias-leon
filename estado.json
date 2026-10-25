@@ -6,14 +6,14 @@
       "ok": true,
       "items": 15,
       "nuevos": 15,
-      "ts": 1792954881,
+      "ts": 1792956344,
       "con_foto": 15
     },
     {
       "fuente": "El Bierzo Digital",
       "url": "https://www.elbierzodigital.com/feed/",
       "ok": false,
-      "error": "https://www.elbierzodigital.com/feed/ -> <urlopen error timed out>",
+      "error": "omitida, se reintenta en 12h",
       "ts": 1792954881
     },
     {
@@ -27,7 +27,7 @@
       "fuente": "Heraldo de León · León",
       "url": "https://www.heraldodeleon.es/rss/leon/",
       "ok": false,
-      "error": "https://www.heraldodeleon.es/rss/leon/ -> The read operation timed out",
+      "error": "omitida, se reintenta en 12h",
       "ts": 1792954881
     },
     {
@@ -36,7 +36,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1792954881,
+      "ts": 1792956344,
       "con_foto": 30
     },
     {
@@ -45,7 +45,7 @@
       "ok": true,
       "items": 29,
       "nuevos": 27,
-      "ts": 1792954881,
+      "ts": 1792956344,
       "con_foto": 27
     },
     {
@@ -54,7 +54,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 2,
-      "ts": 1792954881,
+      "ts": 1792956344,
       "con_foto": 2
     },
     {
@@ -63,7 +63,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 16,
-      "ts": 1792954881,
+      "ts": 1792956344,
       "con_foto": 18
     },
     {
