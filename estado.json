@@ -6,7 +6,7 @@
       "ok": true,
       "items": 15,
       "nuevos": 15,
-      "ts": 1792971361,
+      "ts": 1792972584,
       "con_foto": 15
     },
     {
@@ -20,7 +20,7 @@
       "fuente": "Heraldo de León",
       "url": "https://www.heraldodeleon.es/rss/",
       "ok": false,
-      "error": "omitida, se reintenta en 7h",
+      "error": "omitida, se reintenta en 6h",
       "ts": 1792949920
     },
     {
@@ -36,7 +36,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1792971361,
+      "ts": 1792972584,
       "con_foto": 30
     },
     {
@@ -45,7 +45,7 @@
       "ok": true,
       "items": 29,
       "nuevos": 27,
-      "ts": 1792971361,
+      "ts": 1792972584,
       "con_foto": 27
     },
     {
@@ -54,7 +54,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 1,
-      "ts": 1792971361,
+      "ts": 1792972584,
       "con_foto": 1
     },
     {
@@ -63,7 +63,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 16,
-      "ts": 1792971361,
+      "ts": 1792972584,
       "con_foto": 17
     },
     {
