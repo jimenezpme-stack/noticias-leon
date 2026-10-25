@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Un incendio calcina un vehículo eléctrico en el polígono industrial de Trobajo del Camino",
+    "link": "https://www.lanuevacronica.com/actualidad/incendio-calcina-vehiculo-electrico-en-poligono-industrial-trobajo-camino_205223_102.html",
+    "desc": "Los Bomberos de León han intervenido en la extinción de las llamas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/80/9/imagen-del-turismo-electico-calcinado-por-las-llamas-en-trobajo-del-camino.jpeg",
+    "pub": 1792929182,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Cultural se abona a la épica",
+    "link": "https://www.heraldodeleon.es/deportes/baloncesto/cultural-abona-epica/20261025124955114729.html",
+    "desc": "Los leoneses logran imponerse en Getafe tras una nueva prórroga de infarto en la que supieron maneja la presión mejor que los locales",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102512434062882.jpg",
+    "pub": 1792928995,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "La Carrera de la Mujer vuelve a vestir de rosa las calles de León",
     "link": "https://www.lanuevacronica.com/deportes/carrera-mujer-vuelve-vestir-rosa-calles-leon_205255_102.html",
     "desc": "Miles de personas se sumaron a la cita de visibilidad y solidaridad destinando el 70 por ciento a la investigación oncológica",
@@ -16,8 +32,8 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Beatriz Abad presenta su novela 'Ciudad las palabras' en La Comunal de Val de San Lorenzo",
-    "link": "https://www.heraldodeleon.es/cultura/beatriz-abad-presenta-novela-ciudad-palabras-comunal-val-san-lorenzo/20261025122808114727.html",
+    "titulo": "Beatriz Abad presenta su novela 'Cuidad las palabras' en La Comunal de Val de San Lorenzo",
+    "link": "https://www.heraldodeleon.es/cultura/beatriz-abad-presenta-novela-cuidad-palabras-comunal-val-san-lorenzo/20261025122808114727.html",
     "desc": "La enfermera y escritora leonesa charlará el próximo sábado 31 de su más reciente ficción histórica ambientada en los convulsos años 30 del siglo pasado&nbsp;",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102512274851407.jpg",
     "pub": 1792927688,
@@ -216,14 +232,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Siempre nos quedará Pajares",
-    "link": "https://www.lanuevacronica.com/opinion/siempre-nos-quedara-pajares_205237_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792899900,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Bicho: \"Nos vamos muy jodidos\"",
     "link": "https://www.heraldodeleon.es/deportes/cultural/bicho-cinco-minutos-nos-han-dado-vuelta-nos-vamos-muy-jodidos/20261024235632114681.html",
     "desc": "Bicho reconoce la frustración de la Cultural tras la remontada del Pontevedra | El capitán culturalista destaca la buena primera parte del equipo, lamenta el cambio de escenario tras el descanso y…",
@@ -269,14 +277,6 @@
     "desc": "Álex Domínguez evitó la derrota con una parada decisiva ante Mattheus y Undabarrena salvó otro gol visitante bajo palos, mientras los bercianos apretaron en la segunda parte, pero volvieron a…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102419403475146.jpg",
     "pub": 1792863775,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La despensa leonesa seduce a Gijón",
-    "link": "https://www.heraldodeleon.es/sabores-de-leon/despensa-leonesa-seduce-gijon/20261024192908114646.html",
-    "desc": "La III Feria de Productos de León consolida Gijón como escaparate comercial y cita estratégica para potenciar ventas, abrir canales de comercialización y posicionar la oferta agroalimentaria fuera…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102419211814986.jpg",
-    "pub": 1792862948,
     "fuente": "Heraldo de León"
   },
   {
