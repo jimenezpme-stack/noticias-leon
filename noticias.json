@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "Coyanza invertirá 356.000 euros en renovar aceras y calzadas de una treintena de calles",
+    "link": "https://www.lanuevacronica.com/actualidad/coyanza-invertira-356000-euros-en-renovar-aceras-calzadas-treintena-calles_205125_102.html",
+    "desc": "El Ayuntamiento de Valencia de Don Juan acometerá las obras con cargo al Plan Pios 2025, con actuaciones en diferentes puntos del municipio y un plazo de ejecución de seis meses",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/61/1/coyanza-invertira-356-000-euros-en-renovar-aceras-y-calzadas-de-una-treintena-de-calles.jpeg",
+    "pub": 1792897200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La pasarela sobre el río Esla de Valencia de Don Juan será renovada por casi 97.000 euros",
+    "link": "https://www.lanuevacronica.com/actualidad/pasarela-sobre-rio-esla-valencia-don-juan-sera-renovada-por-casi-97000-euros_205127_102.html",
+    "desc": "La estructura metálica lleva más de 20 años sin recibir mantenimiento y presenta signos de deterioro y el proyecto contempla trabajos de reparación, tratamientos protectores y la sustitución del…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/67/1/la-pasarela-sobre-el-rio-esla-de-valencia-de-don-juan-sera-renovada-por-casi-97-000-euros.jpeg",
+    "pub": 1792897200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "\"León tiene fortalezas que son únicas para convertirse en un referente tecnológico\"",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-tiene-fortalezas-son-unicas-convertirse-en-referente-tecnologico_205226_102.html",
+    "desc": "Entrevista a Irene Cano, directora general de Meta para España y Portugal",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/63/06/4/irene-cano-directora-general-de-meta-para-espana-y-portugal-2.jpeg",
+    "pub": 1792897200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Parque de La Candamia: un refugio entre leyendas",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/parque-candamia-refugio-entre-leyendas_205222_102.html",
+    "desc": "La llanura de este espacio fue remodelada en los 90, lo que empezó a conceder a la zona el aspecto del que hoy presume gracias a la inversión del Ayuntamiento de León y su historia, en realidad, se…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/79/3/la-candamia-debe-su-nombre-a-un-santuario-romano-en-honor-a-jupite-candamo-saul-aren.jpeg",
+    "pub": 1792897200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_205178_102.html",
+    "desc": "El humorista gráfico Rubén Cantón responde a la pregunta de este sábado sobre una curiosidad de la provincia de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/60/83/3/25-10-2026-las-cucerias-de-canton.jpeg",
+    "pub": 1792897200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Ribera contra Montaña: Pasó lo que se suponía que iba a pasar y se cantó otra vez el «¡Viva la Montaña!» (y van 12)",
     "link": "https://www.lanuevacronica.com/deportes/ribera-con-montana-paso-se-suponia-iba-pasar-se-canto-otra-vez-viva-montana-y-van-12_205243_102.html",
     "desc": "Contundente victoria de la Montaña frente a la Ribera pues cuando Samuel fue 'el gallo' del reto aún les quedaban otros seis luchadores a los montañeses",
@@ -160,22 +200,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Villamartín del Sil rinde homenaje a las 19 víctimas de la represión franquista",
-    "link": "https://www.lanuevacronica.com/el-bierzo/villamartin-sil-rinde-homenaje-19-victimas-represion-franquista_205218_102.html",
-    "desc": "El cementerio de la localidad acogerá el lunes 2 de noviembre la inauguración de una placa con los nombres de los vecinos asesinados",
-    "img": "https://www.lanuevacronica.com/uploads/s1/13/67/41/www-villamartin-del-sil.jpeg",
-    "pub": 1792856660,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Asociación de Personas Sordas del Bierzo cumple 30 años y reclama más intérpretes",
-    "link": "https://www.lanuevacronica.com/el-bierzo/asociacion-personas-sordas-bierzo-cumple-30-anos-reclama-mas-interpretes_205217_102.html",
-    "desc": "Su presidente, Juan Manuel Quiroga, advierte de que la integración sigue sin ser una realidad y pide a las administraciones y a Educación que atiendan las necesidades del colectivo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/39/3/cumpleanos-asorbire.jpeg",
-    "pub": 1792856319,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León despliega todo el sabor de su despensa en Gijón",
     "link": "https://www.lanuevacronica.com/actualidad/leon-despliega-todo-sabor-su-despensa-en-gijon_205224_102.html",
     "desc": "La Diputación de León ha inaugurado este sábado la III Feria de Productos de León en Gijón",
@@ -184,35 +208,11 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Camponaraya abre su Feria de la Miel con 25 expositores y el reto de sostener al sector apícola",
-    "link": "https://www.lanuevacronica.com/el-bierzo/camponaraya-abre-su-feria-miel-con-25-expositores-reto-sostener-sector-apicola_205219_102.html",
-    "desc": "La novena edición estrena el 'Pasaporte a la Miel' y cuenta por primera vez con la colaboración de la Diputación, mientras los productores afrontan otra campaña marcada por la escasez de cosecha",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/42/7/apertura-miel.jpeg",
-    "pub": 1792855958,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Un incendio calcina un vehículo eléctrico en el polígono industrial de Trobajo del Camino",
     "link": "https://www.lanuevacronica.com/actualidad/incendio-calcina-vehiculo-electrico-en-poligono-industrial-trobajo-camino_205223_102.html",
     "desc": "Los Bomberos de León han intervenido en la extinción de las llamas",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/62/80/9/imagen-del-turismo-electico-calcinado-por-las-llamas-en-trobajo-del-camino.jpeg",
     "pub": 1792855148,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Eduardo Morán: \"No estoy decepcionado con mi partido, pero sí con algunas personas\"",
-    "link": "https://www.lanuevacronica.com/el-bierzo/eduardo-moran-no-estoy-decepcionado-con-mi-partido-pero-si-con-algunas-personas_205220_102.html",
-    "desc": "El alcalde de Camponaraya dice respetar que se le deje fuera de la carrera al Senado y sopesa repetir como cabeza de las municipales de 2027",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/37/94/4/eduardo-moran.jpeg",
-    "pub": 1792854903,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "UPL exige 30 horas de intérprete de lengua de signos para una alumna del IES Virgen de la Encina",
-    "link": "https://www.lanuevacronica.com/el-bierzo/upl-exige-30-horas-interprete-lengua-signos-alumna-ies-virgen-encina_205221_102.html",
-    "desc": "Reclama a la Junta que cubra toda la jornada lectiva de la estudiante con sordera profunda y plantea cambios para garantizar la lengua de signos como recurso educativo esencial",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/54/39/7/www-ies-virgen-de-la-encina-4-1000x563.jpeg",
-    "pub": 1792854686,
     "fuente": "La Nueva Crónica"
   },
   {
