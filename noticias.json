@@ -1,11 +1,43 @@
 [
   {
+    "titulo": "Una marea rosa por las mujeres",
+    "link": "https://www.heraldodeleon.es/leon/marea-rosa-mujeres/20261025120857114725.html",
+    "desc": "6.000 personas se dan cita en la XII Carrera de la Mujer de Almom y tiñen de rosa el domingo en las calles de León contra el cáncer de mama",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102512035233114.jpg",
+    "pub": 1792926537,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Cine leonés para debatir sobre fronteras euroafricanas",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/cine-leones-debatir-sobre-fronteras-euroafricanas_205252_102.html",
+    "desc": "El cineasta leonés Chus Domínguez estrenará en el Albéitar, con su presencia para un debate, su película 'Glass Bottom Ferry ', que propone desde Ceuta, Melilla y Canarias una reflexión sobre los…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/65/14/0/imagenes-de-la-pelicula-del-cineasta-leones-que-analiza-las-fronteras.jpeg",
+    "pub": 1792926376,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Corredor Oeste denuncia la destrucción de 35.000 traviesas válidas para reabrir Astorga-La Bañeza",
+    "link": "https://www.lanuevacronica.com/actualidad/corredor-oeste-denuncia-destruccion-35000-traviesas-validas-reabrir-astorga-la-baneza_205251_102.html",
+    "desc": "La plataforma afirma que supone \"todo un derroche y un bofetón para León por parte del Ministerio de Transportes de Óscar Puente\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/65/12/5/el-colectivo-ha-inspeccionado-y-fotografiado-in-situ-las-traviesas-del-tramo-leon-astorga.jpeg",
+    "pub": 1792926045,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El Olímpico sufre más de lo esperado ante Unionistas pero los puntos se quedan en León",
     "link": "https://www.heraldodeleon.es/deportes/futbol/olimpico-sufre-mas-esperado-unionistas/20261025115156114713.html",
     "desc": "Las leoneses se complicaron la vida tras adelantarse 3-0 pero sumaron una importante victoria ante su público",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102511513630661.jpg",
     "pub": 1792925516,
     "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La leonesa Nuria Santos se corona como doble campeona del mundo de tenis de mesa con párkinson",
+    "link": "https://www.lanuevacronica.com/deportes/leonesa-nuria-santos-se-corona-como-doble-campeona-mundo-tenis-mesa-con-parkinson_205245_102.html",
+    "desc": "El torneo se ha celebrado del 20 al 25 de octubre de 2026 en China, reuniendo a los mejores palistas internacionales",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/88/3/la-deportista-leonesa-actual-campeona-de-espana-conquista-el-oro-mundial-tanto-en-la-categoria-individual-como-en-la-de-dobles-femeninos.jpeg",
+    "pub": 1792925414,
+    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Heridos un hombre y una menor de unos diez años tras colisionar una moto con un jabalí en Ponferrada",
@@ -62,14 +94,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102511125829873.jpg",
     "pub": 1792923270,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La leonesa Nuria Santos se corona como doble campeona del mundo de tenis de mesa con párkinson",
-    "link": "https://www.lanuevacronica.com/deportes/leonesa-nuria-santos-se-corona-como-doble-campeona-mundo-tenis-mesa-con-parkinson_205245_102.html",
-    "desc": "El torneo se ha celebrado del 20 al 25 de octubre de 2026 en China, reuniendo a los mejores palistas internacionales.",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/88/3/la-deportista-leonesa-actual-campeona-de-espana-conquista-el-oro-mundial-tanto-en-la-categoria-individual-como-en-la-de-dobles-femeninos.jpeg",
-    "pub": 1792922363,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Corredor Oeste denuncia la destrucción de 35.000 traviesas reusables en la Ruta de la Plata",
@@ -136,7 +160,7 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Calzada, un surrealista leonés en La Barraca",
+    "titulo": "Un surrealista leonés en La Barraca",
     "link": "https://www.heraldodeleon.es/cultura/luis-saenz-calzada-surrealista-leones-barraca/20261025084001114659.html",
     "desc": "Médico, estomatólogo, biólogo... pero también actor, pintor, ensayista y poeta, el polifacético intelectual leonés viajó junto a Federico García Lorca en su mítico grupo de teatro universitario…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102421352514142.jpg",
@@ -189,22 +213,6 @@
     "desc": "",
     "img": null,
     "pub": 1792899600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Lo que late bajo el hielo",
-    "link": "https://www.lanuevacronica.com/el-bierzo/late-bajo-hielo_205055_102.html",
-    "desc": "El escritor leonés Javier Pérez despliega su gran capacidad para crear una trama que nos mantendrá en vilo de principio a fin, llevándonos nada más y nada menos que hasta tierras polares",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/31/2/portada.jpeg",
-    "pub": 1792899600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "A vivir",
-    "link": "https://www.lanuevacronica.com/opinion/vivir_205239_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1792899000,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -277,7 +285,7 @@
     "desc": "La basílica de San Isidoro acogió este sábado la&nbsp;ceremonia de&nbsp;investidura de los nuevos caballeros y damas que se incorporan a esta institución con nueve&nbsp;siglos de historia",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102418540575677.jpg",
     "pub": 1792861486,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Vivienda, pensiones, rearme y participación, ejes de las 'Jornadas CGT' en León",
@@ -430,14 +438,6 @@
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2021/04/14/archivo-sede-del-tribunal-superior-de-justicia-de-castilla-y-leon-en-burgos.jpeg",
     "pub": 1792757644,
     "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "VOX destaca los 240,5 millones de inversión para León en los presupuestos de 2027",
-    "link": "https://www.heraldodeleon.es/leon/vox-destaca-2405-millones-inversion-leon-presupuestos-2027/20261023140823114435.html",
-    "desc": "La procuradora Laura Dorreis Alonso resalta las partidas destinadas a sanidad, vivienda, infraestructuras y agricultura, así como el incremento de los fondos previstos para El Bierzo",
-    "img": "https://i.ytimg.com/vi/09CjxZ95OHE/hqdefault.jpg",
-    "pub": 1792757303,
-    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Mañueco cede al PP de Feijóo a su consejera de Educación para que vaya al Congreso tras cuatro meses en el puesto",
