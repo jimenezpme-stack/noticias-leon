@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Doce triunfos para la Montaña",
+    "link": "https://www.heraldodeleon.es/deportes/mas-deporte/doce-triunfos-montana/20261025084541114686.html",
+    "desc": "La selección montañesa prolonga su hegemonía frente a la Ribera tras vencer en el corro disputado en Puente Almuhey",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102508412816721.jpg",
+    "pub": 1792914341,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "León se moviliza para llevar luz a un centro para personas con discapacidad en Kiev: \"Vivimos en guerra y los apagones son difíciles y continuos\"",
+    "link": "https://www.heraldodeleon.es/leon/leon-moviliza-llevar-luz-hospital-danilo-kiev-vivimos-guerra-cortes-son-especialmente-dificiles/20261025084320114653.html",
+    "desc": "La comunidad ucraniana en León organiza un festival solidario infantil para enviar baterías y material sanitario al Centro de Rehabilitación Integral para Personas con Discapacidad de Dnipró donde…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102421170965404.jpg",
+    "pub": 1792914200,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Calzada, un surrealista leonés en La Barraca",
+    "link": "https://www.heraldodeleon.es/cultura/luis-saenz-calzada-surrealista-leones-barraca/20261025084001114659.html",
+    "desc": "Médico, estomatólogo, biólogo... pero también actor, pintor, ensayista y poeta, el polifacético intelectual leonés viajó junto a Federico García Lorca en su mítico grupo de teatro universitario…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102421352514142.jpg",
+    "pub": 1792914001,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "Sobremesa en Devesa",
     "link": "https://www.lanuevacronica.com/opinion/sobremesa-en-devesa_205235_102.html",
     "desc": "",
@@ -256,28 +280,12 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "El PP reprocha el \"nulo\" apoyo del Gobierno a la Vía de la Plata y el lazo del Manzanal",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/pp-reprocha-complacencia-psoe-nulo-apoyo-gobierno-via-plata-lazo-manzanal/20261024135945114591.html",
-    "desc": "Los populares lamentan el voto en contra de los socialistas a la PNL presentada en las Cortes de Castilla y León en las que se pedía al Gobierno “un calendario concreto de actuaciones” en la mejora…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/03/04/2025030417182988607.jpg",
-    "pub": 1792843185,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "UPL exige que una intérprete cubra la jornada lectiva de una alumna sorda",
-    "link": "https://www.heraldodeleon.es/el-bierzo/upl-exige-que-interprete-cubra-jornada-lectiva-alumna-berciana-sorda/20261024134425114590.html",
-    "desc": "La formación leonesista insta a la Junta&nbsp;a priorizar ese recurso educativo para garantizar el pleno derecho a la educación de la joven alumna del&nbsp;IES Virgen de la Encina de Ponferrada",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102413440283465.jpg",
-    "pub": 1792842265,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Cortes de tráfico este domingo entre las 7 y las 15 por la Carrera de la Mujer",
     "link": "https://www.heraldodeleon.es/leon/cortes-trafico-domingo-entre-7-00-15-00-carrera-mujer/20261024132432114588.html",
     "desc": "Según las previsiones oficiales, a&nbsp;partir de las 7:30 horas se cortará el paseo del Parque y&nbsp;a partir de las 10:30 horas se cortará el resto del itinerario",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2024/10/28/2024102810311990305.jpg",
     "pub": 1792841072,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Fibra óptica ultra segura une Scayle e Incibe creando un laboratorio cuántico bajo León",
@@ -446,14 +454,6 @@
     "img": "https://static.eldiario.es/clip/f917e12c-b45d-4284-a2b4-bbc6f512178e_16-9-discover-aspect-ratio_default_0_x636y413.jpg",
     "pub": 1792753654,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Nueve días de huelga en los interurbanos de León contra la precariedad laboral",
-    "link": "https://www.heraldodeleon.es/leon/nueve-dias-huelga-autobuses-interurbanos-leon/20261023130516114425.html",
-    "desc": "Los sindicatos CCOO y UGT anuncian que los paros se iniciarán el 30 de octubre y se sucederán hasta el 30 de diciembre en busca de la equiparación de sus salarios a la media autonómica y la…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102312434282057.jpg",
-    "pub": 1792753516,
-    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "El presidente del PP de Ávila y de la Diputación irá en las listas del Senado como número 2",
