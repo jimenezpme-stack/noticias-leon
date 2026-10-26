@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205283_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/66/41/2/26-10-2026-canton.jpeg",
+    "pub": 1792983600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La fina línea entre el humor y la ofensa",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/fina-linea-entre-humor-ofensa_205282_102.html",
+    "desc": "Las cuentas 'curis' llegan a los institutos de León para contar lo que ocurre en las aulas en las redes, pero con la fina línea de poder ser una herramienta de burla de compañeros y profesores",
+    "img": null,
+    "pub": 1792983600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La moda de los 'curis' llega a los centros educativos de León",
+    "link": "https://www.lanuevacronica.com/actualidad/moda-curis-llega-centros-educativos-leon_205272_102.html",
+    "desc": "La Policía Nacional alerta de que estas cuentas en algunos casos tienen el propósito de \"humillar a alumnos y profesores\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/66/27/7/diferentes-cuentas-de-curis-de-centros-educativos-de-leon.png",
+    "pub": 1792983600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "\"Deberíamos repensar qué ha salido bien y qué ha salido mal en el mapa autonómico\"",
+    "link": "https://www.lanuevacronica.com/actualidad/deberiamos-repensar-ha-salido-bien-ha-salido-mal-en-mapa-autonomico_205256_102.html",
+    "desc": "Entrevista a Nicolás Redondo Terreros, presidente de la Fundación para la Libertad y 'Capital'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/65/63/4/nicolas-redondo-terreros-presidente-de-la-fundacion-para-la-libertad.jpeg",
+    "pub": 1792983600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Bierzo explora los beneficios de los baños de bosque para las personas con alzheimer",
+    "link": "https://www.lanuevacronica.com/el-bierzo/bierzo-explora-beneficios-banos-bosque-personas-con-alzheimer_204338_102.html",
+    "desc": "Seis usuarios de AFA Bierzo participaron durante seis semanas en una experiencia piloto en los Ancares y cinco de ellos recordaban semanas después su participación",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/63/12/8/img-3920390293.jpeg",
+    "pub": 1792983600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "\"El arbitraje ha dejado mucho que desear\"",
     "link": "https://www.lanuevacronica.com/deportes/arbitraje-ha-dejado-mucho-desear_205277_102.html",
     "desc": "El técnico de la Cultural, Jandro, y su capitán, Bicho, critican la actuación de Ángel Caro en un partido que tuvo un polémico gol anulado, un penalti no pitado y una posible falta en el 1-2 del…",
@@ -126,46 +166,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386432.jpg?p=c:2835:1596:nowe:0:94/w:1706/h:960&h=DdhOaAVP",
     "pub": 1792933052,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Herida una mujer de 85 años tras ser atropellada por un turismo en Veguellina de Órbigo",
-    "link": "https://www.lanuevacronica.com/actualidad/herida-mujer-85-anos-ser-atropellada-por-turismo-en-veguellina-orbigo_205263_102.html",
-    "desc": "La víctima se encontraba consciente, aunque dolorida, tras el accidente ocurrido en la avenida del Páramo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/14/05/17/vuelco-furgo-veguellina-09082022.jpeg",
-    "pub": 1792932100,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cuarentena, Malvosa o Corzo: los nombres propios del concurso ganadero en Villablino",
-    "link": "https://www.lanuevacronica.com/actualidad/cuarentena-malvosa-corzo-nombres-propios-concurso-ganadero-en-villablino_205259_102.html",
-    "desc": "El XXIX Certamen Provincial de Asturiana de los Valles premió a los mejores ejemplares entre 160 animales de 27 ganaderías",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/65/68/8/el-recinto-ferial-de-las-rozas-de-villablino-acogio-una-nueva-edicion-del-concurso-provincial-l-n-c.jpeg",
-    "pub": 1792931400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Valladolid se viste de verde en la XV Marcha Contra el Cáncer, que reúne a 55.032 participantes",
-    "link": "https://www.lanuevacronica.com/cyl/valladolid-se-viste-verde-en-xv-marcha-contra-cancer-reune-55032-participantes_205261_102.html",
-    "desc": "La iniciativa cuenta con el apoyo especial de Iberdrola como patrocinador principal por undécimo año consecutivo y se enmarca en el acuerdo que mantienen ambas entidades para trabajar por la…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/65/70/8/marea-verde-valladolid-aecc-iberdrola.jpeg",
-    "pub": 1792930563,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León consolida su liderazgo en el cultivo de remolacha con 6.315 hectáreas",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-consolida-su-liderazgo-en-cultivo-remolacha-con-6315-hectareas_205258_102.html",
-    "desc": "La provincia concentra casi una de cada tres hectáreas sembradas en Castilla y León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/05/67/5/acor-inicia-la-campana-2025-26-1.jpeg",
-    "pub": 1792930322,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un incendio calcina un vehículo eléctrico en el polígono industrial de Trobajo del Camino",
-    "link": "https://www.lanuevacronica.com/actualidad/incendio-calcina-vehiculo-electrico-en-poligono-industrial-trobajo-camino_205223_102.html",
-    "desc": "Los Bomberos de León han intervenido en la extinción de las llamas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/62/80/9/imagen-del-turismo-electico-calcinado-por-las-llamas-en-trobajo-del-camino.jpeg",
-    "pub": 1792929182,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La marea verde de la mayor marcha contra el cáncer de España supera los 55.000 andarines en su 15 aniversario",
