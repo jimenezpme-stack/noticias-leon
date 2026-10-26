@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "El Procurador del Común pide a la Junta que lleve los comedores del programa Conciliamos a los pueblos",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261026/procurador-comun-pide-junta-lleve-comedores-programa-conciliamos-pueblos/1003744432814_0.html",
+    "desc": "La falta de datos reales sobre la demanda en el medio rural mantiene en el aire la ampliación de este servicio complementario, limitado actualmente a municipios de más de 20.000 habitantes. Más…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11331453.jpg?p=w:1706/h:960&h=tRA9JiYy",
+    "pub": 1792994400,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Eduardo, dueño de una pastelería familiar con más de 50 años de historia: “He crecido entre harinas y dulces”",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261026/eduardo-dueno-pasteleria-familiar-anos-historia-crecido-harinas-dulces-trt/1003744430509_0.html",
+    "desc": "“En 2025 celebramos nuestro 50 aniversario. Llevamos más de medio siglo endulzando la vida de los mirandeses en algo que me llena de orgullo”, afirma nuestro entrevistado. Más información: La mejor…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384248.jpg?p=w:1706/h:960&h=LdA-2fFM",
+    "pub": 1792994400,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Aldeamayor de San Martín, epicentro de la cultura del 6 al 15 de noviembre: \"Todo el público tiene actividades\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261026/aldeamayor-san-martin-epicentro-cultura-noviembre-publico-actividades/1003744434163_0.html",
+    "desc": "La localidad propone juegos tradicionales, teatro y hasta un baño sonoro de relajación para esta cita ya consolidada. Más información : Las calles de Aldeamayor se llenan de actividades culturales…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386488.jpg?p=w:1706/h:960&h=3inrMHI7",
+    "pub": 1792994400,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Los candidatos al Congreso, mejor que en otras circunscripciones",
     "link": "https://www.lanuevacronica.com/opinion/candidatos-congreso-mejor-en-otras-circunscripciones_205281_102.html",
     "desc": "",
@@ -78,6 +102,14 @@
     "img": "https://www.lanuevacronica.com/uploads/s1/35/63/12/8/img-3920390293.jpeg",
     "pub": 1792983600,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Diego, el profesor de 22 años que reinventa las clases en Primaria: \"El 95% de los niños prefiere mi simulador al libro\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261026/diego-profesor-anos-reinventa-clases-primaria-ninos-prefiere-simulador-libro-dl/1003744426353_0.html",
+    "desc": "La herramienta, además, ha multiplicado el éxito de los resultados educativos en el grupo de alumnos donde ha podido testearla. Más información : Castilla y León integrará la IA en el currículo del…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11382049.jpg?p=w:1706/h:960&h=tK-bBTwj",
+    "pub": 1792976602,
+    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Un octogenario herido en Sahagún tras chocar con su coche contra un muro",
@@ -352,18 +384,18 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "'Turistopía', el paraíso que amenaza con devorarse a sí mismo: \"Viajar nos hace felices, pero tenemos que repensarlo\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/sociedad/20261025/turistopia-paraiso-amenaza-devorarse-mismo-viajar-hace-felices-repensarlo/1003744432933_0.html",
-    "desc": "El sociólogo vallisoletano Cayo Sastre triunfa con un ensayo que cuestiona nuestras contradicciones como viajeros. Plantea una provocadora solución a la masificación: crear Espacios de Confinamiento…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385343.jpg?p=w:1706/h:960&h=Mu_DlJPf",
-    "pub": 1792908000,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "El restaurante de pueblo en el que para Pedro Sánchez: tienen huevos con torreznos, carne, rabo de ternera y alubias rojas",
     "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261025/restaurante-pueblo-pedro-sanchez-huevos-torreznos-carne-rabo-ternera-alubias-rojas-trt/1003744431701_0.html",
     "desc": "El jefe del Ejecutivo sorprendió a los vecinos de este municipio con una parada estratégica antes de su acto de precampaña. Más información: Lavinia, dueña del restaurante de Burgos donde comió…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385559.avif?p=w:1706/h:960&h=q4nBEAh9",
+    "pub": 1792908000,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "'Turistopía', el paraíso que amenaza con devorarse a sí mismo: \"Viajar nos hace felices, pero tenemos que repensarlo\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/sociedad/20261025/turistopia-paraiso-amenaza-devorarse-mismo-viajar-hace-felices-repensarlo/1003744432933_0.html",
+    "desc": "El sociólogo vallisoletano Cayo Sastre triunfa con un ensayo que cuestiona nuestras contradicciones como viajeros. Plantea una provocadora solución a la masificación: crear Espacios de Confinamiento…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385343.jpg?p=w:1706/h:960&h=Mu_DlJPf",
     "pub": 1792908000,
     "fuente": "El Español · CyL"
   },
@@ -416,35 +448,11 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Un fármaco podría evitar 125 reingresos al año en pacientes cardíacos de Castilla y León",
-    "link": "https://www.elespanol.com/castilla-y-leon/sociedad/sanidad/20261024/farmaco-podria-evitar-reingresos-ano-pacientes-cardiacos-castilla-leon/1003744433518_0.html",
-    "desc": "El ensayo DapaTAVI, que lidera el Clínico de Valladolid, demuestra que la dapagliflozina reduce las hospitalizaciones y la mortalidad tras el reemplazo de la válvula aórtica. Más información :…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386084.jpg?p=c:4000:2251:nowe:0:201/w:1706/h:960&h=K7vAmqcT",
-    "pub": 1792836628,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Mañueco exige en una carta a Aagesen que transfiera \"sin más dilaciones\" los fondos para compensar los daños del lobo",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261024/manueco-exige-carta-aagesen-transfiera-sin-dilaciones-fondos-compensar-danos-lobo/1003744433506_0.html",
     "desc": "El presidente de Castilla y León ha enviado una carta a la ministra en la que tacha de \"inaceptable\" la falta de financiación. Más información: El informe que abre la puerta a que Castilla y León…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11216434.jpg?p=w:1706/h:960&h=Djz4vedf",
     "pub": 1792834955,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "David, barista, vuelve a su barrio para convertir un local de copas en cafetería: \"Para abrir algo así hay que preparar 100.000 €\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261024/david-barista-vuelve-barrio-convertir-local-copas-cafeteria-abrir-preparar-eur-trt/1003744429235_0.html",
-    "desc": "El hostelero vallisoletano llega a Parquesol con una propuesta \"dulce y atrevida\", que además promete que será \"diferente\" a lo que hay. Más información : Marco (54), famoso hostelero y dueño de un…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11383425.jpg?p=c:3999:2250:nowe:0:33/w:1706/h:960&h=5dFRi84n",
-    "pub": 1792825473,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Luis (66), agricultor con amplia experiencia y 250 hectáreas: “Hace 25 años vivía mucho mejor que ahora”",
-    "link": "https://www.elespanol.com/castilla-y-leon/economia/el-campo/20261024/luis-agricultor-amplia-experiencia-hectareas-hace-anos-vivia-mejor-ahora-trt/1003744428785_0.html",
-    "desc": "El profesional del campo suma 50 años de experiencia y cuenta con terrenos en Torrecilla de la Orden y Alaejos, dentro de la provincia de Valladolid. Más información: Pedro (50), agricultor con 600…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11383147.jpg?p=w:1706/h:960&h=7IwZQmdY",
-    "pub": 1792818000,
     "fuente": "El Español · CyL"
   },
   {
@@ -461,14 +469,6 @@
     "desc": "La consejería defiende un modelo de apoyo público a la cinematografía en el que el valor de una producción “se mida por sus méritos artísticos y cinematográficos”. Más información: El consejero de…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11185879.jpg?p=w:1706/h:960&h=zSKaUOEA",
     "pub": 1792774685,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Las listas del PP para el 29-N: cambia números 1 en tres provincias y mueve nombres entre Congreso y Senado",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261023/listas-pp-cambia-numeros-valladolid-zamora-mueve-nombres-congreso-senado/1003744432835_0.html",
-    "desc": "Entre los principales cambios destaca la incorporación de María Pardo como cabeza de lista al Congreso por Valladolid que provoca su salida de la Consejería. Más información: María Pardo deja la…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385714.jpg?p=w:1706/h:960&h=TP3g3JX-",
-    "pub": 1792770445,
     "fuente": "El Español · CyL"
   },
   {
@@ -616,14 +616,6 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "Cajamar amplía sus opciones de pago en comercios físicos con Bizum Pay",
-    "link": "https://www.elespanol.com/castilla-y-leon/economia/empresas/20261022/cajamar-amplia-opciones-pago-comercios-fisicos-bizum-pay/1003744431035_0.html",
-    "desc": "La entidad ofrece a sus clientes una forma sencilla, rápida y segura de pagar sus compras cotidianas. Más información: Cajamar da las claves del futuro de la agroalimentación en España: \"Pasa por un…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384553.jpg?p=c:2999:1688:nowe:0:0/w:1706/h:960&h=GHIfArqE",
-    "pub": 1792670081,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "La compañía de 'Federico' denuncia a la Consejería de Cultura de Castilla y León por la cancelación de la obra por \"motivos ideológicos\"",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/compania-federico-denuncia-consejeria-cultura-castilla-leon-cancelacion-obra-motivos-ideologicos_1_13606121.html",
     "desc": "Proyecto 43-2 sospecha que las obras en la Sala Experimental del Miguel Delibes a las que aludió la Consejería son una excusa, ya que sigue habiendo actividad y solo se ha cancelado su…",
@@ -654,6 +646,14 @@
     "img": "https://static.eldiario.es/clip/ebb6f67b-e868-4d8a-b458-44a57d0d479a_16-9-discover-aspect-ratio_default_0.jpg",
     "pub": 1792659589,
     "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "El mercadillo de antigüedades ideal para visitar este 25 de octubre: 50 expositores y artesanos en directo",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261022/mercadillo-antiguedades-ideal-visitar-octubre-expositores-artesanos-directo-trt/1003744427722_0.html",
+    "desc": "ANTICO alcanza en Medina de Pomar su XXII edición con más anticuarios, una muestra de motos clásicas y demostraciones de oficios. Más información: Medina de Pomar hace de Aventura en la Selva un…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11382409.jpg?p=c:3598:2025:nowe:200:122/w:1706/h:960&h=wfPA3k-N",
+    "pub": 1792647728,
+    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Vox Castilla y León renueva sus listas al Congreso y presenta al leonés Suárez Arca como número 1 por Zamora",
