@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Astorga y La Bañeza se unen para frenar la destrucción de vías que recuperarían su tren",
+    "link": "https://www.lanuevacronica.com/actualidad/astorga-baneza-se-unen-contra-desmantelamiento-vias-permitirian-recuperar-tren_205326_102.html",
+    "desc": "Los alcaldes de ambos municipios acusan a Adif y al Gobierno de detener la reapertura del ramal ferroviario para mercancías y reclaman aprovechar 35.000 traviesas para impulsar la industrialización…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/22/0/jose-luis-nieto-y-javier-carrera-junto-a-uno-de-los-antiguos-carteles-rerroviarias-de-la-ruta.jpeg",
+    "pub": 1793043335,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ya empieza a ser Navidad por las calles de León",
+    "link": "https://www.lanuevacronica.com/actualidad/ya-empieza-ser-navidad-por-calles-leon_205342_102.html",
+    "desc": "Algunas luces ya están instaladas en algunas calles de la ciudad, después de que los operarios de la empresa encargada comenzaran en agosto con el cableado",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/58/1/luces-navidad-leon.jpeg",
+    "pub": 1793042789,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Rubén Estévez será el candidato del Frente Amplio al Congreso por León",
+    "link": "https://www.heraldodeleon.es/leon/ruben-estevez-marina-sastre-encabezaran-lista-congreso-frente-amplio/20261026202505115017.html",
+    "desc": "\"Queremos que León tenga una voz firme en el Congreso, capaz de defender los intereses de la provincia y de situar las necesidades de las personas en el centro de las decisiones políticas\", afirmó…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102620235371393.jpg",
+    "pub": 1793042705,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Segoviana - Cultural: 'Una trampa copera para la Cultural'",
+    "link": "https://www.lanuevacronica.com/deportes/segoviana-cultural_205304_102.html",
+    "desc": "El equipo leonés abre la Copa visitando este martes (20:00 horas) a la Gimnástica Segoviana de Segunda RFEF, con más a perder que a ganar en la oportunidad para la segunda unidad y los jugadores del…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/26/54/76/4/maestre161224.jpeg",
+    "pub": 1793041908,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Mañueco pide ir \"pueblo a pueblo, derribar el muro infame del sanchismo y empezar la reconstrucción de España\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261026/manueco-pide-ir-pueblo-derribar-muro-infame-sanchismo-empezar-reconstruccion-espana/1003744435597_0.html",
     "desc": "El presidente del PPCyL solo ve \"capaz\" a Feijóo de liderar la gestión en La Moncloa tras el 29-N. Más información : Mañueco sitúa a Feijóo como la \"esperanza\" para acabar con el \"fracasado,…",
@@ -16,7 +48,7 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Cendón lanza al PSOE como el \"dique de contención\" frente al \"retroceso de 40 años\" de PP y Vox",
+    "titulo": "Cendón lanza al PSOE como \"dique\" frente al \"retroceso\" de PP y Vox",
     "link": "https://www.heraldodeleon.es/leon/cendon-lanza-psoe-como-unico-dique-contencion-frente-retroceso-40-anos-pp-vox/20261026200501115015.html",
     "desc": "“Conocemos bien la actitud, cómo dialogan e insultan el señor Tellado y la señora Muñoz”, afirmó el cabeza de lista socialista por León&nbsp;sobre los responsables de campaña del PP&nbsp;",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102619575724889.jpg",
@@ -88,14 +120,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Segoviana - Cultural: 'Una trampa copera para la Cultural'",
-    "link": "https://www.lanuevacronica.com/deportes/segoviana-cultural_205304_102.html",
-    "desc": "El equipo leonés abre la Copa visitando este martes (20:00 horas) a la Gimnástica Segoviana de Segunda RFEF, con más a perder que a ganar en la oportunidad para la segunda unidad y los jugadores del…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/26/54/76/4/maestre161224.jpeg",
-    "pub": 1793038052,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Diputación paga 7.260 euros por una nave de bomberos sin contrato desde 2022",
     "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/diputacion-paga-7260-euros-nave-bomberos-contrato-2022/20261026190247114999.html",
     "desc": "El PP denuncia que el alquiler del inmueble de Villacedré continúa abonándose mediante reconocimientos extrajudiciales de crédito tras fracasar el concurso para regularizar su situación",
@@ -147,7 +171,7 @@
     "titulo": "El PP reivindica a Feijóo y convierte el 29N en un examen a Pedro Sánchez",
     "link": "https://www.heraldodeleon.es/leon/pp-leon-reivindica-feijoo-convierte-29n-examen-sanchez/20261026181627114984.html",
     "desc": "Ester Muñoz y Silvia Franco encabezan las candidaturas al Congreso y al Senado, respectivamente, y sitúan las infraestructuras, los impuestos, la vivienda y la reindustrialización entre los ejes de…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102618101863559.jpg",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102618552087302.jpg",
     "pub": 1793034987,
     "fuente": "Heraldo de León"
   },
@@ -328,14 +352,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Astorga y La Bañeza se unen para frenar la destrucción de vías que recuperarían su tren",
-    "link": "https://www.lanuevacronica.com/actualidad/astorga-baneza-se-unen-contra-desmantelamiento-vias-permitirian-recuperar-tren_205326_102.html",
-    "desc": "Los alcaldes de ambos municipios acusan a Adif y al Gobierno de detener la reapertura del ramal ferroviario para mercancías y reclaman aprovechar 35.000 traviesas para impulsar la industrialización…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/22/0/jose-luis-nieto-y-javier-carrera-junto-a-uno-de-los-antiguos-carteles-rerroviarias-de-la-ruta.jpeg",
-    "pub": 1793021239,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Astorga y La Bañeza se unen para salvar las 35.000 traviesas de ADIF y reabrir el ramal de mercancías",
     "link": "https://www.heraldodeleon.es/comarcas/astorga/astorga-baneza-unen-salvar-35000-traviesas-adif-reabrir-ramal-mercancias/20261026142236114952.html",
     "desc": "Astorga y La Bañeza alertan del desmantelamiento del ramal ferroviario de mercancías | Los alcaldes José Luis Nieto y Javier Carrera reclaman a ADIF que conserve 35.000 traviesas reutilizables para…",
@@ -358,14 +374,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387005.jpg?p=c:920:518:nowe:0:35/w:1706/h:960&h=vZvzL6pz",
     "pub": 1793020459,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La 'Luna del cazador' se asoma a El Bierzo",
-    "link": "https://www.heraldodeleon.es/el-bierzo/luna-cazador-asoma-bierzo/20261026140428114948.html",
-    "desc": "La comarca berciana pudo contemplar durante la pasada madrugada el plenilunio de octubre, una luna llena cuyo nombre procede de antiguas tradiciones vinculadas a la caza y a los preparativos para el…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102614002921125.jpg",
-    "pub": 1793019868,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Mañueco celebra la apertura de la mayor planta de maíz dulce de Europa en un pueblo de Segovia: “Es un ejemplo\"",
@@ -397,14 +405,6 @@
     "desc": "El Consistorio denuncia la ausencia de cartero y advierte de que las cartas se están acumulando sin llegar a sus destinatario",
     "img": "https://www.lanuevacronica.com/uploads/s1/73/58/4/correos-oposiciones-26-09-18.jpeg",
     "pub": 1793017892,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un documental y un taller infantil en el Museo Casa Botines",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/documental-taller-infantil-en-museo-casa-botines_205321_102.html",
-    "desc": "El centro museístico de la capital provincial acoge este miércoles la proyección de 'Living with Gaudí' y el viernes la actividad 'Arquitecturas en danza'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/15/1/el-taller-infantil-de-botines-arrancara-este-viernes-a-las-1000-horas-l-n-c.jpeg",
-    "pub": 1793017649,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -493,6 +493,14 @@
     "desc": "La comunidad se mantiene entre los territorios con menor incidencia del país, con 12,2 afectadas por cada 10.000 mujeres, frente a los 20 puntos de media en el conjunto estatal. Más información:…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/7750223.jpg?p=w:1706/h:960&h=vgxzXjfp",
     "pub": 1793005421,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Mañueco encarga a Valle Ares cuidar la “joya” de la educación de Castilla y León y estar “cerca de la gente”",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261026/manueco-encarga-valle-ares-cuidar-joya-educacion-castilla-leon-cerca-gente/1003744434489_0.html",
+    "desc": "El presidente de la Junta destaca la calidad del sistema educativo de Castilla y León y agradece a María Pardo su trabajo al frente de la Consejería durante los últimos meses. Más información :…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386773.jpg?p=w:1706/h:960&h=qN3hv2Lb",
+    "pub": 1793003482,
     "fuente": "El Español · CyL"
   },
   {
@@ -632,22 +640,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Ligero ascenso de las temperaturas para despedir la semana este domingo en León",
-    "link": "https://www.heraldodeleon.es/leon/ligero-ascenso-temperaturas-despedir-semana-domingo-leon/20261025092135114702.html",
-    "desc": "Las temperaturas irán al alza durante el día, con máximas que podrían alcanzar los 19 grados y mínimas alrededor de los 4 grados",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/02/24/2026022409394376730.jpg",
-    "pub": 1792916495,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "'Turistopía', el paraíso que amenaza con devorarse a sí mismo: \"Viajar nos hace felices, pero tenemos que repensarlo\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/sociedad/20261025/turistopia-paraiso-amenaza-devorarse-mismo-viajar-hace-felices-repensarlo/1003744432933_0.html",
-    "desc": "El sociólogo vallisoletano Cayo Sastre triunfa con un ensayo que cuestiona nuestras contradicciones como viajeros. Plantea una provocadora solución a la masificación: crear Espacios de Confinamiento…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11385343.jpg?p=w:1706/h:960&h=Mu_DlJPf",
-    "pub": 1792908000,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "El turismo crece en septiembre un 5,28% en Valladolid en un mes marcado por las fiestas de San Lorenzo: 49.166 viajeros",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261024/turismo-crece-septiembre-valladolid-mes-marcado-fiestas-san-lorenzo-viajeros/1003744433630_0.html",
     "desc": "El público extranjero representó el 21,40% de los visitantes. Más información: Valladolid se propone aumentar el número de turistas un 25% e internacionalizar la ciudad de aquí a 2027",
@@ -741,6 +733,14 @@
     "desc": "El sindicato independiente reclama compromisos concretos para \"reforzar la competitividad, atraer inversiones e impulsar el Corredor Atlántico\". Más información: CSIF niega que la Junta esté…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11189139.jpg?p=c:3984:2242:nowe:15:502/w:1706/h:960&h=WJlft3jz",
     "pub": 1792680966,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Segovia busca convertir su industria cárnica en un motor de innovación y turismo: \"Será un núcleo de digitalización\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/segovia/20261022/segovia-busca-convertir-industria-carnica-motor-innovacion-turismo-nucleo-digitalizacion/1003744431257_0.html",
+    "desc": "La Diputación suma a la patronal y a la Cámara de Comercio al centro que pretende modernizar el sector, atraer talento joven y abrir las puertas de granjas e industrias a los visitantes. Más…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384692.jpg?p=w:1706/h:960&h=UhoAj1-9",
+    "pub": 1792676090,
     "fuente": "El Español · CyL"
   },
   {
