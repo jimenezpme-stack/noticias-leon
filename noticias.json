@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Un nuevo terremoto de magnitud 2,6 vuelve a sacudir el entorno de Benuza",
+    "link": "https://www.heraldodeleon.es/el-bierzo/nuevo-terremoto-magnitud-26-vuelve-sacudir-entorno-benuza/20261026222722115019.html",
+    "desc": "El Instituto Geográfico Nacional registra el movimiento sísmico este lunes a las 21.32 horas, con una profundidad de cero kilómetros, en una zona que acumula varios temblores desde el seísmo de…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102622270522527.jpg",
+    "pub": 1793050042,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Un nuevo terremoto de magnitud 2,6 sacude el entorno de los Montes Aquilianos",
+    "link": "https://www.elbierzodigital.com/un-terremoto-de-magnitud-26-sacude-el-entorno-de-los-montes-aquilianos/",
+    "desc": "El Instituto Geográfico Nacional (IGN) ha registrado este lunes, 26 de octubre, un nuevo terremoto, en esta ocasión de magnitud 2,6 con epicentro al noreste de Benuza , en el entorno de los Montes…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/un-terremoto-de-magnitud-26-sacude-el-entorno-de-los-montes-aquilianos-el-bierzo-digital.jpg",
+    "pub": 1793049994,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "El trágico final del torero Andrés Hernando, triunfador en las principales plazas de España, en la carretera N-110",
     "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20261026/tragico-final-torero-andres-hernando-triunfador-principales-plazas-espana-carretera-n-110/1003744435714_0.html",
     "desc": "El matador de toros ha perdido la vida en una colisión entre el turismo que conducía y un autobús de pasajeros en la provincia de Ávila. Más información : El torero Andrés Hernando es el fallecido…",
@@ -424,14 +440,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Astorga presenta 'La Calabaza Numerada' para celebrar Halloween en familia",
-    "link": "https://www.heraldodeleon.es/comarcas/astorga/astorga-presenta-nueva-edicion-calabaza-numerada-celebrar-halloween-familia/20261026141447114950.html",
-    "desc": "La actividad se celebrará el viernes 30 de octubre con novedades, música, photocall, regalos y la tradicional chocolatada para las personas que acudan disfrazadas",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102614105379735.jpg",
-    "pub": 1793020487,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "El pacto entre PP y Vox para el Senado no afectará a Castilla y León: ambos partidos presentarán candidaturas",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261026/pacto-pp-vox-senado-no-afectara-castilla-leon-ambos-partidos-presentaran-candidaturas/1003744434977_0.html",
     "desc": "Los de Abascal no presentarán candidatura en seis circunscripciones y postularán un solo candidato en 14, ninguna de ellas de la Comunidad. Más información: Vox, sobre el pacto con el PP en el…",
@@ -686,14 +694,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/7750223.jpg?p=w:1706/h:960&h=vgxzXjfp",
     "pub": 1793005421,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El Bembibre Hockey vence al subcampeón portugués y confirma su progresión en pretemporada",
-    "link": "https://www.elbierzodigital.com/el-bembibre-hockey-vence-al-subcampeon-portugues-y-confirma-su-progresion-en-pretemporada/",
-    "desc": "El Bembibre Hockey regresó de Bragança (Portugal) con una victoria de prestigio tras imponerse por 4-5 al Gulpilhares , subcampeón de la liga portuguesa. El encuentro amistoso permitió al conjunto…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-bembibre-hockey-vence-al-subcampeon-portugues-y-confirma-su-progresion-en-pretemporada-el-bierzo-digital.jpg",
-    "pub": 1793004344,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Lunes de nuevo fresco con temperaturas que no llegarán a los 20 grados en León",
