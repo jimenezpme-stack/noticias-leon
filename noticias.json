@@ -1,11 +1,51 @@
 [
   {
+    "titulo": "Eutherpe cierra octubre con el piano de Patricia Matei y el Trío Reinecke",
+    "link": "https://www.heraldodeleon.es/cultura/eutherpe-cierra-octubre-piano-patricia-matei-trio-reinecke/20261026184154114986.html",
+    "desc": "La sala leonesa programa dos recitales los días 30 y 31 de octubre, a las 19.30 horas, con un repertorio que abarca desde Haydn y Ravel hasta la música de cámara de Reinecke, Kahn y Juon",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102618404289558.jpg",
+    "pub": 1793036514,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El Ourense destituye a su entrenador antes de recibir a la Cultural",
+    "link": "https://www.lanuevacronica.com/deportes/ourense-destituye-su-entrenador-antes-recibir-cultural_205308_102.html",
+    "desc": "El conjunto gallego, al que visita la escuadra culturalista este domingo, cesa a Juan Carballo con el equipo penúltimo y tras perder con el colista",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/66/95/1/carballo.webp",
+    "pub": 1793036081,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Nafti: \"Nos tomamos la Copa como un partido de liga\"",
+    "link": "https://www.lanuevacronica.com/deportes/nafti-nos-tomamos-copa-como-partido-liga_205331_102.html",
+    "desc": "El técnico de la Deportiva señala que tiene que valorar \"el cansancio, la superficie y lo que viene el sábado para sacar el mejor once posible\" y destaca de la Llanera que tiene \"un potencial físico…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/36/3/ponferradina-y-barakaldo-empatan-en-el-toralin-42.jpeg",
+    "pub": 1793036050,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Segoviana - Cultural: 'Una trampa copera para la Cultural'",
+    "link": "https://www.lanuevacronica.com/deportes/segoviana-cultural_205304_102.html",
+    "desc": "El equipo leonés abre la Copa visitando este martes (20:00 horas) a la Gimnástica Segoviana de Segunda RFEF, con más a perder que a ganar en la oportunidad para la segunda unidad y los jugadores del…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/26/54/76/4/maestre161224.jpeg",
+    "pub": 1793035992,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Jandro: \"Le damos la máxima importancia a la Copa\"",
     "link": "https://www.lanuevacronica.com/deportes/jandro-damos-maxima-importancia-copa_205325_102.html",
     "desc": "El técnico de la Cultural apunta sobre las críticas que \"o le damos normalidad o estaríamos todo el rato llorando por los pasillos, yo aguanto y entiendo todo, sólo puedo trabajar, que el equipo…",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/64/68/9/la-cultural-mostro-su-mejor-y-peor-cara-ante-el-pontevedra-para-perder-su-primer-partido-en-el-reino-saul-aren-6.jpeg",
-    "pub": 1793033999,
+    "pub": 1793035976,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El PP reivindica a Feijóo y convierte el 29N en un examen a Pedro Sánchez",
+    "link": "https://www.heraldodeleon.es/leon/pp-leon-reivindica-feijoo-convierte-29n-examen-sanchez/20261026181627114984.html",
+    "desc": "Ester Muñoz y Silvia Franco encabezan las candidaturas al Congreso y al Senado, respectivamente, y sitúan las infraestructuras, los impuestos, la vivienda y la reindustrialización entre los ejes de…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102618101863559.jpg",
+    "pub": 1793034987,
+    "fuente": "Heraldo de León"
   },
   {
     "titulo": "659 entradas a 15 euros para la Ponferradina en el derbi",
@@ -24,14 +64,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Los pensionistas leoneses salen a la calle para reivindicar un sistema público \"sostenible gobierne quien gobierne\"",
-    "link": "https://www.lanuevacronica.com/actualidad/pensionistas-leoneses-salen-calle-reivindicar-sistema-publico-sostenible-gobierne-quien-gobierne_205316_102.html",
-    "desc": "La Coordinadora Pensionista de León se concentra en Botines para poner también el foco en el problema de los desahucios",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/09/4/frame-26pensionistas.jpeg",
-    "pub": 1793032724,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Academia Básica del Aire, pregonera de la Semana Santa de León 2027",
     "link": "https://www.lanuevacronica.com/semana-santa/academia-basica-aire-pregonera-semana-santa-leon-2027_205328_102.html",
     "desc": "El coronel director de la ABA, Óscar Ruiz González, será el encargado de proclamar el pregón el sábado 13 de marzo en el Auditorio, tomando el testigo de Carlos García Rioja",
@@ -48,6 +80,14 @@
     "fuente": "Heraldo de León"
   },
   {
+    "titulo": "La Dirección General de Desregulación de Castilla y León: un presupuesto de 700.000 euros \"con más jefes que remeros\"",
+    "link": "https://www.eldiario.es/castilla-y-leon/politica/direccion-general-desregulacion-castilla-leon-presupuesto-700-000-euros-jefes-remeros_1_13616229.html",
+    "desc": "El portavoz de Soria Ya ha afeado que pretendan optimizar el gasto cuando toda la partida de Desregulación se destina a pagar a ocho \"funcionarios\" y que dos de ellos sean los que \"llevan los…",
+    "img": "https://static.eldiario.es/clip/7febcffd-2c11-4d45-bb3b-4ef2473b26d7_16-9-discover-aspect-ratio_default_0_x949y191.jpg",
+    "pub": 1793032518,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
     "titulo": "Los 30.000 profesores de Castilla y León, convocados a huelga el 4 de noviembre para exigir mejoras laborales",
     "link": "https://www.elespanol.com/castilla-y-leon/cultura/educacion-y-universidad/20261026/profesores-castilla-leon-convocados-huelga-noviembre-exigir-mejoras-laborales/1003744435341_0.html",
     "desc": "CC.OO. y UGT denuncian la \"falta de avances suficientes en la negociación\" con la Consejería de Educación. Más información : CSIF pide equiparar los sueldos de los docentes de CyL a los de…",
@@ -56,7 +96,15 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Isabel Blanco anuncia que el programa Alquiler Seguro sumará 2.000 viviendas al mercado hasta 2030 en Castilla y León",
+    "titulo": "El Ayuntamiento de Zamora alegará contra la exención de impuestos del milmillonario centro de datos de IA",
+    "link": "https://www.eldiario.es/castilla-y-leon/provincias/zamora/ayuntamiento-zamora-alegara-exencion-impuestos-milmillonario-centro-datos-ia_1_13616218.html",
+    "desc": "Francisco Guarido ha calculado que los promotores privados se ahorrarían 200 millones de euros al declararlo como proyecto regional Los centros de datos ya empujan la demanda eléctrica de grandes…",
+    "img": "https://static.eldiario.es/clip/1cad6dc9-6c90-4691-ae67-5e0c30b22f9b_16-9-discover-aspect-ratio_default_0_x1086y409.jpg",
+    "pub": 1793030721,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "Isabel Blanco anuncia que el programa Alquiler Seguro sumará 2.000 viviendas al mercado hasta 2030",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261026/isabel-blanco-prioriza-acceso-vivienda-igualdad-presupuesto-crece-millones/1003744435298_0.html",
     "desc": "El área de Mujer e Igualdad de Oportunidades aumenta un 27,3 % hasta los 24,1 millones de euros, con el empleo femenino como prioridad. Más información: Pollán fusionará los bonos Concilia e…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387135.jpg?p=c:4001:2250:nowe:0:356/w:1706/h:960&h=zUWaLnN_",
@@ -341,7 +389,7 @@
     "desc": "El número de usuarios&nbsp;hasta el mes de septiembre&nbsp;supera los 3,8 millones, una cifra que ha crecido un 121,94 % respecto a 2021, antes de la implantación de las bonificaciones de los…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102613163144994.webp",
     "pub": 1793016618,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "José Ortega Cano, invitado sorpresa del encendido navideño del Café Azaila de León",
@@ -349,7 +397,7 @@
     "desc": "El torero será recibido el 2 de diciembre por el alcalde de León, José Antonio Diez, en un acto que contará con música de Ángel Manuel de Vega y la presencia de los pendones leoneses",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102613050270120.jpg",
     "pub": 1793016547,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Un hombre de 45 años resulta herido en una colisión entre dos turismos en La Pola de Gordón",
@@ -357,22 +405,6 @@
     "desc": "El accidente se ha producido en el kilómetro 113 de la N-630 y ha obligado a movilizar a los servicios sanitarios, la Guardia Civil de Tráfico y la Policía Local.",
     "img": "https://www.lanuevacronica.com/uploads/s1/34/35/54/7/accidente-la-robla.png",
     "pub": 1793016433,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PP denuncia que la Diputación paga 1.815 euros al mes por una nave de bomberos sin contrato",
-    "link": "https://www.lanuevacronica.com/actualidad/pp-denuncia-diputacion-paga-1815-euros-mes-por-nave-bomberos-sin-contrato_205312_102.html",
-    "desc": "Tal y como refleja el informe del Interventor de la Diputación se trata de \"la prestación de un servicio que se sigue prestando aunque se ha agotado el período de vigencia del contrato que lo…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/55/75/9/parque-bomberos-diputacion-leon-1122022-1-4-1000x563-4-1000x563.jpeg",
-    "pub": 1793015855,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El modelismo ferroviario reúne a más de 2.500 visitantes y llena los hoteles de Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/modelismo-ferroviario-reune-mas-2500-visitantes-llena-hoteles-ponferrada_205315_102.html",
-    "desc": "Según los datos de la Concejalía de Turismo, la exposición de La Térmica Cultural bate su récord de asistencia y atrae a visitantes que también pernoctan en otros municipios del Bierzo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/05/7/maquetas-1-2.jpeg",
-    "pub": 1793015746,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -624,14 +656,6 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "Vivienda, pensiones, rearme y participación, ejes de las 'Jornadas CGT' en León",
-    "link": "https://www.heraldodeleon.es/leon/vivienda-pensiones-rearme-participacion-ejes-jornadas-cgt-leon/20261024151940114605.html",
-    "desc": "El sindicato organiza cuatro charlas los días 3, 4, 9 y 10 de noviembre en Espacio Vías de la capital leonesa",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102415192033095.webp",
-    "pub": 1792847980,
-    "fuente": "Heraldo de León · León"
-  },
-  {
     "titulo": "El turismo crece en septiembre un 5,28% en Valladolid en un mes marcado por las fiestas de San Lorenzo: 49.166 viajeros",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261024/turismo-crece-septiembre-valladolid-mes-marcado-fiestas-san-lorenzo-viajeros/1003744433630_0.html",
     "desc": "El público extranjero representó el 21,40% de los visitantes. Más información: Valladolid se propone aumentar el número de turistas un 25% e internacionalizar la ciudad de aquí a 2027",
@@ -718,30 +742,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384709.jpg?p=w:1706/h:960&h=rjvtkWpp",
     "pub": 1792731600,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "CSIF exige subidas salariales en el sector del automóvil de Castilla y León y una transición \"equilibrada y justa\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/economia/20261022/csif-exige-subidas-salariales-sector-automovil-castilla-leon-transicion-equilibrada-justa/1003744431385_0.html",
-    "desc": "El sindicato independiente reclama compromisos concretos para \"reforzar la competitividad, atraer inversiones e impulsar el Corredor Atlántico\". Más información: CSIF niega que la Junta esté…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11189139.jpg?p=c:3984:2242:nowe:15:502/w:1706/h:960&h=WJlft3jz",
-    "pub": 1792680966,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Segovia busca convertir su industria cárnica en un motor de innovación y turismo: \"Será un núcleo de digitalización\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/segovia/20261022/segovia-busca-convertir-industria-carnica-motor-innovacion-turismo-nucleo-digitalizacion/1003744431257_0.html",
-    "desc": "La Diputación suma a la patronal y a la Cámara de Comercio al centro que pretende modernizar el sector, atraer talento joven y abrir las puertas de granjas e industrias a los visitantes. Más…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384692.jpg?p=w:1706/h:960&h=UhoAj1-9",
-    "pub": 1792676090,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Confirman dos años y medio de cárcel al dueño de los perros de un ataque mortal en Zamora",
-    "link": "https://www.eldiario.es/castilla-y-leon/tribunales/confirman-anos-medio-carcel-dueno-perros-ataque-mortal-zamora_1_13607019.html",
-    "desc": "Los animales mataron a una joven de 27 años de Roales del Pan que fue atacada por perros mastines y de carea leonés en octubre de 2023, cuando paseaba por un camino rural del municipio vecino de La…",
-    "img": "https://static.eldiario.es/clip/b19e44f2-a41e-468a-91a3-947a172d9922_16-9-discover-aspect-ratio_default_0_x637y484.jpg",
-    "pub": 1792675276,
-    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "El Rey, primer visitante del Centro de Interpretación de las Fuentes de La Granja",
