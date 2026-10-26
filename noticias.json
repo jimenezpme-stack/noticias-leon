@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "El nuevo delegado de Defensa en Castilla y León impulsará las relaciones con universidades y centros educativos",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261026/nuevo-delegado-defensa-castilla-leon-marca-reto-fortalecer-relaciones-universidades-centros-educativos/1003744435219_0.html",
+    "desc": "El coronel López Moreno destaca la importancia de que la sociedad valore y se identifique con las Fuerzas Armadas. Más información: El Gobierno invierte casi 4.000 millones en Castilla y León a…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387094.jpg?p=c:3998:2250:nowe:0:0/w:1706/h:960&h=FMSiWg_D",
+    "pub": 1793028673,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "UGT y CCOO llaman a los 30.000 docentes de Castilla y León a la huelga el 4 de noviembre",
+    "link": "https://www.eldiario.es/castilla-y-leon/sociedad/ugt-ccoo-llaman-30-000-docentes-castilla-leon-huelga-4-noviembre_1_13616136.html",
+    "desc": "UGT y CCOO llaman al resto de sindicatos a sumarse a esta jornada de huelga en la comunidad: \"El profesorado sigue esperando sus mejoras\" Cientos de familias protestan frente a la Consejería de…",
+    "img": "https://static.eldiario.es/clip/4c626478-7e91-4c7c-89ac-e64de864600e_16-9-discover-aspect-ratio_default_0_x680y571.jpg",
+    "pub": 1793028423,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "El legado de Mateo Jiménez Murguía, en el Centro del Clima",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/legado-mateo-jimenez-murguia-en-centro-clima_205327_102.html",
+    "desc": "El espacio expositivo de La Vid de Gordón acoge desde este miércoles una exposición que recupera la obra y la vinculación del artista con la comarca",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/25/7/paisaje-de-santa-lucia-obra-de-mateo-jimenez-murguia-l-n-c.jpeg",
+    "pub": 1793027700,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Guardia Civil denuncia a un hombre por maltratar a una mastina que tenía atado con graves lesiones en el cuello",
+    "link": "https://www.eldiario.es/castilla-y-leon/sucesos/guardia-civil-denuncia-hombre-maltratar-mastina-tenia-atado-graves-lesiones-cuello_1_13616021.html",
+    "desc": "El Instituto Armado ha puesto al hombre a disposición de los Juzgados de Burgos y ha trasladado lo sucedido a la Consejería de Agricultura por si hubiera infracciones administrativas Detenida una…",
+    "img": "https://static.eldiario.es/clip/1acee0f8-f0ec-4006-b845-96f04da2d2f8_16-9-discover-aspect-ratio_default_1154222.jpg",
+    "pub": 1793025248,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "Dos implicados en el homicidio de una anciana en Burgos, imputados en otro robo violento",
+    "link": "https://www.eldiario.es/castilla-y-leon/sucesos/implicados-homicidio-anciana-burgos-imputados-robo-violento_1_13615994.html",
+    "desc": "El pasado septiembre, el propietario de un taller recibió una brutal paliza y los supuestos agresores sustrajeron las llaves de su domicilio y su teléfono móvil Prisión sin fianza para dos de los…",
+    "img": "https://static.eldiario.es/clip/5bbf7ebf-f6ba-4a8f-8ef5-fe0ad7d080e4_16-9-discover-aspect-ratio_default_0.jpg",
+    "pub": 1793024689,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "'Campo de fuerzas' de Isabel Fernández gana el Calderón de la Barca de Teatro",
+    "link": "https://www.heraldodeleon.es/cultura/campo-fuerzas-leonesa-isabel-fernandez-gana-calderon-barca-teatro/20261026152214114969.html",
+    "desc": "El jurado del Ministerio de Cultura elige la obra de la dramaturga leonesa, que se llevará 10.000 euros, por \"su sensibilidad y empatía para plasmar una realidad compleja que aborda la idea del…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102615194874367.jpg",
+    "pub": 1793024534,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "Ruiz-Gallardón y Jordi Sevilla, cara a cara este martes en el Conde Luna",
     "link": "https://www.heraldodeleon.es/leon/alberto-ruiz-gallardon-jordi-sevilla-cara-cara-martes-conde-luna-leon/20261026145958114965.html",
     "desc": "Ambos exministros protagonizarán un encuentro de Diálogos para el Desarrollo en el que examinarán el futuro de Europa ante los desafíos económicos y geopolíticos",
@@ -8,7 +56,7 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Los embalses leoneses en la cuenca del Duero se encuentran al 33,4% de su capacidad",
+    "titulo": "Los embalses leoneses se encuentran al 33,4% de su capacidad total",
     "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/embalses-provincia-cuenca-duero-encuentran-334-capacidad/20261026145552114963.html",
     "desc": "El nivel de los sistemas Esla y Órbigo se sitúa por debajo de la media de la última década, mientras que el conjunto de la cuenca del Duero almacena el 39,2% de su capacidad, 3,3 puntos menos que…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/01/22/2025012210510712926.jpg",
@@ -312,22 +360,6 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "El pacto PSOE - Frente Amplio 'cuela' a Laura Fernández como número dos al Senado",
-    "link": "https://www.lanuevacronica.com/actualidad/pacto-psoe-con-frente-amplio-cuela-laura-fernandez-como-numero-dos-senado_205310_102.html",
-    "desc": "La concejala de Izquierda Unida en San Andrés es la elegida para compartir candidatura con Salvador Vidal y Manuel Alfonso en detrimento de la socialista Leticia Martínez",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/66/98/4/registro-de-la-candidatura-de-progreso-en-el-senado-en-leon.jpeg",
-    "pub": 1793014504,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un hombre resulta herido en una colisión entre dos turismos en La Pola de Gordón",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/hombre-resulta-herido-colision-entre-dos-turismos-pola-gordon/20261026123036114914.html",
-    "desc": "El accidente se ha producido a las 11:26 horas en la carretera N-630, a la altura del kilómetro 113 | El herido estaba consciente y se quejaba de un golpe en la cabeza",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/09/09/2025090914120844267.jpg",
-    "pub": 1793014236,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Carbayo exige \"limpieza y transparencia\" ante el 29-N: \"Que no haya maniobras para modificar el censo electoral \"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261026/carbayo-exige-limpieza-transparencia-no-maniobras-modificar-censo-electoral/1003744434740_0.html",
     "desc": "El presidente provincial de los populares desmiente división interna tras los cambios en los cabezas de lista y fija la vivienda, el campo y las infraestructuras como prioridades en Madrid. Más…",
@@ -536,14 +568,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Feijóo exhibe a sus \"arquitectos de la reconstrucción\" frente a la \"colección de aforados bajo sospecha\" de Sánchez",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261025/feijoo-exhibe-arquitectos-reconstruccion-frente-coleccion-aforados-sospecha-sanchez/1003744434057_0.html",
-    "desc": "El presidente del PP ha presidido en Salamanca el acto de presentación de los cabezas de lista del partido en toda España. Más información: Carbayo reclama un Gobierno que \"deje de ignorar\" las…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386432.jpg?p=c:2835:1596:nowe:0:94/w:1706/h:960&h=DdhOaAVP",
-    "pub": 1792933052,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Los pendones leoneses embelesan a Gijón",
     "link": "https://www.heraldodeleon.es/leon/pendones-leoneses-san-lorenzo/20261025135447114761.html",
     "desc": "El espectacular desfile de enseñas de este domingo por el Muro de San Lorenzo de Gijón culmina las celebraciones de la Casa de León en Asturias por San Froilán",
@@ -717,30 +741,6 @@
     "desc": "Los animales mataron a una joven de 27 años de Roales del Pan que fue atacada por perros mastines y de carea leonés en octubre de 2023, cuando paseaba por un camino rural del municipio vecino de La…",
     "img": "https://static.eldiario.es/clip/b19e44f2-a41e-468a-91a3-947a172d9922_16-9-discover-aspect-ratio_default_0_x637y484.jpg",
     "pub": 1792675276,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "La Justicia condena a un funcionario de prisiones por agresión sexual a una reclusa en Salamanca",
-    "link": "https://www.eldiario.es/castilla-y-leon/tribunales/justicia-condena-ocho-anos-carcel-funcionario-prisiones-agresion-sexual-reclusa_1_13606940.html",
-    "desc": "El funcionario condenado se aprovechó de su cargo para agredir sexualmente a la mujer entre septiembre de 2023 y enero de 2024 El colegio del profesor detenido en Madrid por agresión sexual asegura…",
-    "img": "https://static.eldiario.es/clip/cdd9545a-a025-4048-8cd1-0deacbc1415a_16-9-discover-aspect-ratio_default_0.jpg",
-    "pub": 1792674542,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "El Defensor del Pueblo de Castilla y León pide cambiar el protocolo de acoso de la Escuela Taurina de Salamanca",
-    "link": "https://www.eldiario.es/castilla-y-leon/sociedad/defensor-pueblo-castilla-leon-pide-cambiar-protocolo-acoso-escuela-taurina-salmanca_1_13606609.html",
-    "desc": "El Procurador del Común reclama garantizar que una comisión interna no pueda retrasar la comunicación inmediata a las autoridades competentes de los posibles casos de acoso sexual Condenado un joven…",
-    "img": "https://static.eldiario.es/clip/77b44975-8761-41d4-a80c-4113a88cd36c_16-9-discover-aspect-ratio_default_0.jpg",
-    "pub": 1792671142,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "El PP respalda la censura ideológica de Vox al cine en Castilla y León y lo justifica en nombre de la “libertad”",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/pp-respalda-censura-ideologica-vox-cine-castilla-leon-justifica-nombre-libertad-calidad-artistica_1_13606432.html",
-    "desc": "El portavoz de la Junta defiende que una comisión de expertos evalúe los proyectos y opina sobre si 'La bola negra' o 'Torrente' podrían optar a las subvenciones: \"Seguro que sí\" El Gobierno de PP y…",
-    "img": "https://static.eldiario.es/clip/a112e6f5-349c-4e22-854b-a49d501715c4_16-9-discover-aspect-ratio_default_0_x977y322.jpg",
-    "pub": 1792671112,
     "fuente": "eldiario.es · CyL"
   },
   {
