@@ -6,7 +6,7 @@
       "ok": true,
       "items": 15,
       "nuevos": 15,
-      "ts": 1792988229,
+      "ts": 1792990478,
       "con_foto": 10
     },
     {
@@ -20,7 +20,7 @@
       "fuente": "Heraldo de León",
       "url": "https://www.heraldodeleon.es/rss/",
       "ok": false,
-      "error": "omitida, se reintenta en 2h",
+      "error": "omitida, se reintenta en 1h",
       "ts": 1792949920
     },
     {
@@ -36,7 +36,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1792988229,
+      "ts": 1792990478,
       "con_foto": 30
     },
     {
@@ -45,7 +45,7 @@
       "ok": true,
       "items": 29,
       "nuevos": 27,
-      "ts": 1792988229,
+      "ts": 1792990478,
       "con_foto": 27
     },
     {
@@ -54,7 +54,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 1,
-      "ts": 1792988229,
+      "ts": 1792990478,
       "con_foto": 1
     },
     {
@@ -63,56 +63,56 @@
       "ok": true,
       "items": 26,
       "nuevos": 16,
-      "ts": 1792988229,
+      "ts": 1792990478,
       "con_foto": 17
     },
     {
       "fuente": "León4Sport",
       "url": "https://www.leon4sport.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 12h",
+      "error": "omitida, se reintenta en 11h",
       "ts": 1792986029
     },
     {
       "fuente": "Pueblo de León",
       "url": "https://www.puebledeleon.es/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 12h",
+      "error": "omitida, se reintenta en 11h",
       "ts": 1792986029
     },
     {
       "fuente": "León14 Actualidad",
       "url": "https://www.leon14actualidad.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 12h",
+      "error": "omitida, se reintenta en 11h",
       "ts": 1792986029
     },
     {
       "fuente": "Onda Regional",
       "url": "https://www.ondaregional.es/rss/",
       "ok": false,
-      "error": "omitida, se reintenta en 12h",
+      "error": "omitida, se reintenta en 11h",
       "ts": 1792986029
     },
     {
       "fuente": "Televisión CyL",
       "url": "https://www.rtvcyltv.es/rss/",
       "ok": false,
-      "error": "omitida, se reintenta en 12h",
+      "error": "omitida, se reintenta en 11h",
       "ts": 1792986029
     },
     {
       "fuente": "Alfarje",
       "url": "https://alfarje.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 12h",
+      "error": "omitida, se reintenta en 11h",
       "ts": 1792986029
     },
     {
       "fuente": "León Semanal",
       "url": "https://www.leonsemanal.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 12h",
+      "error": "omitida, se reintenta en 11h",
       "ts": 1792986029
     }
   ],
