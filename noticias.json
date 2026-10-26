@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Jandro: \"Le damos la máxima importancia a la Copa\"",
+    "link": "https://www.lanuevacronica.com/deportes/jandro-damos-maxima-importancia-copa_205325_102.html",
+    "desc": "El técnico de la Cultural apunta sobre las críticas que \"o le damos normalidad o estaríamos todo el rato llorando por los pasillos, yo aguanto y entiendo todo, sólo puedo trabajar, que el equipo…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/68/9/la-cultural-mostro-su-mejor-y-peor-cara-ante-el-pontevedra-para-perder-su-primer-partido-en-el-reino-saul-aren-6.jpeg",
+    "pub": 1793033999,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "659 entradas a 15 euros para la Ponferradina en el derbi",
+    "link": "https://www.lanuevacronica.com/deportes/659-entradas-15-euros-ponferradina-en-derbi_205330_102.html",
+    "desc": "La Cultural recibirá el mismo número y al mismo precio en la vuelta / El equipo culturalista pone precios de 20 a 35 euros, con sólo 153 abonados necesitando sacar el suplemento de 20",
+    "img": "https://www.lanuevacronica.com/uploads/s1/25/94/22/2/sau8737.jpeg",
+    "pub": 1793033452,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Cultural reserva un total de 659 entradas para la afición de la Ponferradina a 15 euros",
+    "link": "https://www.heraldodeleon.es/deportes/cultural/cultural-reserva-659-entradas-aficion-ponferradina-15-euros/20261026174220114972.html",
+    "desc": "El acuerdo entre ambos clubes facilita el desplazamiento de los seguidores bercianos al Reino de León el 8 de noviembre y establece las mismas condiciones para el encuentro de la segunda vuelta en…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/06/07/2025060721540884102.jpg",
+    "pub": 1793032940,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Los pensionistas leoneses salen a la calle para reivindicar un sistema público \"sostenible gobierne quien gobierne\"",
+    "link": "https://www.lanuevacronica.com/actualidad/pensionistas-leoneses-salen-calle-reivindicar-sistema-publico-sostenible-gobierne-quien-gobierne_205316_102.html",
+    "desc": "La Coordinadora Pensionista de León se concentra en Botines para poner también el foco en el problema de los desahucios",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/09/4/frame-26pensionistas.jpeg",
+    "pub": 1793032724,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Academia Básica del Aire, pregonera de la Semana Santa de León 2027",
+    "link": "https://www.lanuevacronica.com/semana-santa/academia-basica-aire-pregonera-semana-santa-leon-2027_205328_102.html",
+    "desc": "El coronel director de la ABA, Óscar Ruiz González, será el encargado de proclamar el pregón el sábado 13 de marzo en el Auditorio, tomando el testigo de Carlos García Rioja",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/13/62/7/el-dia-a-dia-en-la-academia-basica-del-aire-de-leon-en-imagenes-5.jpeg",
+    "pub": 1793032581,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Tuna de la Universidad de León conquista Ciudad Real con tres premios nacionales",
+    "link": "https://www.heraldodeleon.es/sociedad/tuna-universidad-leon-conquista-ciudad-real-tres-premios-nacionales/20261026173540114971.html",
+    "desc": "La agrupación leonesa se alza con el galardón a la Mejor Tuna en el segundo certamen nacional y completa su éxito con los reconocimientos a la Mejor Ronda y al Mejor Solista",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102617352414523.jpg",
+    "pub": 1793032540,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "Los 30.000 profesores de Castilla y León, convocados a huelga el 4 de noviembre para exigir mejoras laborales",
     "link": "https://www.elespanol.com/castilla-y-leon/cultura/educacion-y-universidad/20261026/profesores-castilla-leon-convocados-huelga-noviembre-exigir-mejoras-laborales/1003744435341_0.html",
     "desc": "CC.OO. y UGT denuncian la \"falta de avances suficientes en la negociación\" con la Consejería de Educación. Más información : CSIF pide equiparar los sueldos de los docentes de CyL a los de…",
@@ -8,20 +56,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Isabel Blanco prioriza el acceso a la vivienda y la igualdad en un presupuesto que crece un 70% hasta los 257 millones",
+    "titulo": "Isabel Blanco anuncia que el programa Alquiler Seguro sumará 2.000 viviendas al mercado hasta 2030 en Castilla y León",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261026/isabel-blanco-prioriza-acceso-vivienda-igualdad-presupuesto-crece-millones/1003744435298_0.html",
-    "desc": "Las partidas destinadas a Protección Civil y Emergencias crecen un 39,7% hasta los 28,3 millones de euros. Más información: Pollán fusionará los bonos Concilia e Infantil y orientará el tercer…",
+    "desc": "El área de Mujer e Igualdad de Oportunidades aumenta un 27,3 % hasta los 24,1 millones de euros, con el empleo femenino como prioridad. Más información: Pollán fusionará los bonos Concilia e…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387135.jpg?p=c:4001:2250:nowe:0:356/w:1706/h:960&h=zUWaLnN_",
     "pub": 1793030691,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La Academia Básica del Aire, pregonera de la Semana Santa de León 2027",
-    "link": "https://www.lanuevacronica.com/semana-santa/academia-basica-aire-pregonera-semana-santa-leon-2027_205328_102.html",
-    "desc": "El coronel director de la ABA, Óscar Ruiz González, será el encargado de proclamar el pregón el sábado 13 de marzo en el Auditorio, tomando el testigo de Carlos García Rioja",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/13/62/7/el-dia-a-dia-en-la-academia-basica-del-aire-de-leon-en-imagenes-5.jpeg",
-    "pub": 1793030520,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El nuevo delegado de Defensa en Castilla y León impulsará las relaciones con universidades y centros educativos",
@@ -160,14 +200,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Jandro: \"Le damos la máxima importancia a la Copa\"",
-    "link": "https://www.lanuevacronica.com/deportes/jandro-damos-maxima-importancia-copa_205325_102.html",
-    "desc": "El técnico de la Cultural apunta sobre las críticas que \"o le damos normalidad o estaríamos todo el rato llorando por los pasillos, yo aguanto y entiendo todo, sólo puedo trabajar, que el equipo…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/68/9/la-cultural-mostro-su-mejor-y-peor-cara-ante-el-pontevedra-para-perder-su-primer-partido-en-el-reino-saul-aren-6.jpeg",
-    "pub": 1793020663,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Astorga presenta 'La Calabaza Numerada' para celebrar Halloween en familia",
     "link": "https://www.heraldodeleon.es/comarcas/astorga/astorga-presenta-nueva-edicion-calabaza-numerada-celebrar-halloween-familia/20261026141447114950.html",
     "desc": "La actividad se celebrará el viernes 30 de octubre con novedades, música, photocall, regalos y la tradicional chocolatada para las personas que acudan disfrazadas",
@@ -272,14 +304,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Ortega Cano toma el testigo de Revilla y será la estrella del encendido navideño del Azaila 1930",
-    "link": "https://www.lanuevacronica.com/actualidad/ortega-cano-toma-testigo-revilla-sera-estrella-encendido-navideno-azaila-1930_205314_102.html",
-    "desc": "El diestro, que abrió el cartel de la reinauguración de la plaza de toros de León en 1994, estará en el popular café de La Palomera el 2 de diciembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/03/7/jose-ortega-cano.jpeg",
-    "pub": 1793017303,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La traducción de 'Cuentos de la Cábila' se presenta en León",
     "link": "https://www.lanuevacronica.com/lnc-culturas/traduccion-cuentos-cabila-se-presenta-en-leon_205320_102.html",
     "desc": "El primer libro traducido al griego del villafranquino Antonio Pereira será protagonista este jueves en su casa-museo",
@@ -336,22 +360,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Los pensionistas leoneses salen a la calle para reivindicar un sistema público \"sostenible gobierne quien gobierne\"",
-    "link": "https://www.lanuevacronica.com/actualidad/pensionistas-leoneses-salen-calle-reivindicar-sistema-publico-sostenible-gobierne-quien-gobierne_205316_102.html",
-    "desc": "La Coordinadora Pensionista de León se concentra en Botines para poner también el foco en el problema de los desahucios",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/09/4/frame-26pensionistas.jpeg",
-    "pub": 1793016120,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El comercio atlántico durante la Antigüedad Tardía centra una jornada en la ULE",
-    "link": "https://www.heraldodeleon.es/universidad/comercio-atlantico-antiguedad-tardia-centra-jornada-cientifica-ule/20261026130158114930.html",
-    "desc": "La jornada, que tendrá lugar este miércoles a las 9:00 horas, abordará las rutas marítimas, la circulación de mercancías y las relaciones comerciales entre los territorios atlánticos entre los…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102612522923432.jpg",
-    "pub": 1793016118,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "El PP denuncia que la Diputación paga 1.815 euros al mes por una nave de bomberos sin contrato",
     "link": "https://www.lanuevacronica.com/actualidad/pp-denuncia-diputacion-paga-1815-euros-mes-por-nave-bomberos-sin-contrato_205312_102.html",
     "desc": "Tal y como refleja el informe del Interventor de la Diputación se trata de \"la prestación de un servicio que se sigue prestando aunque se ha agotado el período de vigencia del contrato que lo…",
@@ -366,14 +374,6 @@
     "img": "https://www.lanuevacronica.com/uploads/s1/35/67/05/7/maquetas-1-2.jpeg",
     "pub": 1793015746,
     "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Guardia Civil detiene al presunto autor de un hurto de herramientas en Villafañe",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/guardia-civil-detiene-presunto-autor-hurto-herramientas-villafane/20261026124456114916.html",
-    "desc": "Los agentes recuperaron dos motosierras, un soplador, dos baterías y una cadena de corte sustraídos del vehículo profesional de un trabajador",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102612411593110.jpg",
-    "pub": 1793015096,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Condenadas cuatro personas, entre ellas el teniente de alcalde de Castronuño, por destruir un mural antifranquista de Sierra",
