@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Ester Muñoz: \"Los leoneses nunca habíamos pagado más impuestos ni habíamos recibido menos\"",
+    "link": "https://www.lanuevacronica.com/actualidad/ester-munoz-leoneses-nunca-habiamos-pagado-mas-impuestos-ni-habiamos-recibido-menos_205335_102.html",
+    "desc": "El PP de León ha presentado oficialmente en la terraza del Camarote Hotel su lista para el 29-N, encabezada por Ester Muñoz al Congreso y Silvia Franco al Senado",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/44/7/la-candidatura-al-congreso-estara-liderada-por-ester-munoz-de-la-iglesia-actual-portavoz-del-grupo-popular-en-la-camara-baja.jpeg",
+    "pub": 1793046724,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Cendón: \"No tengo ninguna duda de que el PSOE ganará las elecciones en León\"",
     "link": "https://www.lanuevacronica.com/actualidad/cendon-no-tengo-ninguna-duda-psoe-ganara-elecciones-en-leon_205340_102.html",
     "desc": "El secretario general de los socialistas leoneses desborda optimismo al afirmar que \"esto es lo que se palpa en la calle\" y llama a todos sus cargos movilizar al votante \"progresista\" en una reunión…",
@@ -112,14 +120,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Ester Muñoz: \"Los leoneses nunca habíamos pagado más impuestos ni habíamos recibido menos\"",
-    "link": "https://www.lanuevacronica.com/actualidad/ester-munoz-leoneses-nunca-habiamos-pagado-mas-impuestos-ni-habiamos-recibido-menos_205335_102.html",
-    "desc": "El PP de León ha presentado oficialmente en la terraza del Camarote Hotel su lista para el 29-N, encabezada por Ester Muñoz al Congreso y Silvia Franco al Senado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/44/7/la-candidatura-al-congreso-estara-liderada-por-ester-munoz-de-la-iglesia-actual-portavoz-del-grupo-popular-en-la-camara-baja.jpeg",
-    "pub": 1793039981,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Jandro: \"Le damos la máxima importancia a la Copa\"",
     "link": "https://www.lanuevacronica.com/deportes/jandro-damos-maxima-importancia-copa_205325_102.html",
     "desc": "El técnico de la Cultural apunta sobre las críticas que \"o le damos normalidad o estaríamos todo el rato llorando por los pasillos, yo aguanto y entiendo todo, sólo puedo trabajar, que el equipo…",
@@ -158,6 +158,14 @@
     "img": "https://www.lanuevacronica.com/uploads/s1/35/67/46/5/parque-andres-viloria.jpeg",
     "pub": 1793037437,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ester Muñoz acusa a Sánchez de tardar en condenar la violencia en Cataluña y defiende el pacto entre PP y Vox",
+    "link": "https://www.elbierzodigital.com/ester-munoz-acusa-a-sanchez-de-tardar-en-condenar-la-violencia-en-cataluna-y-defiende-el-pacto-entre-pp-y-vox/",
+    "desc": "La portavoz del Partido Popular en el Congreso, Ester Muñoz, criticó la respuesta del presidente del Gobierno, Pedro Sánchez, ante los episodios de violencia registrados en Cataluña. La dirigente…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ester-munoz-acusa-a-sanchez-de-tardar-en-condenar-la-violencia-en-cataluna-y-defiende-el-pacto-entre-pp-y-vox-el-bierzo-digital.jpg",
+    "pub": 1793037348,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "CGT y CCOO amenazan con movilizaciones por la precariedad del transporte sanitario",
@@ -248,6 +256,14 @@
     "fuente": "El Español · CyL"
   },
   {
+    "titulo": "Los aficionados de la Deportiva tendrán 659 entradas para el derbi en León",
+    "link": "https://www.elbierzodigital.com/los-aficionados-de-la-deportiva-tendran-659-entradas-para-el-derbi-en-leon/",
+    "desc": "La Ponferradina y la Cultural Leonesa han llegado a un acuerdo para el reparto de entradas para el derbi que se disputará en el estadio Reino de León el próximo 8 de noviembre, en virtud del cual la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/10/cultural-ponferradina-24-25-el-bierzo-digital-154.jpg",
+    "pub": 1793028901,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "El nuevo delegado de Defensa en Castilla y León impulsará las relaciones con universidades y centros educativos",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261026/nuevo-delegado-defensa-castilla-leon-marca-reto-fortalecer-relaciones-universidades-centros-educativos/1003744435219_0.html",
     "desc": "El coronel López Moreno destaca la importancia de que la sociedad valore y se identifique con las Fuerzas Armadas. Más información: El Gobierno invierte casi 4.000 millones en Castilla y León a…",
@@ -272,12 +288,28 @@
     "fuente": "eldiario.es · CyL"
   },
   {
+    "titulo": "La Tronera y Muna representan al Bierzo en el 25 aniversario de las jornadas Buscasetas",
+    "link": "https://www.elbierzodigital.com/la-tronera-y-muna-representan-al-bierzo-en-el-25-aniversario-de-las-jornadas-buscasetas/",
+    "desc": "Dos restaurantes bercianos, La Tronera , en Villadepalos, y Muna , en Ponferrada, participarán en la XXV edición de las Jornadas Gastronómico-Micológicas Buscasetas-Tierra de Sabor , que se…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-tronera-y-muna-representan-al-bierzo-en-el-25-aniversario-de-las-jornadas-buscasetas-el-bierzo-digital.jpeg",
+    "pub": 1793028391,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "El legado de Mateo Jiménez Murguía, en el Centro del Clima",
     "link": "https://www.lanuevacronica.com/lnc-culturas/legado-mateo-jimenez-murguia-en-centro-clima_205327_102.html",
     "desc": "El espacio expositivo de La Vid de Gordón acoge desde este miércoles una exposición que recupera la obra y la vinculación del artista con la comarca",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/67/25/7/paisaje-de-santa-lucia-obra-de-mateo-jimenez-murguia-l-n-c.jpeg",
     "pub": 1793027700,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada refuerza los autobuses y el control del tráfico por Todos los Santos",
+    "link": "https://www.elbierzodigital.com/ponferrada-refuerza-los-autobuses-y-el-trafico-por-todos-los-santos/",
+    "desc": "El Ayuntamiento de Ponferrada pondrá en marcha un dispositivo especial de transporte público y regulación del tráfico con motivo de la festividad de Todos los Santos , que se celebra el domingo 1 de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-refuerza-los-autobuses-y-el-trafico-por-todos-los-santos-el-bierzo-digital.jpg",
+    "pub": 1793026932,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "La Guardia Civil denuncia a un hombre por maltratar a una mastina que tenía atado con graves lesiones en el cuello",
@@ -392,6 +424,14 @@
     "fuente": "El Español · CyL"
   },
   {
+    "titulo": "La zona infantil de Andrés Viloria vuelve a abrir tras una reparación integral",
+    "link": "https://www.elbierzodigital.com/la-zona-infantil-de-andres-viloria-vuelve-a-abrir-tras-una-reparacion-integral/",
+    "desc": "Los ponferradinos más pequeños ya pueden volver a disfrutar de la zona de juegos infantiles de la calle Andrés Viloria , que reabre al público tras una reparación integral realizada por la Brigada…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-zona-infantil-de-andres-viloria-vuelve-a-abrir-tras-una-reparacion-integral-el-bierzo-digital.jpg",
+    "pub": 1793019445,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Mañueco celebra la apertura de la mayor planta de maíz dulce de Europa en un pueblo de Segovia: “Es un ejemplo\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/segovia/20261026/manueco-celebra-apertura-mayor-planta-maiz-dulce-europa-pueblo-segovia-ejemplo/1003744434684_0.html",
     "desc": "Huercasa ha realizado una inversión de 25 millones de euros. Más información: Las claves del sector agroalimentario de CyL para fijar población: \"Crea empleo y construye proyectos de vida\"",
@@ -406,6 +446,14 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/14/2026091414442553569.jpg",
     "pub": 1793019100,
     "fuente": "Heraldo de León · León"
+  },
+  {
+    "titulo": "Nafti quiere sacarse la espina de la Copa del Rey",
+    "link": "https://www.elbierzodigital.com/llanera-ponferradina-copa-del-rey-previa-2627/",
+    "desc": "La Ponferradina comienza este martes su andadura en la Copa del Rey visitando al Llanera en el Hermanos Antuña de Mieres (20.00 horas) y Nafti ha dejado claro que su intención es llegar lo más lejos…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/nafti-quiere-sacarse-la-espina-de-la-copa-del-rey-el-bierzo-digital.jpg",
+    "pub": 1793018540,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "El Ayuntamiento de Zamora, contra el centro de datos de Monfarracinos: \"Compromete recursos de forma irreversible\"",
@@ -432,12 +480,44 @@
     "fuente": "Heraldo de León · León"
   },
   {
+    "titulo": "Javier Emperador descubre en Castropodame los secretos de la indumentaria berciana",
+    "link": "https://www.elbierzodigital.com/javier-emperador-descubre-secretos-indumentaria-tradicional-berciana-castropodame/",
+    "desc": "Javier Emperador Marcos , etnógrafo, coleccionista y divulgador de la cultura tradicional leonesa, ofreció este domingo una charla en la Casa del Pueblo de Castropodame centrada en la indumentaria…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/javier-emperador-descubre-en-castropodame-los-secretos-de-la-indumentaria-berciana-el-bierzo-digital-1.jpeg",
+    "pub": 1793016089,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Un concierto sanitario con Valdeorras saturaría más el Hospital El Bierzo, piensan los lectores",
+    "link": "https://www.elbierzodigital.com/un-concierto-sanitario-con-valdeorras-saturaria-mas-el-hospital-del-bierzo-piensan-los-lectores/",
+    "desc": "Resultados de la encuesta temporal de El Bierzo Digital. A la pregunta: ¿Cree que el Hospital El Bierzo debería tener concierto con la Sanidad gallega para que los habitantes de Valdeorras puedan…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/valdeorras-alza-la-voz-miles-de-personas-salen-a-la-calle-para-defender-su-sanidad-publica-el-bierzo-digital-1.jpg",
+    "pub": 1793015589,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Turienzo Castañero reúne a acordeonistas de Asturias, Galicia y Castilla y León en su III encuentro musical",
+    "link": "https://www.elbierzodigital.com/turienzo-castanero-reune-a-acordeonistas-de-asturias-galicia-y-castilla-y-leon-en-su-iii-encuentro-musical/",
+    "desc": "Turienzo Castañero celebró este sábado el III Encuentro de Acordeonistas , en el que reunió a músicos profesionales y alumnos de escuelas de música procedentes de diferentes localidades de Asturias,…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/turienzo-castanero-reune-a-acordeonistas-de-asturias-galicia-y-castilla-y-leon-en-su-iii-encuentro-musical-el-bierzo-digital.jpeg",
+    "pub": 1793014652,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Condenadas cuatro personas, entre ellas el teniente de alcalde de Castronuño, por destruir un mural antifranquista de Sierra",
     "link": "https://www.eldiario.es/castilla-y-leon/tribunales/condenadas-cuatro-personas-teniente-alcalde-castronuno-destruir-mural-sierra_1_13615166.html",
     "desc": "Tendrán que indemnizar al pintor con 5.000 euros por eliminar una obra sobre los represaliados El artista Manuel Sierra pide en el juzgado la restitución de su mural sobre la represión franquista…",
     "img": "https://static.eldiario.es/clip/8c3726f8-4832-4ae2-9d73-989554eac5d3_16-9-discover-aspect-ratio_default_0.jpg",
     "pub": 1793014567,
     "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "El Racing de Ferrol envía 406 entradas a la Ponferradina",
+    "link": "https://www.elbierzodigital.com/el-racing-de-ferrol-envia-406-entradas-a-la-ponferradina/",
+    "desc": "Los aficionados de la Ponferradina que quieran acudir este sábado al partido contra el Racing de Ferrol en A Malata ya pueden comprar sus entradas en las oficinas de El Toralín al precio de 15…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-barakaldo-26-27-el-bierzo-digital-28.jpeg",
+    "pub": 1793014264,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Carbayo exige \"limpieza y transparencia\" ante el 29-N: \"Que no haya maniobras para modificar el censo electoral \"",
@@ -448,12 +528,28 @@
     "fuente": "El Español · CyL"
   },
   {
+    "titulo": "PSOE y Frente Amplio sellan su alianza al Senado en León con Salvador Vidal al frente de la candidatura",
+    "link": "https://www.elbierzodigital.com/psoe-y-frente-amplio-sellan-su-alianza-al-senado-en-leon-con-salvador-vidal-al-frente-de-la-candidatura/",
+    "desc": "La coalición electoral Senado de Progreso , formada por el PSOE y Frente Amplio —integrado por Izquierda Unida y Movimiento Sumar—, ha registrado oficialmente ante la Junta Electoral Provincial de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/psoe-y-frente-amplio-sellan-su-alianza-al-senado-en-leon-con-salvador-vidal-al-frente-de-la-candidatura-el-bierzo-digital.jpeg",
+    "pub": 1793013939,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "La Diputación orienta a los ayuntamientos en el refuerzo de su protección digital",
     "link": "https://www.heraldodeleon.es/leon/diputacion-leon-orienta-ayuntamientos-refuerzo-proteccion-digital-frente-ciberataques/20261026122401114913.html",
     "desc": "La institución provincial advierte sobre vulnerabilidades detectadas a escala mundial y ofrece asistencia y herramientas",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102612094676474.jpg",
     "pub": 1793013841,
     "fuente": "Heraldo de León · León"
+  },
+  {
+    "titulo": "El PSOE denuncia que Toral de Merayo sigue sin la cobertura prometida por su nueva antena",
+    "link": "https://www.elbierzodigital.com/el-psoe-denuncia-que-toral-de-merayo-sigue-sin-la-cobertura-prometida-por-su-nueva-antena/",
+    "desc": "El PSOE de Ponferrada ha denunciado que la antena de telefonía instalada en Toral de Merayo sigue sin garantizar la mejora de cobertura móvil e internet esperada por los vecinos, pese a llevar…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/07/toral-de-merayo-ve-mas-cerca-el-fin-de-sus-problemas-de-cobertura-el-bierzo-digital-e1793012800123.jpeg",
+    "pub": 1793012876,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "UPL cuestiona el traslado del mercado de la plaza Mayor por la feria de la trucha",
@@ -472,12 +568,68 @@
     "fuente": "El Español · CyL"
   },
   {
+    "titulo": "Mañueco pide a Valle Ares elevar el prestigio de la Educación en Castilla y León",
+    "link": "https://www.elbierzodigital.com/manueco-pide-a-valle-ares-elevar-el-prestigio-de-la-educacion-en-castilla-y-leon/",
+    "desc": "El presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, ha encomendado a la nueva consejera de Educación, Valle Ares , el reto de \"elevar el nivel y el prestigio\" de un sistema…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/manueco-pide-a-valle-ares-elevar-el-prestigio-de-la-educacion-en-castilla-y-leon-el-bierzo-digital-1.jpeg",
+    "pub": 1793012105,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La Federación de Peñas de la SDP pone rumbo a Ferrol",
+    "link": "https://www.elbierzodigital.com/la-federacion-de-penas-de-la-sdp-pone-rumbo-a-ferrol/",
+    "desc": "La Federación de Peñas de la SD Ponferradina ya prepara el desplazamiento de este sábado 31 de octubre a Ferrol, donde la Deportiva se medirá al Racing a las 16.30 horas. La salida será a las 8:30…",
+    "img": null,
+    "pub": 1793012087,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "¡Payasos diabólicos, bombas explosivas y corazones que laten en la casa del terror de Ponferrada!",
+    "link": "https://www.elbierzodigital.com/payasos-diabolicos-bombas-explosivas-y-corazones-que-laten-en-la-casa-del-terror-de-ponferrada/",
+    "desc": "La casa del terror , ubicada en la avenida de los Andes 54 vuelve a convertirse en uno de los grandes atractivos de Halloween en Ponferrada. Payasos diabólicos, esqueletos bailarines, corazones que…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/payasos-diabolicos-bombas-explosivas-y-corazones-que-laten-en-la-casa-de-los-horrores-de-ponferrada-el-bierzo-digital.jpg",
+    "pub": 1793012061,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Pollán fusionará los bonos Concilia e Infantil y orientará el tercer sector a vulnerables en situación regular en España",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261026/pollan-fusionara-bonos-concilia-infantil-orientara-tercer-sector-vulnerables-situacion-regular-espana/1003744434679_0.html",
     "desc": "El presupuesto de 2027 se incrementa hasta los 182 millones en el ámbito de la Promoción y Apoyo a la Familia y en Atención a la Infancia. Más información: Carriedo anuncia un nuevo fondo para…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386802.jpg?p=c:3997:2250:nowe:0:382/w:1706/h:960&h=AjyXW3sM",
     "pub": 1793011711,
     "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Óscar Puente reclama una atención específica para mejorar la conectividad del medio rural en Castilla y León",
+    "link": "https://www.elbierzodigital.com/oscar-puente-reclama-una-atencion-especifica-para-mejorar-la-conectividad-del-medio-rural-en-castilla-y-leon/",
+    "desc": "El ministro de Transportes y Movilidad Sostenible, Óscar Puente, ha reclamado una \"atención específica\" para las necesidades de Castilla y León en materia de conectividad rural y ha acusado al…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/oscar-puente-reclama-una-atencion-especifica-para-mejorar-la-conectividad-del-medio-rural-en-castilla-y-leon-el-bierzo-digital-1.jpeg",
+    "pub": 1793010349,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El atletismo escolar reúne a 150 jóvenes en Ponferrada con una cantera berciana llena de ilusión",
+    "link": "https://www.elbierzodigital.com/el-atletismo-escolar-reune-a-150-jovenes-en-ponferrada-con-una-cantera-berciana-llena-de-ilusion/",
+    "desc": "El Estadio Colomán Trabado se llenaba de energía este sábado con la I Jornada de Atletismo Escolar , que aglutinaba a unos 150 niños y niñas para inaugurar la temporada. Entre ellos, cerca de 40…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/1_jornada_1-el-bierzo-digital.jpg",
+    "pub": 1793009990,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La Diputación de León activa la alerta contra los ciberataques y ofrece protección a los ayuntamientos",
+    "link": "https://www.elbierzodigital.com/la-diputacion-de-leon-activa-la-alerta-contra-los-ciberataques-y-ofrece-proteccion-a-los-ayuntamientos/",
+    "desc": "La Diputación de León mueve ficha frente a los ciberataques . La institución ha alertado a los ayuntamientos de menos de 20.000 habitantes sobre vulnerabilidades críticas que podrían abrir la puerta…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-diputacion-de-leon-activa-la-alerta-contra-los-ciberataques-y-ofrece-proteccion-a-los-ayuntamientos-el-bierzo-digital.jpeg",
+    "pub": 1793009212,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Ponferrada se llena de rock, arte y ciencia con una agenda para todos los públicos",
+    "link": "https://www.elbierzodigital.com/ponferrada-se-llena-de-rock-arte-y-ciencia-con-una-agenda-para-todos-los-publicos/",
+    "desc": "El cine y el rock toman protagonismo esta semana en La Térmica Cultural y La Fábrica de Luz . Ciuden ha presentado una programación que mezcla música en directo, exposiciones, talleres infantiles y…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-14.jpg",
+    "pub": 1793007272,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Las cabras guisanderas de Ávila conquistan el centro de Madrid tras dos semanas de intensa trashumancia",
@@ -496,12 +648,36 @@
     "fuente": "El Español · CyL"
   },
   {
+    "titulo": "Protección Civil de Carracedelo, premiada por su lucha contra los incendios",
+    "link": "https://www.elbierzodigital.com/proteccion-civil-de-carracedelo-premiada-por-su-lucha-contra-los-incendios/",
+    "desc": "La Agrupación de Protección Civil de Carracedelo ha recibido la Mención Honorífica 2025 de la Junta de Castilla y León por su labor durante la campaña de incendios forestales. El reconocimiento se…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/proteccion-civil-de-carracedelo-premiada-por-su-lucha-contra-los-incendios-el-bierzo-digital.jpg",
+    "pub": 1793006143,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Así lució la ‘Luna del cazador’ sobre el Bierzo",
+    "link": "https://www.elbierzodigital.com/asi-lucio-la-luna-del-cazador-sobre-el-bierzo/",
+    "desc": "La pasada madrugada el Bierzo pudo disfrutar, al menos parcialmente, de la luna llena de octubre, conocida como Luna del cazador , que logró hacerse ver a pesar de las nubes que cubrían el cielo…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Luna-llena-1-el-bierzo-digital.jpg",
+    "pub": 1793005564,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Castilla y León, la segunda tasa más baja de víctimas de violencia de género de España: un 39% inferior a la media",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261026/castilla-leon-segunda-tasa-baja-victimas-violencia-genero-espana-inferior-media/1003744434542_0.html",
     "desc": "La comunidad se mantiene entre los territorios con menor incidencia del país, con 12,2 afectadas por cada 10.000 mujeres, frente a los 20 puntos de media en el conjunto estatal. Más información:…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/7750223.jpg?p=w:1706/h:960&h=vgxzXjfp",
     "pub": 1793005421,
     "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El Bembibre Hockey vence al subcampeón portugués y confirma su progresión en pretemporada",
+    "link": "https://www.elbierzodigital.com/el-bembibre-hockey-vence-al-subcampeon-portugues-y-confirma-su-progresion-en-pretemporada/",
+    "desc": "El Bembibre Hockey regresó de Bragança (Portugal) con una victoria de prestigio tras imponerse por 4-5 al Gulpilhares , subcampeón de la liga portuguesa. El encuentro amistoso permitió al conjunto…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-bembibre-hockey-vence-al-subcampeon-portugues-y-confirma-su-progresion-en-pretemporada-el-bierzo-digital.jpg",
+    "pub": 1793004344,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Lunes de nuevo fresco con temperaturas que no llegarán a los 20 grados en León",
@@ -512,6 +688,14 @@
     "fuente": "Heraldo de León · León"
   },
   {
+    "titulo": "Un hombre de 67 años resulta afectado por inhalación de humo en un incendio en una vivienda de Villafranca del Bierzo",
+    "link": "https://www.elbierzodigital.com/un-hombre-de-65-anos-resulta-afectado-por-inhalacion-de-humo-en-un-incendio-en-una-vivienda-de-villafranca-del-bierzo/",
+    "desc": "Un hombre de 67 años ha resultado afectado por inhalación de humo en un incendio registrado a las 5:42 horas de este lunes en una vivienda de la avenida Paradaseca , en Villafranca del Bierzo. Según…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/un-hombre-de-65-anos-resulta-afectado-por-inhalacion-de-humo-en-un-incendio-en-una-vivienda-de-villafranca-del-bierzo-el-bierzo-digital.jpg",
+    "pub": 1793002296,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Una mujer de 50 años resulta herida tras sufrir un atropello en León capital",
     "link": "https://www.heraldodeleon.es/leon/mujer-50-anos-resulta-herida-sufrir-atropello-leon-capital/20261026085631114818.html",
     "desc": "La víctima, que se encontraba consciente y presentaba diversas contusiones, fue atendida tras el accidente ocurrido a las 06:53 horas en la calle Peña Blanca",
@@ -520,132 +704,12 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "El Procurador del Común pide a la Junta que lleve los comedores del programa Conciliamos a los pueblos",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261026/procurador-comun-pide-junta-lleve-comedores-programa-conciliamos-pueblos/1003744432814_0.html",
-    "desc": "La falta de datos reales sobre la demanda en el medio rural mantiene en el aire la ampliación de este servicio complementario, limitado actualmente a municipios de más de 20.000 habitantes. Más…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11331453.jpg?p=w:1706/h:960&h=tRA9JiYy",
-    "pub": 1792994400,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Eduardo, dueño de una pastelería familiar con más de 50 años de historia: “He crecido entre harinas y dulces”",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261026/eduardo-dueno-pasteleria-familiar-anos-historia-crecido-harinas-dulces-trt/1003744430509_0.html",
-    "desc": "“En 2025 celebramos nuestro 50 aniversario. Llevamos más de medio siglo endulzando la vida de los mirandeses en algo que me llena de orgullo”, afirma nuestro entrevistado. Más información: La mejor…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384248.jpg?p=w:1706/h:960&h=LdA-2fFM",
-    "pub": 1792994400,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Aldeamayor de San Martín, epicentro de la cultura del 6 al 15 de noviembre: \"Todo el público tiene actividades\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261026/aldeamayor-san-martin-epicentro-cultura-noviembre-publico-actividades/1003744434163_0.html",
-    "desc": "La localidad propone juegos tradicionales, teatro y hasta un baño sonoro de relajación para esta cita ya consolidada. Más información : Las calles de Aldeamayor se llenan de actividades culturales…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386488.jpg?p=w:1706/h:960&h=3inrMHI7",
-    "pub": 1792994400,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Diego, el profesor de 22 años que reinventa las clases en Primaria: \"El 95% de los niños prefiere mi simulador al libro\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261026/diego-profesor-anos-reinventa-clases-primaria-ninos-prefiere-simulador-libro-dl/1003744426353_0.html",
-    "desc": "La herramienta, además, ha multiplicado el éxito de los resultados educativos en el grupo de alumnos donde ha podido testearla. Más información : Castilla y León integrará la IA en el currículo del…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11382049.jpg?p=w:1706/h:960&h=tK-bBTwj",
-    "pub": 1792976602,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Ester Muñoz calienta la precampaña: \"El miedo ha cambiado de bando\"",
     "link": "https://www.heraldodeleon.es/leon/ester-munoz-calienta-precampana-junto-feijoo-miedo-ha-cambiado-bando/20261025201447114815.html",
     "desc": "La portavoz del PP en el Congreso y cabeza de lista por León llama desde Salamanca a movilizarse el 29N frente a la corrupción y la continuidad del presidente del Gobierno a quien acusa de…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102519284462679.jpg",
     "pub": 1792955687,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "El PP de León se vuelca con Feijóo y Ester Muñoz para \"reconstruir España\"",
-    "link": "https://www.heraldodeleon.es/leon/pp-leon-vuelca-feijoo-ester-munoz-reconstruir-espana/20261025193443114812.html",
-    "desc": "El PP de León respalda a Feijóo y Ester Muñoz en la presentación de las candidaturas al Congreso del PP en Salamanca León",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102519284462679.jpg",
-    "pub": 1792953283,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Los niños leoneses retratan a la reina Urraca I",
-    "link": "https://www.heraldodeleon.es/leon/ninos-leoneses-retratan-urraca-i/20261025191155114798.html",
-    "desc": "Aitor Márquez, de 8 años, gana el primer premio del concurso de dibujo infantil sobre la monarca leonesa organizado por la UPL y al que se presentaron trabajos de escolares de distintos puntos de la…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102519021844759.jpg",
-    "pub": 1792951915,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Herida la conductora de un patinete tras chocar con un turismo en Antonio Valbuena",
-    "link": "https://www.heraldodeleon.es/leon/herida-conductora-patinete-chocar-turismo-antonio-valbuena/20261025182323114786.html",
-    "desc": "La mujer, de unos 30 años, fue atendida de varias contusiones por los servicios de emergencias de Sacyl tras sufrir el accidente este domingo en León",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/08/08/2025080808315466711.jpg",
-    "pub": 1792949003,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Alantre y Conceyu serán la voz leonesista el 29N con Xosé Antón Fernández como candidato al Congreso",
-    "link": "https://www.heraldodeleon.es/leon/alantre-conceyu-seran-voz-leonesista-29n-xuxo-anton-fernandez-como-candidato/20261025175342114775.html",
-    "desc": "El partido progresista pro autonomía leonesa y el colectivo social&nbsp;logran \"con holgura\" los avales requeridos y se lanzan a la carrera electoral con lista a Congreso",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102517283862110.jpg",
-    "pub": 1792947222,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "La feria Vallaqueso cierra sus puertas tras tres días en los que han recorrido sus expositores más de 8.500 visitantes",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261025/feria-vallaqueso-cierra-puertas-dias-recorrido-expositores-visitantes/1003744434154_0.html",
-    "desc": "Los asistentes han podido elegir entre una gran selección de quesos en los 28 expositores con los que ha contado el evento. Más información: Vallaqueso abre sus puertas para deleitar a los amantes…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386479.jpg?p=w:1706/h:960&h=PLTECpgE",
-    "pub": 1792944472,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Jimena, la niña con raíces en Palencia que viaja a Boston para ayudar a descifrar una enfermedad apenas conocida",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/palencia/20261025/jimena-nina-raices-palencia-viaja-boston-ayudar-descifrar-enfermedad-apenas-conocida/1003744434139_0.html",
-    "desc": "La menor completará un estudio internacional sobre esta enfermedad genética ultrarrara mientras su familia impulsa la asociación Qué Pupilas Más Grandes Tienes. Más información : La vallisoletana…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386473.jpg?p=c:3002:1688:nowe:0:426/w:1706/h:960&h=He9m9Ply",
-    "pub": 1792943244,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Zamora despide a los claretianos 125 años después: \"Gracias por haber sido germen de fe para tantas generaciones\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261025/zamora-despide-claretianos-anos-despues-gracias-germen-fe-generaciones/1003744434122_0.html",
-    "desc": "La Catedral fue el escenario de la eucaristía de acción de gracias y estuvo presidida por el obispo Fernando Varela. Más información : El obispo de Zamora reorganiza la estructura jurídica de la…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386466.jpg?p=w:1706/h:960&h=58l2meLx",
-    "pub": 1792942177,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Los pendones leoneses embelesan a Gijón",
-    "link": "https://www.heraldodeleon.es/leon/pendones-leoneses-san-lorenzo/20261025135447114761.html",
-    "desc": "El espectacular desfile de enseñas de este domingo por el Muro de San Lorenzo de Gijón culmina las celebraciones de la Casa de León en Asturias por San Froilán",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102513272547212.jpg",
-    "pub": 1792932887,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Una marea rosa por las mujeres",
-    "link": "https://www.heraldodeleon.es/leon/marea-rosa-mujeres/20261025120857114725.html",
-    "desc": "6.000 personas se dan cita en la XII Carrera de la Mujer de Almom y tiñen de rosa el domingo en las calles de León contra el cáncer de mama",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/25/2026102512035233114.jpg",
-    "pub": 1792926537,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "La marea verde de la mayor marcha contra el cáncer de España supera los 55.000 andarines en su 15 aniversario",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261025/marea-verde-mayor-marcha-cancer-espana-supera-andarines-aniversario/1003744433994_0.html",
-    "desc": "El alcalde de Valladolid se muestra \"muy orgulloso\" de la respuesta de la sociedad: \"Al cáncer lo vamos a vencer entre todos\". Más información : La marcha contra el cáncer más numerosa de España…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386387.jpg?p=c:4000:2252:nowe:0:208/w:1706/h:960&h=oHjhKk9f",
-    "pub": 1792925061,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El turismo crece en septiembre un 5,28% en Valladolid en un mes marcado por las fiestas de San Lorenzo: 49.166 viajeros",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261024/turismo-crece-septiembre-valladolid-mes-marcado-fiestas-san-lorenzo-viajeros/1003744433630_0.html",
-    "desc": "El público extranjero representó el 21,40% de los visitantes. Más información: Valladolid se propone aumentar el número de turistas un 25% e internacionalizar la ciudad de aquí a 2027",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10728448.jpg?p=c:4000:2252:nowe:0:323/w:1706/h:960&h=xsG3LF7u",
-    "pub": 1792845534,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Los autores de la obra sobre Lorca cancelada por Vox en Valladolid: \"Hablar de lo que pasó choca con lo que llaman neutralidad ideológica\"",
@@ -672,76 +736,12 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "El campo de Castilla y León alerta del virus Shamonda que afecta al vacuno: en Francia ha muerto una persona",
-    "link": "https://www.elespanol.com/castilla-y-leon/economia/el-campo/20261023/campo-castilla-leon-alerta-virus-shamonda-afecta-vacuno-francia-muerto-persona/1003744432720_0.html",
-    "desc": "UCCL pide cautela ante las informaciones sobre posibles contagios a personas y reclama al Ministerio de Agricultura información. Más información: Detectan el virus Shamonda en una explotación bovina…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10043498.jpg?p=c:3092:1739:nowe:0:141/w:1706/h:960&h=1yCWJbBk",
-    "pub": 1792759487,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Prisión sin fianza para dos de los detenidos por la muerte de una anciana maniatada en Burgos",
     "link": "https://www.20minutos.es/castilla-y-leon/burgos/prision-sin-fianza-para-dos-los-detenidos-por-muerte-una-anciana-maniatada-burgos_7052640_0.html",
     "desc": "Según ha informado el Tribunal Superior de Justicia a través de un comunicado remitido este viernes, el tercero de los adultos arrestado ha quedado en libertad, con medidas cautelares.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2021/04/14/archivo-sede-del-tribunal-superior-de-justicia-de-castilla-y-leon-en-burgos.jpeg",
     "pub": 1792757644,
     "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "Mañueco cede al PP de Feijóo a su consejera de Educación para que vaya al Congreso tras cuatro meses en el puesto",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/consejera-educacion-castilla-leon-encabezara-lista-pp-congreso-valladolid_1_13609544.html",
-    "desc": "Mañueco asciende a la secretaria general de Educación para dirigir el área, mientras el alcalde de Valladolid, Jesús Julio Carnero, volverá a presentarse al Senado El presidente del PP de Ávila y de…",
-    "img": "https://static.eldiario.es/clip/76553858-20fc-493a-9fc7-f4ef314a4c57_16-9-discover-aspect-ratio_default_0_x1072y320.jpg",
-    "pub": 1792754180,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "El PSOE cederá el número dos de su candidatura al Senado en Zamora al Frente Amplio",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/psoe-cedera-numero-candidatura-senado-zamora-frente-amplio_1_13609353.html",
-    "desc": "La portavoz socialista en la Diputación de Zamora, Sandra Veleda, renuncia a su puesto para cedérselo a un candidato del Frente Amplio El presidente del PP de Ávila y de la Diputación irá en las…",
-    "img": "https://static.eldiario.es/clip/f917e12c-b45d-4284-a2b4-bbc6f512178e_16-9-discover-aspect-ratio_default_0_x636y413.jpg",
-    "pub": 1792753654,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Prisión sin fianza para dos de los tres adultos detenidos por la muerte de una anciana maniatada en Burgos",
-    "link": "https://www.eldiario.es/castilla-y-leon/tribunales/prision-fianza-tres-adultos-detenidos-muerte-anciana-maniatada-burgos_1_13609319.html",
-    "desc": "Hay dos procedimientos judiciales con seis personas investigadas por el robo con violencia en casa habitada, homicidio y receptación Los Mossos investigan el bulo xenófobo contra dos jóvenes…",
-    "img": "https://static.eldiario.es/clip/b522fd71-6b24-4aa2-81b1-5261ec0bc156_16-9-discover-aspect-ratio_default_0.jpg",
-    "pub": 1792751604,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "El sector audiovisual de Castilla y León pide a PP y Vox que no den las ayudas por la ideología \"atribuida a sus autores\"",
-    "link": "https://www.eldiario.es/castilla-y-leon/cultura/sector-audiovisual-castilla-leon-pide-pp-vox-no-den-ayudas-ideologia-atribuida-autores_1_13608642.html",
-    "desc": "A pesar de las críticas, las asociaciones reclaman que no se impugne o anule la convocatoria porque la paralización de las ayudas podría \"perjudicar\" al tejido audiovisual Cultura da el primer paso…",
-    "img": "https://static.eldiario.es/clip/911a129d-69c6-43b4-a444-10914da4f420_16-9-discover-aspect-ratio_default_0_x1509y511.jpg",
-    "pub": 1792744874,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Astibot, la empresa de Valladolid que ha enseñado a un robot a podar viñedos",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261023/astibot-empresa-valladolid-ensenado-robot-podar-vinedos/1003744431277_0.html",
-    "desc": "La compañía dirigida por Felipe Beteta, que cuenta con 25 trabajadores, ultima la comercialización de TrimBot, un sistema autónomo de poda basado en IA. La escasez de profesionales especializados…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384709.jpg?p=w:1706/h:960&h=rjvtkWpp",
-    "pub": 1792731600,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "CSIF exige subidas salariales en el sector del automóvil de Castilla y León y una transición \"equilibrada y justa\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/economia/20261022/csif-exige-subidas-salariales-sector-automovil-castilla-leon-transicion-equilibrada-justa/1003744431385_0.html",
-    "desc": "El sindicato independiente reclama compromisos concretos para \"reforzar la competitividad, atraer inversiones e impulsar el Corredor Atlántico\". Más información: CSIF niega que la Junta esté…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11189139.jpg?p=c:3984:2242:nowe:15:502/w:1706/h:960&h=WJlft3jz",
-    "pub": 1792680966,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Segovia busca convertir su industria cárnica en un motor de innovación y turismo: \"Será un núcleo de digitalización\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/segovia/20261022/segovia-busca-convertir-industria-carnica-motor-innovacion-turismo-nucleo-digitalizacion/1003744431257_0.html",
-    "desc": "La Diputación suma a la patronal y a la Cámara de Comercio al centro que pretende modernizar el sector, atraer talento joven y abrir las puertas de granjas e industrias a los visitantes. Más…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384692.jpg?p=w:1706/h:960&h=UhoAj1-9",
-    "pub": 1792676090,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "El Rey, primer visitante del Centro de Interpretación de las Fuentes de La Granja",
