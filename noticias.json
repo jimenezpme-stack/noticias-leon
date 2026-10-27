@@ -1,11 +1,35 @@
 [
   {
+    "titulo": "La Deportiva tendrá que reconstruir el centro del campo para Ferrol",
+    "link": "https://www.lanuevacronica.com/deportes/deportiva-tendra-reconstruir-centro-campo-ferrol_205386_102.html",
+    "desc": "Fede San Emeterio vio su quinta amarilla ante el Barakaldo, cumpliendo así sanción ante el Racing de Ferrol este fin de semana, pero asegurándose el estar ante la Cultural del próximo día 8",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/05/7/ponferradina-y-barakaldo-empatan-en-el-toralin-22.jpeg",
+    "pub": 1793132452,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Ademar cruza los dedos con Lodos",
+    "link": "https://www.lanuevacronica.com/deportes/ademar-cruza-dedos-con-lodos_205380_102.html",
+    "desc": "El lateral será sometido este miércoles a una resonancia para conocer el alcance exacto de su lesión de rodilla, con las primeras exploraciones generando optimismo en que se evite la máxima gravedad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/08/0/lodos-alicante.jpeg",
+    "pub": 1793132411,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Bomberos León retira un cartel con riesgo de caída en Álvaro López Núñez",
     "link": "https://www.heraldodeleon.es/leon/bomberos-leon-retira-cartel-riesgo-caida-alvaro-lopez-nunez/20261027210031115193.html",
     "desc": "La actuación, coordinada con la Policía Local, se activó tras las advertencias de varios vecinos por el peligro que presentaba la estructura de un negocio cerrado &nbsp;",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102720582029441.jpg",
     "pub": 1793131231,
     "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Abascal acusa sin pruebas al subdelegado del Gobierno en Zamora de estar \"detrás\" de una protesta contra el acto de Vox",
+    "link": "https://www.eldiario.es/castilla-y-leon/politica/abascal-acusa-pruebas-subdelegado-gobierno-zamora-detras-protesta-acto-vox_1_13619957.html",
+    "desc": "Abascal ha acusado a Pedro Sánchez de mandar un mensaje \"guerracivilista\" y se refiere al conflicto bélico como \"un enfrentamiento fratricida y horrible entre españoles\" ENCUESTA - El bloque de…",
+    "img": "https://static.eldiario.es/clip/aab33a15-325f-4db2-9e7d-d85f86a35d0d_16-9-discover-aspect-ratio_default_0_x546y880.jpg",
+    "pub": 1793130886,
+    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "Ponferrada visibiliza el TDAH y demanda una sociedad más inclusiva",
@@ -24,7 +48,7 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "🔴 Directo |  Copa | Segoviana 0-1 Cultural | Llanera 0-1 Ponferradina",
+    "titulo": "🔴 Directo |  Copa | Segoviana 0-1 Cultural (final) | Llanera 1-1 Ponferradina (prórroga)",
     "link": "https://www.heraldodeleon.es/deportes/cultural/directo-copa-rey-segoviana-cultural/20261027195221115187.html",
     "desc": "Cultural y Ponferradina se juegan el pase en la Copa del Rey ante la Segoviana y el Llanera",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102720482057161.jpg",
@@ -416,22 +440,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La Catedral de León estrena página web: \"Cualquiera puede encontrar lo que busca\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/catedral-leon-estrena-pagina-web-cualquiera-puede-encontrar-busca_205389_102.html",
-    "desc": "El proyecto ha sido desarrollado por Leonconecta y cuenta con multitud de información sobre el templo, su agenda cultural y los tipos de visita",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/26/7/frame-27webcatedral.jpeg",
-    "pub": 1793105857,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Albia León: cómo ha evolucionado la forma de despedir a un ser querido y qué servicios demandan hoy las familias",
-    "link": "https://www.lanuevacronica.com/estilo-vida/albia-leon-como-ha-evolucionado-forma-despedir-ser-querido-servicios-demandan-hoy-familias_205390_102.html",
-    "desc": "La forma de despedir a un ser querido ha cambiado de manera significativa en los últimos años. Hoy en día, las familias buscan ceremonias más personalizadas, en las que se preste más atención a los…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/24/5/mourning-loss-with-support-and-remembrance-2026-09-24-16-03-02-utc.jpeg",
-    "pub": 1793105364,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Detenida una madre por llevarse a sus tres hijos tras haber perdido la tutela: la abuela y un vecino, investigados",
     "link": "https://www.20minutos.es/castilla-y-leon/zamora/detenida-una-madre-por-llevarse-sus-tres-hijos-tras-haber-perdido-tutela-abuela-un-vecino-investigados_7053990_0.html",
     "desc": "Los Servicios Sociales habían asumido la tutela de los tres menores y, tras comunicárselo a la madre, ella abandonó el domicilio habitual llevándose a los menores.",
@@ -733,14 +741,6 @@
     "desc": "Isabel Blanco ha recordado que algunas líneas de ayuda como las del alquiler se vincularán a un \"arraigo real y verificable\" en Castilla y León \"dentro de la legalidad vigente\": \"Cualquier persona…",
     "img": "https://static.eldiario.es/clip/6cf0e50c-e9b4-47cf-bfe4-ccac8c1aa21a_16-9-discover-aspect-ratio_default_0_x832y310.jpg",
     "pub": 1793045751,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "La Dirección General de Desregulación de Castilla y León: un presupuesto de 700.000 euros \"con más jefes que remeros\"",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/direccion-general-desregulacion-castilla-leon-presupuesto-700-000-euros-jefes-remeros_1_13616229.html",
-    "desc": "El portavoz de Soria Ya ha afeado que pretendan optimizar el gasto cuando toda la partida de Desregulación se destina a pagar a ocho \"funcionarios\" y que dos de ellos sean los que \"llevan los…",
-    "img": "https://static.eldiario.es/clip/7febcffd-2c11-4d45-bb3b-4ef2473b26d7_16-9-discover-aspect-ratio_default_0_x949y191.jpg",
-    "pub": 1793032518,
     "fuente": "eldiario.es · CyL"
   },
   {
