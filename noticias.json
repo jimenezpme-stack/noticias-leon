@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "El restaurante en el que siempre para Cayetana Guillén Cuervo: tienen codillo asado, salchichas alemanas y sopas de ajo",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261027/restaurante-siempre-cayetana-guillen-cuervo-codillo-asado-salchichas-alemanas-sopas-ajo-trt/1003744435106_0.html",
+    "desc": "La presidenta de la Academia de las Artes Escénicas de España vuelve a la capital del Pisuerga durante la Seminci. Más información : Luis Tosar saborea uno de los mejores platos típicos de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387105.png?p=c:668:376:nowe:15:0/w:1706/h:960&h=UEXImadi",
+    "pub": 1793080800,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El municipio de 570 habitantes que es Pueblo Europeo de la Navidad: mercado navideño y más de 80.000 luces",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261027/municipio-habitantes-pueblo-europeo-navidad-mercado-navideno-luces-trt/1003744435355_0.html",
+    "desc": "El encendido tendrá lugar el 21 de noviembre y marcará el inicio de una campaña que espera atraer a miles de visitantes. Más información : El alumbrado navideño de un pueblo de León conquista al rey…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387188.jpg?p=w:1706/h:960&h=fUqp9sr2",
+    "pub": 1793080800,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "La gran feria del queso y el vino ideal para visitar Baltanás el 30 y 31 de octubre: con 22 puestos, catas y mucha solidaridad",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/palencia/20261027/gran-feria-queso-vino-ideal-visitar-baltanas-octubre-puestos-catas-mucha-solidaridad/1003744431615_0.html",
+    "desc": "Una cita que va a combinar degustaciones, actividades culturales, propuestas familiares y que contará también con una importante vertiente solidaria. Más información: Mañueco inaugura el nuevo…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384909.jpg?p=w:1706/h:960&h=jyDOm_Nb",
+    "pub": 1793080800,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Un tercer terremoto vuelve a sacudir El Bierzo en once días, con epicentro en Benuza",
     "link": "https://www.lanuevacronica.com/sucesos/tercer-terremoto-vuelve-sacudir-bierzo-en-once-dias-con-epicentro-en-benuza_205353_102.html",
     "desc": "El IGN registró el movimiento de magnitud 2,6 este lunes a las 21.32 horas, después de los seísmos del 15 y el 23 de octubre",
@@ -144,14 +168,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "El trágico final del torero Andrés Hernando, triunfador en las principales plazas de España, en la carretera N-110",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20261026/tragico-final-torero-andres-hernando-triunfador-principales-plazas-espana-carretera-n-110/1003744435714_0.html",
-    "desc": "El matador de toros ha perdido la vida en una colisión entre el turismo que conducía y un autobús de pasajeros en la provincia de Ávila. Más información : El torero Andrés Hernando es el fallecido…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387409.jpg?p=w:1706/h:960&h=hDSF2Bn-",
-    "pub": 1793048394,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Vox afea a la vicepresidenta de Castilla y León del PP que obvie la ‘prioridad nacional’ en el acceso a la vivienda",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/vox-afea-vicepresidenta-castilla-leon-pp-obvie-prioridad-nacional-prioridades_1_13617008.html",
     "desc": "Isabel Blanco ha recordado que algunas líneas de ayuda como las del alquiler se vincularán a un \"arraigo real y verificable\" en Castilla y León \"dentro de la legalidad vigente\": \"Cualquier persona…",
@@ -246,6 +262,14 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102618404289558.jpg",
     "pub": 1793036514,
     "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El torero Andrés Hernando es el fallecido de la colisión entre un coche y un autobús en la N-110",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20261026/colision-n-110-autobus-pasajeros-coche-deja-conductor-turismo-atrapado-inconsciente/1003744435495_0.html",
+    "desc": "Los hechos han ocurrido en el término municipal de La Colilla (Ávila). Más información : Hospitalizado un menor tras electrocutarse con una catenaria en la estación de tren de Navalperal de Pinares",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387412.jpg?p=c:3112:1752:nowe:169:0/w:1706/h:960&h=-ehetaxe",
+    "pub": 1793036038,
+    "fuente": "El Español · CyL"
   },
   {
     "titulo": "El PP reivindica a Feijóo y convierte el 29N en un examen a Pedro Sánchez",
@@ -672,36 +696,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Muere a los 85 años el director salmantino José Luis García Sánchez, guionista de la película con un Oscar 'Belle Époque'",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261026/muere-anos-director-salmantino-jose-luis-garcia-sanchez-guionista-goyas-oso-oro/1003744434559_0.html",
-    "desc": "El realizador de 'Las truchas' y 'La corte de Faraón', ganador de dos Goyas y de la Espiga de Honor de la Seminci, fallece en Madrid tras casi seis décadas dedicadas a la cinematografía. Más…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386747.jpg?p=w:1706/h:960&h=ra_SJPF8",
-    "pub": 1793006188,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Protección Civil de Carracedelo, premiada por su lucha contra los incendios",
     "link": "https://www.elbierzodigital.com/proteccion-civil-de-carracedelo-premiada-por-su-lucha-contra-los-incendios/",
     "desc": "La Agrupación de Protección Civil de Carracedelo ha recibido la Mención Honorífica 2025 de la Junta de Castilla y León por su labor durante la campaña de incendios forestales. El reconocimiento se…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/proteccion-civil-de-carracedelo-premiada-por-su-lucha-contra-los-incendios-el-bierzo-digital.jpg",
     "pub": 1793006143,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Así lució la ‘Luna del cazador’ sobre el Bierzo",
-    "link": "https://www.elbierzodigital.com/asi-lucio-la-luna-del-cazador-sobre-el-bierzo/",
-    "desc": "La pasada madrugada el Bierzo pudo disfrutar, al menos parcialmente, de la luna llena de octubre, conocida como Luna del cazador , que logró hacerse ver a pesar de las nubes que cubrían el cielo…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Luna-llena-1-el-bierzo-digital.jpg",
-    "pub": 1793005564,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Castilla y León, la segunda tasa más baja de víctimas de violencia de género de España: un 39% inferior a la media",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261026/castilla-leon-segunda-tasa-baja-victimas-violencia-genero-espana-inferior-media/1003744434542_0.html",
-    "desc": "La comunidad se mantiene entre los territorios con menor incidencia del país, con 12,2 afectadas por cada 10.000 mujeres, frente a los 20 puntos de media en el conjunto estatal. Más información:…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/7750223.jpg?p=w:1706/h:960&h=vgxzXjfp",
-    "pub": 1793005421,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Lunes de nuevo fresco con temperaturas que no llegarán a los 20 grados en León",
