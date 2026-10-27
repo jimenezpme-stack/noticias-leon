@@ -1,18 +1,82 @@
 [
   {
+    "titulo": "Castilla y León destinará 12,6 millones a financiar la primera matrícula universitaria",
+    "link": "https://www.elbierzodigital.com/castilla-y-leon-destinara-126-millones-a-financiar-la-primera-matricula-universitaria/",
+    "desc": "La Junta de Castilla y León destinará 12,6 millones de euros en 2027 a financiar la primera matrícula universitaria de los estudiantes empadronados en la Comunidad . La medida forma parte de las…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-27-191012-el-bierzo-digital.jpg",
+    "pub": 1793125137,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Soria ¡Ya! presenta una candidatura al 29-N \"para ganar\" y defender la provincia \"sin tutelas\" en Madrid",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/soria/20261027/soria-presenta-candidatura-pensada-ganar-defender-provincia-sin-tutelas-madrid/1003744437193_0.html",
+    "desc": "Juan Antonio Palomar encabeza la lista al Congreso y David Romera la del Senado para las elecciones generales. Más información: Soria ¡Ya! presenta a sus cuatro candidatos para Congreso y Senado: de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388362.jpg?p=c:3997:2250:nowe:0:377/w:1706/h:960&h=cis23rrg",
+    "pub": 1793124964,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Aurora, la vecina de Boñar que al fin puede salir de su casa tres meses después",
+    "link": "https://www.lanuevacronica.com/actualidad/aurora-vecina-bonar-fin-puede-salir-su-casa-tres-meses-despues_205394_102.html",
+    "desc": "La solidaridad de sus vecinos, una campaña de financiación colectiva y el impulso de la periodista Susana Teixeira han permitido instalar una barandilla para que la mujer, de 89 años, pueda volver a…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/35/7/image.jpeg",
+    "pub": 1793124647,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Astorga y Lugo sellan su hermanamiento cinematográfico en el Teatro Gullón",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/astorga-lugo-sellan-su-hermanamiento-cinematografico-en-teatro-gullon_205413_102.html",
+    "desc": "Ambas ciudades refuerzan la colaboración entre sus festivales de cine con la firma de un protocolo y el descubrimiento de una placa conmemorativa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/14/1/astorga-y-lugo-sellan-su-hermanamiento-cinematografico-en-el-teatro-gullon.jpeg",
+    "pub": 1793124580,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Pozo Julia abrirá el 2 de noviembre",
+    "link": "https://www.elbierzodigital.com/el-pozo-julia-abrira-el-2-de-noviembre/",
+    "desc": "El Pozo Julia abrirá excepcionalmente el lunes durante el puente de Todos los Santos, pese a que habitualmente permanece cerrado ese día de la semana. El espacio minero mantendrá sus dos pases…",
+    "img": null,
+    "pub": 1793124205,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "EN DIRECTO | Llanera-Ponferradina",
+    "link": "https://www.elbierzodigital.com/directo-llanera-ponferradina-copa-del-rey-2627/",
+    "desc": "Sigue en directo el Llanera-Ponferradina de la primera eliminatoria de la Copa del Rey. El partido comienza a las 20.00 horas en el estadio Hermanos Antuña de Mieres. La entrada EN DIRECTO |…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/en-directo-llanera-ponferradina-el-bierzo-digital.jpg",
+    "pub": 1793124042,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "'Un paseo por la literatura' de la mano del leonés Andrés Trapiello",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/un-paseo-por-literatura-mano-leones-andres-trapiello_205411_102.html",
+    "desc": "El novelista, poeta y editor se convertirá en protagonista del salón de actos de Alfonso V el próximo 5 de noviembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/09/5/el-novelista-poeta-y-editor-leones-andres-trapiello-juan-lazaro-ical.jpeg",
+    "pub": 1793123653,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Rogelio Blanco abordará la historia de León como tierra de libertades",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/rogelio-blanco-abordara-historia-leon-como-tierra-libertades_205410_102.html",
+    "desc": "La Casona de San Feliz de Torío será este jueves escenario para una conferencia en torno a uno de los ensayos del autor",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/08/0/imagen-de-archivo-del-autor-rogelio-blanco-peio-garcia-ical.gif",
+    "pub": 1793123465,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Mañueco pide acabar con ocho años de \"mentiras y corrupción\" el 29-N y asegura que España \"necesita\" a Feijóo",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/palencia/20261027/manueco-pide-acabar-anos-mentiras-corrupcion-asegura-espana-necesita-feijoo/1003744437064_0.html",
+    "desc": "El presidente del PP de Castilla y León apuesta en Palencia por derribar el \"muro infame del sanchismo\" y \"superar esta etapa aciaga\". Más información: Mañueco pide ir \"pueblo a pueblo, derribar el…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388348.jpg?p=c:1885:1060:nowe:0:65/w:1706/h:960&h=kDswNGyz",
+    "pub": 1793123197,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Los arquitectos vuelven a abrir las puertas de León",
     "link": "https://www.lanuevacronica.com/lnc-culturas/arquitectos-vuelven-abrir-puertas-leon_205408_102.html",
     "desc": "El Coal celebrará la tercera edición del ciclo entre los días 6 y 8 de noviembre, abriendo las inscripciones desde este mismo miércoles a través de su página web oficial",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/69/01/7/los-participantes-de-una-edicion-anterior-del-ciclo-impulsado-desde-el-colegio-oficial-de-arquitectos-de-leon-coal.jpeg",
     "pub": 1793122589,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La alubia será la gran protagonista durante noviembre en La Bañeza",
-    "link": "https://www.lanuevacronica.com/actualidad/alubia-sera-gran-protagonista-durante-noviembre-en-baneza_205404_102.html",
-    "desc": "Veinte establecimientos hosteleros, dos más que el año pasado, participarán en la tercera edición de unas jornadas que se celebrarán del 1 al 30 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/91/7/la-alubia-sera-la-gran-protagonista-durante-noviembre-en-la-baneza.jpeg",
-    "pub": 1793122378,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -104,28 +168,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Aurora, la vecina de Boñar que al fin puede salir de su casa tres meses después",
-    "link": "https://www.lanuevacronica.com/actualidad/aurora-vecina-bonar-fin-puede-salir-su-casa-tres-meses-despues_205394_102.html",
-    "desc": "La solidaridad de sus vecinos, una campaña de financiación colectiva y el impulso de la periodista Susana Teixeira han permitido instalar una barandilla para que la mujer, de 89 años, pueda volver a…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/35/7/image.jpeg",
-    "pub": 1793117551,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La UPSA se suma a la red de amigos de TecnoVitae y abre a sus estudiantes las puertas del concurso 3x3",
     "link": "https://www.elespanol.com/castilla-y-leon/economia/20261027/upsa-suma-red-amigos-tecnovitae-abre-estudiantes-puertas-concurso/1003744436877_0.html",
     "desc": "El acuerdo permitirá que los estudiantes de la Universidad Pontificia de Salamanca participen en esta edición del concurso 3x3 TecnoVitae. Más información: TecnoVitae reta a los universitarios de…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388149.jpg?p=c:3480:1959:nowe:0:298/w:1706/h:960&h=TDSFnobI",
     "pub": 1793115305,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Ferduero firma inversiones por 105 millones para modernizar 6.860 hectáreas de regadío",
-    "link": "https://www.lanuevacronica.com/actualidad/ferduero-firma-inversiones-casi-78-millones-modernizar-15400-hectareas-regadio_205381_102.html",
-    "desc": "Los convenios suscritos con Seiasa y la Junta de Castilla y León beneficiarán a cerca de 1.253 regantes de León, Zamora y Palencia, con una inversión de más de 24,2 millones para el Canal del Esla",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/09/8/ferduero-firma-inversiones-de-casi-78-millones-para-modernizar-15-400-hectareas-de-regadio.jpeg",
-    "pub": 1793114941,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Justicia obliga a las universidades públicas de Castilla y León a reanudar la negociación colectiva",
@@ -360,7 +408,7 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "El PP advierte irregularidades en la nueva ordenanza de basura con una subida del 4,5%",
+    "titulo": "El PP ve 'sobradas razones' para rechazar la ordenanza de basura con una subida del 4,5%",
     "link": "https://www.heraldodeleon.es/leon/pp-advierte-irregularidades-nueva-ordenanza-basura-que-subira-tasa-45/20261027131919115118.html",
     "desc": "David Fernández cargó contra la&nbsp;ordenanza que este miércoles será aprobada&nbsp;por el PSOE con la abstención de UPL para sumarse a la subida del 20% del precio del agua",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102713133947968.jpg",
@@ -390,14 +438,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387884.jpg?p=w:1706/h:960&h=E_S7p8V3",
     "pub": 1793102863,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Cruz Roja pide derribar los prejuicios que dificultan el acceso al empleo en El Bierzo",
-    "link": "https://www.lanuevacronica.com/el-bierzo/cruz-roja-pide-derribar-prejuicios-dificultan-acceso-empleo-en-bierzo_205382_102.html",
-    "desc": "La campaña 'Contrata Sin' llegó a la Feria de Empleo de Ponferrada para visibilizar las barreras laborales vinculadas a la edad, el género o el origen",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/12/0/accion-empleo-ponferrada-4.jpeg",
-    "pub": 1793102231,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "18 millones de euros para la modernización de 11.000 hectáreas del Canal del Esla",
@@ -672,52 +712,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Cendón pide concentrar el voto en su partido y se muestra confiado en las generales en León",
-    "link": "https://www.elbierzodigital.com/cendon-pide-concentrar-el-voto-en-su-partido-y-se-muestra-confiado-en-las-generales-en-leon/",
-    "desc": "El PSOE de León ha iniciado los preparativos de la campaña para las elecciones generales del próximo 29 de noviembre con la primera reunión de su Comité de Campaña, celebrada este lunes en la Sala…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/cendon-pide-concentrar-el-voto-en-su-partido-y-se-muestra-confiado-en-las-generales-en-leon-el-bierzo-digital.jpeg",
-    "pub": 1793088608,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Registrado un terremoto de magnitud 2,6 con epicentro al noreste de León",
     "link": "https://www.20minutos.es/castilla-y-leon/leon/registrado-un-terremoto-magnitud-2-6-con-epicentro-noreste-leon_7053797_0.html",
     "desc": "La profundidad indicada es de cero kilómetros, según ha informado la Subdelegación del Gobierno a través de sus canales de difusión.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/27/6ae05a28bc03a7-91192280.jpeg",
     "pub": 1793088184,
     "fuente": "20minutos León"
-  },
-  {
-    "titulo": "Natividad, la mujer que mantiene en marcha el Hospital El Bierzo sin perder sus raíces en Toreno",
-    "link": "https://www.elbierzodigital.com/natividad-la-mujer-que-mantiene-en-marcha-el-hospital-el-bierzo-sin-perder-sus-raices-en-toreno/",
-    "desc": "María Natividad Catalina Pérez, conocida como Natividad , lleva más de veinte años contribuyendo al funcionamiento del Hospital El Bierzo desde un oficio que pocas veces ocupa titulares, pero que…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/mari-la-mujer-que-convirtio-el-bar-de-arganza-en-el-corazon-de-todo-un-pueblo-el-bierzo-digital-3.jpeg",
-    "pub": 1793088024,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Rubén Estévez encabezará la candidatura de Frente Amplio por León el 29N",
-    "link": "https://www.elbierzodigital.com/ruben-estevez-encabezara-la-candidatura-de-frente-amplio-por-leon-el-29n/",
-    "desc": "Frente Amplio concurrirá a las elecciones generales del próximo 29 de noviembre por la provincia de León con Rubén Estévez como cabeza de lista. La candidatura reúne perfiles vinculados a la…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ruben-estevez-encabezara-la-candidatura-de-frente-amplio-por-leon-el-29n-el-bierzo-digital.webp",
-    "pub": 1793086243,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Jaime Alonso encabezará la lista de Vox al Senado por León y Pablo Calvo optará al Congreso",
-    "link": "https://www.elbierzodigital.com/jaime-alonso-encabezara-la-lista-de-vox-al-senado-por-leon-y-pablo-calvo-optara-al-congreso/",
-    "desc": "Jaime Alonso Gila encabezará la candidatura de Vox al Senado por la provincia de León en las elecciones generales del próximo 29 de noviembre , mientras que Pablo Juan Calvo Liste será el cabeza de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/vox-recurre-a-sus-cargos-municipales-para-las-listas-al-senado-en-castilla-y-leon-el-bierzo-digital-e1793091560328.jpeg",
-    "pub": 1793084471,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Casi un año tras la firma del convenio de mejora de colegios, los 8 millones previstos se diluyen en burocracia con un inicio de curso sin grandes obras",
-    "link": "https://www.heraldodeleon.es/leon/casi-ano-firma-convenio-mejora-centros-docentes-8-millones-colegios-leon-diluyen-burocracia-inicio-curso-obras/20261027075410115021.html",
-    "desc": "Familias y los propios centros lamentan que la inversión de la Junta y el Ayuntamiento, cuya entrada en vigor era inmediata, siga sin poner un solo ladrillo en las aulas de los 19 centros públicos…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102707491062392.jpg",
-    "pub": 1793084050,
-    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Muere una mujer y dos hombres resultan heridos en un atropello en Valladolid",
