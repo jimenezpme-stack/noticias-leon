@@ -1,11 +1,35 @@
 [
   {
+    "titulo": "Aurora, la vecina de Boñar que al fin puede salir de su casa tres meses después",
+    "link": "https://www.lanuevacronica.com/actualidad/aurora-vecina-bonar-fin-puede-salir-su-casa-tres-meses-despues_205394_102.html",
+    "desc": "La solidaridad de sus vecinos, una campaña de financiación colectiva y el impulso de la periodista Susana Teixeira han permitido instalar una barandilla para que la mujer, de 89 años, pueda volver a…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/35/7/image.jpeg",
+    "pub": 1793116416,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La UPSA se suma a la red de amigos de TecnoVitae y abre a sus estudiantes las puertas del concurso 3x3",
+    "link": "https://www.elespanol.com/castilla-y-leon/economia/20261027/upsa-suma-red-amigos-tecnovitae-abre-estudiantes-puertas-concurso/1003744436877_0.html",
+    "desc": "El acuerdo permitirá que los estudiantes de la Universidad Pontificia de Salamanca participen en esta edición del concurso 3x3 TecnoVitae. Más información: TecnoVitae reta a los universitarios de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388149.jpg?p=c:3480:1959:nowe:0:298/w:1706/h:960&h=TDSFnobI",
+    "pub": 1793115305,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Ferduero firma inversiones por 105 millones para modernizar 6.860 hectáreas de regadío",
     "link": "https://www.lanuevacronica.com/actualidad/ferduero-firma-inversiones-casi-78-millones-modernizar-15400-hectareas-regadio_205381_102.html",
     "desc": "Los convenios suscritos con Seiasa y la Junta de Castilla y León beneficiarán a cerca de 1.253 regantes de León, Zamora y Palencia, con una inversión de más de 24,2 millones para el Canal del Esla",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/68/09/8/ferduero-firma-inversiones-de-casi-78-millones-para-modernizar-15-400-hectareas-de-regadio.jpeg",
     "pub": 1793114941,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Justicia obliga a las universidades públicas de Castilla y León a reanudar la negociación colectiva",
+    "link": "https://www.eldiario.es/castilla-y-leon/sociedad/justicia-obliga-universidades-publicas-castilla-leon-reanudar-negociacion-colectiva_1_13619280.html",
+    "desc": "CCOO pide negociar con las universidades públicas de Castilla y León después de que se haya vulnerado su libertad sindical El Supremo tumba el decreto de universidades del Gobierno que acota los…",
+    "img": "https://static.eldiario.es/clip/ec7a5758-29c5-4db6-aa36-62d4e7d53bda_16-9-discover-aspect-ratio_default_0_x840y396.jpg",
+    "pub": 1793114431,
+    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "Pino impulsa la modernización de 6.860 hectáreas de regadío en León y Palencia con una inversión de 105 millones",
@@ -110,6 +134,14 @@
     "img": "https://static.eldiario.es/clip/c31c6f5b-8ab7-4fd5-bd1c-43fbcd2f753a_16-9-discover-aspect-ratio_default_0_x1283y334.jpg",
     "pub": 1793108867,
     "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "Así será el rocódromo más grande de Castilla y León y uno de los mayores de España que abrirá en Valladolid",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261027/rocodromo-grande-castilla-leon-mayores-espana-abrira-valladolid/1003744436652_0.html",
+    "desc": "Se ubicará en el barrio de Los Santos-Pilarica, entre las calles Nube de Magallanes, Cosmología y Nebulosa. Más información: Un nuevo gimnasio abrirá muy pronto sus puertas en este barrio de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387992.jpg?p=w:1706/h:960&h=63oQTnxc",
+    "pub": 1793108287,
+    "fuente": "El Español · CyL"
   },
   {
     "titulo": "El gaitero Bras Rodrigo ofrece un concierto el viernes en el Teatro San Francisco de León",
@@ -230,14 +262,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102713171124914.jpg",
     "pub": 1793104758,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Cárcel, inhabilitación y 185.000 euros de multa para el dueño del 'criadero del horror' donde murieron 21 perros",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261027/carcel-inhabilitacion-euros-multa-dueno-criadero-horror-murieron-perros/1003744436477_0.html",
-    "desc": "El Juzgado de lo Penal de Burgos condena a dos años y medio de cárcel al dueño de las instalaciones, que trató de eludir a la justicia huyendo a Venezuela y ocultando su patrimonio mediante…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11343736.jpg?p=c:1918:1082:nowe:1:0/w:1706/h:960&h=-jVjoOOL",
-    "pub": 1793104282,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "El PP advierte irregularidades en la nueva ordenanza de basura con una subida del 4,5%",
@@ -422,14 +446,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102711584662273.jpg",
     "pub": 1793098890,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Unicaja amplía a las pymes su oferta de preconcedidos",
-    "link": "https://www.lanuevacronica.com/panorama/unicaja-amplia-pymes-su-oferta-preconcedidos_205372_102.html",
-    "desc": "La iniciativa permite activar financiación de forma ágil y reducir los tiempos de gestión, respondiendo así con mayor rapidez a las necesidades de las pequeñas y medianas empresas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/02/7/unicaja-pymes.jpeg",
-    "pub": 1793098744,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Ponferrada reúne a medio centenar de empresas con más de cien ofertas en la V Feria del Empleo",
@@ -704,14 +720,6 @@
     "fuente": "20minutos CyL"
   },
   {
-    "titulo": "Un nuevo terremoto de magnitud 2,6 sacude el entorno de los Montes Aquilianos",
-    "link": "https://www.elbierzodigital.com/un-terremoto-de-magnitud-26-sacude-el-entorno-de-los-montes-aquilianos/",
-    "desc": "El Instituto Geográfico Nacional (IGN) ha registrado este lunes, 26 de octubre, un nuevo terremoto, en esta ocasión de magnitud 2,6 con epicentro al noreste de Benuza , en el entorno de los Montes…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/un-terremoto-de-magnitud-26-sacude-el-entorno-de-los-montes-aquilianos-el-bierzo-digital.jpg",
-    "pub": 1793049994,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Vox afea a la vicepresidenta de Castilla y León del PP que obvie la ‘prioridad nacional’ en el acceso a la vivienda",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/vox-afea-vicepresidenta-castilla-leon-pp-obvie-prioridad-nacional-prioridades_1_13617008.html",
     "desc": "Isabel Blanco ha recordado que algunas líneas de ayuda como las del alquiler se vincularán a un \"arraigo real y verificable\" en Castilla y León \"dentro de la legalidad vigente\": \"Cualquier persona…",
@@ -733,14 +741,6 @@
     "desc": "Francisco Guarido ha calculado que los promotores privados se ahorrarían 200 millones de euros al declararlo como proyecto regional Los centros de datos ya empujan la demanda eléctrica de grandes…",
     "img": "https://static.eldiario.es/clip/1cad6dc9-6c90-4691-ae67-5e0c30b22f9b_16-9-discover-aspect-ratio_default_0_x1086y409.jpg",
     "pub": 1793030721,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "UGT y CCOO llaman a los 30.000 docentes de Castilla y León a la huelga el 4 de noviembre",
-    "link": "https://www.eldiario.es/castilla-y-leon/sociedad/ugt-ccoo-llaman-30-000-docentes-castilla-leon-huelga-4-noviembre_1_13616136.html",
-    "desc": "UGT y CCOO llaman al resto de sindicatos a sumarse a esta jornada de huelga en la comunidad: \"El profesorado sigue esperando sus mejoras\" Cientos de familias protestan frente a la Consejería de…",
-    "img": "https://static.eldiario.es/clip/4c626478-7e91-4c7c-89ac-e64de864600e_16-9-discover-aspect-ratio_default_0_x680y571.jpg",
-    "pub": 1793028423,
     "fuente": "eldiario.es · CyL"
   },
   {
