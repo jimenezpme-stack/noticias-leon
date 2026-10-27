@@ -1,5 +1,85 @@
 [
   {
+    "titulo": "Calentar, que a lo mejor no salís",
+    "link": "https://www.lanuevacronica.com/opinion/calentar-mejor-no-salis_205345_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793070600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205352_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/66/2/27-10-2026-canton.jpeg",
+    "pub": 1793070000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las herencias reflejan la realidad demográfica",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/herencias-reflejan-realidad-demografica_205351_102.html",
+    "desc": "El récord de viviendas heredadas en la provincia es una consecuencia del envejecimiento de la población, pero también pone de manifiesto los profundos cambios que experimenta el mercado inmobiliario…",
+    "img": null,
+    "pub": 1793070000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La maniobra de Pepe El Mierda",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/maniobra-pepe-mierda_205350_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793070000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La provincia de León bate su récord de viviendas heredadas en lo que va de año",
+    "link": "https://www.lanuevacronica.com/actualidad/provincia-leon-bate-su-record-viviendas-heredadas-en-va-ano_205341_102.html",
+    "desc": "Los registros de la provincia inscribieron 1.785 transmisiones de vivienda por herencia entre enero y agosto, más del doble de las que se hicieron en 2007 cuando arrancó la serie",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/90/49/5/invertir-en-vivienda-para-alquilar-continua-en-tendencia-negativa-en-leon-saul-aren.gif",
+    "pub": 1793070000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Nuevo intento de robo con el 'abrazo cariñoso' en la comarca leonesa de Tierra de Campos",
+    "link": "https://www.lanuevacronica.com/actualidad/nuevo-intento-robo-con-abrazo-carinoso-en-comarca-leonesa-tierra-campos_205339_102.html",
+    "desc": "Los métodos empleados este mes por los presuntos delincuentes siguen el mismo patrón que los de junio en Villaverde de Arcayos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/53/1/abrazocarinoso.jpeg",
+    "pub": 1793070000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Todos los horarios (y detalles) del próximo Hallowindie",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/todos-horarios-y-detalles-proximo-hallowindie_205338_102.html",
+    "desc": "El festival arranca la cuenta atrás de una sexta edición que contará con nombres tan conocidos como La La Love You, Alcalá Norte y Cariño, entre otras propuestas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/48/5/una-imagen-de-una-edicion-anterior-del-festival-que-este-fin-de-semana-regresa-al-palacio-de-exposiciones-de-la-capital-leonesa-saul-aren.jpeg",
+    "pub": 1793070000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Belén Sánchez Campos: \"La fotografía es una prolongación de mis estados de ánimo\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/belen-sanchez-campos-fotografia-es-prolongacion-mis-estados-animo_205334_102.html",
+    "desc": "La leonesa recupera en el Camarote Madrid una serie de fotografías imperfectas como base para expresar su propia vida",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/40/0/belen-sanchez-campos-ante-su-seleccion-de-fotografias-vicente-garcia.jpeg",
+    "pub": 1793070000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Pájaro o alcándara",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/pajaro-alcandara_205333_102.html",
+    "desc": "El poeta y pensador Agustín García Calvo cumpliría este mes de octubre cien años",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/38/4/el-poeta-y-pesnador-agustin-garcia-con-su-pareja-isabel-escudero-carlos-bullejos.jpeg",
+    "pub": 1793070000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La historia del berciano que se convirtió en el mejor injertador del mundo",
+    "link": "https://www.lanuevacronica.com/el-bierzo/historia-berciano-se-convirtio-en-mejor-injertador-mundo_205332_102.html",
+    "desc": "Helio Estévez Mauriz, hijo de emigrantes y nieto de un exiliado berciano, presentó este lunes en la Seminci de Valladolid 'Wildland', un documental que reivindica la dignidad de quienes abandonan su…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/37/7/helio-estevez.jpeg",
+    "pub": 1793070000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Un nuevo terremoto de magnitud 2,6 vuelve a sacudir el entorno de Benuza",
     "link": "https://www.heraldodeleon.es/el-bierzo/nuevo-terremoto-magnitud-26-vuelve-sacudir-entorno-benuza/20261026222722115019.html",
     "desc": "El Instituto Geográfico Nacional registra el movimiento sísmico este lunes a las 21.32 horas, con una profundidad de cero kilómetros, en una zona que acumula varios temblores desde el seísmo de…",
@@ -64,14 +144,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Astorga y La Bañeza se unen para frenar la destrucción de vías que recuperarían su tren",
-    "link": "https://www.lanuevacronica.com/actualidad/astorga-baneza-se-unen-contra-desmantelamiento-vias-permitirian-recuperar-tren_205326_102.html",
-    "desc": "Los alcaldes de ambos municipios acusan a Adif y al Gobierno de detener la reapertura del ramal ferroviario para mercancías y reclaman aprovechar 35.000 traviesas para impulsar la industrialización…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/22/0/jose-luis-nieto-y-javier-carrera-junto-a-uno-de-los-antiguos-carteles-rerroviarias-de-la-ruta.jpeg",
-    "pub": 1793043335,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ya empieza a ser Navidad por las calles de León",
     "link": "https://www.lanuevacronica.com/actualidad/ya-empieza-ser-navidad-por-calles-leon_205342_102.html",
     "desc": "Algunas luces ya están instaladas en algunas calles de la ciudad, después de que los operarios de la empresa encargada comenzaran en agosto con el cableado",
@@ -86,14 +158,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102620235371393.jpg",
     "pub": 1793042705,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Segoviana - Cultural: 'Una trampa copera para la Cultural'",
-    "link": "https://www.lanuevacronica.com/deportes/segoviana-cultural_205304_102.html",
-    "desc": "El equipo leonés abre la Copa visitando este martes (20:00 horas) a la Gimnástica Segoviana de Segunda RFEF, con más a perder que a ganar en la oportunidad para la segunda unidad y los jugadores del…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/26/54/76/4/maestre161224.jpeg",
-    "pub": 1793041908,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Mañueco pide ir \"pueblo a pueblo, derribar el muro infame del sanchismo y empezar la reconstrucción de España\"",
@@ -120,44 +184,12 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "659 entradas a 15 euros para la Ponferradina en el derbi",
-    "link": "https://www.lanuevacronica.com/deportes/659-entradas-15-euros-ponferradina-en-derbi_205330_102.html",
-    "desc": "La Cultural recibirá el mismo número y a ese costa en la vuelta / El equipo culturalista pone precios de 20 a 35 euros, con sólo 153 abonados necesitando sacar el suplemento de 20",
-    "img": "https://www.lanuevacronica.com/uploads/s1/25/94/22/2/sau8737.jpeg",
-    "pub": 1793041059,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Llanera - Ponferradina: 'Buscando otra ronda con la segunda unidad'",
-    "link": "https://www.lanuevacronica.com/deportes/llanera-ponferradina-buscando-otra-ronda-con-segunda-unidad_205336_102.html",
-    "desc": "La Deportiva abre la Copa del Rey visitando este martes (20:00 horas), con un once completamente nuevo con respecto al empate ante el Barakaldo, a una Llanera que está en descenso en Segunda…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/41/7/ponferradina-y-barakaldo-empatan-en-el-toralin-24.jpeg",
-    "pub": 1793040535,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Omaña, banco de pruebas de todo el norte de España para entender los ecosistemas alpinos",
-    "link": "https://www.lanuevacronica.com/actualidad/omana-banco-pruebas-todo-norte-espana-entender-ecosistemas-alpinos_205324_102.html",
-    "desc": "El leonés José Manuel Álvarez Martínez lidera los estudios con satélites que la Universidad de Oviedo está desarrollando en la zona",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/20/4/omanainvestigacion.jpeg",
-    "pub": 1793040521,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Plantón de los regantes a la CHD por la premura en las convocatorias del organismo",
     "link": "https://www.heraldodeleon.es/comarcas/planton-regantes-duero-chd/20261026193951115003.html",
     "desc": "Ferduero&nbsp;denuncia que esta práctica&nbsp;es recurrente en las reuniones de los órganos colegiados, lo que&nbsp;impide disponer del tiempo necesario para examinar los documentos y preparar…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/02/12/2026021215223236131.jpg",
     "pub": 1793039991,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Jandro: \"Le damos la máxima importancia a la Copa\"",
-    "link": "https://www.lanuevacronica.com/deportes/jandro-damos-maxima-importancia-copa_205325_102.html",
-    "desc": "El técnico de la Cultural apunta sobre las críticas que \"o le damos normalidad o estaríamos todo el rato llorando por los pasillos, yo aguanto y entiendo todo, sólo puedo trabajar, que el equipo…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/68/9/la-cultural-mostro-su-mejor-y-peor-cara-ante-el-pontevedra-para-perder-su-primer-partido-en-el-reino-saul-aren-6.jpeg",
-    "pub": 1793039813,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Rogelio Blanco reivindica León como una tierra histórica de libertades",
@@ -174,14 +206,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/06/13/2025061310174920276.jpg",
     "pub": 1793037767,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Nafti: \"Nos tomamos la Copa como un partido de liga\"",
-    "link": "https://www.lanuevacronica.com/deportes/nafti-nos-tomamos-copa-como-partido-liga_205331_102.html",
-    "desc": "El técnico de la Deportiva señala que debe valorar \"el cansancio, la superficie y lo que viene el sábado para sacar el mejor once posible\" y destaca de la Llanera que tiene \"un potencial físico…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/36/3/ponferradina-y-barakaldo-empatan-en-el-toralin-42.jpeg",
-    "pub": 1793037491,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Ponferrada reabre el área infantil de la calle Andrés Viloria tras su reparación integral",
@@ -216,14 +240,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "El Ourense destituye a su entrenador antes de recibir a la Cultural",
-    "link": "https://www.lanuevacronica.com/deportes/ourense-destituye-su-entrenador-antes-recibir-cultural_205308_102.html",
-    "desc": "El conjunto gallego, al que visita la escuadra culturalista este domingo, cesa a Juan Carballo con el equipo penúltimo y tras perder con el colista",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/66/95/1/carballo.webp",
-    "pub": 1793036081,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El PP reivindica a Feijóo y convierte el 29N en un examen a Pedro Sánchez",
     "link": "https://www.heraldodeleon.es/leon/pp-leon-reivindica-feijoo-convierte-29n-examen-sanchez/20261026181627114984.html",
     "desc": "Ester Muñoz y Silvia Franco encabezan las candidaturas al Congreso y al Senado, respectivamente, y sitúan las infraestructuras, los impuestos, la vivienda y la reindustrialización entre los ejes de…",
@@ -238,14 +254,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/06/07/2025060721540884102.jpg",
     "pub": 1793032940,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Academia Básica del Aire, pregonera de la Semana Santa de León 2027",
-    "link": "https://www.lanuevacronica.com/semana-santa/academia-basica-aire-pregonera-semana-santa-leon-2027_205328_102.html",
-    "desc": "El coronel director de la ABA, Óscar Ruiz González, será el encargado de proclamar el pregón el sábado 13 de marzo en el Auditorio, tomando el testigo de Carlos García Rioja",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/13/62/7/el-dia-a-dia-en-la-academia-basica-del-aire-de-leon-en-imagenes-5.jpeg",
-    "pub": 1793032581,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Tuna de la Universidad de León conquista Ciudad Real con tres premios nacionales",
@@ -326,14 +334,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-tronera-y-muna-representan-al-bierzo-en-el-25-aniversario-de-las-jornadas-buscasetas-el-bierzo-digital.jpeg",
     "pub": 1793028391,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El legado de Mateo Jiménez Murguía, en el Centro del Clima",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/legado-mateo-jimenez-murguia-en-centro-clima_205327_102.html",
-    "desc": "El espacio expositivo de La Vid de Gordón acoge desde este miércoles una exposición que recupera la obra y la vinculación del artista con la comarca",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/25/7/paisaje-de-santa-lucia-obra-de-mateo-jimenez-murguia-l-n-c.jpeg",
-    "pub": 1793027700,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Ponferrada refuerza los autobuses y el control del tráfico por Todos los Santos",
