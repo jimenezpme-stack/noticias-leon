@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Los arquitectos vuelven a abrir las puertas de León",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/arquitectos-vuelven-abrir-puertas-leon_205408_102.html",
+    "desc": "El Coal celebrará la tercera edición del ciclo entre los días 6 y 8 de noviembre, abriendo las inscripciones desde este mismo miércoles a través de su página web oficial",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/01/7/los-participantes-de-una-edicion-anterior-del-ciclo-impulsado-desde-el-colegio-oficial-de-arquitectos-de-leon-coal.jpeg",
+    "pub": 1793122589,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La alubia será la gran protagonista durante noviembre en La Bañeza",
+    "link": "https://www.lanuevacronica.com/actualidad/alubia-sera-gran-protagonista-durante-noviembre-en-baneza_205404_102.html",
+    "desc": "Veinte establecimientos hosteleros, dos más que el año pasado, participarán en la tercera edición de unas jornadas que se celebrarán del 1 al 30 de noviembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/91/7/la-alubia-sera-la-gran-protagonista-durante-noviembre-en-la-baneza.jpeg",
+    "pub": 1793122378,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Albéitar se da cita con una de las bandas esenciales del 'power pop'",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/albeitar-se-da-cita-con-bandas-esenciales-power-pop_205407_102.html",
+    "desc": "El teatro dependiente de la ULE recibe este miércoles a los integrantes de la actual banda 20/20",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/96/2/steve-allen-ron-flynt-y-su-hijo-ray-flynt-son-los-miembros-de-la-actual-banda-2020-l-n-c.jpeg",
+    "pub": 1793122207,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Música, humor y karate llegan a León con El Niño de la Hipoteca",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/musica-humor-karate-llegan-leon-con-nino-hipoteca_205403_102.html",
+    "desc": "El Gran Café recibirá este jueves al artista, que llegará con un concierto dinámico y participativo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/93/9/el-nino-de-la-hipoteca-sonara-este-jueves-en-leon-careles-rodriguez-marin.jpeg",
+    "pub": 1793122173,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Astorga juega en femenino",
+    "link": "https://www.heraldodeleon.es/deportes/futbol/astorga-juega-femenino/20261027182450115173.html",
+    "desc": "Más de 400 escolares participan en una jornada de promoción del fútbol femenino con la seleccionadora nacional, Sonia Bermúdez, y la astorgana Cristina Martínez; por la tarde, más de 200 niñas de…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102718205283690.jpg",
+    "pub": 1793121890,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "«Páginas Vivas» reunirá en Camponaraya a veinte escritores para impulsar la Biblioteca de Autores Bercianos",
+    "link": "https://www.elbierzodigital.com/paginas-vivas-reunira-en-camponaraya-a-veinte-escritores-para-impulsar-la-biblioteca-de-autores-bercianos/",
+    "desc": "La Casa Ucieda de Camponaraya acogerá el próximo 5 de noviembre una nueva edición del Festival Literario \"Páginas Vivas\" , que reunirá a veinte escritores en torno a la creación literaria y la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/10/-el-bierzo-digital-111.jpg",
+    "pub": 1793121313,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Suárez-Quiñones anuncia 12,6 millones para la primera matrícula universitaria y 23 para apoyar los nuevos grados",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261027/suarez-quinones-anuncia-millones-primera-matricula-universitaria-apoyar-nuevos-grados/1003744437101_0.html",
     "desc": "El consejero traslada el compromiso con la conexión entre la universidad y la empresa y la transferencia del conocimiento, con 52,8 millones. Más información: La Junta ultimará la Ley de Concordia…",
@@ -344,30 +392,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "El Ademar cruza los dedos con Lodos",
-    "link": "https://www.lanuevacronica.com/deportes/ademar-cruza-dedos-con-lodos_205380_102.html",
-    "desc": "El lateral será sometido este miércoles a una resonancia para conocer el alcance exacto de su lesión de rodilla, con las primeras exploraciones generando optimismo en que se evite la máxima gravedad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/08/0/lodos-alicante.jpeg",
-    "pub": 1793102515,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Herido un ciclista de 65 años tras colisionar con una grúa en Camponaraya",
-    "link": "https://www.lanuevacronica.com/sucesos/herido-ciclista-65-anos-colisionar-con-grua-en-camponaraya_205377_102.html",
-    "desc": "La bicicleta que conducía colisionó con una grúa de asistencia en carretera lo que le provocó dolor en un hombro",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/51/92/7/112-la-nueva-cronica-4-1000x563-4-1000x563.jpeg",
-    "pub": 1793102438,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Una propuesta diferente en los cines leoneses: los Van Gogh celebrarán una sesión sorpresa cada mes",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/propuesta-diferente-en-cines-leoneses-van-gogh-celebraran-sesion-sorpresa-cada-mes_205376_102.html",
-    "desc": "Las salas de la calle San Claudio acogerán los jueves 29 de octubre, 26 de noviembre y 17 de diciembre una proyección de la que el espectador no sepa nada y con precio reducido",
-    "img": "https://www.lanuevacronica.com/uploads/s1/15/54/85/cine-van-gogh-23917-1.jpeg",
-    "pub": 1793102374,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Cruz Roja pide derribar los prejuicios que dificultan el acceso al empleo en El Bierzo",
     "link": "https://www.lanuevacronica.com/el-bierzo/cruz-roja-pide-derribar-prejuicios-dificultan-acceso-empleo-en-bierzo_205382_102.html",
     "desc": "La campaña 'Contrata Sin' llegó a la Feria de Empleo de Ponferrada para visibilizar las barreras laborales vinculadas a la edad, el género o el origen",
@@ -408,14 +432,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Unicaja amplía a las pymes su oferta de preconcedidos",
-    "link": "https://www.heraldodeleon.es/economia/unicaja-amplia-pymes-oferta-preconcedidos/20261027124348115102.html",
-    "desc": "La iniciativa permite activar financiación de forma ágil y reducir los tiempos de gestión, respondiendo así con mayor rapidez a las necesidades de las pequeñas y medianas empresas",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/11/18/2025111811042143370.jpg",
-    "pub": 1793101428,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Sacyl declarará siete plazas de difícil cobertura en el Hospital El Bierzo",
     "link": "https://www.elbierzodigital.com/sacyl-declarara-siete-plazas-de-dificil-cobertura-en-el-hospital-el-bierzo/",
     "desc": "El Hospital El Bierzo contará con siete plazas de difícil cobertura en la primera declaración de puestos de este tipo que prepara la Gerencia Regional de Salud de Castilla y León (Sacyl). La medida…",
@@ -438,14 +454,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2021/06/Ambulancia-Sacyl.jpg",
     "pub": 1793100407,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PP rechaza la nueva tasa de basuras de León por una subida del 4,5%",
-    "link": "https://www.lanuevacronica.com/actualidad/pp-rechaza-nueva-tasa-basuras-leon-por-subida-45_205378_102.html",
-    "desc": "David Fernández critica la gestión del equipo de gobierno y acusa a UPL de facilitar la aprobación de una ordenanza que considera \"injusta\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/04/5/david-fernandez-pp-leon.jpeg",
-    "pub": 1793100300,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "CCOO y UGT llaman a la huelga general del 11N en Ponferrada por la vivienda, los salarios y los precios",
@@ -710,14 +718,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102707491062392.jpg",
     "pub": 1793084050,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "El restaurante en el que siempre para Cayetana Guillén Cuervo: tienen codillo asado, salchichas alemanas y sopas de ajo",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261027/restaurante-siempre-cayetana-guillen-cuervo-codillo-asado-salchichas-alemanas-sopas-ajo-trt/1003744435106_0.html",
-    "desc": "La presidenta de la Academia de las Artes Escénicas de España vuelve a la capital del Pisuerga durante la Seminci. Más información : Luis Tosar saborea uno de los mejores platos típicos de…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387105.png?p=c:668:376:nowe:15:0/w:1706/h:960&h=UEXImadi",
-    "pub": 1793080800,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Muere una mujer y dos hombres resultan heridos en un atropello en Valladolid",
