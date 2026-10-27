@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "🔴 Directo | Copa del Rey | Segoviana 0-0 Cultural | Llanera 0-0 Ponferradina",
+    "link": "https://www.heraldodeleon.es/deportes/cultural/directo-copa-rey-segoviana-cultural/20261027195221115187.html",
+    "desc": "Cultural y Ponferradina se juegan el pase en la Copa del Rey ante la Segoviana y el Llanera",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102719520574895.jpg",
+    "pub": 1793127141,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El Pozo Julia de Fabero abrirá el lunes 2 de noviembre por el puente de Todos los Santos",
+    "link": "https://www.lanuevacronica.com/el-bierzo/pozo-julia-fabero-abrira-lunes-2-noviembre-por-puente-todos-santos_205415_102.html",
+    "desc": "El recinto minero ofrecerá sus dos pases habituales, a las 11:00 y a las 16:30 horas, y el resto de los museos del municipio también podrá visitarse durante la jornada festiva",
+    "img": "https://www.lanuevacronica.com/uploads/s1/30/25/26/3/pozo-julia-28082022-4-1000x563-4-1000x563-4-1000x563.jpeg",
+    "pub": 1793126915,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los Ancares Leoneses celebran sus 20 años de \"compromiso con el territorio\"",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ancares-leoneses-celebran-sus-20-anos-compromiso-con-territorio_205388_102.html",
+    "desc": "La Reserva de la Biosfera conmemoró dos décadas de trabajo por la conservación del patrimonio natural y cultural y reconoció la implicación de las personas y entidades que han contribuido a su…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/21/7/aniversario-ancares.jpeg",
+    "pub": 1793126517,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Veinte años de la Reserva de los Ancares: proteger el territorio para asegurar su futuro",
+    "link": "https://www.elbierzodigital.com/veinte-anos-de-la-reserva-de-los-ancares-proteger-el-territorio-para-asegurar-su-futuro/",
+    "desc": "La Reserva de la Biosfera de los Ancares Leoneses conmemoró este martes su vigésimo aniversario con una reivindicación de su papel en la conservación del patrimonio natural y cultural, el impulso de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-27-193252-el-bierzo-digital.jpg",
+    "pub": 1793126385,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "CSIF muestra su preocupación por los cambios en la Consejería de Educación y confía en que se mantenga la negociación",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261027/csif-muestra-preocupacion-cambios-consejeria-educacion-confia-mantenga-negociacion/1003744437204_0.html",
+    "desc": "El sindicato remite a María del Valle Ares una serie de medidas para \"acabar con la degradación progresiva de las condiciones laborales del profesorado\". Más información: CSIF exige medidas…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388368.jpg?p=c:3999:2250:nowe:0:0/w:1706/h:960&h=Bem9-GVh",
+    "pub": 1793125613,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Castilla y León destinará 12,6 millones a financiar la primera matrícula universitaria",
     "link": "https://www.elbierzodigital.com/castilla-y-leon-destinara-126-millones-a-financiar-la-primera-matricula-universitaria/",
     "desc": "La Junta de Castilla y León destinará 12,6 millones de euros en 2027 a financiar la primera matrícula universitaria de los estudiantes empadronados en la Comunidad . La medida forma parte de las…",
@@ -392,14 +432,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La FRMP reclama en Camponaraya una financiación local más justa y acabar con la interinidad de secretarios e interventores",
-    "link": "https://www.lanuevacronica.com/el-bierzo/frmp-reclama-en-camponaraya-financiacion-local-mas-justa-acabar-con-interinidad-secretarios-interventores_205387_102.html",
-    "desc": "Su Comisión Ejecutiva se reunió este martes por primera vez en el municipio berciano, donde exigió al Gobierno central adaptar las obligaciones administrativas a la realidad de los pequeños…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/21/2/reunion-frmp-camponaraya.jpeg",
-    "pub": 1793104858,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La FRMPCyL recuerda que prestar servicios en municipios pequeños \"es más caro\"",
     "link": "https://www.heraldodeleon.es/el-bierzo/frmpcyl-pide-gobierno-empezar-hablar-financiacion-local-recuerda-que-prestar-servicios-municipios-pequenos-es-mas-caro/20261027133918115119.html",
     "desc": "La reunión de la Comisión Ejecutiva se celebra este martes en Camponaraya y pone el foco también en la falta de habilitados nacionales para ayudar a los ayuntamientos",
@@ -414,14 +446,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102713133947968.jpg",
     "pub": 1793103559,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La cuenta atrás para un nuevo gran supermercado en Hospital de Órbigo ya está en marcha",
-    "link": "https://www.lanuevacronica.com/actualidad/cuenta-atras-nuevo-gran-supermercado-en-hospital-orbigo-ya-esta-en-marcha_205383_102.html",
-    "desc": "La obras del nuevo Lupa avanzan a buen ritmo tras invertir 3,75 millones de euros para crear un espacio comercial de 1.800 metros cuadrados de superficie y que permitirá crear 47 puestos de trabajo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/15/9/la-cuenta-atras-para-un-nuevo-gran-supermercado-en-hospital-de-orbigo-ya-esta-en-marcha.jpeg",
-    "pub": 1793103323,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El periodista Cayetano González Hermosilla presentará en León su libro 'La gran traición'",
@@ -445,14 +469,6 @@
     "desc": "La comunidad de regantes y Seiasa firmaron este martes el convenio de la fase I que contempla actuaciones que beneficiarán a 900 regantes&nbsp;en León y Palencia",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102712334250006.jpg",
     "pub": 1793102103,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El CEL destaca que León crea empleo \"al doble de ritmo que la media nacional\"",
-    "link": "https://www.heraldodeleon.es/economia/cel-destaca-que-leon-crea-empleo-doble-ritmo-que-media-nacional/20261027125355115103.html",
-    "desc": "La provincia alcanza los 186.200 ocupados y crece un 5,8% en un año, aunque la patronal alerta de que \"la tasa de actividad del 50,83% y la tasa de empleo del 46,11% son las más bajas\" de Castilla y…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/02/10/2025021012331049909.jpg",
-    "pub": 1793102035,
     "fuente": "Heraldo de León"
   },
   {
@@ -688,28 +704,12 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "FSIE reclama a la nueva consejera de Educación avances en la concertación del Bachillerato y la mejora de la financiación",
-    "link": "https://www.elbierzodigital.com/fsie-reclama-a-la-nueva-consejera-de-educacion-avances-en-la-concertacion-del-bachillerato-y-la-mejora-de-la-financiacion/",
-    "desc": "La Federación de Sindicatos Independientes de Enseñanza (FSIE) de Castilla y León ha felicitado a María del Valle Ares González por su nombramiento como nueva consejera de Educación y ha reclamado…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/manueco-pide-a-valle-ares-elevar-el-prestigio-de-la-educacion-en-castilla-y-leon-el-bierzo-digital.jpeg",
-    "pub": 1793090763,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Repunte de las temperaturas para un martes casi primaveral y sin nubes en León",
     "link": "https://www.heraldodeleon.es/leon/repunte-temperaturas-martes-casi-primaveral-leon/20261027092543115038.html",
     "desc": "De acuerdo con la previsión de Aemet, la temperatura mínima será de 6 grados y la máxima alcanzará los 21 en la capital leonesa",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/10/14/2025101408451176712.jpg",
     "pub": 1793089543,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "El Bierzo registra un nuevo terremoto y suma tres seísmos en solo dos semanas",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261027/bierzo-registra-nuevo-terremoto-suma-seismos-solo-semanas/1003744435921_0.html",
-    "desc": "El epicentro se situó al noreste de Benuza, en la zona de los Montes Aquilianos. Más información : Un terremoto cerca de Ponferrada se siente en buena parte de Galicia",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387548.jpg?p=c:972:546:nowe:38:430/w:1706/h:960&h=-zg5AkX7",
-    "pub": 1793088691,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Registrado un terremoto de magnitud 2,6 con epicentro al noreste de León",
