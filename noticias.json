@@ -1,5 +1,85 @@
 [
   {
+    "titulo": "1.375 euros de pensión media para los 141.070 pensionistas de la provincia de León",
+    "link": "https://www.heraldodeleon.es/leon/datos-1375-euros-pension-media-141070-pensionistas-leon/20261027110023115054.html",
+    "desc": "León, la provincia con más pensiones de Castilla y León, registra una subida anual del 4,72%, con una prestación media que se sitúa ligeramente por debajo de la media autonómica, de 1.378,88 euros,…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/09/26/2025092610411673760.jpg",
+    "pub": 1793095223,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Harry Kane, ganador del Balón de Oro 2026",
+    "link": "https://www.lanuevacronica.com/gente/lamine-yamal-e-ines-garcia-acaparan-todas-las-miradas-en-la-gala-del-balon-de-oro-2026_205360_102.html",
+    "desc": "El delantero inglés fueel ganador de el Balón de Oro 2026, galardón que se concede al mejor futbolista de la temporada 2025-2026 y que consigue por primera vez en su carrera tras un gran año a nivel…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/86/8/fotonoticia-20261027005404-500.jpeg",
+    "pub": 1793094401,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Nuevo intento de robo con el 'abrazo cariñoso' en la comarca leonesa de Tierra de Campos",
+    "link": "https://www.lanuevacronica.com/actualidad/nuevo-intento-robo-con-abrazo-carinoso-en-comarca-leonesa-tierra-campos_205339_102.html",
+    "desc": "Los métodos empleados este mes por los presuntos delincuentes siguen el mismo patrón que los de junio en Villaverde de Arcayos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/53/1/abrazocarinoso.jpeg",
+    "pub": 1793094248,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Castilla y León disminuye el paro al 7,75%, su nivel más bajo desde 2007 mientras que en España aumenta un 3,8%",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261027/castilla-leon-disminuye-paro-nivel-espana-aumenta/1003744436039_0.html",
+    "desc": "La Comunidad reduce el desempleo en 7.200 personas en el tercer trimestre y consolida más de un millón de ocupados. “Castilla y León avanza”, afirma Mañueco. Más información: Mañueco presume de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11091076.jpg?p=c:3568:2009:nowe:7:3/w:1706/h:960&h=pyPhvYf3",
+    "pub": 1793094168,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Peñalba de Santiago, entre los pueblos mejor valorados de España en 2026",
+    "link": "https://www.elbierzodigital.com/penalba-de-santiago-entre-los-pueblos-mejor-valorados-de-espana-en-2026/",
+    "desc": "Peñalba de Santiago se sitúa entre las diez localidades mejor valoradas de España en 2026, según la clasificación oficial de la Asociación Los Pueblos Más Bonitos de España , elaborada a partir de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/09/penalba-cumple-diez-anos-entre-los-pueblos-mas-bonitos-de-espana-el-bierzo-digital-3.jpeg",
+    "pub": 1793093936,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Un atropello en la calle La Serna deja herido a un hombre de unos 40 años",
+    "link": "https://www.heraldodeleon.es/leon/atropello-calle-serna-deja-herido-hombre-40-ano/20261027103836115053.html",
+    "desc": "El suceso ocurrió a las 9:53 horas en un paso de cebra y movilizó a la Policía Local, la Policía Nacional y Emergencias Sanitarias",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/08/08/2025080808315663900.jpg",
+    "pub": 1793093916,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La pensión media sube en León un 4,7% en octubre hasta los 1.375 euros",
+    "link": "https://www.lanuevacronica.com/actualidad/pension-media-sube-en-leon-47-en-octubre-hasta-1375-euros_205359_102.html",
+    "desc": "La retribución media de jubilación alcanzó en la provincia los 1.580 euros, según los últimos datos del Instituto Nacional de la Seguridad Social",
+    "img": "https://www.lanuevacronica.com/uploads/s1/15/52/56/pensiones-24-02-23-1.jpeg",
+    "pub": 1793093698,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Embutidos Pajariel 6,25 sigue atascado tras caer ante el Maristas Coruña",
+    "link": "https://www.elbierzodigital.com/el-embutidos-pajariel-625-sigue-atascado-tras-caer-ante-el-maristas-coruna/",
+    "desc": "Al Embutidos Pajariel 6,25 le está costando arrancar esta temporada en la Primera Femenina y el fin de semana sumó su cuarta derrota en otras tantas jornadas , en esta ocasión en la cancha del…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-embutidos-pajariel-625-cae-en-el-ultimo-minuto-en-su-estreno-liguero-el-bierzo-digital.jpg",
+    "pub": 1793093622,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La crisis de Feve entra en campaña y las protestas se mudan a la Subdelegación",
+    "link": "https://www.heraldodeleon.es/leon/critica-situacion-feve-entra-campana-plataforma-llevara-protestas-subdelegacion/20261027103119115052.html",
+    "desc": "La Plataforma en Defensa de Feve de León asegura que&nbsp;mantendrá reuniones con las candidaturas a las próximas elecciones generales en busca de un compromiso \"claro y público\" con la recuperación…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/07/05/2026070513550055561.jpg",
+    "pub": 1793093479,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Halloween con mucho arte",
+    "link": "https://www.heraldodeleon.es/cultura/halloween-mucho-arte/20261027102224115048.html",
+    "desc": "El ingenio de los alumnos de ESO de Maristas San José llena de arañas la valla de la Vía Estrecha y de fantasmas las ventanas del colegio, en una original decoración de Halloween con materiales…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102710204946472.jpg",
+    "pub": 1793092944,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "La publicidad local impulsa las ventas del comercio",
     "link": "https://www.lanuevacronica.com/estilo-vida/publicidad-local-impulsa-ventas-comercio_205357_102.html",
     "desc": "",
@@ -280,30 +360,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Las herencias reflejan la realidad demográfica",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/herencias-reflejan-realidad-demografica_205351_102.html",
-    "desc": "El récord de viviendas heredadas en la provincia es una consecuencia del envejecimiento de la población, pero también pone de manifiesto los profundos cambios que experimenta el mercado inmobiliario…",
-    "img": null,
-    "pub": 1793070000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La maniobra de Pepe El Mierda",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/maniobra-pepe-mierda_205350_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1793070000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La provincia de León bate su récord de viviendas heredadas en lo que va de año",
-    "link": "https://www.lanuevacronica.com/actualidad/provincia-leon-bate-su-record-viviendas-heredadas-en-va-ano_205341_102.html",
-    "desc": "Los registros de la provincia inscribieron 1.785 transmisiones de vivienda por herencia entre enero y agosto, más del doble de las que se hicieron en 2007 cuando arrancó la serie",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/90/49/5/invertir-en-vivienda-para-alquilar-continua-en-tendencia-negativa-en-leon-saul-aren.gif",
-    "pub": 1793070000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Un nuevo terremoto de magnitud 2,6 vuelve a sacudir el entorno de Benuza",
     "link": "https://www.heraldodeleon.es/el-bierzo/nuevo-terremoto-magnitud-26-vuelve-sacudir-entorno-benuza/20261026222722115019.html",
     "desc": "El Instituto Geográfico Nacional registra el movimiento sísmico este lunes a las 21.32 horas, con una profundidad de cero kilómetros, en una zona que acumula varios temblores desde el seísmo de…",
@@ -384,14 +440,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La Diputación paga 7.260 euros por una nave de bomberos sin contrato desde 2022",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/diputacion-paga-7260-euros-nave-bomberos-contrato-2022/20261026190247114999.html",
-    "desc": "El PP denuncia que el alquiler del inmueble de Villacedré continúa abonándose mediante reconocimientos extrajudiciales de crédito tras fracasar el concurso para regularizar su situación",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/06/13/2025061310174920276.jpg",
-    "pub": 1793037767,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Ester Muñoz acusa a Sánchez de tardar en condenar la violencia en Cataluña y defiende el pacto entre PP y Vox",
     "link": "https://www.elbierzodigital.com/ester-munoz-acusa-a-sanchez-de-tardar-en-condenar-la-violencia-en-cataluna-y-defiende-el-pacto-entre-pp-y-vox/",
     "desc": "La portavoz del Partido Popular en el Congreso, Ester Muñoz, criticó la respuesta del presidente del Gobierno, Pedro Sánchez, ante los episodios de violencia registrados en Cataluña. La dirigente…",
@@ -405,15 +453,7 @@
     "desc": "Los sindicatos acusan a la Junta de Castilla y León de bloquear la negociación laboral y dan de plazo hasta el 26 de octubre para recibir una propuesta que mejore las condiciones de las plantillas",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/08/08/2025080808315484709.jpg",
     "pub": 1793037091,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Eutherpe cierra octubre con el piano de Patricia Matei y el Trío Reinecke",
-    "link": "https://www.heraldodeleon.es/cultura/eutherpe-cierra-octubre-piano-patricia-matei-trio-reinecke/20261026184154114986.html",
-    "desc": "La sala leonesa programa dos recitales los días 30 y 31 de octubre, a las 19.30 horas, con un repertorio que abarca desde Haydn y Ravel hasta la música de cámara de Reinecke, Kahn y Juon",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102618404289558.jpg",
-    "pub": 1793036514,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "El torero Andrés Hernando es el fallecido de la colisión entre un coche y un autobús en la N-110",
@@ -429,7 +469,7 @@
     "desc": "Ester Muñoz y Silvia Franco encabezan las candidaturas al Congreso y al Senado, respectivamente, y sitúan las infraestructuras, los impuestos, la vivienda y la reindustrialización entre los ejes de…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102618552087302.jpg",
     "pub": 1793034987,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "La Dirección General de Desregulación de Castilla y León: un presupuesto de 700.000 euros \"con más jefes que remeros\"",
@@ -584,14 +624,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "La Academia Básica del Aire de León impartirá siete títulos de Formación Profesional",
-    "link": "https://www.heraldodeleon.es/leon/academia-aire-espacio-impartira-siete-titulaciones-fp/20261026135140114941.html",
-    "desc": "Junta, Educación y Defensa firman un convenio para implantar los estudios en La Virgen del Camino por el que la Consejería aportará 37&nbsp;docentes que pagará el Gobierno, que también homologará…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/14/2026091414442553569.jpg",
-    "pub": 1793019100,
-    "fuente": "Heraldo de León · León"
-  },
-  {
     "titulo": "Nafti quiere sacarse la espina de la Copa del Rey",
     "link": "https://www.elbierzodigital.com/llanera-ponferradina-copa-del-rey-previa-2627/",
     "desc": "La Ponferradina comienza este martes su andadura en la Copa del Rey visitando al Llanera en el Hermanos Antuña de Mieres (20.00 horas) y Nafti ha dejado claro que su intención es llegar lo más lejos…",
@@ -688,43 +720,11 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "El PSOE denuncia que Toral de Merayo sigue sin la cobertura prometida por su nueva antena",
-    "link": "https://www.elbierzodigital.com/el-psoe-denuncia-que-toral-de-merayo-sigue-sin-la-cobertura-prometida-por-su-nueva-antena/",
-    "desc": "El PSOE de Ponferrada ha denunciado que la antena de telefonía instalada en Toral de Merayo sigue sin garantizar la mejora de cobertura móvil e internet esperada por los vecinos, pese a llevar…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/07/toral-de-merayo-ve-mas-cerca-el-fin-de-sus-problemas-de-cobertura-el-bierzo-digital-e1793012800123.jpeg",
-    "pub": 1793012876,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "UPL cuestiona el traslado del mercado de la plaza Mayor por la feria de la trucha",
     "link": "https://www.heraldodeleon.es/leon/upl-cuestiona-desplazamiento-mercado-medieval-plaza-mayor-feria-trucha/20261026120520114910.html",
     "desc": "Los leonesistas exigen que en próximas ediciones sean las piscinas de pesca las que se trasladen \"a un lugar más idóneo\" para que no entorpezca a vendedores, productores y clientes&nbsp;",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/23/2026102319474919548.jpg",
     "pub": 1793012720,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "El monumento que acaba de ser declarado uno de los 'Lugares Mágicos de España': es un castillo de cuento del siglo XIX",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261026/monumento-acaba-declarado-lugares-magicos-espana-siglo-xix-castillo-cuento/1003744434711_0.html",
-    "desc": "La iniciativa ha sumado a su red 14 nuevos enclaves de singular valor histórico, cultural y emocional. Más información : El espectacular palacio de León que te acerca a uno de los mejores…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386813.jpg?p=c:1799:1012:nowe:100:153/w:1706/h:960&h=qoPz_A2H",
-    "pub": 1793012303,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Mañueco pide a Valle Ares elevar el prestigio de la Educación en Castilla y León",
-    "link": "https://www.elbierzodigital.com/manueco-pide-a-valle-ares-elevar-el-prestigio-de-la-educacion-en-castilla-y-leon/",
-    "desc": "El presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, ha encomendado a la nueva consejera de Educación, Valle Ares , el reto de \"elevar el nivel y el prestigio\" de un sistema…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/manueco-pide-a-valle-ares-elevar-el-prestigio-de-la-educacion-en-castilla-y-leon-el-bierzo-digital-1.jpeg",
-    "pub": 1793012105,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Lunes de nuevo fresco con temperaturas que no llegarán a los 20 grados en León",
-    "link": "https://www.heraldodeleon.es/leon/lunes-nuevo-fresco-temperaturas-que-llegaran-20-grados-leon/20261026091644114820.html",
-    "desc": "Para el martes, el panorama cambiará un poco, ya que durante la mañana el cielo estará parcialmente despejado con pocas nubes",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/09/04/2025090408503794867.jpg",
-    "pub": 1793002604,
     "fuente": "Heraldo de León · León"
   },
   {
