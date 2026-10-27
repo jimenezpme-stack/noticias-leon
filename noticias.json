@@ -1,11 +1,99 @@
 [
   {
-    "titulo": "Evacúan al Hospital a un camionero con hemorragia cerebral tras sufrir accidente en Valencia de Don Juan",
+    "titulo": "La publicidad local impulsa las ventas del comercio",
+    "link": "https://www.lanuevacronica.com/estilo-vida/publicidad-local-impulsa-ventas-comercio_205357_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/79/6/publicidad-local-comercio.png",
+    "pub": 1793092782,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La historia del mexicano que se convirtió en el mejor injertador de vides del mundo",
+    "link": "https://www.lanuevacronica.com/el-bierzo/historia-berciano-se-convirtio-en-mejor-injertador-mundo_205332_102.html",
+    "desc": "Helio Estévez Mauriz, hijo de emigrantes y nieto de un exiliado berciano, presentó este lunes en la Seminci de Valladolid 'Wildland', un documental que reivindica la dignidad de quienes abandonan su…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/37/7/helio-estevez.jpeg",
+    "pub": 1793092685,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los drones toman los jardines de Villafranca del Bierzo",
+    "link": "https://www.elbierzodigital.com/los-drones-toman-los-jardines-de-villafranca-del-bierzo/",
+    "desc": "Los jardines y las zonas verdes de Villafranca del Bierzo miran al futuro desde el aire. Los participantes y monitores del Programa Público Mixto de Empleo y Formación ' Ancares XIV' han realizado…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/los-drones-toman-los-jardines-de-villafranca-del-bierzo-mas-precision-menos-agua-y-mayor-seguridad-el-bierzo-digital.jpg",
+    "pub": 1793092452,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Ecos de Bergida y la coral Taller de Corcheas de Pamplona comparten escenario en Cacabelos",
+    "link": "https://www.elbierzodigital.com/ecos-de-bergida-y-la-coral-taller-de-corcheas-de-pamplona-comparten-escenario-en-cacabelos/",
+    "desc": "La iglesia de Santa María de la Plaza de Cacabelos acoge este sábado, 31 de octubre, a las 19.30 horas el concierto de las corales Ecos de Bergida y Taller de Corcheas de Pamplona, una actuación con…",
+    "img": null,
+    "pub": 1793092192,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Blanca Herreros acompañará a Pablo Calvo en las listas de Vox al Congreso y Jaime Alonso, número uno al Senado",
+    "link": "https://www.lanuevacronica.com/actualidad/blanca-herreros-acompanara-pablo-calvo-en-listas-vox-congreso-jaime-alonso-numero-senado_205356_102.html",
+    "desc": "La concejala en el Ayuntamiento de la capital será numero dos al Congreso, que cierra la presidenta provincial del partido ultra, con puestos en la Cámara Alta para concejales de Ponferrada y La…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/78/1/candidatos-vox-leon.png",
+    "pub": 1793092113,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "A la venta las entradas para el Concierto de Navidad de la Orquesta Sinfónica de Ponferrada",
+    "link": "https://www.elbierzodigital.com/a-la-venta-las-entradas-para-el-concierto-de-navidad-de-la-orquesta-sinfonica-de-ponferrada/",
+    "desc": "El Teatro Bergidum de Ponferrada acogerá el próximo 26 de diciembre, a las 20.00 horas, el Concierto de Navidad de la Orquesta Sinfónica de Ponferrada y del Bierzo. Las entradas ya están disponibles…",
+    "img": null,
+    "pub": 1793092106,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Aliste, será el candidato de Vox en León y Jaime Alonso, el 'uno' al Senado",
+    "link": "https://www.heraldodeleon.es/leon/pablo-juan-aliste-sera-candidato-vox-leon-jaime-alonso-uno-senado/20261027100804115047.html",
+    "desc": "Los de Abascal presentarán en León lista propia y completa a la Cámara Alta tras no alcanzar un acuerdo con el PP para concurrir con una única papeleta",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102710063524033.jpg",
+    "pub": 1793092084,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "\"Genicera siempre está presente y siempre que puedo voy para allá. Allí es donde mejor estoy\"",
+    "link": "https://www.heraldodeleon.es/leon/ines-alvarez-alvarez/20261027095626115044.html",
+    "desc": "Bibliotecario del Instituto Leonés de Cultura, presidente de la junta vecinal desde hace cuatro legislaturas y concejal de Cármenes, reivindica más oportunidades para el medio rural y reclama que…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102709512195859.jpg",
+    "pub": 1793091386,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El que no es de ninguna otra parte",
+    "link": "https://www.lanuevacronica.com/extras/a-la-contra/no-es-ninguna-otra-parte_205355_102.html",
+    "desc": "La última de La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/76/3/contra.jpeg",
+    "pub": 1793090957,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205352_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/66/2/27-10-2026-canton.jpeg",
+    "pub": 1793090615,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Evacúan al Hospital de León a un camionero tras sufrir un ictus en Valencia de Don Juan",
     "link": "https://www.heraldodeleon.es/comarcas/coyanza/evacuan-hospital-camionero-hemorragia-cerebral-sufrir-accidente-valencia-don-juan/20261027094317115042.html",
-    "desc": "El camión quedó cruzado en la carretera bloqueando la circulación, que tuvo que ser desviada por un paso alternativo mientras intervenían los servicios de emergencia",
+    "desc": "El camión quedó cruzado en la carretera CL-621 por la que circulaba bloqueando la circulación, que tuvo que ser desviada por un paso alternativo mientras intervenían los servicios de emergencia",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102709413679931.jpg",
     "pub": 1793090597,
     "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Un tercer terremoto vuelve a sacudir El Bierzo en once días, con epicentro en Benuza",
+    "link": "https://www.lanuevacronica.com/sucesos/tercer-terremoto-vuelve-sacudir-bierzo-en-once-dias-con-epicentro-en-benuza_205353_102.html",
+    "desc": "El IGN registró el movimiento de magnitud 2,6 este lunes a las 21.32 horas, después de los seísmos del 15 y el 23 de octubre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/70/3/terre.jpeg",
+    "pub": 1793090574,
+    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Más de 200 personas descubren la riqueza natural y cultural de Babia en pleno otoño",
@@ -24,7 +112,7 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La Academia Básica del Aire y del Espacio pregonará la Semana Santa de León de 2027",
+    "titulo": "La Academia Básica del Aire y del Espacio pregonará la Semana Santa de 2027",
     "link": "https://www.heraldodeleon.es/semana-santa-leon/academia-basica-aire-espacio-pregonara-semana-santa-leon-2027/20261027092514115037.html",
     "desc": "El coronel director del centro militar, Óscar Ruiz González, pronunciará el pregón el sábado 13 de marzo en el Auditorio Ciudad de León, tras la designación anunciada por la Junta Mayor",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/03/21/2026032121393075305.jpg",
@@ -69,7 +157,7 @@
     "desc": "La profundidad indicada es de cero kilómetros, según ha informado la Subdelegación del Gobierno a través de sus canales de difusión.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/27/6ae05a28bc03a7-91192280.jpeg",
     "pub": 1793088184,
-    "fuente": "20minutos CyL"
+    "fuente": "20minutos León"
   },
   {
     "titulo": "La Casa de León en Madrid presenta 'Reina Urraca'",
@@ -104,6 +192,14 @@
     "fuente": "El Bierzo Digital"
   },
   {
+    "titulo": "Jaime Alonso encabezará la lista de Vox al Senado por León y Pablo Calvo optará al Congreso",
+    "link": "https://www.elbierzodigital.com/jaime-alonso-encabezara-la-lista-de-vox-al-senado-por-leon-y-pablo-calvo-optara-al-congreso/",
+    "desc": "Jaime Alonso Gila encabezará la candidatura de Vox al Senado por la provincia de León en las elecciones generales del próximo 29 de noviembre , mientras que Pablo Juan Calvo Liste será el cabeza de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/vox-recurre-a-sus-cargos-municipales-para-las-listas-al-senado-en-castilla-y-leon-el-bierzo-digital-e1793091560328.jpeg",
+    "pub": 1793084471,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Casi un año tras la firma del convenio de mejora de colegios, los 8 millones previstos se diluyen en burocracia con un inicio de curso sin grandes obras",
     "link": "https://www.heraldodeleon.es/leon/casi-ano-firma-convenio-mejora-centros-docentes-8-millones-colegios-leon-diluyen-burocracia-inicio-curso-obras/20261027075410115021.html",
     "desc": "Familias y los propios centros lamentan que la inversión de la Junta y el Ayuntamiento, cuya entrada en vigor era inmediata, siga sin poner un solo ladrillo en las aulas de los 19 centros públicos…",
@@ -134,14 +230,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384909.jpg?p=w:1706/h:960&h=jyDOm_Nb",
     "pub": 1793080800,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Un tercer terremoto vuelve a sacudir El Bierzo en once días, con epicentro en Benuza",
-    "link": "https://www.lanuevacronica.com/sucesos/tercer-terremoto-vuelve-sacudir-bierzo-en-once-dias-con-epicentro-en-benuza_205353_102.html",
-    "desc": "El IGN registró el movimiento de magnitud 2,6 este lunes a las 21.32 horas, después de los seísmos del 15 y el 23 de octubre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/70/3/terre.jpeg",
-    "pub": 1793077159,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Príncipes de sábado",
@@ -192,14 +280,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205352_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/66/2/27-10-2026-canton.jpeg",
-    "pub": 1793070000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Las herencias reflejan la realidad demográfica",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/herencias-reflejan-realidad-demografica_205351_102.html",
     "desc": "El récord de viviendas heredadas en la provincia es una consecuencia del envejecimiento de la población, pero también pone de manifiesto los profundos cambios que experimenta el mercado inmobiliario…",
@@ -220,38 +300,6 @@
     "link": "https://www.lanuevacronica.com/actualidad/provincia-leon-bate-su-record-viviendas-heredadas-en-va-ano_205341_102.html",
     "desc": "Los registros de la provincia inscribieron 1.785 transmisiones de vivienda por herencia entre enero y agosto, más del doble de las que se hicieron en 2007 cuando arrancó la serie",
     "img": "https://www.lanuevacronica.com/uploads/s1/33/90/49/5/invertir-en-vivienda-para-alquilar-continua-en-tendencia-negativa-en-leon-saul-aren.gif",
-    "pub": 1793070000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Nuevo intento de robo con el 'abrazo cariñoso' en la comarca leonesa de Tierra de Campos",
-    "link": "https://www.lanuevacronica.com/actualidad/nuevo-intento-robo-con-abrazo-carinoso-en-comarca-leonesa-tierra-campos_205339_102.html",
-    "desc": "Los métodos empleados este mes por los presuntos delincuentes siguen el mismo patrón que los de junio en Villaverde de Arcayos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/53/1/abrazocarinoso.jpeg",
-    "pub": 1793070000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Todos los horarios (y detalles) del próximo Hallowindie",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/todos-horarios-y-detalles-proximo-hallowindie_205338_102.html",
-    "desc": "El festival arranca la cuenta atrás de una sexta edición que contará con nombres tan conocidos como La La Love You, Alcalá Norte y Cariño, entre otras propuestas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/48/5/una-imagen-de-una-edicion-anterior-del-festival-que-este-fin-de-semana-regresa-al-palacio-de-exposiciones-de-la-capital-leonesa-saul-aren.jpeg",
-    "pub": 1793070000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Belén Sánchez Campos: \"La fotografía es una prolongación de mis estados de ánimo\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/belen-sanchez-campos-fotografia-es-prolongacion-mis-estados-animo_205334_102.html",
-    "desc": "La leonesa recupera en el Camarote Madrid una serie de fotografías imperfectas como base para expresar su propia vida",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/40/0/belen-sanchez-campos-ante-su-seleccion-de-fotografias-vicente-garcia.jpeg",
-    "pub": 1793070000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Pájaro o alcándara",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/pajaro-alcandara_205333_102.html",
-    "desc": "El poeta y pensador Agustín García Calvo cumpliría este mes de octubre cien años",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/38/4/el-poeta-y-pesnador-agustin-garcia-con-su-pareja-isabel-escudero-carlos-bullejos.jpeg",
     "pub": 1793070000,
     "fuente": "La Nueva Crónica"
   },
@@ -381,22 +429,6 @@
     "desc": "Ester Muñoz y Silvia Franco encabezan las candidaturas al Congreso y al Senado, respectivamente, y sitúan las infraestructuras, los impuestos, la vivienda y la reindustrialización entre los ejes de…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102618552087302.jpg",
     "pub": 1793034987,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Cultural reserva un total de 659 entradas para la afición de la Ponferradina a 15 euros",
-    "link": "https://www.heraldodeleon.es/deportes/cultural/cultural-reserva-659-entradas-aficion-ponferradina-15-euros/20261026174220114972.html",
-    "desc": "El acuerdo entre ambos clubes facilita el desplazamiento de los seguidores bercianos al Reino de León el 8 de noviembre y establece las mismas condiciones para el encuentro de la segunda vuelta en…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/06/07/2025060721540884102.jpg",
-    "pub": 1793032940,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Tuna de la Universidad de León conquista Ciudad Real con tres premios nacionales",
-    "link": "https://www.heraldodeleon.es/sociedad/tuna-universidad-leon-conquista-ciudad-real-tres-premios-nacionales/20261026173540114971.html",
-    "desc": "La agrupación leonesa se alza con el galardón a la Mejor Tuna en el segundo certamen nacional y completa su éxito con los reconocimientos a la Mejor Ronda y al Mejor Solista",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102617352414523.jpg",
-    "pub": 1793032540,
     "fuente": "Heraldo de León"
   },
   {
@@ -688,46 +720,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La Federación de Peñas de la SDP pone rumbo a Ferrol",
-    "link": "https://www.elbierzodigital.com/la-federacion-de-penas-de-la-sdp-pone-rumbo-a-ferrol/",
-    "desc": "La Federación de Peñas de la SD Ponferradina ya prepara el desplazamiento de este sábado 31 de octubre a Ferrol, donde la Deportiva se medirá al Racing a las 16.30 horas. La salida será a las 8:30…",
-    "img": null,
-    "pub": 1793012087,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "¡Payasos diabólicos, bombas explosivas y corazones que laten en la casa del terror de Ponferrada!",
-    "link": "https://www.elbierzodigital.com/payasos-diabolicos-bombas-explosivas-y-corazones-que-laten-en-la-casa-del-terror-de-ponferrada/",
-    "desc": "La casa del terror , ubicada en la avenida de los Andes 54 vuelve a convertirse en uno de los grandes atractivos de Halloween en Ponferrada. Payasos diabólicos, esqueletos bailarines, corazones que…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/payasos-diabolicos-bombas-explosivas-y-corazones-que-laten-en-la-casa-de-los-horrores-de-ponferrada-el-bierzo-digital.jpg",
-    "pub": 1793012061,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Pollán fusionará los bonos Concilia e Infantil y orientará el tercer sector a vulnerables en situación regular en España",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261026/pollan-fusionara-bonos-concilia-infantil-orientara-tercer-sector-vulnerables-situacion-regular-espana/1003744434679_0.html",
-    "desc": "El presupuesto de 2027 se incrementa hasta los 182 millones en el ámbito de la Promoción y Apoyo a la Familia y en Atención a la Infancia. Más información: Carriedo anuncia un nuevo fondo para…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11386802.jpg?p=c:3997:2250:nowe:0:382/w:1706/h:960&h=AjyXW3sM",
-    "pub": 1793011711,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Óscar Puente reclama una atención específica para mejorar la conectividad del medio rural en Castilla y León",
-    "link": "https://www.elbierzodigital.com/oscar-puente-reclama-una-atencion-especifica-para-mejorar-la-conectividad-del-medio-rural-en-castilla-y-leon/",
-    "desc": "El ministro de Transportes y Movilidad Sostenible, Óscar Puente, ha reclamado una \"atención específica\" para las necesidades de Castilla y León en materia de conectividad rural y ha acusado al…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/oscar-puente-reclama-una-atencion-especifica-para-mejorar-la-conectividad-del-medio-rural-en-castilla-y-leon-el-bierzo-digital-1.jpeg",
-    "pub": 1793010349,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El atletismo escolar reúne a 150 jóvenes en Ponferrada con una cantera berciana llena de ilusión",
-    "link": "https://www.elbierzodigital.com/el-atletismo-escolar-reune-a-150-jovenes-en-ponferrada-con-una-cantera-berciana-llena-de-ilusion/",
-    "desc": "El Estadio Colomán Trabado se llenaba de energía este sábado con la I Jornada de Atletismo Escolar , que aglutinaba a unos 150 niños y niñas para inaugurar la temporada. Entre ellos, cerca de 40…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/1_jornada_1-el-bierzo-digital.jpg",
-    "pub": 1793009990,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Lunes de nuevo fresco con temperaturas que no llegarán a los 20 grados en León",
     "link": "https://www.heraldodeleon.es/leon/lunes-nuevo-fresco-temperaturas-que-llegaran-20-grados-leon/20261026091644114820.html",
     "desc": "Para el martes, el panorama cambiará un poco, ya que durante la mañana el cielo estará parcialmente despejado con pocas nubes",
@@ -789,6 +781,14 @@
     "desc": "La posición del vehículo impedía que los pasajeros pudieran salir.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/20/6ad7ab5481fad4-49018062.jpeg",
     "pub": 1792519193,
+    "fuente": "20minutos CyL"
+  },
+  {
+    "titulo": "Vox veta las ayudas al cine en Castilla y León para películas que \"impliquen propaganda y adoctrinamiento ideológico\"",
+    "link": "https://www.20minutos.es/castilla-y-leon/vox-veta-las-ayudas-cine-castilla-leon-para-peliculas-que-impliquen-propaganda-adoctrinamiento-ideologico_7051228_0.html",
+    "desc": "La orden recoge, en concreto, que \"el beneficiario deberá desarrollar las actividades subvencionadas con pleno respeto a los principios de objetividad y neutralidad institucional\".",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/20/6ad7a38b2b5125-92603246.jpeg",
+    "pub": 1792517377,
     "fuente": "20minutos CyL"
   },
   {

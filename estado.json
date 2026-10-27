@@ -6,7 +6,7 @@
       "ok": true,
       "items": 15,
       "nuevos": 15,
-      "ts": 1793090747,
+      "ts": 1793092918,
       "con_foto": 8
     },
     {
@@ -15,8 +15,8 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1793090747,
-      "con_foto": 29
+      "ts": 1793092918,
+      "con_foto": 27
     },
     {
       "fuente": "Heraldo de León",
@@ -24,7 +24,7 @@
       "ok": true,
       "items": 20,
       "nuevos": 20,
-      "ts": 1793090747,
+      "ts": 1793092918,
       "con_foto": 20
     },
     {
@@ -32,8 +32,8 @@
       "url": "https://www.heraldodeleon.es/rss/leon/",
       "ok": true,
       "items": 20,
-      "nuevos": 14,
-      "ts": 1793090747,
+      "nuevos": 12,
+      "ts": 1793092918,
       "con_foto": 20
     },
     {
@@ -42,7 +42,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1793090747,
+      "ts": 1793092918,
       "con_foto": 30
     },
     {
@@ -51,7 +51,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 24,
-      "ts": 1793090747,
+      "ts": 1793092918,
       "con_foto": 24
     },
     {
@@ -59,79 +59,79 @@
       "url": "https://www.20minutos.es/rss/castilla-y-leon/leon/",
       "ok": true,
       "items": 26,
-      "nuevos": 1,
-      "ts": 1793090747,
-      "con_foto": 1
+      "nuevos": 2,
+      "ts": 1793092918,
+      "con_foto": 2
     },
     {
       "fuente": "20minutos CyL",
       "url": "https://www.20minutos.es/rss/castilla-y-leon/",
       "ok": true,
       "items": 26,
-      "nuevos": 18,
-      "ts": 1793090747,
+      "nuevos": 17,
+      "ts": 1793092918,
       "con_foto": 19
     },
     {
       "fuente": "León4Sport",
       "url": "https://www.leon4sport.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 9h",
+      "error": "omitida, se reintenta en 8h",
       "ts": 1793076924
     },
     {
       "fuente": "Pueblo de León",
       "url": "https://www.puebledeleon.es/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 9h",
+      "error": "omitida, se reintenta en 8h",
       "ts": 1793076924
     },
     {
       "fuente": "León14 Actualidad",
       "url": "https://www.leon14actualidad.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 9h",
+      "error": "omitida, se reintenta en 8h",
       "ts": 1793076924
     },
     {
       "fuente": "Onda Regional",
       "url": "https://www.ondaregional.es/rss/",
       "ok": false,
-      "error": "omitida, se reintenta en 9h",
+      "error": "omitida, se reintenta en 8h",
       "ts": 1793076924
     },
     {
       "fuente": "Televisión CyL",
       "url": "https://www.rtvcyltv.es/rss/",
       "ok": false,
-      "error": "omitida, se reintenta en 9h",
+      "error": "omitida, se reintenta en 8h",
       "ts": 1793076924
     },
     {
       "fuente": "Alfarje",
       "url": "https://alfarje.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 9h",
+      "error": "omitida, se reintenta en 8h",
       "ts": 1793076924
     },
     {
       "fuente": "León Semanal",
       "url": "https://www.leonsemanal.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 9h",
+      "error": "omitida, se reintenta en 8h",
       "ts": 1793076924
     }
   ],
   "publicadas": 100,
   "reparto": {
-    "Heraldo de León": 20,
-    "El Español · CyL": 19,
-    "El Bierzo Digital": 21,
     "La Nueva Crónica": 15,
+    "El Bierzo Digital": 21,
+    "Heraldo de León": 20,
+    "El Español · CyL": 18,
+    "20minutos León": 2,
     "20minutos CyL": 8,
     "eldiario.es · CyL": 8,
-    "Heraldo de León · León": 8,
-    "20minutos León": 1
+    "Heraldo de León · León": 8
   },
   "minimo_por_fuente": 8
 }
