@@ -1,10 +1,58 @@
 [
   {
-    "titulo": "Los sindicatos bercianos piden un pacto de Estado arengando a la huelga para resolver el problema de la vivienda",
-    "link": "https://www.lanuevacronica.com/el-bierzo/sindicatos-bercianos-piden-pacto-estado-arengando-huelga-resolver-problema-vivienda_205369_102.html",
-    "desc": "Los sindicatos alertan en El Bierzo de la pérdida de poder adquisitivo, los 15 convenios pendientes en León y el peso de los alquileres sobre los ingresos de los trabajadores",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/98/4/ccoo.jpeg",
-    "pub": 1793101475,
+    "titulo": "El PP advierte irregularidades en la nueva ordenanza de basura que subirá la tasa un 4,5%",
+    "link": "https://www.heraldodeleon.es/leon/pp-advierte-irregularidades-nueva-ordenanza-basura-que-subira-tasa-45/20261027131919115118.html",
+    "desc": "David Fernández cargó contra la&nbsp;ordenanza que este miércoles será aprobada&nbsp;por el PSOE con la abstención de UPL para sumarse a la subida del 20% del precio del agua",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102713133947968.jpg",
+    "pub": 1793103559,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El PSOE de Ponferrada niega que las obras de la calle que va al hospital sigan, como aseguró Morala",
+    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-ponferrada-niega-obras-calle-va-hospital-sigan-como-aseguro-morala_205374_102.html",
+    "desc": "Los socialistas denuncian que la reforma de la calle de Fuentesnuevas sigue paralizada pese a que el alcalde aseguró que los trabajos se habían retomado y confía en que la vía esté abierta antes de…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/74/92/0/medicos-sin-fronteras-3.jpeg",
+    "pub": 1793103450,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La cuenta atrás para un nuevo gran supermercado en Hospital de Órbigo ya está en marcha",
+    "link": "https://www.lanuevacronica.com/actualidad/cuenta-atras-nuevo-gran-supermercado-en-hospital-orbigo-ya-esta-en-marcha_205383_102.html",
+    "desc": "La obras del nuevo Lupa avanzan a buen ritmo tras invertir 3,75 millones de euros para crear un espacio comercial de 1.800 metros cuadrados de superficie y que permitirá crear 47 puestos de trabajo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/15/9/la-cuenta-atras-para-un-nuevo-gran-supermercado-en-hospital-de-orbigo-ya-esta-en-marcha.jpeg",
+    "pub": 1793103323,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Cultural apunta a recuperar a Souley Traoré tras el parón",
+    "link": "https://www.lanuevacronica.com/deportes/cultural-apunta-recuperar-souley-traore-paron_205373_102.html",
+    "desc": "El pívot ya trabaja de forma individual en cancha, pero el club será prudente tras el fichaje temporal de un Maseda que intentará poner en un aprieto a Castillo durante este mes y ganarse su…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/15/83/4/cultural-ponferrada-14.jpeg",
+    "pub": 1793103062,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El periodista Cayetano González Hermosilla presentará en León su libro 'La gran traición'",
+    "link": "https://www.heraldodeleon.es/cultura/periodista-cayetano-gonzalez-hermosilla-presentara-leon-libro-gran-traicion/20261027130811115107.html",
+    "desc": "El periodista leonés repasará este martes, 3 de noviembre, los hechos de 1996 que marcaron la respuesta social ante ETA y analizará el poder actual de la izquierda abertzale, en un libro que rinde…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102713005372136.jpg",
+    "pub": 1793102891,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Arañas plateadas y figuras fantasmales decoran el entorno de Feve por Todos los Santos",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/aranas-plateadas-figuras-fantasmales-decoran-entorno-feve-por-todos-santos_205368_102.html",
+    "desc": "El alumnado del colegio Maristas San José han elaborado adornos con papel de aluminio reutilizado tras envolver sus bocadillos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/93/0/algunas-imagenes-de-los-adornos-realizados-por-el-alumnado-del-colegio-maristas-san-jose-en-el-entorno-de-feve.jpeg",
+    "pub": 1793102563,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Ademar cruza los dedos con Lodos",
+    "link": "https://www.lanuevacronica.com/deportes/ademar-cruza-dedos-con-lodos_205380_102.html",
+    "desc": "El lateral será sometido este miércoles a una resonancia para conocer el alcance exacto de su lesión de rodilla, con las primeras exploraciones generando optimismo en que se evite la máxima gravedad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/08/0/lodos-alicante.jpeg",
+    "pub": 1793102515,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -12,8 +60,64 @@
     "link": "https://www.lanuevacronica.com/actualidad/ferduero-firma-inversiones-casi-78-millones-modernizar-15400-hectareas-regadio_205381_102.html",
     "desc": "Los convenios suscritos con Seiasa y la Junta de Castilla y León beneficiarán a cerca de 1.500 regantes de León, Zamora y Palencia, con una inversión de casi 18 millones para el Canal del Esla",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/68/09/8/ferduero-firma-inversiones-de-casi-78-millones-para-modernizar-15-400-hectareas-de-regadio.jpeg",
-    "pub": 1793101460,
+    "pub": 1793102452,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Herido un ciclista de 65 años tras colisionar con una grúa en Camponaraya",
+    "link": "https://www.lanuevacronica.com/sucesos/herido-ciclista-65-anos-colisionar-con-grua-en-camponaraya_205377_102.html",
+    "desc": "La bicicleta que conducía colisionó con una grúa de asistencia en carretera lo que le provocó dolor en un hombro",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/51/92/7/112-la-nueva-cronica-4-1000x563-4-1000x563.jpeg",
+    "pub": 1793102438,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Una propuesta diferente en los cines leoneses: los Van Gogh celebrarán una sesión sorpresa cada mes",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/propuesta-diferente-en-cines-leoneses-van-gogh-celebraran-sesion-sorpresa-cada-mes_205376_102.html",
+    "desc": "Las salas de la calle San Claudio acogerán los jueves 29 de octubre, 26 de noviembre y 17 de diciembre una proyección de la que el espectador no sepa nada y con precio reducido",
+    "img": "https://www.lanuevacronica.com/uploads/s1/15/54/85/cine-van-gogh-23917-1.jpeg",
+    "pub": 1793102374,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cruz Roja pide derribar los prejuicios que dificultan el acceso al empleo en El Bierzo",
+    "link": "https://www.lanuevacronica.com/el-bierzo/cruz-roja-pide-derribar-prejuicios-dificultan-acceso-empleo-en-bierzo_205382_102.html",
+    "desc": "La campaña 'Contrata Sin' llegó a la Feria de Empleo de Ponferrada para visibilizar las barreras laborales vinculadas a la edad, el género o el origen",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/12/0/accion-empleo-ponferrada-4.jpeg",
+    "pub": 1793102231,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "18 millones de euros para la modernización de 11.000 hectáreas de regadíos del Esla",
+    "link": "https://www.heraldodeleon.es/comarcas/18-millones-euros-modernizacion-900-regadios-canal-esla/20261027125503115104.html",
+    "desc": "La comunidad de regantes y Seiasa firmaron este martes el convenio de la fase I que contempla actuaciones que beneficiarán a 900 regantes&nbsp;en León y Palencia",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102712334250006.jpg",
+    "pub": 1793102103,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El CEL destaca que León crea empleo \"al doble de ritmo que la media nacional\"",
+    "link": "https://www.heraldodeleon.es/economia/cel-destaca-que-leon-crea-empleo-doble-ritmo-que-media-nacional/20261027125355115103.html",
+    "desc": "La provincia alcanza los 186.200 ocupados y crece un 5,8% en un año, aunque la patronal alerta de que \"la tasa de actividad del 50,83% y la tasa de empleo del 46,11% son las más bajas\" de Castilla y…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/02/10/2025021012331049909.jpg",
+    "pub": 1793102035,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Los sindicatos bercianos piden un pacto de Estado arengando a la huelga para resolver el problema de la vivienda",
+    "link": "https://www.lanuevacronica.com/el-bierzo/sindicatos-bercianos-piden-pacto-estado-arengando-huelga-resolver-problema-vivienda_205369_102.html",
+    "desc": "Los sindicatos alertan en El Bierzo de la pérdida de poder adquisitivo, los 15 convenios pendientes en León y el peso de los alquileres sobre los ingresos de los trabajadores",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/98/4/ccoo.jpeg",
+    "pub": 1793101960,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Dos años y medio de cárcel para el criador de Burgos que dejó morir de hambre a 21 perros y más de 100 sufrieron maltrato",
+    "link": "https://www.eldiario.es/castilla-y-leon/tribunales/anos-medio-carcel-criador-burgos-dejo-morir-hambre-21-perros-100-sufrieron-maltrato_1_13618308.html",
+    "desc": "La condena incluye una multa por alzamiento de bienes tras donar sus fincas y vender su furgoneta para dificultar el cobro de las indemnizaciones Piden hasta 30 meses de prisión para un criador de…",
+    "img": "https://static.eldiario.es/clip/84188def-f1b3-41a6-aa92-ca7b9ba89c63_16-9-discover-aspect-ratio_default_0_x230y781.jpg",
+    "pub": 1793101867,
+    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "Unicaja amplía a las pymes su oferta de preconcedidos",
@@ -29,14 +133,6 @@
     "desc": "El consejero considera insuficiente el compromiso de la eléctrica y lamenta que haya que seguir reclamándole inversiones tras el cierre de Compostilla",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/21/90/3/suarez-quinones-sanchez.jpeg",
     "pub": 1793101406,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Ademar cruza los dedos con Lodos",
-    "link": "https://www.lanuevacronica.com/deportes/ademar-cruza-dedos-con-lodos_205380_102.html",
-    "desc": "El lateral será sometido este miércoles a una resonancia para conocer el alcance exacto de su lesión de rodilla, con las primeras exploraciones generando optimismo en que se evite la máxima gravedad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/08/0/lodos-alicante.jpeg",
-    "pub": 1793101241,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -80,30 +176,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Herido un ciclista de 65 años tras colisionar con una grúa en Camponaraya",
-    "link": "https://www.lanuevacronica.com/sucesos/herido-ciclista-65-anos-colisionar-con-grua-en-camponaraya_205377_102.html",
-    "desc": "La bicicleta que conducía colisionó con una grúa de asistencia en carretera lo que le provocó dolor en un hombro",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/51/92/7/112-la-nueva-cronica-4-1000x563-4-1000x563.jpeg",
-    "pub": 1793100031,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Una propuesta diferente en los cines leoneses: los Van Gogh celebrarán una sesión sorpresa cada mes",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/propuesta-diferente-en-cines-leoneses-van-gogh-celebraran-sesion-sorpresa-cada-mes_205376_102.html",
-    "desc": "Las salas de la calle San Claudio acogerán los jueves 29 de octubre, 26 de noviembre y 17 de diciembre una proyección de la que el espectador no sepa nada y con precio reducido",
-    "img": "https://www.lanuevacronica.com/uploads/s1/15/54/85/cine-van-gogh-23917-1.jpeg",
-    "pub": 1793099888,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Cultural apunta a recuperar a Souley Traoré tras el parón",
-    "link": "https://www.lanuevacronica.com/deportes/cultural-apunta-recuperar-souley-traore-paron_205373_102.html",
-    "desc": "El pívot ya trabaja de forma individual en cancha, pero el club será prudente tras el fichaje temporal de un Maseda que intentará poner en un aprieto a Castillo durante este mes y ganarse su…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/15/83/4/cultural-ponferrada-14.jpeg",
-    "pub": 1793099585,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "CCOO y UGT llaman a la huelga general del 11N en Ponferrada por la vivienda, los salarios y los precios",
     "link": "https://www.elbierzodigital.com/ccoo-y-ugt-llaman-a-la-huelga-general-del-11n-en-ponferrada-por-la-vivienda-los-salarios-y-los-precios/",
     "desc": "La vivienda se ha convertido en una losa para muchas familias, y mientras los salarios no dan tregua y los precios siguen apretando, el caldo de cultivo para la huelga general está claro . Con este…",
@@ -118,14 +190,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387783.jpg?p=w:1706/h:960&h=apFUN6RC",
     "pub": 1793099249,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El PSOE de Ponferrada niega que las obras de la calle que va al hospital sigan, como aseguró Morala",
-    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-ponferrada-niega-obras-calle-va-hospital-sigan-como-aseguro-morala_205374_102.html",
-    "desc": "Los socialistas denuncian que la reforma de la calle de Fuentesnuevas sigue paralizada pese a que el alcalde aseguró que los trabajos se habían retomado y confía en que la vía esté abierta antes de…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/74/92/0/medicos-sin-fronteras-3.jpeg",
-    "pub": 1793099240,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Radio Universitaria prepara una noche de Halloween con rock, tarot y cine de serie B",
@@ -192,14 +256,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Arañas plateadas y figuras fantasmales decoran el entorno de Feve por Todos los Santos",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/aranas-plateadas-figuras-fantasmales-decoran-entorno-feve-por-todos-santos_205368_102.html",
-    "desc": "El alumnado del colegio Maristas San José han elaborado adornos con papel de aluminio reutilizado tras envolver sus bocadillos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/93/0/algunas-imagenes-de-los-adornos-realizados-por-el-alumnado-del-colegio-maristas-san-jose-en-el-entorno-de-feve.jpeg",
-    "pub": 1793097899,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Junta avanza en la nueva ley de Concordia pactada por PP y Vox, que prevé aprobar antes de junio de 2027",
     "link": "https://www.elbierzodigital.com/la-junta-avanza-en-la-nueva-ley-de-concordia-pactada-por-pp-y-vox-que-preve-aprobar-antes-de-junio-de-2027/",
     "desc": "La Junta de Castilla y León avanza en la definición del contenido de la nueva ley de Concordia pactada por PP y Vox, cuya aprobación está prevista antes de junio de 2027, según recoge el acuerdo de…",
@@ -254,22 +310,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/03/04/2025030411290247817.jpg",
     "pub": 1793096776,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Morala admite que las 80 viviendas de La Rosaleda aumentarán el tráfico como apuntan las alegaciones vecinales",
-    "link": "https://www.lanuevacronica.com/el-bierzo/morala-admite-80-viviendas-rosaleda-aumentaran-trafico-como-apuntan-alegaciones-vecinales_205364_102.html",
-    "desc": "El alcalde de Ponferrada asegura que el Ayuntamiento analizará si las objeciones presentadas por los residentes tienen recorrido",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/03/03/5/ronda-sur-4-1000x563.jpeg",
-    "pub": 1793096587,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Junta volverá a celebrar el Día de Castilla y León en 12 ciudades",
-    "link": "https://www.lanuevacronica.com/actualidad/junta-mantendra-actos-dia-castilla-leon-en-12-municipios_205363_102.html",
-    "desc": "La Fundación para la Promoción de los Valores y la Identidad de la comunidad dispondrá de 2,4 millones de euros de los presupuestos autonómicos de 2027",
-    "img": "https://www.lanuevacronica.com/uploads/s1/32/81/45/9/lexitmanifestacion.jpeg",
-    "pub": 1793096200,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Asaja León se manifestará en Madrid contra el \"ahogo del campo leonés\"",
@@ -397,7 +437,7 @@
     "desc": "Los de Abascal presentarán en León lista propia y completa a la Cámara Alta tras no alcanzar un acuerdo con el PP para concurrir con una única papeleta",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102710063524033.jpg",
     "pub": 1793092084,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "\"Genicera siempre está presente y siempre que puedo voy para allá. Allí es donde mejor estoy\"",
@@ -405,23 +445,7 @@
     "desc": "Bibliotecario del Instituto Leonés de Cultura, presidente de la junta vecinal desde hace cuatro legislaturas y concejal de Cármenes, reivindica más oportunidades para el medio rural y reclama que…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102709512195859.jpg",
     "pub": 1793091386,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Evacúan al Hospital de León a un camionero tras sufrir un ictus en Valencia de Don Juan",
-    "link": "https://www.heraldodeleon.es/comarcas/coyanza/evacuan-hospital-camionero-hemorragia-cerebral-sufrir-accidente-valencia-don-juan/20261027094317115042.html",
-    "desc": "El camión quedó cruzado en la carretera CL-621 por la que circulaba bloqueando la circulación, que tuvo que ser desviada por un paso alternativo mientras intervenían los servicios de emergencia",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102709413679931.jpg",
-    "pub": 1793090597,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Más de 200 personas descubren la riqueza natural y cultural de Babia en pleno otoño",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/mas-200-personas-participan-fin-semana-otono-babia/20261027094002115040.html",
-    "desc": "El Fin de Semana de Otoño, organizado por la Asociación Estás en Babia y el proyecto Cultur-Monts del CSIC, ha combinado senderismo, apicultura, degustación de mieles y música para contribuir a la…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102709315641190.jpg",
-    "pub": 1793090402,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Repunte de las temperaturas para un martes casi primaveral y sin nubes en León",
@@ -710,30 +734,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387020.jpg?p=w:1706/h:960&h=B4-2E0UW",
     "pub": 1793021836,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "PSOE y Frente Amplio registran su candidatura conjunta al Senado: \"Apostamos por la política útil\"",
-    "link": "https://www.heraldodeleon.es/leon/psoe-frente-amplio-registran-candidatura-unidad-senado/20261026143624114959.html",
-    "desc": "La papeleta salmón de 'Senado de Progreso' incluirá a los socialistas Salvador Vidal y Manuel Alfonso González junto a Laura Fernández de Izquierda Unidad",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/26/2026102614331739054.jpg",
-    "pub": 1793021784,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Carnero explota y responde a Puente: “Me llama facha, vago y ‘saboterrador’, pero me da igual lo que diga el innombrable”",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261026/carnero-explota-responde-puente-llama-facha-vago-saboterrador-da-igual-diga-innombrable/1003744435034_0.html",
-    "desc": "Ha justificado el 'tuit' del Partido Popular en el que se empleaba un vídeo cuando el exalcalde y ahora ministro se lesionó gravemente la rodilla. Más información: Carnero achaca a \"Óscar Puente y…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387010.jpg?p=w:1706/h:960&h=ByhvXtuf",
-    "pub": 1793021295,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Condenadas cuatro personas, entre ellas el teniente de alcalde de Castronuño, por destruir un mural antifranquista de Sierra",
-    "link": "https://www.eldiario.es/castilla-y-leon/tribunales/condenadas-cuatro-personas-teniente-alcalde-castronuno-destruir-mural-sierra_1_13615166.html",
-    "desc": "Tendrán que indemnizar al pintor con 5.000 euros por eliminar una obra sobre los represaliados El artista Manuel Sierra pide en el juzgado la restitución de su mural sobre la represión franquista…",
-    "img": "https://static.eldiario.es/clip/8c3726f8-4832-4ae2-9d73-989554eac5d3_16-9-discover-aspect-ratio_default_0.jpg",
-    "pub": 1793014567,
-    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "Los falsos acusados del crimen de Burgos irán a juicio para señalar a la extrema derecha",
