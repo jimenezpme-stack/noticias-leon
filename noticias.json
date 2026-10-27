@@ -1,19 +1,19 @@
 [
   {
+    "titulo": "Príncipes de sábado",
+    "link": "https://www.lanuevacronica.com/opinion/principes-sabado_205349_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793073600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Vivir aquí y ahora",
     "link": "https://www.lanuevacronica.com/opinion/vivir-aqui-ahora_205348_102.html",
     "desc": "",
     "img": null,
     "pub": 1793072400,
     "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Muere una mujer y dos hombres resultan heridos en un atropello en Valladolid",
-    "link": "https://www.20minutos.es/castilla-y-leon/valladolid/muere-una-mujer-dos-hombres-resultan-heridos-un-atropello-valladolid_7053750_0.html",
-    "desc": "Madrid, 27 oct (EFE).- Una mujer falleció y dos hombres resultaron heridos este lunes por la tarde en un atropello en el que una moto arrolló a dos peatones en el paseo de Zorrilla de Valladolid,…",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/08/6ac762a84da9a2-47852186.jpeg",
-    "pub": 1793072035,
-    "fuente": "20minutos CyL"
   },
   {
     "titulo": "Difuntos, santos y brujas",
@@ -157,14 +157,6 @@
     "desc": "El responsable de Izquierda Unida en la provincia tratará de conseguir representación en la Cámara Baja en las elecciones generales del 29 de noviembre",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/67/61/7/rube-n-este-vez-frente-amplio.png",
     "pub": 1793044215,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ya empieza a ser Navidad por las calles de León",
-    "link": "https://www.lanuevacronica.com/actualidad/ya-empieza-ser-navidad-por-calles-leon_205342_102.html",
-    "desc": "Algunas luces ya están instaladas en algunas calles de la ciudad, después de que los operarios de la empresa encargada comenzaran en agosto con el cableado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/58/1/luces-navidad-leon.jpeg",
-    "pub": 1793042789,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -789,6 +781,14 @@
     "desc": "La orden recoge, en concreto, que \"el beneficiario deberá desarrollar las actividades subvencionadas con pleno respeto a los principios de objetividad y neutralidad institucional\".",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/20/6ad7a38b2b5125-92603246.jpeg",
     "pub": 1792517377,
+    "fuente": "20minutos CyL"
+  },
+  {
+    "titulo": "Renuncia toda la lista del PSOE de Palencia al Congreso al cambiar Ferraz al número uno",
+    "link": "https://www.20minutos.es/castilla-y-leon/palencia/renuncia-toda-lista-psoe-palencia-congreso-cambiar-ferraz-numero-uno_7050730_0.html",
+    "desc": "La decisión ratificada por el Comité Federal choca frontalmente con la voluntad mayoritaria de la militancia palentina.",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/19/6ad66379f1c4d6-23843019.r_d.531-311.jpeg",
+    "pub": 1792434470,
     "fuente": "20minutos CyL"
   },
   {

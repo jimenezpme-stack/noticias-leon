@@ -6,8 +6,8 @@
       "ok": true,
       "items": 15,
       "nuevos": 15,
-      "ts": 1793072923,
-      "con_foto": 9
+      "ts": 1793074820,
+      "con_foto": 8
     },
     {
       "fuente": "El Bierzo Digital",
@@ -15,7 +15,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1793072923,
+      "ts": 1793074820,
       "con_foto": 29
     },
     {
@@ -24,7 +24,7 @@
       "ok": true,
       "items": 20,
       "nuevos": 20,
-      "ts": 1793072923,
+      "ts": 1793074820,
       "con_foto": 20
     },
     {
@@ -33,7 +33,7 @@
       "ok": true,
       "items": 20,
       "nuevos": 14,
-      "ts": 1793072923,
+      "ts": 1793074820,
       "con_foto": 20
     },
     {
@@ -42,7 +42,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1793072923,
+      "ts": 1793074820,
       "con_foto": 30
     },
     {
@@ -51,7 +51,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 24,
-      "ts": 1793072923,
+      "ts": 1793074820,
       "con_foto": 24
     },
     {
@@ -60,7 +60,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 1,
-      "ts": 1793072923,
+      "ts": 1793074820,
       "con_foto": 1
     },
     {
@@ -68,9 +68,9 @@
       "url": "https://www.20minutos.es/rss/castilla-y-leon/",
       "ok": true,
       "items": 26,
-      "nuevos": 17,
-      "ts": 1793072923,
-      "con_foto": 18
+      "nuevos": 16,
+      "ts": 1793074820,
+      "con_foto": 17
     },
     {
       "fuente": "León4Sport",
@@ -125,12 +125,12 @@
   "publicadas": 100,
   "reparto": {
     "La Nueva Crónica": 15,
-    "20minutos CyL": 8,
     "Heraldo de León": 20,
     "El Bierzo Digital": 22,
     "El Español · CyL": 18,
     "eldiario.es · CyL": 8,
     "Heraldo de León · León": 8,
+    "20minutos CyL": 8,
     "20minutos León": 1
   },
   "minimo_por_fuente": 8
