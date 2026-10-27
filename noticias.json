@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Vivir aquí y ahora",
+    "link": "https://www.lanuevacronica.com/opinion/vivir-aqui-ahora_205348_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793072400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Muere una mujer y dos hombres resultan heridos en un atropello en Valladolid",
+    "link": "https://www.20minutos.es/castilla-y-leon/valladolid/muere-una-mujer-dos-hombres-resultan-heridos-un-atropello-valladolid_7053750_0.html",
+    "desc": "Madrid, 27 oct (EFE).- Una mujer falleció y dos hombres resultaron heridos este lunes por la tarde en un atropello en el que una moto arrolló a dos peatones en el paseo de Zorrilla de Valladolid,…",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/08/6ac762a84da9a2-47852186.jpeg",
+    "pub": 1793072035,
+    "fuente": "20minutos CyL"
+  },
+  {
+    "titulo": "Difuntos, santos y brujas",
+    "link": "https://www.lanuevacronica.com/opinion/difuntos-santos-brujas_205347_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793071800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Canciones de cuna",
+    "link": "https://www.lanuevacronica.com/opinion/canciones-cuna_205346_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793071200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Calentar, que a lo mejor no salís",
     "link": "https://www.lanuevacronica.com/opinion/calentar-mejor-no-salis_205345_102.html",
     "desc": "",
@@ -104,28 +136,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Ester Muñoz: \"Los leoneses nunca habíamos pagado más impuestos ni habíamos recibido menos\"",
-    "link": "https://www.lanuevacronica.com/actualidad/ester-munoz-leoneses-nunca-habiamos-pagado-mas-impuestos-ni-habiamos-recibido-menos_205335_102.html",
-    "desc": "El PP de León ha presentado oficialmente en la terraza del Camarote Hotel su lista para el 29-N, encabezada por Ester Muñoz al Congreso y Silvia Franco al Senado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/44/7/la-candidatura-al-congreso-estara-liderada-por-ester-munoz-de-la-iglesia-actual-portavoz-del-grupo-popular-en-la-camara-baja.jpeg",
-    "pub": 1793046724,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Vox afea a la vicepresidenta de Castilla y León del PP que obvie la ‘prioridad nacional’ en el acceso a la vivienda",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/vox-afea-vicepresidenta-castilla-leon-pp-obvie-prioridad-nacional-prioridades_1_13617008.html",
     "desc": "Isabel Blanco ha recordado que algunas líneas de ayuda como las del alquiler se vincularán a un \"arraigo real y verificable\" en Castilla y León \"dentro de la legalidad vigente\": \"Cualquier persona…",
     "img": "https://static.eldiario.es/clip/6cf0e50c-e9b4-47cf-bfe4-ccac8c1aa21a_16-9-discover-aspect-ratio_default_0_x832y310.jpg",
     "pub": 1793045751,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Cendón: \"No tengo ninguna duda de que el PSOE ganará las elecciones en León\"",
-    "link": "https://www.lanuevacronica.com/actualidad/cendon-no-tengo-ninguna-duda-psoe-ganara-elecciones-en-leon_205340_102.html",
-    "desc": "El secretario general de los socialistas leoneses desborda optimismo al afirmar que \"esto es lo que se palpa en la calle\" y llama a todos sus cargos movilizar al votante \"progresista\" en una reunión…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/54/6/cendon-psoe-campana-leon.jpeg",
-    "pub": 1793045373,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Gamarra asegura que el PP tiene \"hambre de cambio\" y plantea una regeneración institucional  por ser \"una emergencia\"",
@@ -206,14 +222,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/06/13/2025061310174920276.jpg",
     "pub": 1793037767,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Ponferrada reabre el área infantil de la calle Andrés Viloria tras su reparación integral",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-reabre-area-infantil-calle-andres-viloria-su-reparacion-integral_205337_102.html",
-    "desc": "La Brigada de Parques ha sustituido el pavimento de caucho y el arenero y ha completado mejoras en otras zonas de juego del municipio para garantizar su seguridad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/46/5/parque-andres-viloria.jpeg",
-    "pub": 1793037437,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Ester Muñoz acusa a Sánchez de tardar en condenar la violencia en Cataluña y defiende el pacto entre PP y Vox",
@@ -781,14 +789,6 @@
     "desc": "La orden recoge, en concreto, que \"el beneficiario deberá desarrollar las actividades subvencionadas con pleno respeto a los principios de objetividad y neutralidad institucional\".",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/20/6ad7a38b2b5125-92603246.jpeg",
     "pub": 1792517377,
-    "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "Renuncia toda la lista del PSOE de Palencia al Congreso al cambiar Ferraz al número uno",
-    "link": "https://www.20minutos.es/castilla-y-leon/palencia/renuncia-toda-lista-psoe-palencia-congreso-cambiar-ferraz-numero-uno_7050730_0.html",
-    "desc": "La decisión ratificada por el Comité Federal choca frontalmente con la voluntad mayoritaria de la militancia palentina.",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/19/6ad66379f1c4d6-23843019.r_d.531-311.jpeg",
-    "pub": 1792434470,
     "fuente": "20minutos CyL"
   },
   {
