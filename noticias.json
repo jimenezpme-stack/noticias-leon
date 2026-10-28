@@ -1,10 +1,66 @@
 [
   {
+    "titulo": "León da luz verde a los cambios que permitirán rehabilitar el Teatro Emperador",
+    "link": "https://www.heraldodeleon.es/leon/leon-da-luz-verde-cambios-que-permitiran-rehabilitar-teatro-emperador/20261028170400115312.html",
+    "desc": "El Pleno municipal aprueba por unanimidad modificar la protección urbanística del edificio para elevar hasta cinco metros la caja escénica y adaptar sus instalaciones a las exigencias técnicas…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/11/26/2025112608035844995.webp",
+    "pub": 1793203440,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "León deberá afrontar el pago de 6,9 millones por el nuevo impuesto a las plantas solares",
+    "link": "https://www.heraldodeleon.es/economia/leon-afrontaria-pago-69-millones-anuales-nuevo-impuesto-plantas-solares/20261028075100115219.html",
+    "desc": "El gravamen planteado por la Junta de Castilla y León elevaría la carga fiscal sobre las instalaciones fotovoltaicas de la provincia y podría comprometer nuevas inversiones en un sector que…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102807492620348.jpg",
+    "pub": 1793202660,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Sánchez promete llegar \"hasta el final\" en la investigación y decreta tres días de luto",
+    "link": "https://www.heraldodeleon.es/actualidad/nacional/sanchez-promete-llegar-final-investigacion-accidente-ferroviario-decreta-tres-dias-luto-oficial/20261028164156115311.html",
+    "desc": "Con el objetivo prioritario de esclarecer las causas de la tragedia, el jefe del Ejecutivo ha recalcado que se llegará \"hasta el final\" para \"reconstruir la confianza y la seguridad de nuestro…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102816373587164.jpg",
+    "pub": 1793202116,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La rápida actuación de la Guardia Civil salva en León la vida a un hombre que sufrió una parada respiratoria",
+    "link": "https://www.lanuevacronica.com/sucesos/rapida-actuacion-guardia-civil-salva-en-leon-vida-hombre-sufrio-parada-respiratoria_205459_102.html",
+    "desc": "Los agentes observaron que una furgoneta circulaba marcha atrás y colisionaba con otro vehículo, comprobando que el conductor se encontraba inconsciente",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/90/8/un-instante-de-la-maniobra-de-reanimacion.jpeg",
+    "pub": 1793201730,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Samhain vuelve a encender la magia de Laciana",
     "link": "https://www.lanuevacronica.com/actualidad/samhain-vuelve-encender-magia-laciana_205457_102.html",
     "desc": "El festival recupera las historias de los pueblos y la transmisión entre generaciones con una jornada de actividades, tradición y conciertos en Rioscuro",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/69/84/8/el-festival-llenara-rioscuro-de-memoria-popular-gastronomia-y-cultura-tradicional-proyecto-camminus.jpeg",
-    "pub": 1793199900,
+    "pub": 1793201611,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Puente achaca el accidente a la decisión \"inexplicable\" de un operario del CRC de Atocha",
+    "link": "https://www.lanuevacronica.com/panorama/puente-achaca-accidente-decision-inexplicable-operario-crc-atocha_205458_102.html",
+    "desc": "El centro de control habría ordenador la marcha del AVE cuando el sistema arrojaba un aviso rojo que indicaba que el tren de Iryo ocupaba la vía",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/87/0/efectivos-de-la-unidad-militar-de-emergencias-ume-trabajan-en-el-accidente-ferroviario-de-urda-toledo.jpeg",
+    "pub": 1793201331,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Muere Fátima Báñez, exministra del PP, en el accidente ferroviario de Toledo",
+    "link": "https://www.heraldodeleon.es/actualidad/nacional/muere-fatima-banez-exministra-pp-accidente-ferroviario-toledo/20261028162815115309.html",
+    "desc": "La presidenta de la Fundación CEOE viajaba en el tren de Iryo siniestrado cuando se dirigía a Sevilla para participar en el acto del Día de la Empresa, organizado por la Confederación de Empresarios…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102816270067432.webp",
+    "pub": 1793201295,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Justicia obliga a la ULE a reanudar la negociación del convenio laboral tras años de bloqueo",
+    "link": "https://www.lanuevacronica.com/actualidad/justicia-obliga-ule-reanudar-negociacion-convenio-laboral-anos-bloqueo_205448_102.html",
+    "desc": "El Tribunal Superior de Justicia de Castilla y León estima parcialmente la demanda de CCOO, que exige a la universidad leonesa que convoque la mesa negociadora \"a la mayor brevedad posible\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/23/82/68/1/edificio-rectorado-de-la-ule.jpeg",
+    "pub": 1793201267,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -22,6 +78,14 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102815120790209.webp",
     "pub": 1793196770,
     "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Salamanca da el primer paso hacia su nuevo Distrito Tecnológico en el antiguo solar de las Cregas",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261028/salamanca-da-primer-paso-nuevo-distrito-tecnologico-antiguo-solar-cregas/1003744438312_0.html",
+    "desc": "Las actuaciones de regeneración ambiental se prolongarán durante 22 meses como paso previo a la construcción de los edificios de I+D+i y las viviendas públicas para jóvenes talentos. Más…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11121944.jpg?p=w:1706/h:960&h=PVfdkeBV",
+    "pub": 1793196082,
+    "fuente": "El Español · CyL"
   },
   {
     "titulo": "El Ayuntamiento desarrolla un dispositivo especial por la festividad de Todos los Santos",
@@ -304,22 +368,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La Justicia avala las retribuciones del equipo de gobierno del Ayuntamiento de La Bañeza",
-    "link": "https://www.lanuevacronica.com/actualidad/justicia-avala-retribuciones-equipo-gobierno-ayuntamiento-baneza_205435_102.html",
-    "desc": "El Juzgado de lo Contencioso-Administrativo número 2 de León desestima el recurso presentado contra los acuerdos aprobados en noviembre de 2024 e impone las costas a los concejales recurrentes",
-    "img": "https://www.lanuevacronica.com/uploads/s1/22/32/59/0/labaneza-26012023-4-1000x563.jpeg",
-    "pub": 1793186607,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PSOE de León reivindica la inversión de Sánchez en el Canal del Esla",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/psoe-leon-reivindica-inversion-sanchez-casi-18-millones-modernizar-canal-esla/20261028122300115269.html",
-    "desc": "Los socialistas destacan una inversión de 17,95 millones de euros para modernizar 10.979 hectáreas de regadío en León y Zamora, dentro de un plan que supera los 77,7 millones en Castilla y León",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102712334477809.jpg",
-    "pub": 1793186580,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "El Ayuntamiento de Ponferrada convoca un minuto de silencio por las víctimas del accidente de Toledo",
     "link": "https://www.elbierzodigital.com/el-ayuntamiento-de-ponferrada-convoca-un-minuto-de-silencio-por-las-victimas-del-accidente-de-toledo/",
     "desc": "El Ayuntamiento de Ponferrada, recogiendo la propuesta realizada por la Federación Española de Municipios y Provincias (FEMP), convoca un minuto de silencio este miércoles, 28 de octubre, a las…",
@@ -342,46 +390,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-campus-de-ponferrada-impulsa-una-red-nacional-para-ganar-voz-propia-en-la-universidad-espanola-el-bierzo-digital.jpeg",
     "pub": 1793186090,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Accidente ferroviario en Toledo: víctimas, causas y situación de los trenes",
-    "link": "https://www.heraldodeleon.es/actualidad/nacional/accidente-ferroviario-toledo-victimas-causas-situacion-trenes/20261028121219115267.html",
-    "desc": "La colisión entre un convoy de Renfe y otro de Iryo se ha producido en el entorno de Urda y ha dejado al menos 30 fallecidos entre los 544 viajeros que transportaban ambas unidades, según el balance…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102810133226820.jpg",
-    "pub": 1793185939,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "'León enClave' programa dos conciertos de música clásica y de cámara en vivo",
-    "link": "https://www.heraldodeleon.es/cultura/leon-enclave-programa-dos-conciertos-musica-clasica-camara-vivo/20261028121025115266.html",
-    "desc": "Andrey Yaroshinsky, Violeta Ordóñez y Samuel Ustáriz componen el ensemble encargado de esta primera convocatoria, que tendrá lugar el 31 de octubre en la plaza de San Marcelo, con dos actuaciones a…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102812081981466.jpg",
-    "pub": 1793185825,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Uno de los pasajeros del AVE implicado en el accidente: \"Hemos salido volando\"",
-    "link": "https://www.heraldodeleon.es/actualidad/nacional/uno-pasajeros-ave-implicado-accidente-hemos-salido-volando/20261028120438115263.html",
-    "desc": "Fernando, que ocupaba el segundo vagón de uno de los trenes implicados, relata cómo una parada por una incidencia en la circulación dio paso a un impacto violento que dejó pasajeros heridos y muertos.",
-    "img": "https://i.ytimg.com/vi/KtUHKgXAPAs/hqdefault.jpg",
-    "pub": 1793185478,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Unanimidad para reclamar el fin de los peajes y blindar el centro de formación de Adif",
-    "link": "https://www.lanuevacronica.com/actualidad/unanimidad-reclamar-fin-peajes-blindar-centro-formacion-adif_205437_102.html",
-    "desc": "Todos los grupos políticos del Ayuntamiento de León apoyan dos mociones que sirven además para reclamar la mejora de las conexiones del polígono de Villadangos y del aeropuerto",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/45/05/7/concentracion-en-contra-del-cierre-del-centro-de-formacion-de-adif-en-leon-6.jpeg",
-    "pub": 1793185363,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Suspendida por el accidente de tren de Toledo la tractorada de Madrid",
-    "link": "https://www.lanuevacronica.com/actualidad/suspendida-por-accidente-tren-toledo-tractorada-madrid_205436_102.html",
-    "desc": "La protesta, que iba a reunir a unos 500 tractores y miles de agricultores de toda España, entre los que se encuentran cientos de leoneses desplazados, queda desconvocada por respeto a las víctimas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/48/2/algunos-de-los-profesiones-agrarios-desplazados-a-madrid-para-la-protesta-l-n-c.jpeg",
-    "pub": 1793184905,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El BOE publica las listas electorales de Castilla y León: estos son los candidatos de las nueve provincias",
@@ -456,7 +464,7 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "Al menos 64 fallecidos tras una colisión entre un AVE y un tren de Iryo en Toledo",
+    "titulo": "Al menos 68 fallecidos tras una colisión entre un AVE y un tren de Iryo en Toledo",
     "link": "https://www.elbierzodigital.com/accidente-tren-alta-velocidad-toledo/",
     "desc": "La circulación ferroviaria de alta velocidad entre Madrid y Andalucía permanece interrumpida este miércoles, 28 de octubre, tras la colisión entre un tren AVE de Renfe , identificado como el 02080 ,…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/interrumpida-la-alta-velocidad-entre-madrid-y-andalucia-tras-una-colision-entre-un-ave-y-un-tren-de-iryo-en-toledo-el-bierzo-digital.jpeg",
@@ -620,14 +628,6 @@
     "link": "https://www.elespanol.com/castilla-y-leon/region/palencia/20261028/historia-feria-queso-vino-baltanas-anos-despues-grandes-embajadores-pueblo/1003744432150_0.html",
     "desc": "La localidad palentina celebra este viernes 30 y sábado 31 de octubre una nueva edición de un evento que “está consolidado” en el programa de citas de la provincia. Más información: María José de la…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387553.jpg?p=w:1706/h:960&h=bCN69zoQ",
-    "pub": 1793167200,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El pueblo más bonito de España con el mejor embutido, un rollo del s. XVIII y casas serranas: es de los preferidos de los viajeros",
-    "link": "https://www.elespanol.com/castilla-y-leon/vivir/turismo/20261028/pueblo-bonito-espana-mejor-embutido-rollo-xviii-casas-serranas-preferidos-viajeros-trt/1003744436051_0.html",
-    "desc": "Está situado en Castilla y León, una comunidad autónoma que también tiene otros tres municipios en la lista oficial. Más información : Los 13 pueblos más bonitos de Castilla y León",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/9531643.jpg?p=c:3264:1836:nowe:0:271/w:1706/h:960&h=Ypf_QfWH",
     "pub": 1793167200,
     "fuente": "El Español · CyL"
   },
