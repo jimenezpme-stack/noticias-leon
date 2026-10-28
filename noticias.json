@@ -1,5 +1,61 @@
 [
   {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205425_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/26/3/28-10-2026-canton.jpeg",
+    "pub": 1793156400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El empleo mejora, pero León envejece",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/empleo-mejora-pero-leon-envejece_205424_102.html",
+    "desc": "El mínimo histórico del paro femenino y la reducción general del desempleo son buenas noticias que no pueden ocultar la debilidad estructural del mercado laboral leonés",
+    "img": null,
+    "pub": 1793156400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las tildes no se licitan",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/tildes-no-se-licitan_205423_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793156400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León cierra su verano con menos desempleo, pero sigue a la cola de España en actividad",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-cierra-su-verano-con-menos-desempleo-pero-sigue-cola-espana-en-actividad_205414_102.html",
+    "desc": "El paro se sitúa en el 9,27% con récord histórico en cuanto a las mujeres, aunque solo Ourense cuenta con menos población en disposición de trabajar en el conjunto del país",
+    "img": "https://www.lanuevacronica.com/uploads/s1/46/87/9/veranoempleo29517.jpeg",
+    "pub": 1793156400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "De ocultar su pasión por la danza a ser la estrella del Royal Ballet",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/ocultar-su-pasion-por-danza-ser-estrella-royal-ballet_205412_102.html",
+    "desc": "Yasmine Naghdi y el galés William Bracewell protagonizan la obra maestra de MacMillan, 'Manon', que será retransmitida este sábado en los Cines Van Gogh",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/11/1/un-instante-de-la-obra-maestra-de-kenneth-macmillan-cines-van-gogh.webp",
+    "pub": 1793156400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Deberes para la nueva consejera de Educación: las diez tareas pendientes en León",
+    "link": "https://www.lanuevacronica.com/actualidad/deberes-nueva-consejera-educacion-diez-tareas-pendientes-en-leon_205391_102.html",
+    "desc": "María del Valle Ares afronta desafíos como la mejora de las condiciones del profesorado leonés o finalizar las infraestructuras pendientes",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/33/5/consejeraeducacion.jpeg",
+    "pub": 1793156400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Más allá de la inversión: cómo organizar el patrimonio con una visión global",
+    "link": "https://www.lanuevacronica.com/actualidad/mas-alla-inversion-como-organizar-patrimonio-con-vision-global_204881_102.html",
+    "desc": "Unicaja Banca Privada explica cómo abordar la gestión de los recursos con una visión global, adaptando ahorro, inversión y liquidez a los objetivos de cada persona",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/74/5/unicaja-banca-privada-1.jpeg",
+    "pub": 1793156400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Llanera 1 (3) - 1 (5) Ponferradina: 'Otra ronda desde los once metros'",
     "link": "https://www.lanuevacronica.com/deportes/llanera-1-3-1-5-ponferradina-otra-ronda-once-metros_205427_102.html",
     "desc": "La Ponferradina se tuvo que ir a la tanda de penaltis ante el Llanera tras el 1-1 en el partido con el gol de Faye, donde Amir paró uno y Borja Valle anotó el definitivo (3-5)",
@@ -86,14 +142,6 @@
     "img": "https://static.eldiario.es/clip/df74fa73-c4d4-440e-bfe1-498ef8a5b997_16-9-discover-aspect-ratio_default_0_x749y325.jpg",
     "pub": 1793134460,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "El Ademar cruza los dedos con Lodos",
-    "link": "https://www.lanuevacronica.com/deportes/ademar-cruza-dedos-con-lodos_205380_102.html",
-    "desc": "El lateral será sometido este miércoles a una resonancia para conocer el alcance exacto de su lesión de rodilla, con las primeras exploraciones generando optimismo en que se evite la máxima gravedad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/08/0/lodos-alicante.jpeg",
-    "pub": 1793132411,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Bomberos León retira un cartel con riesgo de caída en Álvaro López Núñez",
@@ -184,14 +232,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Aurora, la vecina de Boñar que al fin puede salir de su casa tres meses después",
-    "link": "https://www.lanuevacronica.com/actualidad/aurora-vecina-bonar-fin-puede-salir-su-casa-tres-meses-despues_205394_102.html",
-    "desc": "La solidaridad de sus vecinos, una campaña de financiación colectiva y el impulso de la periodista Susana Teixeira han permitido instalar una barandilla para que la mujer, de 89 años, pueda volver a…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/35/7/image.jpeg",
-    "pub": 1793124647,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Astorga y Lugo sellan su hermanamiento cinematográfico en el Teatro Gullón",
     "link": "https://www.lanuevacronica.com/lnc-culturas/astorga-lugo-sellan-su-hermanamiento-cinematografico-en-teatro-gullon_205413_102.html",
     "desc": "Ambas ciudades refuerzan la colaboración entre sus festivales de cine con la firma de un protocolo y el descubrimiento de una placa conmemorativa",
@@ -240,30 +280,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Los arquitectos vuelven a abrir las puertas de León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/arquitectos-vuelven-abrir-puertas-leon_205408_102.html",
-    "desc": "El Coal celebrará la tercera edición del ciclo entre los días 6 y 8 de noviembre, abriendo las inscripciones desde este mismo miércoles a través de su página web oficial",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/01/7/los-participantes-de-una-edicion-anterior-del-ciclo-impulsado-desde-el-colegio-oficial-de-arquitectos-de-leon-coal.jpeg",
-    "pub": 1793122589,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Albéitar se da cita con una de las bandas esenciales del 'power pop'",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/albeitar-se-da-cita-con-bandas-esenciales-power-pop_205407_102.html",
-    "desc": "El teatro dependiente de la ULE recibe este miércoles a los integrantes de la actual banda 20/20",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/96/2/steve-allen-ron-flynt-y-su-hijo-ray-flynt-son-los-miembros-de-la-actual-banda-2020-l-n-c.jpeg",
-    "pub": 1793122207,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Música, humor y karate llegan a León con El Niño de la Hipoteca",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/musica-humor-karate-llegan-leon-con-nino-hipoteca_205403_102.html",
-    "desc": "El Gran Café recibirá este jueves al artista, que llegará con un concierto dinámico y participativo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/93/9/el-nino-de-la-hipoteca-sonara-este-jueves-en-leon-careles-rodriguez-marin.jpeg",
-    "pub": 1793122173,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Astorga juega en femenino",
     "link": "https://www.heraldodeleon.es/deportes/futbol/astorga-juega-femenino/20261027182450115173.html",
     "desc": "Más de 400 escolares participan en una jornada de promoción del fútbol femenino con la seleccionadora nacional, Sonia Bermúdez, y la astorgana Cristina Martínez; por la tarde, más de 200 niñas de…",
@@ -288,28 +304,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Astorga aprende de las campeonas con Sonia Bermúdez",
-    "link": "https://www.lanuevacronica.com/deportes/astorga-aprende-campeonas-con-sonia-bermudez_205399_102.html",
-    "desc": "La seleccionadora participó en una jornada de promoción del fútbol femenino con escolares y un entrenamiento formativo en Cosamai",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/68/40/1/la-seleccionadora-nacional-sonia-bermudez-visito-astorga-en-una-jornada-de-promocion-y-formacion-de-futbo-femenino-reportaje-grafico-fernando-otero.jpeg",
-    "pub": 1793119527,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Muere un cazador al sufrir una indisposición en la zona de montaña de Pancorbo, en Burgos",
     "link": "https://www.eldiario.es/castilla-y-leon/muere-cazador-sufrir-indisposicion-zona-montana-pancorbo-burgos_1_13619592.html",
     "desc": "El GREIM y del Servicio Aéreo de la Guardia Civil con sede en La Rioja participaron extrajeron el cuerpo de una zona de difícil acceso Especialistas del Grupo de Rescate e Intervenci&oacute;n en…",
     "img": "https://static.eldiario.es/clip/3931af0f-c588-4765-831a-9522b6be00fa_16-9-discover-aspect-ratio_default_0.jpg",
     "pub": 1793119274,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Antes de accionar el limpiaparabrisas en una mañana de helada",
-    "link": "https://www.lanuevacronica.com/estilo-vida/antes-accionar-limpiaparabrisas-en-manana-helada_205397_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1793119026,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Suárez-Quiñones anuncia 12,6 millones para la primera matrícula universitaria",
