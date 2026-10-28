@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Óscar Puente, sobre el accidente ferroviario: un error humano, una orden \"inexplicable\", una tragedia y un 'milagro'",
+    "link": "https://www.heraldodeleon.es/actualidad/nacional/oscar-puente-accidente-toledo-error-humano-orden-mal-dada/20261028151532115307.html",
+    "desc": "El ministro de Transportes detalla la secuencia previa a la colisión entre el AVE de Renfe y el tren de Iryo, mientras la investigación trata de esclarecer por qué se autorizó la circulación en unas…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102815114643709.jpg",
+    "pub": 1793196932,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Junta establece servicios mínimos para las nueve jornadas de huelga de buses",
+    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/junta-establece-servicios-minimos-nueve-jornadas-huelga-aututobuses/20261028151250115306.html",
+    "desc": "El paro, que comienza&nbsp;este viernes 30, afecta a unos 450 trabajadores que se movilizan ante la falta de acuerdo en la negociación del convenio colectivo",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102815120790209.webp",
+    "pub": 1793196770,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El Ayuntamiento desarrolla un dispositivo especial por la festividad de Todos los Santos",
+    "link": "https://www.heraldodeleon.es/leon/ayuntamiento-desarrolla-entre-viernes-domingo-dispositivo-especial-festividad-todos-santos/20261028145452115299.html",
+    "desc": "Coordinará servicios como transporte, limpieza, personal, seguridad y movilidad para dar respuesta a la alta afluencia de personas que visitan el cementerio municipal durante esas jornadas",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/04/09/2026040912083234568.jpg",
+    "pub": 1793195692,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "\"Con Ciencia, Té 2026\" lleva la divulgación científica a un café de León",
+    "link": "https://www.heraldodeleon.es/leon/ciencia-2026-lleva-divulgacion-cientifica-cafe-leon/20261028143753115298.html",
+    "desc": "El Café Bar Silver acogerá los días 5 y 11 de noviembre dos jornadas de charlas abiertas al público, organizadas por ABLe y FEBiotec, para acercar la ciencia a la ciudadanía en un ambiente distendido",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102814295045247.jpg",
+    "pub": 1793194673,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "La Diputación de León aprueba 17,3 millones de euros para impulsar el medio rural",
     "link": "https://www.heraldodeleon.es/leon/diputacion-leon-aprueba-173-millones-euros-impulsar-medio-rural/20261028142425115296.html",
     "desc": "El pleno provincial da luz verde a seis millones para polígonos industriales, cinco millones para los ayuntamientos y 950.000 euros para emprendedores, además de nuevas ayudas para municipios y…",
@@ -344,14 +376,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Asaja llevará productos del campo leonés a Madrid para defender la rentabilidad del campo",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/asaja-llevara-productos-campo-leones-madrid-defender-rentabilidad-campo/20261028114617115261.html",
-    "desc": "&nbsp;Agricultores y ganaderos de León participarán el próximo viernes, 6 de noviembre, en un reparto de alimentos frente al Ministerio de Agricultura para reclamar precios justos y medidas que…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/05/20/2025052015091647115.jpg",
-    "pub": 1793184377,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "El BOE publica las listas electorales de Castilla y León: estos son los candidatos de las nueve provincias",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/boe-publica-listas-electorales-castilla-leon-son-candidatos-nueve-provincias_1_13621144.html",
     "desc": "El PSOE, el PP y Vox concurren en las nueve circunscripciones; Soria ¡Ya! y el regionalismo leonés también figuran entre las opciones electorales Listas separadas, integración o candidaturas…",
@@ -360,20 +384,12 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "Un posible \"error humano\" con una orden errónea trasladada de Atocha al AVE, clave",
-    "link": "https://www.heraldodeleon.es/actualidad/nacional/posible-orden-erronea-atocha-investigacion-choque-toledo/20261028114002115260.html",
-    "desc": "Las primeras hipótesis sitúan el origen del accidente en una incidencia del sistema de señalización y una posterior gestión manual del tráfico; el AVE de Renfe habría embestido al Iryo, que…",
-    "img": "https://i.ytimg.com/vi/yVCTy0F_gUk/hq2.jpg",
-    "pub": 1793184002,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "León concederá la Medalla de Oro a las Carmelitas de la Caridad de Vedruna",
     "link": "https://www.heraldodeleon.es/leon/leon-concedera-medalla-oro-carmelitas-caridad-vedruna/20261028113102115259.html",
     "desc": "El Pleno municipal aprueba por unanimidad la máxima distinción de la ciudad y respalda nuevas medidas para el centro de formación de ADIF, las conexiones con Villadangos y el aeropuerto y la…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102811294417693.jpg",
     "pub": 1793183462,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Los leoneses podrán elegir entre 13 opciones en las Elecciones Generales del 29-N",
@@ -390,14 +406,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ocho-alumnos-completan-en-vega-de-espinareda-el-programa-forestal-pinera-v-tras-nueve-meses-de-formacion-el-bierzo-digital-1.jpg",
     "pub": 1793182757,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Vox mantiene sus actos de precampaña pese al accidente ferroviario de Toledo",
-    "link": "https://www.heraldodeleon.es/actualidad/nacional/vox-mantiene-actos-precampana-pese-accidente-ferroviaio-toledo/20261028111842115253.html",
-    "desc": "Vox confirma las convocatorias previstas para este miércoles en Valladolid y Santander y asegura que seguirá con la denuncia de la denominada \"campaña del amor\" del PSOE",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/03/07/2026030720011327790.jpg",
-    "pub": 1793182722,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Valdeorras se prepara para el 29N: 11 papeletas al Congreso y hasta 7 opciones al Senado por Ourense",
@@ -694,14 +702,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/mario-y-samuel-folgueral-se-juegan-la-copa-kobe-motor-en-la-gran-final-de-granada-el-bierzo-digital.jpg",
     "pub": 1793129755,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Abascal anuncia una querella contra el subdelegado del Gobierno en Zamora: \"Está detrás de la intimidación\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261027/abascal-anuncia-querella-subdelegado-gobierno-zamora-detras-intimidacion/1003744437236_0.html",
-    "desc": "El líder de Vox denuncia que se permita \"acercarse a muy poca distancia\" a los participantes en una protesta contra el acto del partido en la ciudad. Más información: Abascal acusa a Sánchez de ser…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388405.jpg?p=c:3867:2176:nowe:0:490/w:1706/h:960&h=TyjvYl1w",
-    "pub": 1793128958,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Muere un cazador al sufrir una indisposición en la zona de montaña de Pancorbo, en Burgos",
