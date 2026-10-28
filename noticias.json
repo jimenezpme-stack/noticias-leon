@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "La mejor noticia para Álex Lodos",
+    "link": "https://www.lanuevacronica.com/deportes/mejor-noticia-alex-lodos_205479_102.html",
+    "desc": "El lateral del Ademar no sólo evita el temido cruzado sino que tampoco tiene dañado el menisco y, al ser sólo golpe, estará de vuelta a las pistas a corto plazo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/67/79/3/ademar-cangas-3.jpeg",
+    "pub": 1793219015,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Vox no suspende los actos de precampaña tras la catástrofe de Urda y Abascal apunta al Gobierno: \"La corrupción mata\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261028/vox-no-suspende-actos-precampana-catastrofe-urda-abascal-apunta-gobierno-corrupcion-mata/1003744438947_0.html",
     "desc": "El líder de Vox arranca su intervención con un minuto de silencio pero rechaza parar su agenda electoral y exige responsabilidades al Gobierno por el estado de los trenes. Más información: Abascal…",
@@ -14,14 +22,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/manueco-se-suma-en-salamanca-al-homenaje-a-las-victimas-del-accidente-ferroviario-en-toledo-el-bierzo-digital.jpg",
     "pub": 1793218825,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La mejor noticia para Álex Lodos",
-    "link": "https://www.lanuevacronica.com/deportes/mejor-noticia-alex-lodos_205479_102.html",
-    "desc": "El lateral del Ademar no sólo evita el temido cruzado sino que tampoco tiene dañado el menisco y, al ser sólo golpe, estará de vuelta a las pistas a corto plazo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/67/79/3/ademar-cangas-3.jpeg",
-    "pub": 1793218420,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Jon García deberá pasar por quirófano",
@@ -672,14 +672,6 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "Castilla y León, la grieta del pacto entre PP y Vox: cuatro senadores en juego y una incógnita electoral",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261028/castilla-leon-grieta-pacto-pp-vox-senadores-juego-incognita-electoral/1003744436679_0.html",
-    "desc": "La derecha se presenta por separado en las nueve provincias mientras Senado de Progreso enfrenta la duda de ser reconocible en el medio rural. Más información: El pacto entre PP y Vox para el Senado…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388006.jpg?p=c:1338:753:nowe:89:0/w:1706/h:960&h=vGDcEszM",
-    "pub": 1793167200,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "29-N: las elecciones del amor y el desamor",
     "link": "https://www.elespanol.com/castilla-y-leon/opinion/20261028/elecciones-amor-desamor/1003744437222_12.html",
     "desc": "\"Mientras hablemos de querencias y aborrecimientos, se pasan por alto y sin leer los programas de gobierno y la doctrina ideológica\".",
@@ -692,6 +684,14 @@
     "link": "https://www.elespanol.com/castilla-y-leon/economia/empresas/20261028/patata-innova-producto-basico-categoria-estrategica/1003744435060_0.html",
     "desc": "Patatas Meléndez conecta las nuevas formas de consumo con una transformación que empieza en el campo, variedades seleccionadas para cada receta, formatos que simplifican la cocina y tecnología…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387024.png?p=w:1706/h:960&h=YElhLbaQ",
+    "pub": 1793167200,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "La gran fiesta de la salchicha ideal para visitar hasta el 3 de noviembre: reparten 250 kg y hay música y encierros",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261028/gran-fiesta-salchicha-ideal-visitar-noviembre-reparten-kg-musica-encierros-trt/1003744436655_0.html",
+    "desc": "Zaratán (Valladolid) rendirá homenaje a su producto más característico en unos festejos en los que estrena la declaración de Fiesta de Interés Turístico Regional. Más información : Tres días de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11107214.jpg?p=c:3930:2213:nowe:70:342/w:1706/h:960&h=KJ8u8YEa",
     "pub": 1793167200,
     "fuente": "El Español · CyL"
   },
