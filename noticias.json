@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "El poder del amor",
+    "link": "https://www.lanuevacronica.com/opinion/poder-amor_205422_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793160000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Silicon Valley & La pandilla del valle del Silicio",
     "link": "https://www.lanuevacronica.com/opinion/silicon-valley-pandilla-valle-silicio_205421_102.html",
     "desc": "",
@@ -214,14 +222,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102722011354728.jpg",
     "pub": 1793127141,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El Pozo Julia de Fabero abrirá el lunes 2 de noviembre por el puente de Todos los Santos",
-    "link": "https://www.lanuevacronica.com/el-bierzo/pozo-julia-fabero-abrira-lunes-2-noviembre-por-puente-todos-santos_205415_102.html",
-    "desc": "El recinto minero ofrecerá sus dos pases habituales, a las 11:00 y a las 16:30 horas, y el resto de los museos del municipio también podrá visitarse durante la jornada festiva",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/25/26/3/pozo-julia-28082022-4-1000x563-4-1000x563-4-1000x563.jpeg",
-    "pub": 1793126915,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Veinte años de la Reserva de los Ancares: proteger el territorio para asegurar su futuro",
