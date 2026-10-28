@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Silicon Valley & La pandilla del valle del Silicio",
+    "link": "https://www.lanuevacronica.com/opinion/silicon-valley-pandilla-valle-silicio_205421_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793158800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los fuegos fatuos",
+    "link": "https://www.lanuevacronica.com/opinion/fuegos-fatuos_205420_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793158200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Divergencias, no equidistancias",
+    "link": "https://www.lanuevacronica.com/opinion/divergencias-no-equidistancias_205419_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793157600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Miguel Canseco",
+    "link": "https://www.lanuevacronica.com/opinion/miguel-canseco_205418_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793157000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La viñeta de Cantón",
     "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205425_102.html",
     "desc": "",
@@ -192,14 +224,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Los Ancares Leoneses celebran sus 20 años de \"compromiso con el territorio\"",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ancares-leoneses-celebran-sus-20-anos-compromiso-con-territorio_205388_102.html",
-    "desc": "La Reserva de la Biosfera conmemoró dos décadas de trabajo por la conservación del patrimonio natural y cultural y reconoció la implicación de las personas y entidades que han contribuido a su…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/21/7/aniversario-ancares.jpeg",
-    "pub": 1793126517,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Veinte años de la Reserva de los Ancares: proteger el territorio para asegurar su futuro",
     "link": "https://www.elbierzodigital.com/veinte-anos-de-la-reserva-de-los-ancares-proteger-el-territorio-para-asegurar-su-futuro/",
     "desc": "La Reserva de la Biosfera de los Ancares Leoneses conmemoró este martes su vigésimo aniversario con una reivindicación de su papel en la conservación del patrimonio natural y cultural, el impulso de…",
@@ -232,14 +256,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Astorga y Lugo sellan su hermanamiento cinematográfico en el Teatro Gullón",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/astorga-lugo-sellan-su-hermanamiento-cinematografico-en-teatro-gullon_205413_102.html",
-    "desc": "Ambas ciudades refuerzan la colaboración entre sus festivales de cine con la firma de un protocolo y el descubrimiento de una placa conmemorativa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/14/1/astorga-y-lugo-sellan-su-hermanamiento-cinematografico-en-el-teatro-gullon.jpeg",
-    "pub": 1793124580,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Pozo Julia abrirá el 2 de noviembre",
     "link": "https://www.elbierzodigital.com/el-pozo-julia-abrira-el-2-de-noviembre/",
     "desc": "El Pozo Julia abrirá excepcionalmente el lunes durante el puente de Todos los Santos, pese a que habitualmente permanece cerrado ese día de la semana. El espacio minero mantendrá sus dos pases…",
@@ -254,22 +270,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/en-directo-llanera-ponferradina-el-bierzo-digital.jpg",
     "pub": 1793124042,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "'Un paseo por la literatura' de la mano del leonés Andrés Trapiello",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/un-paseo-por-literatura-mano-leones-andres-trapiello_205411_102.html",
-    "desc": "El novelista, poeta y editor se convertirá en protagonista del salón de actos de Alfonso V el próximo 5 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/09/5/el-novelista-poeta-y-editor-leones-andres-trapiello-juan-lazaro-ical.jpeg",
-    "pub": 1793123653,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Rogelio Blanco abordará la historia de León como tierra de libertades",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/rogelio-blanco-abordara-historia-leon-como-tierra-libertades_205410_102.html",
-    "desc": "La Casona de San Feliz de Torío será este jueves escenario para una conferencia en torno a uno de los ensayos del autor",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/08/0/imagen-de-archivo-del-autor-rogelio-blanco-peio-garcia-ical.gif",
-    "pub": 1793123465,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Mañueco pide acabar con ocho años de \"mentiras y corrupción\" el 29-N y asegura que España \"necesita\" a Feijóo",
