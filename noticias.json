@@ -1,6 +1,110 @@
 [
   {
-    "titulo": "El Ayuntamiento abre el plazo para elegir el cartel anunciador de las Fiestas de Navidad",
+    "titulo": "UPL denuncia que los 8 millones para los colegios de León siguen sin ejecutarse",
+    "link": "https://www.heraldodeleon.es/leon/upl-denuncia-que-8-millones-colegios-leon-siguen-ejecutarse/20261028132648115278.html",
+    "desc": "La formación leonesista reclama explicaciones a Alfonso Fernández Mañueco y José Antonio Diez por la falta de actuaciones de calado en los 19 centros públicos incluidos en el convenio",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/03/13/2026031311081599109.jpg",
+    "pub": 1793190408,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Zarandona anuncia una inversión \"como nunca se ha hecho\" para el parque público de vivienda de Valladolid",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261028/zarandona-anuncia-inversion-nunca-hecho-parque-publico-vivienda-valladolid/1003744437995_0.html",
+    "desc": "El Consejo de Administración de VIVA ha aprobado el presupuesto de 2027 con 7,7 millones para compra de vivienda, conversión de locales y reparaciones. Más información : El Ayuntamiento de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388926.jpg?p=w:1706/h:960&h=2quSerLV",
+    "pub": 1793190211,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "La Feria del Vino de Cacabelos, nombrada de Interés Turístico Comarcal",
+    "link": "https://www.lanuevacronica.com/el-bierzo/feria-vino-cacabelos-nombrada-interes-turistico-comarcal_205438_102.html",
+    "desc": "La propuesta recibió el respaldo de todos los grupos y permitirá que la feria estrene esta distinción en su 30.ª edición, prevista para 2027",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/52/2/pleno-consejo.jpeg",
+    "pub": 1793189861,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León acoge un foro para debatir los \"momentos críticos\" que vive la sanidad española",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-acoge-foro-debatir-momentos-criticos-vive-sanidad-espanola_205444_102.html",
+    "desc": "Cinco consejeros de Sanidad se han reunido en la capital leonesa para abordar el presente y el futuro sanitario, además de las problemáticas como las huelgas, las guardias o los turnos de noche",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/59/4/frame-28sanidad.jpeg",
+    "pub": 1793189850,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Diputación de León culpa a las adjudicatarias de la lentitud en renovar las estaciones de esquí",
+    "link": "https://www.lanuevacronica.com/actualidad/diputacion-leon-culpa-adjudicatarias-lentitud-en-renovar-estaciones-esqui_205443_102.html",
+    "desc": "Desde el área de Turismo consideran que las empresas están actuando de manera \"impresentable\" y descartan ahora que los 40 millones anunciados para San Isidro se inviertan de golpe",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/04/21/0/imagen-de-la-estacion-de-esqui-de-san-isidro-durante-el-fin-de-semana.jpeg",
+    "pub": 1793189727,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Aprobada inicialmente la ordenanza de recogida y tratamiento de residuos en León",
+    "link": "https://www.lanuevacronica.com/actualidad/aprobada-inicialmente-ordenanza-recogida-tratamiento-residuos-en-leon_205433_102.html",
+    "desc": "AMPLIACIÓN | El texto sale adelante con el voto de calidad del alcalde, quien se abre a introducir alegaciones del resto de los grupos tras la abstención de UPL y el rechazo de PP, Vox y el edil no…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/43/8/pleno-282026.jpeg",
+    "pub": 1793189705,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Fátima Báñez, entre los pasajeros sin localizar tras el accidente ferroviario en Toledo",
+    "link": "https://www.heraldodeleon.es/actualidad/nacional/fatima-banez-entre-pasajeros-localizar-accidente-ferroviario-toledo/20261028131431115276.html",
+    "desc": "La expresidenta de la Fundación CEOE viajaba a Sevilla para asistir al Día de la Empresa organizado por la CEA; el alcalde hispalense, José Luis Sanz, ha confirmado que todavía no había noticias…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102813133488148.jpg",
+    "pub": 1793189671,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Feria del Vino de Cacabelos, declarada Fiesta de Interés Turístico Comarcal",
+    "link": "https://www.heraldodeleon.es/el-bierzo/feria-vino-cacabelos-declarada-fiesta-interes-turistico-comarcal/20261028131014115274.html",
+    "desc": "El Consejo Comarcal del Bierzo aprueba por unanimidad en el pleno el reconocimiento, que se suma a otras celebraciones distinguidas de la comarca",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/05/10/2025051011175957181.jpg",
+    "pub": 1793189414,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "León convoca un minuto de silencio por las víctimas del accidente",
+    "link": "https://www.heraldodeleon.es/leon/leon-convoca-minuto-silencio-victimas-accidente-toledo/20261028130607115273.html",
+    "desc": "El acto tendrá lugar este miércoles, 28 de octubre, a las 20.00 horas en la plaza de San Marcelo, por iniciativa del Ayuntamiento de León",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102810025538687.jpg",
+    "pub": 1793189167,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Cepa 21, primera bodega que desarrolla un sumiller con IA para elegir el vino perfecto: descuento del 10% en compras",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261028/cepa-primera-bodega-desarrolla-sumiller-ia-elegir-vino-perfecto-descuento-compras/1003744438033_0.html",
+    "desc": "Con el lanzamiento de LIA, asistente que utiliza la inteligencia artificial para ofrecer recomendaciones personalizadas y ayudar a encontrar el vino más adecuado. Más información: \"Mi propósito es…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388905.jpg?p=w:1706/h:960&h=sun4W_sw",
+    "pub": 1793189152,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Huelga de autobuses en León: fechas, horarios y servicios mínimos",
+    "link": "https://www.lanuevacronica.com/actualidad/huelga-autobuses-en-leon-fechas-horarios-servicios-minimos_205449_102.html",
+    "desc": "La Junta decreta un servicio al 50% en hora punta en las líneas del alfoz para el paro convocado este viernes por UGT y CCOO, que afectará al transporte interurbano de viajeros",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/73/5/autobuses-08-09-16.jpeg",
+    "pub": 1793188854,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Bierzo ya cuenta con 18 fiestas con el reconocimiento de interés turístico",
+    "link": "https://www.elbierzodigital.com/el-bierzo-ya-cuenta-con-18-fiestas-con-el-reconocimiento-de-interes-turistico/",
+    "desc": "El pleno del Consejo Comarcal del Bierzo aprobó este miércoles por unanimidad la declaración de la Feria del Vino de Cacabelos como Fiesta de Interés Turístico Comarcal , sumando así 18…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-bierzo-ya-cuenta-con-18-fiestas-con-el-reconocimiento-de-interes-turistico-el-bierzo-digital.jpg",
+    "pub": 1793188828,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El subdelegado del Gobierno en Zamora niega la \"intimidación\" en la protesta contra Vox: \"No fueron agresivos\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261028/subdelegado-gobierno-zamora-niega-intimidacion-protesta-vox-no-agresivos/1003744437960_0.html",
+    "desc": "Ángel Blanco asegura que \"no se recibió ninguna comunicación ni solicitud formal para la realización de manifestaciones\". Más información: Abascal anuncia una querella contra el subdelegado del…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388882.jpg?p=c:3999:2250:nowe:0:416/w:1706/h:960&h=4MjtUJdq",
+    "pub": 1793188706,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El Ayuntamiento abre el plazo para elegir el cartel de las Fiestas de Navidad",
     "link": "https://www.heraldodeleon.es/leon/ayuntamiento-abre-plazo-elegir-cartel-anunciador-fiestas-navidad/20261028125453115272.html",
     "desc": "El plazo de presentación de trabajos estará abierto desde este jueves 29 de octubre hasta el 2 de diciembre a las 14:00 horas",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/12/11/2025121114493265029.jpg",
@@ -96,14 +200,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La ULE impulsa una red nacional de campus periféricos, con el de Ponferrada como impulsor",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ule-impulsa-red-nacional-campus-perifericos-con-ponferrada-como-impulsor_205442_102.html",
-    "desc": "La rectora, Nuria González, defiende en unas jornadas en Melilla el valor estratégico de estas sedes y busca lograr representación en la CRUE en 2029",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/54/2/iijornadascampusperifericos-melilla-3.jpeg",
-    "pub": 1793186115,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León suspende el acto de celebración de la fiesta de la Policía Local tras el accidente de Toledo",
     "link": "https://www.lanuevacronica.com/actualidad/leon-suspende-acto-celebracion-fiesta-policia-local-accidente-toledo_205441_102.html",
     "desc": "La celebración de San Marcelo iba a condecorar a todos los alcaldes de la ciudad",
@@ -134,14 +230,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102812081981466.jpg",
     "pub": 1793185825,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Feria del Vino de Cacabelos, nombrada de Interés Turístico Comarcal",
-    "link": "https://www.lanuevacronica.com/el-bierzo/feria-vino-cacabelos-nombrada-interes-turistico-comarcal_205438_102.html",
-    "desc": "La propuesta recibió el respaldo de todos los grupos y permitirá que la feria estrene esta distinción en su 30.ª edición, prevista para 2027",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/52/2/pleno-consejo.jpeg",
-    "pub": 1793185656,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El parque micológico del Bierzo se estrenará este año con la gestión de Cesefor",
@@ -232,14 +320,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Aprobada inicialmente la ordenanza de recogida y tratamiento de residuos en León",
-    "link": "https://www.lanuevacronica.com/actualidad/aprobada-inicialmente-ordenanza-recogida-tratamiento-residuos-en-leon_205433_102.html",
-    "desc": "AMPLIACIÓN | El texto sale adelante con el voto de calidad del alcalde, quien se abre a introducir alegaciones del resto de los grupos tras la abstención de UPL y el rechazo de PP, Vox y el edil no…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/43/8/pleno-282026.jpeg",
-    "pub": 1793182683,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León suspende los actos de la Policía Local por la tragedia ferroviaria de Toledo",
     "link": "https://www.heraldodeleon.es/actualidad/nacional/leon-suspende-actos-policia-local-tragedia-ferroviaria-toledo/20261028111759115255.html",
     "desc": "El Ayuntamiento cancela la entrega de condecoraciones prevista para este jueves 29 de octubre, mientras la Cultural y Deportiva Leonesa expresa sus condolencias a las familias de las víctimas del…",
@@ -304,22 +384,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Tragedia en Toledo: ¿Pueden dos trenes de alta velocidad chocar por alcance?",
-    "link": "https://www.heraldodeleon.es/actualidad/nacional/tragedia-toledo-pueden-dos-trenes-alta-velocidad-chocar-alcance/20261028105858115248.html",
-    "desc": "El accidente entre un AVE de Renfe y un convoy de Iryo reabre las preguntas sobre los sistemas que mantienen la distancia entre trenes y las circunstancias excepcionales que pueden provocar una…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102810560592041.jpg",
-    "pub": 1793181538,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La ULE forma a profesionales de Enfermería en técnicas avanzadas de dermoestética facial",
-    "link": "https://www.heraldodeleon.es/universidad/ule-forma-profesionales-enfermeria-tecnicas-avanzadas-dermoestetica-facial/20261028105245115245.html",
-    "desc": "La Microcredencial, impartida en el Campus de Ponferrada con la colaboración de la Clínica Valderrama, combina formación científica y práctica especializada | La preinscripción estará abierta hasta…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102810444618206.jpg",
-    "pub": 1793181165,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "La Junta moviliza medios de rescate y sanitarios para colaborar en el accidente ferroviario de Toledo",
     "link": "https://www.elbierzodigital.com/la-junta-moviliza-medios-de-rescate-y-sanitarios-para-colaborar-en-el-accidente-ferroviario-de-toledo/",
     "desc": "Castilla y León ha movilizado al Grupo de Rescate y Salvamento y varias unidades sanitarias helitransportadas para colaborar en la atención a las víctimas del accidente ferroviario registrado entre…",
@@ -341,7 +405,7 @@
     "desc": "El recibo medio de las viviendas se situará en 94,91 euros al año, unos seis euros más que con la tarifa anterior, y el cálculo tendrá en cuenta el valor catastral, la superficie y los residentes…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102810412036441.jpg",
     "pub": 1793180547,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Al menos 30 fallecidos tras una colisión entre un AVE y un tren de Iryo en Toledo",
@@ -358,14 +422,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11270992.jpg?p=w:1706/h:960&h=3t9aiFob",
     "pub": 1793180287,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Villalfeide revive la Güeste de Ánimas con la participación de tres escritoras leonesas",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/villalfeide-revive-sabado-procesion-gueste-animas-participacion-tres-escritoras-leonesas/20261028103231115241.html",
-    "desc": "Cristina Fanjul, Marta del Riego Anta y Cristina Flantains protagonizarán este sábado las estaciones literarias de una de las celebraciones más singulares del patrimonio oral leonés",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102810220016629.jpg",
-    "pub": 1793179951,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Estafa de los ataúdes: Penas de entre 7 años y medio y seis de cárcel para los tres hermanos propietarios de la funeraria y 16 empleados absueltos",
@@ -392,22 +448,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Una joven sufre un atropello en el Campus de Vegazana de la Universidad de León",
-    "link": "https://www.lanuevacronica.com/sucesos/joven-sufre-atropello-en-campus-vegazana-universidad-leon_205432_102.html",
-    "desc": "El suceso se produjo poco antes de las ocho y media de la mañana",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/42/2/ambulancia-y-policia-local-en-la-zona-dle-accidente.jpeg",
-    "pub": 1793178470,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Agentes de la Policía Nacional de León le salvan la vida a un bebé que se estaba ahogando",
-    "link": "https://www.lanuevacronica.com/sucesos/agentes-policia-nacional-leon-salvan-vida-bebe-se-estaba-ahogando_205431_102.html",
-    "desc": "El bebé de un año había sufrido un episodio de vómitos y había dejado de respirar hasta la llegada de los agentes, ya que los padres llamaron al 091",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/76/7/policia-nacional-de-leon.jpeg",
-    "pub": 1793178139,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El TJS falla a favor de CCOO en su batalla con la ULE y ordena la negociación del convenio",
     "link": "https://www.heraldodeleon.es/leon/tjs-falla-favor-ccoo-batalla-ule-ordena-retomar-negociacion-convenio/20261028095536115230.html",
     "desc": "El Tribunal Superior de Justicia de Castilla y León condena a la institución académica leonesa y el resto de la Comunidad por vulnerar los derechos fundamentales&nbsp;",
@@ -416,7 +456,7 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "Los electores bercianos elegirán entre trece papeletas al Congreso y nueve al Senado el 29N",
+    "titulo": "Los bercianos elegirán entre trece papeletas al Congreso y nueve al Senado el 29N",
     "link": "https://www.elbierzodigital.com/los-electores-bercianos-elegiran-entre-trece-papeletas-al-congreso-y-nueve-al-senado-el-29n/",
     "desc": "Los 117.000 bercianos llamados a votar en las elecciones generales del próximo 29 de noviembre podrán elegir entre 13 papeletas al Congreso de los Diputados y nueve para el Senado , después de que…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/los-electores-bercianos-elegiran-entre-trece-candidatal-congreso-y-nueve-al-senado-el-29n-el-bierzo-digital.jpg",
@@ -664,52 +704,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "EN DIRECTO | Llanera-Ponferradina",
-    "link": "https://www.elbierzodigital.com/directo-llanera-ponferradina-copa-del-rey-2627/",
-    "desc": "Sigue en directo el Llanera-Ponferradina de la primera eliminatoria de la Copa del Rey. El partido comienza a las 20.00 horas en el estadio Hermanos Antuña de Mieres. La entrada EN DIRECTO |…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/en-directo-llanera-ponferradina-el-bierzo-digital.jpg",
-    "pub": 1793124042,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Mañueco pide acabar con ocho años de \"mentiras y corrupción\" el 29-N y asegura que España \"necesita\" a Feijóo",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/palencia/20261027/manueco-pide-acabar-anos-mentiras-corrupcion-asegura-espana-necesita-feijoo/1003744437064_0.html",
-    "desc": "El presidente del PP de Castilla y León apuesta en Palencia por derribar el \"muro infame del sanchismo\" y \"superar esta etapa aciaga\". Más información: Mañueco pide ir \"pueblo a pueblo, derribar el…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388348.jpg?p=c:1885:1060:nowe:0:65/w:1706/h:960&h=kDswNGyz",
-    "pub": 1793123197,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "«Páginas Vivas» reunirá en Camponaraya a veinte escritores para impulsar la Biblioteca de Autores Bercianos",
-    "link": "https://www.elbierzodigital.com/paginas-vivas-reunira-en-camponaraya-a-veinte-escritores-para-impulsar-la-biblioteca-de-autores-bercianos/",
-    "desc": "La Casa Ucieda de Camponaraya acogerá el próximo 5 de noviembre una nueva edición del Festival Literario \"Páginas Vivas\" , que reunirá a veinte escritores en torno a la creación literaria y la…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/10/-el-bierzo-digital-111.jpg",
-    "pub": 1793121313,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Suárez-Quiñones anuncia 12,6 millones para la primera matrícula universitaria y 23 para apoyar los nuevos grados",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261027/suarez-quinones-anuncia-millones-primera-matricula-universitaria-apoyar-nuevos-grados/1003744437101_0.html",
-    "desc": "El consejero traslada el compromiso con la conexión entre la universidad y la empresa y la transferencia del conocimiento, con 52,8 millones. Más información: La Junta ultimará la Ley de Concordia…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388324.jpg?p=c:3999:2250:nowe:0:476/w:1706/h:960&h=WMXxGeBH",
-    "pub": 1793120766,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Muere un cazador al sufrir una indisposición en la zona de montaña de Pancorbo, en Burgos",
     "link": "https://www.eldiario.es/castilla-y-leon/muere-cazador-sufrir-indisposicion-zona-montana-pancorbo-burgos_1_13619592.html",
     "desc": "El GREIM y del Servicio Aéreo de la Guardia Civil con sede en La Rioja participaron extrajeron el cuerpo de una zona de difícil acceso Especialistas del Grupo de Rescate e Intervenci&oacute;n en…",
     "img": "https://static.eldiario.es/clip/3931af0f-c588-4765-831a-9522b6be00fa_16-9-discover-aspect-ratio_default_0.jpg",
     "pub": 1793119274,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Por qué el invierno berciano pone a prueba tus limpiaparabrisas y cómo evitar sustos y multas",
-    "link": "https://www.elbierzodigital.com/por-que-el-invierno-berciano-pone-a-prueba-tus-limpiaparabrisas-y-como-evitar-sustos-y-multas/",
-    "desc": "Son las ocho de la mañana de un día de diciembre y la niebla se ha tragado medio Bierzo. Rascas la escarcha a toda prisa, arrancas, das al mando de los limpiaparabrisas y, en lugar de un cristal…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/por-que-el-invierno-berciano-pone-a-prueba-tus-limpiaparabrisas-y-como-evitar-sustos-y-multas-el-bierzo-digital.jpeg",
-    "pub": 1793118174,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "La Justicia obliga a las universidades públicas de Castilla y León a reanudar la negociación colectiva",
