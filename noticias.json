@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Ciñera estrena sus letras corporativas en la plaza del pueblo",
+    "link": "https://www.lanuevacronica.com/actualidad/cinera-estrena-sus-letras-corporativas-en-plaza-pueblo_205454_102.html",
+    "desc": "La Junta Vecinal celebra el resultado de la colaboración y anima a vecinos y visitantes a fotografiarse junto a este nuevo elemento",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/94/5/lajunta-vecinal-anima-a-vecinos-y-visitantes-a-fotografiarse-junto-a-ellas-l-n-c.jpeg",
+    "pub": 1793205360,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Aprobadas nuevas partidas para emprendedores y polígonos industriales de pueblos de León",
+    "link": "https://www.lanuevacronica.com/actualidad/aprobadas-nuevas-partidas-emprendedores-poligonos-industriales-pueblos-leon_205453_102.html",
+    "desc": "La Diputación de León también ha aprobado cinco millones para el Fondo de Concertación en el pleno ordinario de este miércoles",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/52/13/4/plenodiputacion.jpeg",
+    "pub": 1793205091,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Diputación de León culpa a las adjudicatarias de la lentitud en renovar las estaciones de esquí",
+    "link": "https://www.lanuevacronica.com/actualidad/diputacion-leon-culpa-adjudicatarias-lentitud-en-renovar-estaciones-esqui_205443_102.html",
+    "desc": "Desde el área de Turismo consideran que las empresas están actuando de manera \"impresentable\" y descartan ahora que los 40 millones anunciados para San Isidro se inviertan de golpe",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/04/21/0/imagen-de-la-estacion-de-esqui-de-san-isidro-durante-el-fin-de-semana.jpeg",
+    "pub": 1793205050,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "León da luz verde a los cambios que permitirán rehabilitar el Teatro Emperador",
     "link": "https://www.heraldodeleon.es/leon/leon-da-luz-verde-cambios-que-permitiran-rehabilitar-teatro-emperador/20261028170400115312.html",
     "desc": "El Pleno municipal aprueba por unanimidad modificar la protección urbanística del edificio para elevar hasta cinco metros la caja escénica y adaptar sus instalaciones a las exigencias técnicas…",
@@ -128,9 +152,9 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "León se suma al duelo por el accidente ferroviario con condolencias y actos suspendidos",
+    "titulo": "León se suma al duelo: luto desde la Cámara de Comercio a los equipos deportivos",
     "link": "https://www.heraldodeleon.es/actualidad/nacional/leon-suma-duelo-accidente-ferroviario-condolencias-actos-suspendidos/20261028140619115287.html",
-    "desc": "El CEL reclama responsabilidades y mejoras en la seguridad, mientras las Cortes autonómicas paralizan su actividad y el Ayuntamiento leonés cancela la fiesta de la Policía Local. La Cultural, la…",
+    "desc": "La Cámara Oficial de Comercio, Industria y Servicios de León expresa su más profundo pesar y su solidaridad con las víctimas del grave accidente ferroviario&nbsp;mientras las Cortes autonómicas…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102814042853850.jpg",
     "pub": 1793192779,
     "fuente": "Heraldo de León"
@@ -152,28 +176,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La Diputación de León culpa a las adjudicatarias de la lentitud en renovar las estaciones de esquí",
-    "link": "https://www.lanuevacronica.com/actualidad/diputacion-leon-culpa-adjudicatarias-lentitud-en-renovar-estaciones-esqui_205443_102.html",
-    "desc": "Desde el área de Turismo consideran que las empresas están actuando de manera \"impresentable\" y descartan ahora que los 40 millones anunciados para San Isidro se inviertan de golpe",
-    "img": "https://www.lanuevacronica.com/uploads/s1/32/04/21/0/imagen-de-la-estacion-de-esqui-de-san-isidro-durante-el-fin-de-semana.jpeg",
-    "pub": 1793191385,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Las Cortes de Castilla y León paran su actividad en señal de duelo por el accidente de Toledo",
     "link": "https://www.elbierzodigital.com/las-cortes-de-castilla-y-leon-paran-su-actividad-en-senal-de-duelo-por-el-accidente-de-toledo/",
     "desc": "Las Cortes de Castilla y León han expresado su profundo pesar por el trágico accidente ferroviario ocurrido en la línea Madrid-Sevilla . La Mesa y la Junta de Portavoces han aprobado por unanimidad…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/las-cortes-de-castilla-y-leon-paran-su-actividad-en-senal-de-duelo-por-el-accidente-de-toledo-el-bierzo-digital.jpg",
     "pub": 1793191354,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Aprobadas nuevas partidas para emprendedores y polígonos industriales de pueblos de León",
-    "link": "https://www.lanuevacronica.com/actualidad/aprobadas-nuevas-partidas-emprendedores-poligonos-industriales-pueblos-leon_205453_102.html",
-    "desc": "La Diputación de León también ha aprobado cinco millones para el Fondo de Concertación en el pleno ordinario de este miércoles",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/52/13/4/plenodiputacion.jpeg",
-    "pub": 1793191342,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "León acoge un foro para debatir los \"momentos críticos\" que vive la sanidad española",
@@ -214,14 +222,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388937.jpg?p=w:1706/h:960&h=rLOJn7DL",
     "pub": 1793190687,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El parque micológico del Bierzo se estrenará este año con la gestión de Cesefor",
-    "link": "https://www.lanuevacronica.com/el-bierzo/parque-micologico-bierzo-se-estrenara-este-ano-con-gestion-cesefor_205439_102.html",
-    "desc": "El Consejo Comarcal deroga la ordenanza de 2019 para cambiar el modelo de funcionamiento y permitir que el proyecto, con unas 18.000 hectáreas, pueda empezar a activarse relegando la gestión directa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/26/77/31/9/setas.jpeg",
-    "pub": 1793190507,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "UPL denuncia que los 8 millones para los colegios de León siguen sin ejecutarse",
