@@ -1,5 +1,125 @@
 [
   {
+    "titulo": "La Diputación de León aprueba 17,3 millones de euros para impulsar el medio rural",
+    "link": "https://www.heraldodeleon.es/leon/diputacion-leon-aprueba-173-millones-euros-impulsar-medio-rural/20261028142425115296.html",
+    "desc": "El pleno provincial da luz verde a seis millones para polígonos industriales, cinco millones para los ayuntamientos y 950.000 euros para emprendedores, además de nuevas ayudas para municipios y…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102814210836445.jpg",
+    "pub": 1793193865,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Guardia Civil salva la vida a un hombre tras sufrir una parada respiratoria al volante",
+    "link": "https://www.heraldodeleon.es/leon/guardia-civil-armunia-salva-vida-hombre-sufrir-parada-respiratoria-volante/20261028141839115290.html",
+    "desc": "Los agentes practicaron maniobras de reanimación cardiopulmonar (RCP) hasta la llegada de los servicios sanitarios, cuya intervención confirmó la importancia de los primeros auxilios prestados",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102814141879237.jpg",
+    "pub": 1793193519,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La ULE impulsa una red nacional para reforzar el papel de los campus periféricos",
+    "link": "https://www.heraldodeleon.es/universidad/ule-avanza-veintena-universidades-constitucion-red-campus-perifericos/20261028140750115288.html",
+    "desc": "La rectora defiende en las II Jornadas Nacionales celebradas en Melilla el papel estratégico de los campus periféricos y la necesidad de garantizar su singularidad dentro de cada universidad",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102813592261912.jpg",
+    "pub": 1793192870,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "León se suma al duelo por el accidente ferroviario con condolencias y actos suspendidos",
+    "link": "https://www.heraldodeleon.es/actualidad/nacional/leon-suma-duelo-accidente-ferroviario-condolencias-actos-suspendidos/20261028140619115287.html",
+    "desc": "El CEL reclama responsabilidades y mejoras en la seguridad, mientras las Cortes autonómicas paralizan su actividad y el Ayuntamiento leonés cancela la fiesta de la Policía Local. La Cultural, la…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102814042853850.jpg",
+    "pub": 1793192779,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Diputación de León moviliza 17,3 millones para polígonos industriales, ayuntamientos y emprendedores",
+    "link": "https://www.elbierzodigital.com/la-diputacion-de-leon-moviliza-173-millones-para-poligonos-industriales-ayuntamientos-y-emprendedores/",
+    "desc": "La Diputación de León ha aprobado este miércoles un conjunto de planes y ayudas que movilizan 17,3 millones de euros para impulsar el medio rural de la provincia. El pleno ordinario de octubre ha…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-diputacion-de-leon-moviliza-173-millones-para-poligonos-industriales-ayuntamientos-y-emprendedores-el-bierzo-digital.jpeg",
+    "pub": 1793192488,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Felipe VI interrumpe su agenda tras el grave accidente ferroviario en Toledo",
+    "link": "https://www.elbierzodigital.com/felipe-vi-interrumpe-su-agenda-tras-el-grave-accidente-ferroviario-en-toledo/",
+    "desc": "El rey Felipe VI ha mostrado su consternación por el grave accidente ferroviario ocurrido en la provincia de Toledo , que ha dejado numerosas víctimas y heridos. Durante su intervención ante los…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/felipe-vi-interrumpe-su-agenda-tras-el-grave-accidente-ferroviario-en-toledo-el-bierzo-digital.webp",
+    "pub": 1793191917,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La Diputación de León culpa a las adjudicatarias de la lentitud en renovar las estaciones de esquí",
+    "link": "https://www.lanuevacronica.com/actualidad/diputacion-leon-culpa-adjudicatarias-lentitud-en-renovar-estaciones-esqui_205443_102.html",
+    "desc": "Desde el área de Turismo consideran que las empresas están actuando de manera \"impresentable\" y descartan ahora que los 40 millones anunciados para San Isidro se inviertan de golpe",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/04/21/0/imagen-de-la-estacion-de-esqui-de-san-isidro-durante-el-fin-de-semana.jpeg",
+    "pub": 1793191385,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las Cortes de Castilla y León paran su actividad en señal de duelo por el accidente de Toledo",
+    "link": "https://www.elbierzodigital.com/las-cortes-de-castilla-y-leon-paran-su-actividad-en-senal-de-duelo-por-el-accidente-de-toledo/",
+    "desc": "Las Cortes de Castilla y León han expresado su profundo pesar por el trágico accidente ferroviario ocurrido en la línea Madrid-Sevilla . La Mesa y la Junta de Portavoces han aprobado por unanimidad…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/las-cortes-de-castilla-y-leon-paran-su-actividad-en-senal-de-duelo-por-el-accidente-de-toledo-el-bierzo-digital.jpg",
+    "pub": 1793191354,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Aprobadas nuevas partidas para emprendedores y polígonos industriales de pueblos de León",
+    "link": "https://www.lanuevacronica.com/actualidad/aprobadas-nuevas-partidas-emprendedores-poligonos-industriales-pueblos-leon_205453_102.html",
+    "desc": "La Diputación de León también ha aprobado cinco millones para el Fondo de Concertación en el pleno ordinario de este miércoles",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/52/13/4/plenodiputacion.jpeg",
+    "pub": 1793191342,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León acoge un foro para debatir los \"momentos críticos\" que vive la sanidad española",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-acoge-foro-debatir-momentos-criticos-vive-sanidad-espanola_205444_102.html",
+    "desc": "Cinco consejeros de Sanidad se han reunido en la capital leonesa para abordar el presente y el futuro sanitario, además de las problemáticas como las huelgas, las guardias o los turnos de noche",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/59/4/frame-28sanidad.jpeg",
+    "pub": 1793191070,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Pollán califica de “fructífera” la reunión con Senegal para el retorno de menas y anuncia que seguirán los contactos",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261028/pollan-califica-fructifera-reunion-senegal-retorno-menas-anuncia-seguiran-contactos/1003744438103_0.html",
+    "desc": "Los vicepresidentes autonómicos de Vox en Extremadura y Aragón también han participado en la reunión. Más información: Pollán se reúne con el embajador de Senegal para avanzar en el retorno de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388949.jpg?p=c:958:539:nowe:201:37/w:1706/h:960&h=FfCPluAO",
+    "pub": 1793190999,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Patrimonio autoriza el desmontaje y restauración de un retablo de la iglesia de San Bartolomé",
+    "link": "https://www.heraldodeleon.es/comarcas/astorga/patrimonio-autoriza-desmontaje-tratamiento-restauracion-retablo-iglesia-san-bartolome-astorga/20261028133159115279.html",
+    "desc": "La Comisión también da luz verde a la instalación de pasamanos en la escalera prioral del Museo de la Real Colegiata de San Isidoro en León",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102813231424644.jpg",
+    "pub": 1793190719,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Feria del Vino de Cacabelos, nombrada de Interés Turístico Comarcal",
+    "link": "https://www.lanuevacronica.com/el-bierzo/feria-vino-cacabelos-nombrada-interes-turistico-comarcal_205438_102.html",
+    "desc": "La propuesta recibió el respaldo de todos los grupos y permitirá que la feria estrene esta distinción en su 30.ª edición, prevista para 2027",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/52/2/pleno-consejo.jpeg",
+    "pub": 1793190711,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las Cortes suspenden la actividad parlamentaria y expresan su \"profundo pesar\" por el accidente de Toledo",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261028/cortes-suspenden-actividad-parlamentaria-expresan-profundo-pesar-accidente-toledo/1003744438073_0.html",
+    "desc": "La Cámara acuerda reajustar todo el calendario restante de los presupuestos autonómicos para adaptarlo a esta situación excepcional. Más información: Castilla y León, conmocionada por el trágico…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388937.jpg?p=w:1706/h:960&h=rLOJn7DL",
+    "pub": 1793190687,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El parque micológico del Bierzo se estrenará este año con la gestión de Cesefor",
+    "link": "https://www.lanuevacronica.com/el-bierzo/parque-micologico-bierzo-se-estrenara-este-ano-con-gestion-cesefor_205439_102.html",
+    "desc": "El Consejo Comarcal deroga la ordenanza de 2019 para cambiar el modelo de funcionamiento y permitir que el proyecto, con unas 18.000 hectáreas, pueda empezar a activarse relegando la gestión directa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/26/77/31/9/setas.jpeg",
+    "pub": 1793190507,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "UPL denuncia que los 8 millones para los colegios de León siguen sin ejecutarse",
     "link": "https://www.heraldodeleon.es/leon/upl-denuncia-que-8-millones-colegios-leon-siguen-ejecutarse/20261028132648115278.html",
     "desc": "La formación leonesista reclama explicaciones a Alfonso Fernández Mañueco y José Antonio Diez por la falta de actuaciones de calado en los 19 centros públicos incluidos en el convenio",
@@ -8,43 +128,19 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Zarandona anuncia una inversión \"como nunca se ha hecho\" para el parque público de vivienda de Valladolid",
+    "titulo": "Zarandona anuncia una inversión de 7,7 millones de euros para el parque público de vivienda de Valladolid",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261028/zarandona-anuncia-inversion-nunca-hecho-parque-publico-vivienda-valladolid/1003744437995_0.html",
-    "desc": "El Consejo de Administración de VIVA ha aprobado el presupuesto de 2027 con 7,7 millones para compra de vivienda, conversión de locales y reparaciones. Más información : El Ayuntamiento de…",
+    "desc": "El Consejo de Administración de VIVA ha aprobado el presupuesto de 2027 y contempla inversiones \"como nunca se ha hecho\" hasta ahora. Más información : El Ayuntamiento de Valladolid modificará el…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388926.jpg?p=w:1706/h:960&h=2quSerLV",
     "pub": 1793190211,
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "La Feria del Vino de Cacabelos, nombrada de Interés Turístico Comarcal",
-    "link": "https://www.lanuevacronica.com/el-bierzo/feria-vino-cacabelos-nombrada-interes-turistico-comarcal_205438_102.html",
-    "desc": "La propuesta recibió el respaldo de todos los grupos y permitirá que la feria estrene esta distinción en su 30.ª edición, prevista para 2027",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/52/2/pleno-consejo.jpeg",
-    "pub": 1793189861,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León acoge un foro para debatir los \"momentos críticos\" que vive la sanidad española",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-acoge-foro-debatir-momentos-criticos-vive-sanidad-espanola_205444_102.html",
-    "desc": "Cinco consejeros de Sanidad se han reunido en la capital leonesa para abordar el presente y el futuro sanitario, además de las problemáticas como las huelgas, las guardias o los turnos de noche",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/59/4/frame-28sanidad.jpeg",
-    "pub": 1793189850,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Diputación de León culpa a las adjudicatarias de la lentitud en renovar las estaciones de esquí",
-    "link": "https://www.lanuevacronica.com/actualidad/diputacion-leon-culpa-adjudicatarias-lentitud-en-renovar-estaciones-esqui_205443_102.html",
-    "desc": "Desde el área de Turismo consideran que las empresas están actuando de manera \"impresentable\" y descartan ahora que los 40 millones anunciados para San Isidro se inviertan de golpe",
-    "img": "https://www.lanuevacronica.com/uploads/s1/32/04/21/0/imagen-de-la-estacion-de-esqui-de-san-isidro-durante-el-fin-de-semana.jpeg",
-    "pub": 1793189727,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Aprobada inicialmente la ordenanza de recogida y tratamiento de residuos en León",
-    "link": "https://www.lanuevacronica.com/actualidad/aprobada-inicialmente-ordenanza-recogida-tratamiento-residuos-en-leon_205433_102.html",
-    "desc": "AMPLIACIÓN | El texto sale adelante con el voto de calidad del alcalde, quien se abre a introducir alegaciones del resto de los grupos tras la abstención de UPL y el rechazo de PP, Vox y el edil no…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/43/8/pleno-282026.jpeg",
-    "pub": 1793189705,
+    "titulo": "Luz verde a la restauración de un retablo en Astorga",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/luz-verde-restauracion-retablo-en-astorga_205452_102.html",
+    "desc": "Asimismo, la Comisión de Patrimonio ha autorizado la consolidación de los elementos arquitectónicos que sostienen las vidrieras del crucero norte de la Catedral de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/74/4/la-reunion-de-la-comision-territorial-de-patrimonio-fue-restaurada-en-el-torreon-de-los-pernia-de-otero-de-escarpizo-l-n-c.jpeg",
+    "pub": 1793190181,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -192,14 +288,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Camponaraya reunirá a veinte escritores en «Páginas Vivas», que impulsa una biblioteca de autores bercianos",
-    "link": "https://www.lanuevacronica.com/el-bierzo/camponaraya-reunira-veinte-escritores-en-paginas-vivas-impulsa-biblioteca-autores-bercianos_205402_102.html",
-    "desc": "El encuentro será en la Casa Ucieda, donde cada participante leerá un fragmento de su obra y donará un libro para crear un fondo dedicado a la literatura de la comarca.",
-    "img": "https://www.lanuevacronica.com/uploads/s1/25/70/84/4/whatsapp-image-2024-10-10-at-18-22-20.jpeg",
-    "pub": 1793186215,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León suspende el acto de celebración de la fiesta de la Policía Local tras el accidente de Toledo",
     "link": "https://www.lanuevacronica.com/actualidad/leon-suspende-acto-celebracion-fiesta-policia-local-accidente-toledo_205441_102.html",
     "desc": "La celebración de San Marcelo iba a condecorar a todos los alcaldes de la ciudad",
@@ -230,14 +318,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102812081981466.jpg",
     "pub": 1793185825,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El parque micológico del Bierzo se estrenará este año con la gestión de Cesefor",
-    "link": "https://www.lanuevacronica.com/el-bierzo/parque-micologico-bierzo-se-estrenara-este-ano-con-gestion-cesefor_205439_102.html",
-    "desc": "El Consejo Comarcal deroga la ordenanza de 2019 para cambiar el modelo de funcionamiento y permitir que el proyecto, con unas 18.000 hectáreas, pueda empezar a activarse relegando la gestión directa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/26/77/31/9/setas.jpeg",
-    "pub": 1793185604,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Uno de los pasajeros del AVE implicado en el accidente: \"Hemos salido volando\"",
@@ -320,38 +400,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "León suspende los actos de la Policía Local por la tragedia ferroviaria de Toledo",
-    "link": "https://www.heraldodeleon.es/actualidad/nacional/leon-suspende-actos-policia-local-tragedia-ferroviaria-toledo/20261028111759115255.html",
-    "desc": "El Ayuntamiento cancela la entrega de condecoraciones prevista para este jueves 29 de octubre, mientras la Cultural y Deportiva Leonesa expresa sus condolencias a las familias de las víctimas del…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102811165726713.jpg",
-    "pub": 1793182679,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Guardia Civil moviliza a sus unidades especializadas y la UME se suma al rescate",
-    "link": "https://www.heraldodeleon.es/actualidad/nacional/guardia-civil-moviliza-unidades-especializadas-ume-suma-rescate/20261028111359115252.html",
-    "desc": "El dispositivo incorpora agentes de Toledo, Ciudad Real y Albacete, equipos de drones, Policía Judicial y especialistas en grandes catástrofes; Interior activa también a la Unidad Militar de…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/08/17/2026081709034240377.jpg",
-    "pub": 1793182439,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Castilla y León moviliza al Grupo de Rescate y unidades sanitarias ante el accidente de Toledo",
-    "link": "https://www.heraldodeleon.es/castilla-y-leon/castilla-leon-moviliza-grupo-rescate-unidades-sanitarias-accidente-ferroviario-toledo/20261028111201115251.html",
-    "desc": "Mañueco habla con García-Page para trasladarle toda la \"solidaridad\" de la Comunidad: \"Toda nuestra ayuda y nuestros medios están a su disposición\"",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102810025538687.jpg",
-    "pub": 1793182321,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Fernando Seco, pasajero del accidente de Toledo: \"La vía del tren ha atravesado el AVE en el vagón número 3\"",
-    "link": "https://www.heraldodeleon.es/actualidad/nacional/fernando-seco-pasajero-accidente-toledo-via-tren-ha-atravesado-ave-vagon-numero-3/20261028110528115250.html",
-    "desc": "Un pasajero del accidente de Toledo relata los daños en uno de los vagones del AVE | El viajero Fernando Seco, que ocupaba el segundo vagón de uno de los trenes implicados, ha descrito en esRadio el…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102810025538687.jpg",
-    "pub": 1793181928,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Valdeorras se prepara para el 29N: 11 papeletas al Congreso y hasta 7 opciones al Senado por Ourense",
     "link": "https://www.elbierzodigital.com/valdeorras-se-prepara-para-elegir-11-papeletas-al-congreso-y-hasta-7-opciones-al-senado-por-ourense/",
     "desc": "Los electores de Valdeorras se encontrarán con una amplia oferta política en las elecciones generales del próximo 29 de noviembre . La publicación oficial de las candidaturas confirma 11 listas al…",
@@ -366,14 +414,6 @@
     "img": "https://static.eldiario.es/clip/1d2091b9-dcbd-40f6-a2fd-df162480ccc0_16-9-discover-aspect-ratio_default_1153200.jpg",
     "pub": 1793181825,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Caja Rural refuerza su compromiso con el deporte base con su apoyo a las categorías inferiores del Trepalio León Sala",
-    "link": "https://www.heraldodeleon.es/economia/caja-rural-refuerza-compromiso-deporte-base-apoyo-categorias-inferiores-trepalio/20261028110334115249.html",
-    "desc": "La entidad colabora con la cantera del club leonés, que esta temporada alcanza los 13 equipos y cerca de 130 deportistas, consolidando su proyecto de formación y promoción del fútbol sala",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102810583232369.jpg",
-    "pub": 1793181814,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Sánchez se muestra «consternado» por el accidente ferroviario de Toledo y el PSOE cancela su agenda",
@@ -408,7 +448,7 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "Al menos 30 fallecidos tras una colisión entre un AVE y un tren de Iryo en Toledo",
+    "titulo": "Al menos 64 fallecidos tras una colisión entre un AVE y un tren de Iryo en Toledo",
     "link": "https://www.elbierzodigital.com/accidente-tren-alta-velocidad-toledo/",
     "desc": "La circulación ferroviaria de alta velocidad entre Madrid y Andalucía permanece interrumpida este miércoles, 28 de octubre, tras la colisión entre un tren AVE de Renfe , identificado como el 02080 ,…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/interrumpida-la-alta-velocidad-entre-madrid-y-andalucia-tras-una-colision-entre-un-ave-y-un-tren-de-iryo-en-toledo-el-bierzo-digital.jpeg",
@@ -662,46 +702,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388405.jpg?p=c:3867:2176:nowe:0:490/w:1706/h:960&h=TyjvYl1w",
     "pub": 1793128958,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Veinte años de la Reserva de los Ancares: proteger el territorio para asegurar su futuro",
-    "link": "https://www.elbierzodigital.com/veinte-anos-de-la-reserva-de-los-ancares-proteger-el-territorio-para-asegurar-su-futuro/",
-    "desc": "La Reserva de la Biosfera de los Ancares Leoneses conmemoró este martes su vigésimo aniversario con una reivindicación de su papel en la conservación del patrimonio natural y cultural, el impulso de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-27-193252-el-bierzo-digital.jpg",
-    "pub": 1793126385,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "CSIF muestra su preocupación por los cambios en la Consejería de Educación y confía en que se mantenga la negociación",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261027/csif-muestra-preocupacion-cambios-consejeria-educacion-confia-mantenga-negociacion/1003744437204_0.html",
-    "desc": "El sindicato remite a María del Valle Ares una serie de medidas para \"acabar con la degradación progresiva de las condiciones laborales del profesorado\". Más información: CSIF exige medidas…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388368.jpg?p=c:3999:2250:nowe:0:0/w:1706/h:960&h=Bem9-GVh",
-    "pub": 1793125613,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Castilla y León destinará 12,6 millones a financiar la primera matrícula universitaria",
-    "link": "https://www.elbierzodigital.com/castilla-y-leon-destinara-126-millones-a-financiar-la-primera-matricula-universitaria/",
-    "desc": "La Junta de Castilla y León destinará 12,6 millones de euros en 2027 a financiar la primera matrícula universitaria de los estudiantes empadronados en la Comunidad . La medida forma parte de las…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-27-191012-el-bierzo-digital.jpg",
-    "pub": 1793125137,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Soria ¡Ya! presenta una candidatura al 29-N \"para ganar\" y defender la provincia \"sin tutelas\" en Madrid",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/soria/20261027/soria-presenta-candidatura-pensada-ganar-defender-provincia-sin-tutelas-madrid/1003744437193_0.html",
-    "desc": "Juan Antonio Palomar encabeza la lista al Congreso y David Romera la del Senado para las elecciones generales. Más información: Soria ¡Ya! presenta a sus cuatro candidatos para Congreso y Senado: de…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388362.jpg?p=c:3997:2250:nowe:0:377/w:1706/h:960&h=cis23rrg",
-    "pub": 1793124964,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El Pozo Julia abrirá el 2 de noviembre",
-    "link": "https://www.elbierzodigital.com/el-pozo-julia-abrira-el-2-de-noviembre/",
-    "desc": "El Pozo Julia abrirá excepcionalmente el lunes durante el puente de Todos los Santos, pese a que habitualmente permanece cerrado ese día de la semana. El espacio minero mantendrá sus dos pases…",
-    "img": null,
-    "pub": 1793124205,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Muere un cazador al sufrir una indisposición en la zona de montaña de Pancorbo, en Burgos",
