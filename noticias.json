@@ -1,26 +1,10 @@
 [
   {
-    "titulo": "Renta 4 Banco celebra sus 40 años desde León con una mirada a los retos de la economía mundial",
-    "link": "https://www.lanuevacronica.com/actualidad/renta-4-banco-celebra-sus-40-anos-leon-con-mirada-retos-economia-mundial_205466_102.html",
-    "desc": "La entidad bancaria organiza un encuentro con empresarios de la ciudad y la asociación Autismo León, además de una conferencia de su presidente sobre inversión en IA",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/03/4/frame-28renta4.jpeg",
-    "pub": 1793210403,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La música (antes de Halloween) de Bras Rodrigo llega a León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/musica-antes-halloween-bras-rodrigo-llega-leon_205469_102.html",
-    "desc": "El gaitero asturiano ofrece este viernes un concierto de música celta y leyendas en el Teatro San Francisco",
-    "img": "https://www.lanuevacronica.com/uploads/s1/27/24/31/1/el-artista-asturiano-bras-rodrigo-recala-este-viernes-en-leon-l-n-c.jpeg",
-    "pub": 1793210209,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Gordoncillo se entrega a la fusión de mestizaje e identidad",
     "link": "https://www.lanuevacronica.com/lnc-culturas/gordoncillo-se-entrega-fusion-mestizaje-identidad_205468_102.html",
     "desc": "El Mihacale acogerá tres recitales en un ciclo que arrancará este sábado de la mano del fundador de Celtas Cortos",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/70/01/3/el-ciclo-arrancara-con-el-recital-barrio-mudejar-de-carlos-soto-folk-l-n-c.jpeg",
-    "pub": 1793210037,
+    "pub": 1793214590,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -28,7 +12,95 @@
     "link": "https://www.lanuevacronica.com/lnc-culturas/nace-iniciativa-conjunta-factor-45-libros-nos-hacen-felices_205467_102.html",
     "desc": "El proyecto servirá para atraer a escritores tanto a La Casona de San Feliz como a la Fundación Club 45",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/69/99/7/los-respectivos-responsables-del-club-45-y-la-casona-alex-cooper-y-hector-escobar-l-n-c.jpeg",
-    "pub": 1793209770,
+    "pub": 1793214546,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Rodri: \"Es una pequeña piedra en el camino, voy a volver mucho mejor de lo que estaba\"",
+    "link": "https://www.lanuevacronica.com/deportes/rodri-es-pequena-piedra-en-camino-voy-volver-mucho-mejor-estaba_205474_102.html",
+    "desc": "Entrevista al capitán de la Cultural, que analiza su lesión, la recuperación, su posible renovación o cómo ve al equipo en este arranque de temporada",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/35/2/rodri-cultural.jpeg",
+    "pub": 1793214484,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Samhain vuelve a encender la magia de Laciana",
+    "link": "https://www.lanuevacronica.com/actualidad/samhain-vuelve-encender-magia-laciana_205457_102.html",
+    "desc": "El festival recupera las historias de los pueblos y la transmisión entre generaciones con una jornada de actividades, tradición y conciertos en Rioscuro",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/84/8/el-festival-llenara-rioscuro-de-memoria-popular-gastronomia-y-cultura-tradicional-proyecto-camminus.jpeg",
+    "pub": 1793214457,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La música (antes de Halloween) de Bras Rodrigo llega a León",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/musica-antes-halloween-bras-rodrigo-llega-leon_205469_102.html",
+    "desc": "El gaitero asturiano ofrece este viernes un concierto de música celta y leyendas en el Teatro San Francisco",
+    "img": "https://www.lanuevacronica.com/uploads/s1/27/24/31/1/el-artista-asturiano-bras-rodrigo-recala-este-viernes-en-leon-l-n-c.jpeg",
+    "pub": 1793214299,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ciñera estrena sus letras corporativas en la plaza del pueblo",
+    "link": "https://www.lanuevacronica.com/actualidad/cinera-estrena-sus-letras-corporativas-en-plaza-pueblo_205454_102.html",
+    "desc": "La Junta Vecinal celebra el resultado de la colaboración y anima a vecinos y visitantes a fotografiarse junto a este nuevo elemento",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/94/5/lajunta-vecinal-anima-a-vecinos-y-visitantes-a-fotografiarse-junto-a-ellas-l-n-c.jpeg",
+    "pub": 1793214251,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Aprobadas nuevas partidas para emprendedores y polígonos industriales de pueblos de León",
+    "link": "https://www.lanuevacronica.com/actualidad/aprobadas-nuevas-partidas-emprendedores-poligonos-industriales-pueblos-leon_205453_102.html",
+    "desc": "La Diputación de León también ha aprobado cinco millones para el Fondo de Concertación en el pleno ordinario de este miércoles",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/52/13/4/plenodiputacion.jpeg",
+    "pub": 1793214119,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Justicia obliga a la ULE a reanudar la negociación del convenio laboral tras años de bloqueo",
+    "link": "https://www.lanuevacronica.com/actualidad/justicia-obliga-ule-reanudar-negociacion-convenio-laboral-anos-bloqueo_205448_102.html",
+    "desc": "El Tribunal Superior de Justicia de Castilla y León estima parcialmente la demanda de CCOO, que exige a la universidad leonesa que convoque la mesa negociadora \"a la mayor brevedad posible\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/23/82/68/1/edificio-rectorado-de-la-ule.jpeg",
+    "pub": 1793213915,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "UPL denuncia que los 8 millones del convenio para los colegios de León siguen sin llegar un año después",
+    "link": "https://www.lanuevacronica.com/actualidad/upl-denuncia-8-millones-convenio-colegios-leon-siguen-sin-llegar-ano-despues_205464_102.html",
+    "desc": "La formación leonesista acusa a la Junta y al Ayuntamiento de hacer «publicidad sin inversión real» con el acuerdo firmado en diciembre para mejorar 19 centros públicos y exige explicaciones sobre…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/03/02/7/acuerdo-colegios.jpeg",
+    "pub": 1793213872,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un hospital escocés visita San Juan de Dios para conocer el primer TAC 'Revolution Altitude' instalado en el mundo",
+    "link": "https://www.lanuevacronica.com/actualidad/hospital-escoces-visita-san-juan-dios-conocer-primer-tac-revolution-altitude-instalado-en-mundo_205462_102.html",
+    "desc": "Una delegación procedente de The Balfour, centro de referencia de las islas Orcadas, se ha adentrado en el funcionamiento de este sistema de tomografía computarizada",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/97/5/un-instante-de-la-visita-de-los-especialistas-escoceses-a-san-juan-de-dios.jpeg",
+    "pub": 1793213783,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La rápida actuación de la Guardia Civil salva en León la vida a un hombre que sufrió una parada respiratoria",
+    "link": "https://www.lanuevacronica.com/sucesos/rapida-actuacion-guardia-civil-salva-en-leon-vida-hombre-sufrio-parada-respiratoria_205459_102.html",
+    "desc": "Los agentes observaron que una furgoneta circulaba marcha atrás y colisionaba con otro vehículo, comprobando que el conductor se encontraba inconsciente",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/90/8/un-instante-de-la-maniobra-de-reanimacion.jpeg",
+    "pub": 1793213255,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los camareros de la cámara",
+    "link": "https://www.lanuevacronica.com/extras/a-la-contra/camareros-camara_205472_102.html",
+    "desc": "La última de La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/29/0/contra.jpeg",
+    "pub": 1793212685,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Renta 4 Banco celebra sus 40 años desde León con una mirada a los retos de la economía mundial",
+    "link": "https://www.lanuevacronica.com/actualidad/renta-4-banco-celebra-sus-40-anos-leon-con-mirada-retos-economia-mundial_205466_102.html",
+    "desc": "La entidad bancaria organiza un encuentro con empresarios de la ciudad y la asociación Autismo León, además de una conferencia de su presidente sobre inversión en IA",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/03/4/frame-28renta4.jpeg",
+    "pub": 1793210403,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -38,14 +110,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-junta-de-castilla-y-leon-suspende-su-agenda-institucional-por-el-accidente-ferroviario-de-toledo-el-bierzo-digital.jpg",
     "pub": 1793208006,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "UPL denuncia que los 8 millones del convenio para los colegios de León siguen sin llegar un año después",
-    "link": "https://www.lanuevacronica.com/actualidad/upl-denuncia-8-millones-convenio-colegios-leon-siguen-sin-llegar-ano-despues_205464_102.html",
-    "desc": "La formación leonesista acusa a la Junta y al Ayuntamiento de hacer «publicidad sin inversión real» con el acuerdo firmado en diciembre para mejorar 19 centros públicos y exige explicaciones sobre…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/03/02/7/acuerdo-colegios.jpeg",
-    "pub": 1793207664,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Feijóo exige una investigación inmediata del Gobierno y otra judicial por el accidente ferroviario de Toledo",
@@ -64,14 +128,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Un hospital escocés visita San Juan de Dios para conocer el primer TAC 'Revolution Altitude' instalado en el mundo",
-    "link": "https://www.lanuevacronica.com/actualidad/hospital-escoces-visita-san-juan-dios-conocer-primer-tac-revolution-altitude-instalado-en-mundo_205462_102.html",
-    "desc": "Una delegación procedente de The Balfour, centro de referencia de las islas Orcadas, se ha adentrado en el funcionamiento de este sistema de tomografía computarizada",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/97/5/un-instante-de-la-visita-de-los-especialistas-escoceses-a-san-juan-de-dios.jpeg",
-    "pub": 1793207096,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Bañeza invierte cerca de 90.000 euros en la renovación de la calle La Vega",
     "link": "https://www.lanuevacronica.com/actualidad/baneza-invierte-cerca-90000-euros-en-renovacion-calle-vega_205463_102.html",
     "desc": "Los trabajos incluyen la mejora de las aceras, el asfaltado de la calzada y el alumbrado público de una de las principales vías de la ciudad y el Consistorio trabaja en la última fase con una…",
@@ -86,22 +142,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389310.jpg?p=w:1706/h:960&h=sA3jgRrc",
     "pub": 1793206790,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Ciñera estrena sus letras corporativas en la plaza del pueblo",
-    "link": "https://www.lanuevacronica.com/actualidad/cinera-estrena-sus-letras-corporativas-en-plaza-pueblo_205454_102.html",
-    "desc": "La Junta Vecinal celebra el resultado de la colaboración y anima a vecinos y visitantes a fotografiarse junto a este nuevo elemento",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/94/5/lajunta-vecinal-anima-a-vecinos-y-visitantes-a-fotografiarse-junto-a-ellas-l-n-c.jpeg",
-    "pub": 1793205360,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Aprobadas nuevas partidas para emprendedores y polígonos industriales de pueblos de León",
-    "link": "https://www.lanuevacronica.com/actualidad/aprobadas-nuevas-partidas-emprendedores-poligonos-industriales-pueblos-leon_205453_102.html",
-    "desc": "La Diputación de León también ha aprobado cinco millones para el Fondo de Concertación en el pleno ordinario de este miércoles",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/52/13/4/plenodiputacion.jpeg",
-    "pub": 1793205091,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "León da luz verde a los cambios que permitirán rehabilitar el Teatro Emperador",
@@ -128,22 +168,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La rápida actuación de la Guardia Civil salva en León la vida a un hombre que sufrió una parada respiratoria",
-    "link": "https://www.lanuevacronica.com/sucesos/rapida-actuacion-guardia-civil-salva-en-leon-vida-hombre-sufrio-parada-respiratoria_205459_102.html",
-    "desc": "Los agentes observaron que una furgoneta circulaba marcha atrás y colisionaba con otro vehículo, comprobando que el conductor se encontraba inconsciente",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/90/8/un-instante-de-la-maniobra-de-reanimacion.jpeg",
-    "pub": 1793201730,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Samhain vuelve a encender la magia de Laciana",
-    "link": "https://www.lanuevacronica.com/actualidad/samhain-vuelve-encender-magia-laciana_205457_102.html",
-    "desc": "El festival recupera las historias de los pueblos y la transmisión entre generaciones con una jornada de actividades, tradición y conciertos en Rioscuro",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/84/8/el-festival-llenara-rioscuro-de-memoria-popular-gastronomia-y-cultura-tradicional-proyecto-camminus.jpeg",
-    "pub": 1793201611,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Puente achaca el accidente a la decisión \"inexplicable\" de un operario del CRC de Atocha",
     "link": "https://www.lanuevacronica.com/panorama/puente-achaca-accidente-decision-inexplicable-operario-crc-atocha_205458_102.html",
     "desc": "El centro de control habría ordenador la marcha del AVE cuando el sistema arrojaba un aviso rojo que indicaba que el tren de Iryo ocupaba la vía",
@@ -158,14 +182,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102816270067432.webp",
     "pub": 1793201295,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Justicia obliga a la ULE a reanudar la negociación del convenio laboral tras años de bloqueo",
-    "link": "https://www.lanuevacronica.com/actualidad/justicia-obliga-ule-reanudar-negociacion-convenio-laboral-anos-bloqueo_205448_102.html",
-    "desc": "El Tribunal Superior de Justicia de Castilla y León estima parcialmente la demanda de CCOO, que exige a la universidad leonesa que convoque la mesa negociadora \"a la mayor brevedad posible\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/23/82/68/1/edificio-rectorado-de-la-ule.jpeg",
-    "pub": 1793201267,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Óscar Puente, sobre el accidente ferroviario: un error humano, una orden \"inexplicable\", una tragedia y un 'milagro'",
@@ -264,14 +280,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "León acoge un foro para debatir los \"momentos críticos\" que vive la sanidad española",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-acoge-foro-debatir-momentos-criticos-vive-sanidad-espanola_205444_102.html",
-    "desc": "Cinco consejeros de Sanidad se han reunido en la capital leonesa para abordar el presente y el futuro sanitario, además de las problemáticas como las huelgas, las guardias o los turnos de noche",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/59/4/frame-28sanidad.jpeg",
-    "pub": 1793191070,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Pollán califica de “fructífera” la reunión con Senegal para el retorno de menas y anuncia que seguirán los contactos",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261028/pollan-califica-fructifera-reunion-senegal-retorno-menas-anuncia-seguiran-contactos/1003744438103_0.html",
     "desc": "Los vicepresidentes autonómicos de Vox en Extremadura y Aragón también han participado en la reunión. Más información: Pollán se reúne con el embajador de Senegal para avanzar en el retorno de…",
@@ -310,14 +318,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388926.jpg?p=w:1706/h:960&h=2quSerLV",
     "pub": 1793190211,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Luz verde a la restauración de un retablo en Astorga",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/luz-verde-restauracion-retablo-en-astorga_205452_102.html",
-    "desc": "Asimismo, la Comisión de Patrimonio ha autorizado la consolidación de los elementos arquitectónicos que sostienen las vidrieras del crucero norte de la Catedral de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/74/4/la-reunion-de-la-comision-territorial-de-patrimonio-fue-restaurada-en-el-torreon-de-los-pernia-de-otero-de-escarpizo-l-n-c.jpeg",
-    "pub": 1793190181,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Fátima Báñez, entre los pasajeros sin localizar tras el accidente ferroviario en Toledo",
