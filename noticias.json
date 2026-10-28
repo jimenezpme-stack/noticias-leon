@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "Ponferrada se une al dolor por la tragedia ferroviaria de Toledo",
+    "link": "https://www.elbierzodigital.com/ponferrada-se-une-al-dolor-por-la-tragedia-ferroviaria-de-toledo/",
+    "desc": "La plaza del Ayuntamiento de Ponferrada reunió a representantes de todos los grupos políticos de la corporación municipal, incluidos los dos concejales de Vox, así como a otras autoridades, miembros…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-se-une-al-dolor-por-la-tragedia-ferroviaria-de-toledo-el-bierzo-digital-2.jpeg",
+    "pub": 1793216735,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "León se une al duelo nacional",
+    "link": "https://www.heraldodeleon.es/leon/leon-une-duelo-victimas-tragedia-ferroviaria-toledo/20261028204336115335.html",
+    "desc": "Representantes de todas las instituciones y cientos de ciudadanos guardan un minuto de silencio en San Marcelo en memoria de los fallecidos y en apoyo a los heridos",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102820340484469.jpg",
+    "pub": 1793216616,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Mañueco abandera el luto de Castilla y León en Salamanca y exige \"esclarecer las causas\" de la tragedia de Toledo",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261028/manueco-abandera-luto-castilla-leon-salamanca-exige-esclarecer-causas-tragedia-toledo/1003744438909_0.html",
+    "desc": "El presidente de la Junta encabeza el emotivo minuto de silencio en el ágora salmantino junto al alcalde Carbayo y reclama celeridad para investigar el trágico accidente ferroviario. Más…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389453.jpg?p=c:4004:2250:nowe:0:383/w:1706/h:960&h=4zjjPJQy",
+    "pub": 1793216515,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "León se une al luto por las víctimas del trágico accidente ferroviario de Toledo",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-se-une-luto-por-victimas-tragico-accidente-ferroviario-toledo_205461_102.html",
+    "desc": "San Marcelo acogió el minuto de silencio convocado en todo el país para recordar a los fallecidos en la localidad toledana de Urda",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/43/2/frame-28minuto-silencio.jpeg",
+    "pub": 1793215617,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Rodri: \"Es una pequeña piedra en el camino, voy a volver mucho mejor de lo que estaba\"",
+    "link": "https://www.lanuevacronica.com/deportes/rodri-es-pequena-piedra-en-camino-voy-volver-mucho-mejor-estaba_205474_102.html",
+    "desc": "Entrevista al capitán de la Cultural, que analiza su lesión, la recuperación, su posible renovación o cómo ve al equipo en este arranque de temporada",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/35/2/rodri-cultural.jpeg",
+    "pub": 1793214714,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Gordoncillo se entrega a la fusión de mestizaje e identidad",
     "link": "https://www.lanuevacronica.com/lnc-culturas/gordoncillo-se-entrega-fusion-mestizaje-identidad_205468_102.html",
     "desc": "El Mihacale acogerá tres recitales en un ciclo que arrancará este sábado de la mano del fundador de Celtas Cortos",
@@ -13,14 +53,6 @@
     "desc": "El proyecto servirá para atraer a escritores tanto a La Casona de San Feliz como a la Fundación Club 45",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/69/99/7/los-respectivos-responsables-del-club-45-y-la-casona-alex-cooper-y-hector-escobar-l-n-c.jpeg",
     "pub": 1793214546,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Rodri: \"Es una pequeña piedra en el camino, voy a volver mucho mejor de lo que estaba\"",
-    "link": "https://www.lanuevacronica.com/deportes/rodri-es-pequena-piedra-en-camino-voy-volver-mucho-mejor-estaba_205474_102.html",
-    "desc": "Entrevista al capitán de la Cultural, que analiza su lesión, la recuperación, su posible renovación o cómo ve al equipo en este arranque de temporada",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/35/2/rodri-cultural.jpeg",
-    "pub": 1793214484,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -45,14 +77,6 @@
     "desc": "La Junta Vecinal celebra el resultado de la colaboración y anima a vecinos y visitantes a fotografiarse junto a este nuevo elemento",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/69/94/5/lajunta-vecinal-anima-a-vecinos-y-visitantes-a-fotografiarse-junto-a-ellas-l-n-c.jpeg",
     "pub": 1793214251,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Aprobadas nuevas partidas para emprendedores y polígonos industriales de pueblos de León",
-    "link": "https://www.lanuevacronica.com/actualidad/aprobadas-nuevas-partidas-emprendedores-poligonos-industriales-pueblos-leon_205453_102.html",
-    "desc": "La Diputación de León también ha aprobado cinco millones para el Fondo de Concertación en el pleno ordinario de este miércoles",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/52/13/4/plenodiputacion.jpeg",
-    "pub": 1793214119,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -376,14 +400,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Emilio Gancedo presenta el viernes el libro 'Riaño. El Estado contra la Montaña'",
-    "link": "https://www.heraldodeleon.es/cultura/emilio-gancedo-presenta-viernes-leon-libro-riano-estado-montana/20261028124324115271.html",
-    "desc": "El periodista estará acompañado, a partir de las 19:00 horas en el salón de actos del Ayuntamiento de León, por el fotógrafo Mauricio Peña y el trío de pandereteras Ruxideira",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/24/2026102412071920473.jpg",
-    "pub": 1793187804,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "La feria del niño y la juventud ideal del 30 de octubre al 2 de noviembre en Cigales: con buñuelos y castañada",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261028/feria-nino-juventud-ideal-octubre-noviembre-cigales-bunuelos-castanada/1003744437930_0.html",
     "desc": "Serán jornadas especiales por Halloween y con el Día de Todos los Santos, muy presentes. Más información: Cigales disfruta de su mejor vino con una cata única y llena de calidad: “Es nuestro santo y…",
@@ -662,22 +678,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387553.jpg?p=w:1706/h:960&h=bCN69zoQ",
     "pub": 1793167200,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Nafti: «La Copa es bonita cuando sale cara»",
-    "link": "https://www.elbierzodigital.com/llanera-ponferradina-copa-del-rey-nafti-2627/",
-    "desc": "Mehdi Nafti aseguró al final de su rueda de prensa en el Hermanos Antuña tras eliminar al Llanera que \"la Copa es bonita cuando sale cara\" , pero no pudo ocultar que hubo cosas de su equipo que no…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/nafti-la-copa-es-bonita-cuando-sale-cara-el-bierzo-digital.jpeg",
-    "pub": 1793139132,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Ponferradina necesitó los penaltis para eliminar al Llanera",
-    "link": "https://www.elbierzodigital.com/llanera-ponferradina-copa-del-rey-cronica-2627/",
-    "desc": "La Ponferradina necesitó de la tanda de penaltis para eliminar al Llanera y clasificarse para la segunda ronda de la Copa del Rey. El equipo berciano se adelantó en el Hermanso Antuña de Mieres con…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-ponferradina-necesito-los-penaltis-para-eliminar-al-llanera-el-bierzo-digital.jpg",
-    "pub": 1793137958,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "El consejero de Industria de Castilla y León no cree que vaya a haber un enfrentamiento PP-Vox: \"Haremos lo pactado\"",
