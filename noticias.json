@@ -1,5 +1,61 @@
 [
   {
+    "titulo": "La Junta de Castilla y León suspende su agenda institucional por el accidente ferroviario de Toledo",
+    "link": "https://www.elbierzodigital.com/la-junta-de-castilla-y-leon-suspende-su-agenda-institucional-por-el-accidente-ferroviario-de-toledo/",
+    "desc": "La Junta de Castilla y León se ha sumado al luto nacional decretado por el Gobierno entre el 29 y el 31 de octubre tras el grave accidente ferroviario ocurrido en la provincia de Toledo. Como…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-junta-de-castilla-y-leon-suspende-su-agenda-institucional-por-el-accidente-ferroviario-de-toledo-el-bierzo-digital.jpg",
+    "pub": 1793208006,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "UPL denuncia que los 8 millones del convenio para los colegios de León siguen sin llegar un año después",
+    "link": "https://www.lanuevacronica.com/actualidad/upl-denuncia-8-millones-convenio-colegios-leon-siguen-sin-llegar-ano-despues_205464_102.html",
+    "desc": "La formación leonesista acusa a la Junta y al Ayuntamiento de hacer «publicidad sin inversión real» con el acuerdo firmado en diciembre para mejorar 19 centros públicos y exige explicaciones sobre…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/03/02/7/acuerdo-colegios.jpeg",
+    "pub": 1793207664,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Feijóo exige una investigación inmediata del Gobierno y otra judicial por el accidente ferroviario de Toledo",
+    "link": "https://www.elbierzodigital.com/feijoo-exige-una-investigacion-inmediata-del-gobierno-y-otra-judicial-por-el-accidente-ferroviario-de-toledo/",
+    "desc": "El presidente del Partido Popular y candidato a la Presidencia del Gobierno, Alberto Núñez Feijóo, ha reclamado este miércoles una \"investigación gubernamental inmediata y otra judicial con todos…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/feijoo-exige-una-investigacion-inmediata-del-gobierno-y-otra-judicial-por-el-accidente-ferroviario-de-toledo-el-bierzo-digital.jpg",
+    "pub": 1793207371,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La Guardia Civil esclarece dos hurtos al descuido en León tras desarticular una red criminal",
+    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/guardia-civil-esclarece-dos-hurtos-descuido-leon-desarticular-red-criminal/20261028180521115314.html",
+    "desc": "La operación, desarrollada por agentes de Asturias, se salda con cuatro detenidos y permite relacionar a la organización con dos delitos cometidos en Carrizo de la Ribera, además de otros hechos…",
+    "img": "https://i.ytimg.com/vi/VhJIR7Eu-7k/hqdefault.jpg",
+    "pub": 1793207121,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Un hospital escocés visita San Juan de Dios para conocer el primer TAC 'Revolution Altitude' instalado en el mundo",
+    "link": "https://www.lanuevacronica.com/actualidad/hospital-escoces-visita-san-juan-dios-conocer-primer-tac-revolution-altitude-instalado-en-mundo_205462_102.html",
+    "desc": "Una delegación procedente de The Balfour, centro de referencia de las islas Orcadas, se ha adentrado en el funcionamiento de este sistema de tomografía computarizada",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/97/5/un-instante-de-la-visita-de-los-especialistas-escoceses-a-san-juan-de-dios.jpeg",
+    "pub": 1793207096,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Bañeza invierte cerca de 90.000 euros en la renovación de la calle La Vega",
+    "link": "https://www.lanuevacronica.com/actualidad/baneza-invierte-cerca-90000-euros-en-renovacion-calle-vega_205463_102.html",
+    "desc": "Los trabajos incluyen la mejora de las aceras, el asfaltado de la calzada y el alumbrado público de una de las principales vías de la ciudad y el Consistorio trabaja en la última fase con una…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/95/5/la-baneza-invierte-cerca-de-90-000-euros-en-la-renovacion-de-la-calle-la-vega.jpeg",
+    "pub": 1793207036,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El proyecto industrial 'Manual al Instante' gana el Consolida Startup 2026 entre doce finalistas internacionales",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261028/proyecto-industrial-manual-instante-gana-consolida-startup-doce-finalistas-internacionales/1003744438668_0.html",
+    "desc": "La iniciativa del Ayuntamiento, CEOE y Cámara de Comercio reúne a 240 emprendedores e inversores internacionales en una final que premia también a Sendos y Madurenza. Más información: Castilla y…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389310.jpg?p=w:1706/h:960&h=sA3jgRrc",
+    "pub": 1793206790,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Ciñera estrena sus letras corporativas en la plaza del pueblo",
     "link": "https://www.lanuevacronica.com/actualidad/cinera-estrena-sus-letras-corporativas-en-plaza-pueblo_205454_102.html",
     "desc": "La Junta Vecinal celebra el resultado de la colaboración y anima a vecinos y visitantes a fotografiarse junto a este nuevo elemento",
@@ -43,7 +99,7 @@
     "titulo": "Sánchez promete llegar \"hasta el final\" en la investigación y decreta tres días de luto",
     "link": "https://www.heraldodeleon.es/actualidad/nacional/sanchez-promete-llegar-final-investigacion-accidente-ferroviario-decreta-tres-dias-luto-oficial/20261028164156115311.html",
     "desc": "Con el objetivo prioritario de esclarecer las causas de la tragedia, el jefe del Ejecutivo ha recalcado que se llegará \"hasta el final\" para \"reconstruir la confianza y la seguridad de nuestro…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102816373587164.jpg",
+    "img": "https://i.ytimg.com/vi/dqV21hiBDgU/hqdefault.jpg",
     "pub": 1793202116,
     "fuente": "Heraldo de León"
   },
@@ -208,14 +264,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La Feria del Vino de Cacabelos, nombrada de Interés Turístico Comarcal",
-    "link": "https://www.lanuevacronica.com/el-bierzo/feria-vino-cacabelos-nombrada-interes-turistico-comarcal_205438_102.html",
-    "desc": "La propuesta recibió el respaldo de todos los grupos y permitirá que la feria estrene esta distinción en su 30.ª edición, prevista para 2027",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/52/2/pleno-consejo.jpeg",
-    "pub": 1793190711,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Las Cortes suspenden la actividad parlamentaria y expresan su \"profundo pesar\" por el accidente de Toledo",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261028/cortes-suspenden-actividad-parlamentaria-expresan-profundo-pesar-accidente-toledo/1003744438073_0.html",
     "desc": "La Cámara acuerda reajustar todo el calendario restante de los presupuestos autonómicos para adaptarlo a esta situación excepcional. Más información: Castilla y León, conmocionada por el trágico…",
@@ -320,14 +368,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "35.000 euros y un Segunda como premio",
-    "link": "https://www.lanuevacronica.com/deportes/35000-euros-segunda-como-premio_205440_102.html",
-    "desc": "Cultural y Ponferradina reciben un premio económico por pasar de ronda y tienen muchas probabilidades de jugar en casa ante un equipo de categoría superior en la próxima eliminatoria del 1, 2 o 3 de…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/56/0/escobar.jpeg",
-    "pub": 1793187810,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Emilio Gancedo presenta el viernes el libro 'Riaño. El Estado contra la Montaña'",
     "link": "https://www.heraldodeleon.es/cultura/emilio-gancedo-presenta-viernes-leon-libro-riano-estado-montana/20261028124324115271.html",
     "desc": "El periodista estará acompañado, a partir de las 19:00 horas en el salón de actos del Ayuntamiento de León, por el fotógrafo Mauricio Peña y el trío de pandereteras Ruxideira",
@@ -360,28 +400,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Santa María celebra Halloween con un cuentacuentos lleno de misterio y diversión",
-    "link": "https://www.heraldodeleon.es/comarcas/paramo/santa-maria-paramo-celebra-halloween-cuentacuentos-lleno-misterio-diversion/20261028122407115270.html",
-    "desc": "El Centro Cívico Magdalena Segurado acogerá este viernes, a las 19:00 horas, el espectáculo familiar 'Noche de Halloween', a cargo de Alicia Beato, dentro del programa Circuitos Escénicos de…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102812144287026.jpg",
-    "pub": 1793186647,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "El Ayuntamiento de Ponferrada convoca un minuto de silencio por las víctimas del accidente de Toledo",
     "link": "https://www.elbierzodigital.com/el-ayuntamiento-de-ponferrada-convoca-un-minuto-de-silencio-por-las-victimas-del-accidente-de-toledo/",
     "desc": "El Ayuntamiento de Ponferrada, recogiendo la propuesta realizada por la Federación Española de Municipios y Provincias (FEMP), convoca un minuto de silencio este miércoles, 28 de octubre, a las…",
     "img": null,
     "pub": 1793186422,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "León suspende el acto de celebración de la fiesta de la Policía Local tras el accidente de Toledo",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-suspende-acto-celebracion-fiesta-policia-local-accidente-toledo_205441_102.html",
-    "desc": "La celebración de San Marcelo iba a condecorar a todos los alcaldes de la ciudad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/26/65/01/9/san-marcelo-web-4-1000x563.jpeg",
-    "pub": 1793186112,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El Campus de Ponferrada impulsa una red nacional para ganar voz propia en la universidad española",
@@ -486,6 +510,14 @@
     "img": "https://static.eldiario.es/clip/f89dcc1a-bdc7-4304-a90a-91858f57cb48_16-9-discover-aspect-ratio_default_0_x513y191.jpg",
     "pub": 1793179860,
     "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "Puente apunta que fue «erróneo» ordenar al tren de Renfe reanudar la marcha a velocidad normal antes del choque en Toledo",
+    "link": "https://www.elbierzodigital.com/puente-apunta-que-fue-erroneo-ordenar-al-tren-de-renfe-reanudar-la-marcha-a-velocidad-normal-antes-del-choque-en-toledo/",
+    "desc": "El ministro de Transportes y Movilidad Sostenible, Óscar Puente, ha reconocido este miércoles que el tren de Renfe implicado en el accidente ferroviario de Toledo no debió reanudar la marcha a…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/Accidente-Toledo-1-el-bierzo-digital.jpeg",
+    "pub": 1793179826,
+    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "El TSJCyL condena a las universidades públicas a reanudar la negociación del convenio del personal docente",
@@ -648,14 +680,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Aletic reconoce el liderazgo y el talento tecnológico de cinco referentes",
-    "link": "https://www.heraldodeleon.es/leon/aletic-reconoce-liderazgo-talento-tecnologico-cinco-referentes/20261027224939115216.html",
-    "desc": "El Auditorio Ciudad de León acoge la entrega de los premios bienales de la asociación, que distinguen a Irene Cano, el Laboratorio de Ingeniería Forense de la Guardia Civil, María Ángela Bernardo…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102722434682819.jpg",
-    "pub": 1793137779,
-    "fuente": "Heraldo de León · León"
-  },
-  {
     "titulo": "El consejero de Industria de Castilla y León no cree que vaya a haber un enfrentamiento PP-Vox: \"Haremos lo pactado\"",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/consejero-industria-castilla-leon-no-cree-haber-enfrentamiento-pp-vox-haremos-pactado_1_13620165.html",
     "desc": "Suárez-Quiñones asume que no puede retirar las partidas nominativas de los sindicatos y patronal, aunque ha reconocido que \"desaparecerán\" las partidas que no sean de \"interés público\" Vox recorta a…",
@@ -672,36 +696,12 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "Bomberos León retira un cartel con riesgo de caída en Álvaro López Núñez",
-    "link": "https://www.heraldodeleon.es/leon/bomberos-leon-retira-cartel-riesgo-caida-alvaro-lopez-nunez/20261027210031115193.html",
-    "desc": "La actuación, coordinada con la Policía Local, se activó tras las advertencias de varios vecinos por el peligro que presentaba la estructura de un negocio cerrado &nbsp;",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102720582029441.jpg",
-    "pub": 1793131231,
-    "fuente": "Heraldo de León · León"
-  },
-  {
     "titulo": "Abascal acusa sin pruebas al subdelegado del Gobierno en Zamora de estar \"detrás\" de una protesta contra el acto de Vox",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/abascal-acusa-pruebas-subdelegado-gobierno-zamora-detras-protesta-acto-vox_1_13619957.html",
     "desc": "Abascal ha acusado a Pedro Sánchez de mandar un mensaje \"guerracivilista\" y se refiere al conflicto bélico como \"un enfrentamiento fratricida y horrible entre españoles\" ENCUESTA - El bloque de…",
     "img": "https://static.eldiario.es/clip/aab33a15-325f-4db2-9e7d-d85f86a35d0d_16-9-discover-aspect-ratio_default_0_x546y880.jpg",
     "pub": 1793130886,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Ponferrada visibiliza el TDAH y demanda una sociedad más inclusiva",
-    "link": "https://www.elbierzodigital.com/ponferrada-visibiliza-el-tdah-y-demanda-una-sociedad-mas-inclusiva/",
-    "desc": "Ponferrada se sumó a la conmemoración del Día Nacional del Trastorno por Déficit de Atención e Hiperactividad (TDAH) con un acto celebrado en la plaza del Ayuntamiento para dar visibilidad a este…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferrada-visibiliza-el-tdah-y-demanda-una-sociedad-mas-inclusiva-el-bierzo-digital.jpeg",
-    "pub": 1793129908,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Mario y Samuel Folgueral se juegan la Copa Kobe Motor en la gran final de Granada",
-    "link": "https://www.elbierzodigital.com/mario-y-samuel-folgueral-se-juegan-la-copa-kobe-motor-en-la-gran-final-de-granada/",
-    "desc": "Mario Jeröen Folgueral y su copiloto Samuel Folgueral afrontan este fin de semana uno de los retos más importantes de la temporada. Los integrantes de la Escudería Valdeorras llegan como líderes…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/mario-y-samuel-folgueral-se-juegan-la-copa-kobe-motor-en-la-gran-final-de-granada-el-bierzo-digital.jpg",
-    "pub": 1793129755,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Muere un cazador al sufrir una indisposición en la zona de montaña de Pancorbo, en Burgos",
