@@ -1,5 +1,101 @@
 [
   {
+    "titulo": "Alexandra, una abulense entre los desaparecidos del terrible accidente ferroviario en Toledo",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20261029/alexandra-abulense-desaparecidos-terrible-accidente-ferroviario-toledo/1003744440307_0.html",
+    "desc": "Originaria del municipio de San Pascual, viajaba a Sevilla por trabajo en el AVE. Más información: Buscan a Tamara, una joven de Bembibre, entre los desaparecidos en el trágico accidente de tren de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390370.jpg?p=w:1706/h:960&h=DeWzlpYh",
+    "pub": 1793294876,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Seis detenidos en un amplio operativo de la Guardia Civil en una casa rural de Molinaseca",
+    "link": "https://www.elbierzodigital.com/seis-detenidos-en-un-amplio-operativo-de-la-guardia-civil-en-una-casa-rural-de-molinaseca/",
+    "desc": "Un amplio despliegue de la Guardia Civil sorprendió este jueves a los vecinos de Molinaseca con una operación que terminó con seis personas detenidas en una casa rural de la localidad. Los…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-28-at-13.26.59-4.jpeg",
+    "pub": 1793294764,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Cientos de buitres llenan León contra la especulación inmobiliaria",
+    "link": "https://www.lanuevacronica.com/actualidad/cientos-buitres-llenan-leon-contra-especulacion-inmobiliaria_205528_102.html",
+    "desc": "Una campaña llena de carteles barrios como La Sal, El Crucero, El Ejido y San Mamés para llamar a secundar la huelga general del próximo 11 de noviembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/25/6/vivienda-fondos-buitre-leon.jpeg",
+    "pub": 1793294700,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Tráfico prevé 83.000 desplazamientos por carretera en León este puente de Todos los Santos",
+    "link": "https://www.lanuevacronica.com/actualidad/trafico-preve-83000-desplazamientos-por-carretera-en-leon-este-puente-todos-santos_205543_102.html",
+    "desc": "La operación especial de la DGT arrancará a las 15:00 horas de este viernes y se prolongará hasta la medianoche del lunes día 2, festivo en varias comunidades",
+    "img": "https://www.lanuevacronica.com/uploads/s1/25/03/03/7/el-trafico-en-las-carreteras-leonesas-se-incrementara-durante-el-puente-lnc.gif",
+    "pub": 1793294666,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Luz verde en San Andrés para subir la tasa del agua y un crédito extraordinario de 3,6 millones",
+    "link": "https://www.lanuevacronica.com/actualidad/luz-verde-en-san-andres-modificar-tasa-agua-credito-extraordinario-36-millones_205542_102.html",
+    "desc": "El pleno ordinario también votó a favor de las peticiones de la plataforma 'León Propone' para mejorar las conexiones industriales",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/57/5/whatsapp-image-2026-10-29-at-10-22-25.jpeg",
+    "pub": 1793294381,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Carameloraro y Gekkō unen el rock salmantino y berciano en un concierto gratuito en Ponferrada",
+    "link": "https://www.elbierzodigital.com/carameloraro-y-gekko-unen-el-rock-salmantino-y-berciano-en-un-concierto-gratuito-en-ponferrada/",
+    "desc": "La Sala Tararí de Ponferrada acogerá el próximo sábado 7 de noviembre un concierto gratuito con Carameloraro y Gekkō como protagonistas. La cita comenzará a las 23:55 horas y reunirá sobre el…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/carameloraro-y-gekko-unen-el-rock-salmantino-y-berciano-en-un-concierto-gratuito-en-ponferrada-el-bierzo-digital.jpg",
+    "pub": 1793293573,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Los cereales bajan de precio en León por las expectativas de negociación entre Rusia y Ucrania",
+    "link": "https://www.lanuevacronica.com/actualidad/cereales-bajan-precio-en-leon-por-expectativas-negociacion-entre-rusia-ucrania_205535_102.html",
+    "desc": "La Lonja registra descensos de dos euros por tonelada en el trigo, la cebada y el triticale, mientras que el maíz se queda sin cotizar por la falta de acuerdo entre compradores y vendedores",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/47/5/los-cereales-bajan-de-precio-en-leon-por-las-expectativas-de-negociacion-entre-rusia-y-ucrania.jpeg",
+    "pub": 1793293541,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "35.000 euros y un Segunda como premio",
+    "link": "https://www.lanuevacronica.com/deportes/35000-euros-segunda-como-premio_205440_102.html",
+    "desc": "Cultural y Ponferradina reciben un premio económico por pasar de ronda y tienen muchas probabilidades de jugar en casa ante un equipo de categoría superior en la próxima eliminatoria del 1, 2 o 3 de…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/56/0/escobar.jpeg",
+    "pub": 1793293500,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Güeste de Ánimas, Hallowindie y Feria de la Miel Apiastur, este fin de semana en León",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/gueste-animas-hallowindie-feria-miel-apiastur-este-fin-semana-en-leon_205533_102.html",
+    "desc": "Todos los planes de los que disfrutar estos días en distintos rincones de la provincia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/43/7/todos-los-planes-de-los-que-disfrutar-este-fin-de-semana-en-leon-l-n-c.jpeg",
+    "pub": 1793293353,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un dragón de 74 kilómetros para recorrer los pueblos de Gordón",
+    "link": "https://www.lanuevacronica.com/actualidad/dragon-74-kilometros-recorrer-pueblos-gordon_205541_102.html",
+    "desc": "La nueva ruta cicloturista enlaza las 17 localidades del municipio y pone en valor su naturaleza, sus tradiciones y su patrimonio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/56/2/la-pola-de-gordon-suma-una-nueva-ruta-para-descubrir-sus-pueblos-en-bicicleta.jpeg",
+    "pub": 1793293228,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los Reyes visitan a los heridos y acompañan a las familias de la tragedia de Urda",
+    "link": "https://www.heraldodeleon.es/actualidad/nacional/reyes-visitan-heridos-acompanan-familias-tragedia-urda/20261029175442115498.html",
+    "desc": "Felipe VI y Letizia se desplazan a Toledo para mostrar su apoyo a los afectados por el accidente ferroviario, que deja un balance provisional de hasta 74 fallecidos según la investigación técnica y…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102917551285371.jpg",
+    "pub": 1793292882,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Bembibre repartirá 1.800 euros en premios en su concurso de escaparates navideños",
+    "link": "https://www.elbierzodigital.com/bembibre-repartira-1-800-euros-en-premios-en-su-concurso-de-escaparates-navidenos/",
+    "desc": "El Ayuntamiento de Bembibre convoca una nueva edición del Concurso de Escaparates de Navidad, que repartirá 1.800 euros en premios entre los establecimientos participantes. La iniciativa busca…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/bembibre-repartira-1-800-euros-en-premios-en-su-concurso-de-escaparates-navidenos-el-bierzo-digital.jpg",
+    "pub": 1793292455,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "León explora nuevas formas de alimentación para pacientes con daño cerebral",
     "link": "https://www.heraldodeleon.es/sociedad/leon-explora-nuevas-formas-alimentacion-pacientes-dano-cerebral/20261029173840115497.html",
     "desc": "ASPAYM Castilla y León atiende a cerca de 1.000 personas al año en cinco provincias y desarrolla Nutrictia 3D, un proyecto que utiliza la impresión tridimensional de alimentos para mejorar la…",
@@ -38,14 +134,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384913.jpg?p=w:1706/h:960&h=hzDN6qgX",
     "pub": 1793289699,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Los cereales bajan de precio en León por las expectativas de negociación entre Rusia y Ucrania",
-    "link": "https://www.lanuevacronica.com/actualidad/cereales-bajan-precio-en-leon-por-expectativas-negociacion-entre-rusia-ucrania_205535_102.html",
-    "desc": "La Lonja registra descensos de dos euros por tonelada en el trigo, la cebada y el triticale, mientras que el maíz se queda sin cotizar por la falta de acuerdo entre compradores y vendedores",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/47/5/los-cereales-bajan-de-precio-en-leon-por-las-expectativas-de-negociacion-entre-rusia-y-ucrania.jpeg",
-    "pub": 1793288806,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Mañueco, abatido por la muerte de su amiga Fátima Báñez en el accidente de tren de Urda: \"Fue una extraordinaria ministra\"",
@@ -216,20 +304,20 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La Reina Sofía recogerá la Medalla de la Universidad de Salamanca el 24 de noviembre, en pleno V Centenario de su Escuela",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261029/reina-sofia-recogera-medalla-universidad-salamanca-noviembre-pleno-centenario-escuela/1003744429726_0.html",
-    "desc": "La institución académica le concederá su máxima distinción en el Paraninfo de las Escuelas Mayores, coincidiendo con la entrega del XXXV Premio de Poesía Iberoamericana al poeta Jaime Siles. Más…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390072.jpg?p=w:1706/h:960&h=utPpmfJp",
-    "pub": 1793280742,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "CCOO muestra su satisfacción por la alta presencia de jóvenes en la V Feria de Empleo",
     "link": "https://www.heraldodeleon.es/el-bierzo/ccoo-muestra-satisfaccion-alta-presencia-jovenes-v-feria-empleo/20261029143222115474.html",
     "desc": "El sindicato vuelve a reclamar la reindustrialización de la comarca para ofrecer verdaderas oportunidades a los ciudadanos",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102711470711812.jpg",
     "pub": 1793280742,
     "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Reina Sofía recogerá la Medalla de la Universidad de Salamanca el 24 de noviembre, en pleno V Centenario de su Escuela",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261029/reina-sofia-recogera-medalla-universidad-salamanca-noviembre-pleno-centenario-escuela/1003744429726_0.html",
+    "desc": "La institución académica le concederá su máxima distinción en el Paraninfo de las Escuelas Mayores, coincidiendo con la entrega del XXXV Premio de Poesía Iberoamericana al poeta Jaime Siles. Más…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390072.jpg?p=w:1706/h:960&h=utPpmfJp",
+    "pub": 1793280742,
+    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Un tren Ouigo con destino Valladolid queda atrapado en un túnel de Aranjuez por una avería eléctrica",
@@ -253,14 +341,6 @@
     "desc": "Tamara González Costa viajaba por motivos laborales y ocupaba el asiento 12B del vagón 8. Su familia se encuentra en Toledo a la espera de noticias sobre su paradero",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/70/96/6/leonesa-bembibre-tren-urda.png",
     "pub": 1793280255,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Güeste de Ánimas, Hallowindie y Feria de la Miel Apiastur, este fin de semana en León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/gueste-animas-hallowindie-feria-miel-apiastur-este-fin-semana-en-leon_205533_102.html",
-    "desc": "Todos los planes de los que disfrutar estos días en distintos rincones de la provincia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/43/7/todos-los-planes-de-los-que-disfrutar-este-fin-de-semana-en-leon-l-n-c.jpeg",
-    "pub": 1793280059,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -336,22 +416,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La Iglesia de León reza por las víctimas del accidente ferroviario de Urda",
-    "link": "https://www.lanuevacronica.com/actualidad/iglesia-leon-reza-por-victimas-accidente-ferroviario-urda_205530_102.html",
-    "desc": "El obispo conduce una plegaria por el eterno descanso de los fallecidos y por la recuperación de los heridos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/41/5/oracion-iglesia-leon-accidente-ferroviario-1.jpeg",
-    "pub": 1793277890,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cientos de buitres llenan León contra la especulación inmobiliaria",
-    "link": "https://www.lanuevacronica.com/actualidad/cientos-buitres-llenan-leon-contra-especulacion-inmobiliaria_205528_102.html",
-    "desc": "Una campaña llena de carteles barrios como La Sal, El Crucero, El Ejido y San Mamés para llamar a secundar la huelga general del próximo 11 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/25/6/vivienda-fondos-buitre-leon.jpeg",
-    "pub": 1793277620,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Junta aprueba el convenio del Plan Estatal de Vivienda con 378 millones para Castilla y León",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261029/junta-aprueba-convenio-plan-estatal-vivienda-millones-castilla-leon/1003744439754_0.html",
     "desc": "La Comunidad financiará el 40% de los fondos que le corresponden, mientras que el Gobierno asumirá el resto de la inversión prevista hasta 2030. Más información: \"Financiación suficiente\" o \"trabajo…",
@@ -366,22 +430,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102913360450619.jpg",
     "pub": 1793277405,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Sorbeda del Sil se recuperará de sus antiguas minas con 2,2 millones",
-    "link": "https://www.heraldodeleon.es/el-bierzo/sorbeda-sil-recuperara-antiguas-minas-22-millones/20261029133003115441.html",
-    "desc": "La Junta de Castilla y León aprueba una intervención ambiental de 22 meses en 7,25 hectáreas de terrenos degradados por la actividad carbonera, con trabajos de retirada de escombreras, demolición de…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102913285664153.jpg",
-    "pub": 1793277003,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "E.Leclerc León reparte 19.000 euros en premios durante su 'Megames'",
-    "link": "https://www.lanuevacronica.com/actualidad/eleclerc-leon-reparte-19000-euros-en-premios-durante-su-megames_205511_102.html",
-    "desc": "La campaña ha concluido con la entrega de vales de 300 euros, que se suma a los de menor cuantía entregados durante las semanas previas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/87/1/eleclerc-leon.jpeg",
-    "pub": 1793276649,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Nicholas, el turista estadounidense que alucina con su primera impresión de Valladolid: \"¡Guau, qué bonito!\"",
@@ -528,14 +576,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "\"Si al final toda la seguridad ferroviaria depende del factor humano, volvemos a los años 50\"",
-    "link": "https://www.lanuevacronica.com/actualidad/si-final-toda-seguridad-ferroviaria-depende-factor-humano-volvemos-anos-50_205507_102.html",
-    "desc": "Los trabajadores de Renfe en León guardan un minuto de silencio por las víctimas de la tragedia de Urda en una jornada de huelga convocada hace dos semanas para reclamar mejoras en la…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/90/9/frame-29renfe.jpeg",
-    "pub": 1793273242,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Casi 2,2 millones para recuperar los terrenos degradados por la minería del carbón en Sorbeda del Sil",
     "link": "https://www.elbierzodigital.com/casi-22-millones-para-recuperar-los-terrenos-degradados-por-la-mineria-del-carbon-en-sorbeda-del-sil/",
     "desc": "La antigua actividad minera del carbón en Sorbeda del Sil , localidad del municipio de Páramo del Sil , será objeto de una nueva intervención para recuperar los terrenos degradados y eliminar…",
@@ -550,14 +590,6 @@
     "img": "https://static.eldiario.es/clip/deb513d6-1050-45fa-9435-817b036e70d7_16-9-discover-aspect-ratio_default_0_x1565y393.jpg",
     "pub": 1793272200,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Arturo Molina encara el final de su recuperación y ya entrena en el Anexo",
-    "link": "https://www.lanuevacronica.com/deportes/arturo-molina-encara-final-su-recuperacion-ya-entrena-en-anexo_205509_102.html",
-    "desc": "Con el derbi en el horizonte, el centrocampista murciano empieza a realizar algunos ejercicios junto a sus compañeros, luciendo una protección en su mano lesionada",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/85/6/arturo.jpeg",
-    "pub": 1793271641,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Ainhoa Salcedo reinventa desde Valladolid el negocio de la alta costura nupcial tras invertir más de 50.000 euros",
@@ -645,38 +677,6 @@
     "desc": "El Festival de Otoño en Las Médulas cierra su segunda edición con un balance positivo y la mirada puesta en su crecimiento. La iniciativa, promovida por Fabularia Teatro, ofreció siete espectáculos…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-festival-de-otono-en-las-medulas-hace-balance-positivo-y-busca-mas-implicacion-municipal-el-bierzo-digital.jpg",
     "pub": 1793268479,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "León, de luto",
-    "link": "https://www.heraldodeleon.es/leon/leon-amanece-luto/20261029105246115377.html",
-    "desc": "Las banderas ondean a media asta este jueves en señal de duelo por las víctimas del accidente ferroviario de Toledo, una tragedia que ha conmocionado a la sociedad leonesa y que reunió a cientos de…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102910483647108.jpg",
-    "pub": 1793267566,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Familie Flöz regresa al Bergidum con una joya teatral que emociona sin pronunciar una palabra",
-    "link": "https://www.elbierzodigital.com/familie-floz-regresa-al-bergidum-con-una-joya-teatral-que-emociona-sin-pronunciar-una-palabra/",
-    "desc": "El teatro Bergidum vuelve a mirarse al espejo de la mano de Familie Flöz . La prestigiosa compañía alemana regresa al Bergidum el próximo jueves, 5 de noviembre, con Teatro Delusio , una fascinante…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/familie-floz-regresa-al-bergidum-con-una-joya-teatral-que-emociona-sin-pronunciar-una-palabra-el-bierzo-digital.jpg",
-    "pub": 1793267021,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Qué difícil votar a Óscar Puente el 29-N en Valladolid",
-    "link": "https://www.elespanol.com/castilla-y-leon/opinion/20261029/dificil-votar-oscar-puente-valladolid/1003744439182_12.html",
-    "desc": "Qué difícil debe de resultar conciliar la fidelidad a unas siglas con las dudas sobre uno de sus dirigentes. Qué difícil separar al antiguo alcalde del actual ministro. Y qué difícil acudir a votar…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389629.jpg?p=c:4000:2249:nowe:0:0/w:1706/h:960&h=WuRFsUct",
-    "pub": 1793266740,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El PCE denuncia el deterioro de las aceras y el arbolado en el Polígono de las Huertas",
-    "link": "https://www.elbierzodigital.com/el-pce-denuncia-el-deterioro-de-las-aceras-y-el-arbolado-en-el-poligono-de-las-huertas/",
-    "desc": "El Partido Comunista de España (PCE) en el Bierzo ha denunciado el mal estado de las aceras y el arbolado en el entorno del Polígono de las Huertas, haciéndose eco de las reclamaciones vecinales por…",
-    "img": null,
-    "pub": 1793266630,
     "fuente": "El Bierzo Digital"
   },
   {
