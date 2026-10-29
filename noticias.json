@@ -1,5 +1,133 @@
 [
   {
+    "titulo": "Nuevo curso de iniciación a la lengua y cultura leonesas de la Asociación Faceira",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/nuevo-curso-iniciacion-lengua-cultura-leonesas-asociacion-faceira_205516_102.html",
+    "desc": "La novena edición de la iniciativa en colaboración con la Universidad de León tendrá lugar del 12 de noviembre al 27 de mayo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/79/72/8/ule-21-1-19.jpeg",
+    "pub": 1793273260,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "\"Si al final toda la seguridad ferroviaria depende del factor humano, volvemos a los años 50\"",
+    "link": "https://www.lanuevacronica.com/actualidad/si-final-toda-seguridad-ferroviaria-depende-factor-humano-volvemos-anos-50_205507_102.html",
+    "desc": "Los trabajadores de Renfe en León guardan un minuto de silencio por las víctimas de la tragedia de Urda en una jornada de huelga convocada hace dos semanas para reclamar mejoras en la…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/90/9/frame-29renfe.jpeg",
+    "pub": 1793273242,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Buscan a una vecina de Bembibre que viajaba en el tren siniestrado de Toledo",
+    "link": "https://www.lanuevacronica.com/sucesos/buscan-vecina-bembibre-viajaba-en-tren-siniestrado-toledo_205512_102.html",
+    "desc": "Tamara González Costa viajaba por motivos laborales y ocupaba el asiento 12B del vagón 8. Su familia se encuentra en Toledo a la espera de noticias sobre su paradero",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/96/6/leonesa-bembibre-tren-urda.png",
+    "pub": 1793273163,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Casi 2,2 millones para recuperar los terrenos degradados por la minería del carbón en Sorbeda del Sil",
+    "link": "https://www.elbierzodigital.com/casi-22-millones-para-recuperar-los-terrenos-degradados-por-la-mineria-del-carbon-en-sorbeda-del-sil/",
+    "desc": "La antigua actividad minera del carbón en Sorbeda del Sil , localidad del municipio de Páramo del Sil , será objeto de una nueva intervención para recuperar los terrenos degradados y eliminar…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2022/07/IMG_20220730_165031.jpg",
+    "pub": 1793273019,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Tres fallos mortales",
+    "link": "https://www.heraldodeleon.es/actualidad/nacional/tres-fallos-mortales/20261029122034115414.html",
+    "desc": "La tragedia ferroviaria de Urda, con al menos 68 fallecidos según el balance inicial de la información, apunta a una cadena de incidencias en la señalización, las órdenes del centro de control de…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102912175251387.jpg",
+    "pub": 1793272834,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Del ayer al hoy",
+    "link": "https://www.heraldodeleon.es/cartas-al-director/del-ayer-al-hoy/20261029122032115413.html",
+    "desc": "Hoy, un grupo abundante de viajeros, posiblemente en su mayoria compatriotas nuestros o puede que tambien de otras latitudes de fuera de España, han sufrido un accidente ferroviario que ha terminado…",
+    "img": null,
+    "pub": 1793272832,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Junta invierte 400.000 euros en climatizar el Centro de Salud de Bembibre",
+    "link": "https://www.lanuevacronica.com/el-bierzo/junta-invierte-400000-euros-en-climatizar-centro-salud-bembibre_205514_102.html",
+    "desc": "El Consejo de Gobierno autoriza una actuación de 401.387 euros. Las obras tendrán un plazo de ejecución de cuatro meses desde su adjudicación",
+    "img": "https://www.lanuevacronica.com/uploads/s1/26/60/90/3/10max202303599819.jpeg",
+    "pub": 1793272754,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Junta anuncia que iniciará acciones legales contra el peaje de la León-Asturias",
+    "link": "https://www.lanuevacronica.com/actualidad/junta-anuncia-iniciara-acciones-legales-contra-peaje-leon-asturias_205513_102.html",
+    "desc": "El acuerdo autoriza el inicio de medidas administrativas y judiciales contra el Real Decreto que modificó la concesión a Aucalsa y prolongó el pago hasta 2050",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/06/97/0/whatsapp-image-2026-09-24-at-11-48-53-1.jpeg",
+    "pub": 1793272744,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los alemanes Familie Flöz desembarcan en el Bergidum con su lenguaje de las máscaras",
+    "link": "https://www.heraldodeleon.es/cultura/alemanes-familie-floz-desembarcan-bergidum-particular-lenguaje-mascaras/20261029121556115411.html",
+    "desc": "El trabajo 'Teatro Delusio', que se representará el próximo 5 de noviembre a las 20:30 horas, es una declaración de amor al teatro y a las vidas que lo hacen posible",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102912115583732.jpg",
+    "pub": 1793272556,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "E.Leclerc León reparte 19.000 euros en premios durante su 'Megames'",
+    "link": "https://www.lanuevacronica.com/actualidad/eleclerc-leon-reparte-19000-euros-en-premios-durante-su-megames_205511_102.html",
+    "desc": "La campaña ha concluido con la entrega de vales de 300 euros, que se suma a los de menor cuantía entregados durante las semanas previas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/87/1/eleclerc-leon.jpeg",
+    "pub": 1793272322,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Seminci suspende la gala de clausura por el accidente ferroviario de Toledo",
+    "link": "https://www.eldiario.es/castilla-y-leon/cultura/seminci-suspende-gala-clausura-accidente-ferroviario-toledo_1_13624149.html",
+    "desc": "El festival de cine vallisoletano dará a conocer el palmarés de esta edición en un acto informativo el sábado 31 de octubre por la mañana La película que se ha convertido en el símbolo de la…",
+    "img": "https://static.eldiario.es/clip/deb513d6-1050-45fa-9435-817b036e70d7_16-9-discover-aspect-ratio_default_0_x1565y393.jpg",
+    "pub": 1793272200,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "Detenida una mujer por rayar 24 coches aparcados en un barrio de León",
+    "link": "https://www.lanuevacronica.com/sucesos/detenida-mujer-por-rayar-24-coches-aparcados-en-barrio-leon_205506_102.html",
+    "desc": "Los hechos se produjeron durante dos semanas en distintas calles de Armunia y La Sal y la autora, de 68 años, se personó voluntariamente en dependencias policiales y confesó los hechos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/75/9/policia-nacional-sucesos-leon.jpeg",
+    "pub": 1793272117,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Teatro Goradaka lleva el lunes la obra 'Picopato' al Auditorio",
+    "link": "https://www.heraldodeleon.es/cultura/teatro-goradaka-lleva-lunes-obra-picopato-auditorio/20261029120757115409.html",
+    "desc": "La representación tendrá lugar a las 18:00 horas y se repetirá el martes con dos pases para escolares",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102912020436518.jpg",
+    "pub": 1793272077,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Arturo Molina encara el final de su recuperación y ya entrena en el Anexo",
+    "link": "https://www.lanuevacronica.com/deportes/arturo-molina-encara-final-su-recuperacion-ya-entrena-en-anexo_205509_102.html",
+    "desc": "Con el derbi en el horizonte, el centrocampista murciano empieza a realizar algunos ejercicios junto a sus compañeros, luciendo una protección en su mano lesionada",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/85/6/arturo.jpeg",
+    "pub": 1793271641,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ainhoa Salcedo reinventa desde Valladolid el negocio de la alta costura nupcial tras invertir más de 50.000 euros",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261029/ainhoa-salcedo-reinventa-valladolid-negocio-alta-costura-nupcial-invertir-euros/1003744439457_0.html",
+    "desc": "La empresaria celebra el 10º aniversario de La Couture Novias con un nuevo concepto de showroom de novias y cuatro líneas de negocio. Más información: Ainhoa Salcedo, la diseñadora con raíces…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389818.jpg?p=c:2046:1152:nowe:0:286/w:1706/h:960&h=HN8a7psT",
+    "pub": 1793271629,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "San Andrés reconoce a los policías locales que salvaron a un bebé",
+    "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/san-andres-reconoce-policias-que-salvaron-bebe/20261029115824115407.html",
+    "desc": "El Pleno municipal agradece la actuación de los agentes que auxiliaron el pasado 14 de julio a un niño de alrededor de un año que se había atragantado en una escuela infantil del municipio",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102911574296477.jpg",
+    "pub": 1793271504,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "CCOO reclama industria y empleo de calidad para retener el talento joven en el Bierzo",
     "link": "https://www.elbierzodigital.com/ccoo-reclama-industria-y-empleo-de-calidad-para-retener-el-talento-joven-en-el-bierzo/",
     "desc": "CCOO valoró positivamente la elevada presencia de jóvenes y público en general en la V Feria de Empleo, Innovación y Emprendimiento del Bierzo , celebrada el pasado martes en el Museo del…",
@@ -22,14 +150,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102911541856136.jpg",
     "pub": 1793271333,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Sin confirmación oficial de leoneses desaparecidos en el accidente ferroviario de Toledo",
-    "link": "https://www.lanuevacronica.com/actualidad/sin-confirmacion-oficial-leoneses-desaparecidos-en-accidente-ferroviario-toledo_205508_102.html",
-    "desc": "Ante las numerosas consultas recibidas, se recuerda que hay tres teléfonos habilitados para quienes busquen a familiares o allegados afectados por la tragedia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/89/0/accidente-ferroviario-en-urda-toledo.jpeg",
-    "pub": 1793270988,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Un Racing de Ferrol con mucho exdeportivista",
@@ -96,28 +216,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Detenida una mujer por rayar 24 coches aparcados en un barrio de León",
-    "link": "https://www.lanuevacronica.com/sucesos/detenida-mujer-por-rayar-24-coches-aparcados-en-barrio-leon_205506_102.html",
-    "desc": "Los hechos se produjeron durante dos semanas en distintas calles de La Sal y la autora, de 68 años, se personó voluntariamente en dependencias policiales y confesó los hechos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/75/9/policia-nacional-sucesos-leon.jpeg",
-    "pub": 1793270071,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Carucedo celebrará una fiesta intercultural para reivindicar el papel de la escuela rural",
     "link": "https://www.elbierzodigital.com/carucedo-celebrara-una-fiesta-intercultural-para-reivindicar-el-papel-de-la-escuela-rural/",
     "desc": "La escuela de Carucedo se convertirá el próximo miércoles 11 de noviembre en un punto de encuentro para niños, familias y vecinos de distintas localidades del entorno con la celebración de \"Carucedo…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/09/el-cra-de-carucedo-tambien-se-movilizara-en-el-inicio-del-curso-escolar-el-bierzo-digital.jpg",
     "pub": 1793269984,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Festival de Otoño en Las Médulas pide más implicación de los ayuntamientos para consolidar su apuesta",
-    "link": "https://www.lanuevacronica.com/el-bierzo/festival-otono-en-medulas-pide-mas-implicacion-ayuntamientos-consolidar-su-apuesta_205492_102.html",
-    "desc": "Pese a todo, la segunda edición del certamen, con siete espectáculos en distintos puntos del noroeste provincial, cierra con un balance positivo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/66/8/son-de-pererira.jpeg",
-    "pub": 1793269372,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Peranzanes espera que Diputación cumpla los plazos y el acceso a Faro esté arreglado a principios de 2027 como tarde",
@@ -166,14 +270,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102910483647108.jpg",
     "pub": 1793267566,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El PCE denuncia el abandono del Polígono de las Huertas y acusa al Ayuntamiento priorizar fiestas",
-    "link": "https://www.lanuevacronica.com/el-bierzo/pce-denuncia-abandono-poligono-huertas-acusa-ayuntamiento-priorizar-fiestas_205495_102.html",
-    "desc": "Se hacen eco de las quejas vecinales por las caídas, el deterioro del pavimento y un muro parcialmente desprendido",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/69/0/poligono-de-las-huertas-2026.jpeg",
-    "pub": 1793267506,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La ruta del Dragón: 17 pueblos de Gordón unidos por la 'cuélebre' de La Gotera",
@@ -264,14 +360,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Herido un hombre tras chocar con su coche contra una vaca en La Cabrera",
-    "link": "https://www.lanuevacronica.com/sucesos/herido-hombre-chocar-con-su-coche-contra-vaca-en-cabrera_205498_102.html",
-    "desc": "El siniestro se produjo en la carretera LE-126, en Quintanilla de Yuso",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/20/53/7/vacas-riofrio.jpeg",
-    "pub": 1793264381,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Convocan una concentración en Valladolid exigiendo cárcel para Óscar Puente tras el accidente de Toledo",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261029/convocan-concentracion-valladolid-exigiendo-carcel-oscar-puente-accidente-toledo/1003744439151_0.html",
     "desc": "Patriam reclama la intervención de la Fiscalía para que \"el responsable de esta masacre y de la de Adamuz sea encarcelado de por vida\". Más información: Los 9 meses y 10 días de Puente entre Adamuz…",
@@ -288,14 +376,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Abierto el plazo para elegir el cartel anunciador de la Navidad en León",
-    "link": "https://www.lanuevacronica.com/actualidad/abierto-plazo-elegir-cartel-anunciador-navidad-en-leon_205496_102.html",
-    "desc": "El concurso está dotado con un premio principal de 1.250 euros para la propuesta ganadora, además de dos accésit de 100 euros y 50 euros",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/08/84/9/whatsapp-image-2025-12-17-at-13-25-57.jpeg",
-    "pub": 1793263975,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "\"Me crie en Tolibia de Abajo, donde la nieve podía dejarnos semanas sin ir al colegio\"",
     "link": "https://www.heraldodeleon.es/leon/crie-tolibia-abajo-donde-nieve-podia-dejarnos-semanas-ir-colegio/20261029094829115349.html",
     "desc": "Sara Zapico Fernández, leonesa de 25 años, dejó su pueblo a los 18 años para estudiar Trabajo Social y hoy compagina su trabajo en León con un negocio familiar en Lugueros",
@@ -310,22 +390,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389093.jpg?p=c:4003:2253:nowe:0:98/w:1706/h:960&h=8zYaBxjg",
     "pub": 1793263691,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Las hamburguesas leonesas de The Carnivan, entre las finalistas para ser las mejores del mundo",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/hamburguesas-leonesas-the-carnivan-entre-finalistas-ser-mejores-mundo_205253_102.html",
-    "desc": "Los responsables del restaurante leonés, Shara Alonso y Jorge Cadierno, estarán en el World Burger Contest que se celebrará en Lyon en enero junto a otras 11 candidatos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/65/18/0/shara-alonso-y-jorge-cadierno-pelearan-en-lyon-por-conseguir-el-titulo-a-la-mejor-hamburguesa-del-mundo.jpeg",
-    "pub": 1793263430,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Csif pide la dimisión de Óscar Puente por señalar al responsable de circulación de Adif",
-    "link": "https://www.lanuevacronica.com/actualidad/csif-pide-dimision-oscar-puente-por-senalar-responsable-circulacion-adif_205493_102.html",
-    "desc": "El sindicato acusa al ministro de utilizar de manera \"vergonzosa\" a una persona trabajadora como \"chivo expiatorio\" en lugar de \"asumir sus responsabilidades\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/64/8/accidente-tren-toledo-puente.jpeg",
-    "pub": 1793263276,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Herido un joven tras chocar contra una vaca en la LE-126 cerca de Quintanilla de Yuso",
@@ -365,7 +429,7 @@
     "desc": "Un TAC de vanguardia atrae la mirada internacional hacia León | El Hospital San Juan de Dios recibe a una delegación del centro escocés The Balfour para mostrar el primer Revolution Altitude…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102908402288636.jpg",
     "pub": 1793259812,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Condenan a Nationale Nederlanden e ING a devolver los 260.000 euros que un agente comercial defraudó a sus clientes en León",
@@ -373,7 +437,7 @@
     "desc": "El fallo determina la obligación de resarcir solidariamente a unos clientes leoneses que sufrieron un perjuicio económico masivo tras confiar sus ahorros a un intermediario que operaba bajo el…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102908102557343.jpg",
     "pub": 1793258229,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Carlos, embajador de la Fiesta de la Salchicha de Zaratán: “Algo tan cotidiano puede convertirse en un bocado sorprendente”",
@@ -398,14 +462,6 @@
     "img": "https://static.eldiario.es/clip/7c84f2b5-a762-48c3-878c-8f878769ba6b_16-9-discover-aspect-ratio_default_0_x978y354.jpg",
     "pub": 1793227224,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Nueva tragedia ferroviaria: 69 fallecidos tras el choque por alcance de un Alvia y un Iryo",
-    "link": "https://www.heraldodeleon.es/actualidad/nacional/menos-64-muertos-accidente-entre-ave-iryo-toledo/20261028101054115236.html",
-    "desc": "El impacto, ocurrido cerca de Urda, ha provocado el descarrilamiento de varios vagones y la suspensión de la alta velocidad entre Madrid y Andalucía; los equipos de rescate continúan trabajando en…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102811230414845.jpg",
-    "pub": 1793225454,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Conmoción en la Guardia Civil tras el fallecimiento de Raúl a los 48 años tras un accidente en Aldeatejada",
@@ -453,7 +509,7 @@
     "desc": "Representantes de todas las instituciones y cientos de ciudadanos guardan un minuto de silencio en San Marcelo en memoria de los fallecidos y en apoyo a los heridos",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102820340484469.jpg",
     "pub": 1793216616,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Mañueco abandera el luto de Castilla y León en Salamanca y exige \"esclarecer las causas\" de la tragedia de Toledo",
@@ -486,14 +542,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/feijoo-exige-una-investigacion-inmediata-del-gobierno-y-otra-judicial-por-el-accidente-ferroviario-de-toledo-el-bierzo-digital.jpg",
     "pub": 1793207371,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Guardia Civil esclarece dos hurtos al descuido en León tras desarticular una red criminal",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/guardia-civil-esclarece-dos-hurtos-descuido-leon-desarticular-red-criminal/20261028180521115314.html",
-    "desc": "La operación, desarrollada por agentes de Asturias, se salda con cuatro detenidos y permite relacionar a la organización con dos delitos cometidos en Carrizo de la Ribera, además de otros hechos…",
-    "img": "https://i.ytimg.com/vi/VhJIR7Eu-7k/hqdefault.jpg",
-    "pub": 1793207121,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "El proyecto industrial 'Manual al Instante' gana el Consolida Startup 2026 entre doce finalistas internacionales",
@@ -640,46 +688,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "El Ayuntamiento abre el plazo para elegir el cartel de las Fiestas de Navidad",
-    "link": "https://www.heraldodeleon.es/leon/ayuntamiento-abre-plazo-elegir-cartel-anunciador-fiestas-navidad/20261028125453115272.html",
-    "desc": "El plazo de presentación de trabajos estará abierto desde este jueves 29 de octubre hasta el 2 de diciembre a las 14:00 horas",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/12/11/2025121114493265029.jpg",
-    "pub": 1793188493,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "La feria del niño y la juventud ideal del 30 de octubre al 2 de noviembre en Cigales: con buñuelos y castañada",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261028/feria-nino-juventud-ideal-octubre-noviembre-cigales-bunuelos-castanada/1003744437930_0.html",
-    "desc": "Serán jornadas especiales por Halloween y con el Día de Todos los Santos, muy presentes. Más información: Cigales disfruta de su mejor vino con una cata única y llena de calidad: “Es nuestro santo y…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388853.jpg?p=c:1600:900:nowe:0:153/w:1706/h:960&h=r6CeefQv",
-    "pub": 1793187654,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Medio Ambiente destinará más de 200 millones a frenar los incendios, la mitad para contar con un operativo todo el año",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261028/medio-ambiente-destinara-millones-frenar-incendios-mitad-contar-operativo-ano/1003744437907_0.html",
-    "desc": "González Corral anuncia una inversión de 29,3 millones para el servicio de 30 helicópteros de descarga de agua y transporte de cuadrillas. Más información: Suárez-Quiñones anuncia 12,6 millones para…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388824.jpg?p=c:4001:2250:nowe:0:0/w:1706/h:960&h=8MSEF7Rl",
-    "pub": 1793187042,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El Ayuntamiento de Ponferrada convoca un minuto de silencio por las víctimas del accidente de Toledo",
-    "link": "https://www.elbierzodigital.com/el-ayuntamiento-de-ponferrada-convoca-un-minuto-de-silencio-por-las-victimas-del-accidente-de-toledo/",
-    "desc": "El Ayuntamiento de Ponferrada, recogiendo la propuesta realizada por la Federación Española de Municipios y Provincias (FEMP), convoca un minuto de silencio este miércoles, 28 de octubre, a las…",
-    "img": null,
-    "pub": 1793186422,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Campus de Ponferrada impulsa una red nacional para ganar voz propia en la universidad española",
-    "link": "https://www.elbierzodigital.com/el-campus-de-ponferrada-impulsa-una-red-nacional-para-ganar-voz-propia-en-la-universidad-espanola/",
-    "desc": "El Campus de Ponferrada quiere dejar huella en el mapa universitario nacional. La Universidad de León avanza, junto a más de una veintena de instituciones , en la creación de una red de campus…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-campus-de-ponferrada-impulsa-una-red-nacional-para-ganar-voz-propia-en-la-universidad-espanola-el-bierzo-digital.jpeg",
-    "pub": 1793186090,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "El BOE publica las listas electorales de Castilla y León: estos son los candidatos de las nueve provincias",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/boe-publica-listas-electorales-castilla-leon-son-candidatos-nueve-provincias_1_13621144.html",
     "desc": "El PSOE, el PP y Vox concurren en las nueve circunscripciones; Soria ¡Ya! y el regionalismo leonés también figuran entre las opciones electorales Listas separadas, integración o candidaturas…",
@@ -709,14 +717,6 @@
     "desc": "Suárez-Quiñones asume que no puede retirar las partidas nominativas de los sindicatos y patronal, aunque ha reconocido que \"desaparecerán\" las partidas que no sean de \"interés público\" Vox recorta a…",
     "img": "https://static.eldiario.es/clip/9a631ff8-10ae-4abd-b05b-57a3ea92b15f_16-9-discover-aspect-ratio_default_0_x1100y476.jpg",
     "pub": 1793136211,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Mañueco llama a \"abrir las ventanas y airear la casa\" para abrir una etapa de \"reconstrucción democrática\"",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/manueco-llama-abrir-ventanas-airear-casa-abrir-etapa-reconstruccion-democratica_1_13620137.html",
-    "desc": "El presidente de la Junta de Castilla y León cree que el Gobierno de Pedro Sánchez \"pasará a la historia por destructivo, inútil y turbio\" Abascal acusa sin pruebas al subdelegado del Gobierno en…",
-    "img": "https://static.eldiario.es/clip/df74fa73-c4d4-440e-bfe1-498ef8a5b997_16-9-discover-aspect-ratio_default_0_x749y325.jpg",
-    "pub": 1793134460,
     "fuente": "eldiario.es · CyL"
   },
   {
