@@ -1,5 +1,77 @@
 [
   {
+    "titulo": "Herido un joven tras chocar contra una vaca en la LE-126 cerca de Quintanilla de Yuso",
+    "link": "https://www.heraldodeleon.es/leon/herido-joven-chocar-vaca-126-quintanilla-yuso/20261029092759115348.html",
+    "desc": "El suceso ha tenido lugar a primera hora de este jueves y las emergencias sanitarias han atendido en el lugar al conductor, con dolores cervicales",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/27/2026092713574865921.jpg",
+    "pub": 1793262479,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Ensanchar las calles anchas",
+    "link": "https://www.lanuevacronica.com/extras/a-la-contra/ensanchar-calles-anchas_205491_102.html",
+    "desc": "La última de La Nueva Crónica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/62/8/contra-obras-saul-aren.jpeg",
+    "pub": 1793262363,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La vuelta a la identidad de Emiliano y Dionisio, los hermanos de Villamartín que la represión borró",
+    "link": "https://www.lanuevacronica.com/el-bierzo/vuelta-identidad-emiliano-dionisio-hermanos-villamartin-represion-borro_205405_102.html",
+    "desc": "Tras asesinarlos les acusaron a ellos de ser los criminales y no sus ejecutores. Ahora su pueblo rinde homenaje a Emiliano y Dionisio entre 19 represaliados que han recuperado su nombre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/20/9/emiliano-alvarez-web-vale.jpeg",
+    "pub": 1793262221,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Luz verde al último trámite para que Gobierno pueda encargar el proyecto del Teatro Emperador",
+    "link": "https://www.lanuevacronica.com/actualidad/luz-verde-ultimo-tramite-gobierno-pueda-encargar-proyecto-teatro-emperador_205460_102.html",
+    "desc": "El Ayuntamiento de León aprueba de manera definitiva la modificación del PGOU que permitirá elevar la torre escénica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/64/45/1/teatroemperador.jpeg",
+    "pub": 1793262093,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205489_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/56/7/29-10-2026-canton.jpeg",
+    "pub": 1793262010,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Carta abierta al ministro Óscar Puente: por dignidad y respeto a las víctimas, dimisión",
+    "link": "https://www.elespanol.com/castilla-y-leon/opinion/20261029/carta-abierta-ministro-oscar-puente-dignidad-respeto-victimas-dimision/1003744439091_12.html",
+    "desc": "¿Hasta cuándo tendremos que esperar para que se asuman responsabilidades? ¿Cómo puede mantenerse al margen quien tiene la obligación de dar explicaciones y garantizar la seguridad de los ciudadanos?",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389504.jpg?p=w:1706/h:960&h=FN6iv1jF",
+    "pub": 1793261656,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El Centro del Clima abre una ventana al legado de Mateo Jiménez Murguía",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/centro-clima-abre-ventana-legado-mateo-jimenez-murguia_205490_102.html",
+    "desc": "La exposición 'Un lugar en la memoria' se inauguró este miércoles en La Vid de Gordón con motivo del centenario del nacimiento del pintor",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/60/8/un-momento-de-la-inauguracion-de-la-exposicion-este-miercoles-en-le-centro-del-clima-de-la-vid-l-n-c.jpeg",
+    "pub": 1793261509,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Lucía, la joven que mantiene vivo su pueblo mientras triunfa en el mundo de los videojuegos",
+    "link": "https://www.elbierzodigital.com/lucia-la-joven-que-mantiene-vivo-su-pueblo-mientras-triunfa-en-el-mundo-de-los-videojuegos/",
+    "desc": "Hay días en los que Lucía cambia los terneros por los videojuegos , el mostrador por la pantalla y las tareas de la carnicería por los colores rojiblancos del Atlético de Madrid. Pero hay algo que…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/natividad-la-mujer-que-mantiene-en-marcha-el-hospital-el-bierzo-sin-perder-sus-raices-en-toreno-el-bierzo-digital-4.jpg",
+    "pub": 1793260846,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El 'efecto Goiria' y la apuesta por jugadores a recuperar: Jon García, al quirófano",
+    "link": "https://www.heraldodeleon.es/deportes/cultural/efecto-goiria-apuesta-jugadores-recuperar-jon-garcia-quirofano/20261029090045115347.html",
+    "desc": "El central de la Cultural y Deportiva Leonesa, que apenas suma 28 minutos oficiales esta temporada, será intervenido este jueves de una lesión en el menisco interno; tiene contrato con el club hasta…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102909002059049.jpg",
+    "pub": 1793260845,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "De Escocia a San Juan de Dios",
     "link": "https://www.heraldodeleon.es/leon/escocia-san-juan-dios/20261029084332115344.html",
     "desc": "Un TAC de vanguardia atrae la mirada internacional hacia León | El Hospital San Juan de Dios recibe a una delegación del centro escocés The Balfour para mostrar el primer Revolution Altitude…",
@@ -88,14 +160,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La vuelta a la identidad de Emiliano y Dionisio, los hermanos de Villamartín que la represión borró",
-    "link": "https://www.lanuevacronica.com/el-bierzo/vuelta-identidad-emiliano-dionisio-hermanos-villamartin-represion-borro_205405_102.html",
-    "desc": "Tras asesinarlos les acusaron a ellos de ser los criminales y no sus ejecutores. Ahora su pueblo rinde homenaje a Emiliano y Dionisio entre 19 represaliados que han recuperado su nombre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/20/9/emiliano-alvarez-web-vale.jpeg",
-    "pub": 1793243700,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Un santo laico",
     "link": "https://www.lanuevacronica.com/opinion/tribuna-de-opinion/santo-laico_205481_102.html",
     "desc": "",
@@ -112,14 +176,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205489_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/56/7/29-10-2026-canton.jpeg",
-    "pub": 1793242800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Demasiados retrasos para el futuro del esquí",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/demasiados-retrasos-futuro-esqui_205488_102.html",
     "desc": "Las continuas demoras en la modernización de San Isidro y Leitariegos perjudican al turismo y a la economía de las comarcas leonesas, independientemente de quién sea el responsable de los…",
@@ -128,28 +184,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Levantando la ceja en las termas para no levantar la toalla",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/levantando-ceja-en-termas-no-levantar-toalla_205487_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1793242800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La historia tras los retratos de Pereira: \"Todo iba bien hasta que surge Wagner en la conversación\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/historia-retratos-pereira-todo-iba-bien-hasta-surge-wagner-en-conversacion_205477_102.html",
-    "desc": "Las imágenes utilizadas como portadas de su poesía y sus cuentos completos son del villafranquino José A. Robés, que recuerda lo que tuvo que suceder para capturarlas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/46/7/antonio-pereira-retratado-por-el-fotografo-villafranquino-durante-una-mesa-redonda-de-2008-jose-a-robes.jpeg",
-    "pub": 1793242800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Estudiando cómo estudiar: La ULE ayuda al alumnado a sacar mejores notas",
-    "link": "https://www.lanuevacronica.com/actualidad/estudiando-como-estudiar-ule-ayuda-alumnado-sacar-mejores-notas_205470_102.html",
-    "desc": "La institución académica lanza un curso sobre técnicas para afrontar los exámenes, que se impartirá los lunes por la tarde en noviembre y diciembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/06/9/facultadeducacion.jpeg",
-    "pub": 1793242800,
-    "fuente": "La Nueva Crónica"
+    "titulo": "PP y Vox 'cuelan' modificaciones a las leyes de caza y apuestas en la Ley de Presupuestos en Castilla y León",
+    "link": "https://www.eldiario.es/castilla-y-leon/politica/pp-vox-cuelan-modificaciones-leyes-caza-apuestas-ley-presupuestos-castilla-leon_1_13605322.html",
+    "desc": "La Ley que acompaña a las cuentas autonómicas incluye la modificación de 18 leyes no tributarias y retrocesos en la participación social en Servicios Sociales, Residencias, Urbanismo y Medio…",
+    "img": "https://static.eldiario.es/clip/7c84f2b5-a762-48c3-878c-8f878769ba6b_16-9-discover-aspect-ratio_default_0_x978y354.jpg",
+    "pub": 1793227224,
+    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "Vox no suspende los actos de precampaña tras la catástrofe de Urda y Abascal apunta al Gobierno: \"La corrupción mata\"",
@@ -408,22 +448,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Fátima Báñez, entre los pasajeros sin localizar tras el accidente ferroviario en Toledo",
-    "link": "https://www.heraldodeleon.es/actualidad/nacional/fatima-banez-entre-pasajeros-localizar-accidente-ferroviario-toledo/20261028131431115276.html",
-    "desc": "La expresidenta de la Fundación CEOE viajaba a Sevilla para asistir al Día de la Empresa organizado por la CEA; el alcalde hispalense, José Luis Sanz, ha confirmado que todavía no había noticias…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102813133488148.jpg",
-    "pub": 1793189671,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Feria del Vino de Cacabelos, declarada Fiesta de Interés Turístico Comarcal",
-    "link": "https://www.heraldodeleon.es/el-bierzo/feria-vino-cacabelos-declarada-fiesta-interes-turistico-comarcal/20261028131014115274.html",
-    "desc": "El Consejo Comarcal del Bierzo aprueba por unanimidad en el pleno el reconocimiento, que se suma a otras celebraciones distinguidas de la comarca",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/05/10/2025051011175957181.jpg",
-    "pub": 1793189414,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "León convoca un minuto de silencio por las víctimas del accidente",
     "link": "https://www.heraldodeleon.es/leon/leon-convoca-minuto-silencio-victimas-accidente-toledo/20261028130607115273.html",
     "desc": "El acto tendrá lugar este miércoles, 28 de octubre, a las 20.00 horas en la plaza de San Marcelo, por iniciativa del Ayuntamiento de León",
@@ -680,22 +704,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Cientos de locales comerciales vacíos podrán ser viviendas en León capital",
-    "link": "https://www.heraldodeleon.es/leon/leon-permitira-convertir-cientos-bajos-comerciales-vacios-viviendas-protegera-comercio-centro-flexibilizara-usos-edificios/20261028085645115220.html",
-    "desc": "El Ayuntamiento aprueba inicialmente una modificación del PGOU que extiende el uso residencial a las plantas bajas de casi toda la ciudad, mantiene la prohibición en un perímetro comercial del…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/07/11/2025071108151049796.jpg",
-    "pub": 1793174205,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "León, en el corazón de Alemania",
-    "link": "https://www.heraldodeleon.es/leon/leon-lleva-ritmos-tradicionales-corazon-alemania/20261028084846115175.html",
-    "desc": "Los grupos Xicu ya Xara y Ruxideira representaron la música popular leonesa en un encuentro celebrado en Esslingen junto a las culturas de Asturias y Galicia, con la reina Urraca como referente del…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102718513471189.jpg",
-    "pub": 1793173726,
-    "fuente": "Heraldo de León · León"
-  },
-  {
     "titulo": "El consejero de Industria de Castilla y León no cree que vaya a haber un enfrentamiento PP-Vox: \"Haremos lo pactado\"",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/consejero-industria-castilla-leon-no-cree-haber-enfrentamiento-pp-vox-haremos-pactado_1_13620165.html",
     "desc": "Suárez-Quiñones asume que no puede retirar las partidas nominativas de los sindicatos y patronal, aunque ha reconocido que \"desaparecerán\" las partidas que no sean de \"interés público\" Vox recorta a…",
@@ -709,14 +717,6 @@
     "desc": "El presidente de la Junta de Castilla y León cree que el Gobierno de Pedro Sánchez \"pasará a la historia por destructivo, inútil y turbio\" Abascal acusa sin pruebas al subdelegado del Gobierno en…",
     "img": "https://static.eldiario.es/clip/df74fa73-c4d4-440e-bfe1-498ef8a5b997_16-9-discover-aspect-ratio_default_0_x749y325.jpg",
     "pub": 1793134460,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Abascal acusa sin pruebas al subdelegado del Gobierno en Zamora de estar \"detrás\" de una protesta contra el acto de Vox",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/abascal-acusa-pruebas-subdelegado-gobierno-zamora-detras-protesta-acto-vox_1_13619957.html",
-    "desc": "Abascal ha acusado a Pedro Sánchez de mandar un mensaje \"guerracivilista\" y se refiere al conflicto bélico como \"un enfrentamiento fratricida y horrible entre españoles\" ENCUESTA - El bloque de…",
-    "img": "https://static.eldiario.es/clip/aab33a15-325f-4db2-9e7d-d85f86a35d0d_16-9-discover-aspect-ratio_default_0_x546y880.jpg",
-    "pub": 1793130886,
     "fuente": "eldiario.es · CyL"
   },
   {
