@@ -1,10 +1,74 @@
 [
   {
-    "titulo": "La mejor noticia para Álex Lodos",
-    "link": "https://www.lanuevacronica.com/deportes/mejor-noticia-alex-lodos_205479_102.html",
-    "desc": "El lateral del Ademar no sólo evita el temido cruzado sino que tampoco tiene dañado el menisco y, al ser sólo golpe, estará de vuelta a las pistas a corto plazo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/67/79/3/ademar-cangas-3.jpeg",
-    "pub": 1793219015,
+    "titulo": "Un santo laico",
+    "link": "https://www.lanuevacronica.com/opinion/tribuna-de-opinion/santo-laico_205481_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793243400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Contra la mercantilización educativa",
+    "link": "https://www.lanuevacronica.com/opinion/tribuna-de-opinion/contra-mercantilizacion-educativa_205480_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793243100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205489_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/56/7/29-10-2026-canton.jpeg",
+    "pub": 1793242800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Demasiados retrasos para el futuro del esquí",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/demasiados-retrasos-futuro-esqui_205488_102.html",
+    "desc": "Las continuas demoras en la modernización de San Isidro y Leitariegos perjudican al turismo y a la economía de las comarcas leonesas, independientemente de quién sea el responsable de los…",
+    "img": null,
+    "pub": 1793242800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Levantando la ceja en las termas para no levantar la toalla",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/levantando-ceja-en-termas-no-levantar-toalla_205487_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793242800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La historia tras los retratos de Pereira: \"Todo iba bien hasta que surge Wagner en la conversación\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/historia-retratos-pereira-todo-iba-bien-hasta-surge-wagner-en-conversacion_205477_102.html",
+    "desc": "Las imágenes utilizadas como portadas de su poesía y sus cuentos completos son del villafranquino José A. Robés, que recuerda lo que tuvo que suceder para capturarlas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/46/7/antonio-pereira-retratado-por-el-fotografo-villafranquino-durante-una-mesa-redonda-de-2008-jose-a-robes.jpeg",
+    "pub": 1793242800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Estudiando cómo estudiar: La ULE ayuda al alumnado a sacar mejores notas",
+    "link": "https://www.lanuevacronica.com/actualidad/estudiando-como-estudiar-ule-ayuda-alumnado-sacar-mejores-notas_205470_102.html",
+    "desc": "La institución académica lanza un curso sobre técnicas para afrontar los exámenes, que se impartirá los lunes por la tarde en noviembre y diciembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/06/9/facultadeducacion.jpeg",
+    "pub": 1793242800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Luz verde al último trámite para que Gobierno pueda encargar el proyecto del Teatro Emperador",
+    "link": "https://www.lanuevacronica.com/actualidad/luz-verde-ultimo-tramite-gobierno-pueda-encargar-proyecto-teatro-emperador_205460_102.html",
+    "desc": "El Ayuntamiento de León aprueba de manera definitiva la modificación del PGOU que permitirá elevar la torre escénica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/64/45/1/teatroemperador.jpeg",
+    "pub": 1793242800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La miel y la apicultura endulzarán Astorga durante este puente de Todos los Santos",
+    "link": "https://www.lanuevacronica.com/actualidad/miel-apicultura-endulzaran-astorga-durante-este-puente-todos-santos_205450_102.html",
+    "desc": "La III Feria de la Miel Apiastur reunirá del 30 de octubre al 1 de noviembre a más de una veintena de productores en el Pabellón de Rectivía con degustaciones, talleres, cocina en directo y…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/30/44/48/3/apiastur-vuelve-a-endulzar-con-miel-a-astorga-durante-este-fin-de-semana.jpeg",
+    "pub": 1793242800,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -96,14 +160,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Nace la iniciativa conjunta 'Factor 45, los libros que nos hacen felices'",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/nace-iniciativa-conjunta-factor-45-libros-nos-hacen-felices_205467_102.html",
-    "desc": "El proyecto servirá para atraer a escritores tanto a La Casona de San Feliz como a la Fundación Club 45",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/99/7/los-respectivos-responsables-del-club-45-y-la-casona-alex-cooper-y-hector-escobar-l-n-c.jpeg",
-    "pub": 1793214546,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La música (antes de Halloween) de Bras Rodrigo llega a León",
     "link": "https://www.lanuevacronica.com/lnc-culturas/musica-antes-halloween-bras-rodrigo-llega-leon_205469_102.html",
     "desc": "El gaitero asturiano ofrece este viernes un concierto de música celta y leyendas en el Teatro San Francisco",
@@ -112,59 +168,11 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Ciñera estrena sus letras corporativas en la plaza del pueblo",
-    "link": "https://www.lanuevacronica.com/actualidad/cinera-estrena-sus-letras-corporativas-en-plaza-pueblo_205454_102.html",
-    "desc": "La Junta Vecinal celebra el resultado de la colaboración y anima a vecinos y visitantes a fotografiarse junto a este nuevo elemento",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/94/5/lajunta-vecinal-anima-a-vecinos-y-visitantes-a-fotografiarse-junto-a-ellas-l-n-c.jpeg",
-    "pub": 1793214251,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Justicia obliga a la ULE a reanudar la negociación del convenio laboral tras años de bloqueo",
-    "link": "https://www.lanuevacronica.com/actualidad/justicia-obliga-ule-reanudar-negociacion-convenio-laboral-anos-bloqueo_205448_102.html",
-    "desc": "El Tribunal Superior de Justicia de Castilla y León estima parcialmente la demanda de CCOO, que exige a la universidad leonesa que convoque la mesa negociadora \"a la mayor brevedad posible\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/23/82/68/1/edificio-rectorado-de-la-ule.jpeg",
-    "pub": 1793213915,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "UPL denuncia que los 8 millones del convenio para los colegios de León siguen sin llegar un año después",
-    "link": "https://www.lanuevacronica.com/actualidad/upl-denuncia-8-millones-convenio-colegios-leon-siguen-sin-llegar-ano-despues_205464_102.html",
-    "desc": "La formación leonesista acusa a la Junta y al Ayuntamiento de hacer «publicidad sin inversión real» con el acuerdo firmado en diciembre para mejorar 19 centros públicos y exige explicaciones sobre…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/03/02/7/acuerdo-colegios.jpeg",
-    "pub": 1793213872,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un hospital escocés visita San Juan de Dios para conocer el primer TAC 'Revolution Altitude' instalado en el mundo",
-    "link": "https://www.lanuevacronica.com/actualidad/hospital-escoces-visita-san-juan-dios-conocer-primer-tac-revolution-altitude-instalado-en-mundo_205462_102.html",
-    "desc": "Una delegación procedente de The Balfour, centro de referencia de las islas Orcadas, se ha adentrado en el funcionamiento de este sistema de tomografía computarizada",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/97/5/un-instante-de-la-visita-de-los-especialistas-escoceses-a-san-juan-de-dios.jpeg",
-    "pub": 1793213783,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La rápida actuación de la Guardia Civil salva en León la vida a un hombre que sufrió una parada respiratoria",
-    "link": "https://www.lanuevacronica.com/sucesos/rapida-actuacion-guardia-civil-salva-en-leon-vida-hombre-sufrio-parada-respiratoria_205459_102.html",
-    "desc": "Los agentes observaron que una furgoneta circulaba marcha atrás y colisionaba con otro vehículo, comprobando que el conductor se encontraba inconsciente",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/90/8/un-instante-de-la-maniobra-de-reanimacion.jpeg",
-    "pub": 1793213255,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Los camareros de la cámara",
     "link": "https://www.lanuevacronica.com/extras/a-la-contra/camareros-camara_205472_102.html",
     "desc": "La última de La Nueva Crónica",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/70/29/0/contra.jpeg",
     "pub": 1793212685,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Renta 4 Banco celebra sus 40 años desde León con una mirada a los retos de la economía mundial",
-    "link": "https://www.lanuevacronica.com/actualidad/renta-4-banco-celebra-sus-40-anos-leon-con-mirada-retos-economia-mundial_205466_102.html",
-    "desc": "La entidad bancaria organiza un encuentro con empresarios de la ciudad y la asociación Autismo León, además de una conferencia de su presidente sobre inversión en IA",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/03/4/frame-28renta4.jpeg",
-    "pub": 1793210403,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -190,14 +198,6 @@
     "img": "https://i.ytimg.com/vi/VhJIR7Eu-7k/hqdefault.jpg",
     "pub": 1793207121,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Bañeza invierte cerca de 90.000 euros en la renovación de la calle La Vega",
-    "link": "https://www.lanuevacronica.com/actualidad/baneza-invierte-cerca-90000-euros-en-renovacion-calle-vega_205463_102.html",
-    "desc": "Los trabajos incluyen la mejora de las aceras, el asfaltado de la calzada y el alumbrado público de una de las principales vías de la ciudad y el Consistorio trabaja en la última fase con una…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/95/5/la-baneza-invierte-cerca-de-90-000-euros-en-la-renovacion-de-la-calle-la-vega.jpeg",
-    "pub": 1793207036,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El proyecto industrial 'Manual al Instante' gana el Consolida Startup 2026 entre doce finalistas internacionales",
