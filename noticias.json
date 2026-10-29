@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Prerrománico leonés",
+    "link": "https://www.lanuevacronica.com/opinion/prerromanico-leones_205485_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793245800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Nano",
+    "link": "https://www.lanuevacronica.com/opinion/nano_205484_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793245200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Frankenstein",
+    "link": "https://www.lanuevacronica.com/opinion/frankenstein_205483_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793244600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Ayuntamiento de Matallana estrena un programa de rutas para recorrer la montaña",
+    "link": "https://www.lanuevacronica.com/actualidad/ayuntamiento-matallana-estrena-programa-rutas-recorrer-provincia_205456_102.html",
+    "desc": "Tras el estreno con buena acogida, el programa continuará el 15 de noviembre con una etapa entre Puente Almuhey y Cistierna",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/81/1/imagen-de-la-primera-ruta-celebrada-ya-el-pasado-domingo-ayto-matallana.jpeg",
+    "pub": 1793244600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Coda para un centro blandurrio",
+    "link": "https://www.lanuevacronica.com/opinion/coda-centro-blandurrio_205482_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793244000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La vuelta a la identidad de Emiliano y Dionisio, los hermanos de Villamartín que la represión borró",
+    "link": "https://www.lanuevacronica.com/el-bierzo/vuelta-identidad-emiliano-dionisio-hermanos-villamartin-represion-borro_205405_102.html",
+    "desc": "Tras asesinarlos les acusaron a ellos de ser los criminales y no sus ejecutores. Ahora su pueblo rinde homenaje a Emiliano y Dionisio entre 19 represaliados que han recuperado su nombre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/69/20/9/emiliano-alvarez-web-vale.jpeg",
+    "pub": 1793243700,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Un santo laico",
     "link": "https://www.lanuevacronica.com/opinion/tribuna-de-opinion/santo-laico_205481_102.html",
     "desc": "",
@@ -88,14 +136,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Jon García deberá pasar por quirófano",
-    "link": "https://www.lanuevacronica.com/deportes/jon-garcia-debera-pasar-por-quirofano_205478_102.html",
-    "desc": "El mediapunta de la Cultural, que se perdió la pretemporada al llegar lesionado y ha disputado sólo 28 minutos en 4 partidos, tiene dañado el menisco y no volverá hasta el 2027",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/16/69/4/jon-garcia.jpeg",
-    "pub": 1793217703,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El minuto de silencio por las víctimas de Urda en Valladolid se convierte en un acto de campaña de Vox",
     "link": "https://www.eldiario.es/castilla-y-leon/sociedad/minuto-silencio-victimas-urda-valladolid-convierte-acto-campana-vox_1_13623061.html",
     "desc": "Santiago Abascal ha salido del vehículo dos minutos antes de las 20 horas y se ha acercado a donde estaban los manifestantes, muchos de los que habían asistido al mitin de precampaña de Vox, con…",
@@ -134,46 +174,6 @@
     "img": "https://static.eldiario.es/clip/e66775ac-5167-4c8a-bf2f-d6952a678125_16-9-discover-aspect-ratio_default_0_x1907y3960.jpg",
     "pub": 1793215818,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "León se une al luto por las víctimas del trágico accidente ferroviario de Toledo",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-se-une-luto-por-victimas-tragico-accidente-ferroviario-toledo_205461_102.html",
-    "desc": "San Marcelo acogió el minuto de silencio convocado en todo el país para recordar a los fallecidos en la localidad toledana de Urda",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/43/2/frame-28minuto-silencio.jpeg",
-    "pub": 1793215617,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Rodri: \"Es una pequeña piedra en el camino, voy a volver mucho mejor de lo que estaba\"",
-    "link": "https://www.lanuevacronica.com/deportes/rodri-es-pequena-piedra-en-camino-voy-volver-mucho-mejor-estaba_205474_102.html",
-    "desc": "Entrevista al capitán de la Cultural, que analiza su lesión, la recuperación, su posible renovación o cómo ve al equipo en este arranque de temporada",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/35/2/rodri-cultural.jpeg",
-    "pub": 1793214714,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Gordoncillo se entrega a la fusión de mestizaje e identidad",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/gordoncillo-se-entrega-fusion-mestizaje-identidad_205468_102.html",
-    "desc": "El Mihacale acogerá tres recitales en un ciclo que arrancará este sábado de la mano del fundador de Celtas Cortos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/01/3/el-ciclo-arrancara-con-el-recital-barrio-mudejar-de-carlos-soto-folk-l-n-c.jpeg",
-    "pub": 1793214590,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La música (antes de Halloween) de Bras Rodrigo llega a León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/musica-antes-halloween-bras-rodrigo-llega-leon_205469_102.html",
-    "desc": "El gaitero asturiano ofrece este viernes un concierto de música celta y leyendas en el Teatro San Francisco",
-    "img": "https://www.lanuevacronica.com/uploads/s1/27/24/31/1/el-artista-asturiano-bras-rodrigo-recala-este-viernes-en-leon-l-n-c.jpeg",
-    "pub": 1793214299,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los camareros de la cámara",
-    "link": "https://www.lanuevacronica.com/extras/a-la-contra/camareros-camara_205472_102.html",
-    "desc": "La última de La Nueva Crónica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/29/0/contra.jpeg",
-    "pub": 1793212685,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Junta de Castilla y León suspende su agenda institucional por el accidente ferroviario de Toledo",
