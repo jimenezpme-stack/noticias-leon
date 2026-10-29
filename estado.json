@@ -6,7 +6,7 @@
       "ok": true,
       "items": 15,
       "nuevos": 15,
-      "ts": 1793286566,
+      "ts": 1793289466,
       "con_foto": 15
     },
     {
@@ -15,7 +15,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1793286566,
+      "ts": 1793289466,
       "con_foto": 28
     },
     {
@@ -24,7 +24,7 @@
       "ok": true,
       "items": 20,
       "nuevos": 20,
-      "ts": 1793286566,
+      "ts": 1793289466,
       "con_foto": 20
     },
     {
@@ -33,7 +33,7 @@
       "ok": true,
       "items": 20,
       "nuevos": 17,
-      "ts": 1793286566,
+      "ts": 1793289466,
       "con_foto": 20
     },
     {
@@ -42,7 +42,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1793286566,
+      "ts": 1793289466,
       "con_foto": 30
     },
     {
@@ -51,7 +51,7 @@
       "ok": true,
       "items": 36,
       "nuevos": 34,
-      "ts": 1793286566,
+      "ts": 1793289466,
       "con_foto": 34
     },
     {
@@ -60,7 +60,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 2,
-      "ts": 1793286566,
+      "ts": 1793289466,
       "con_foto": 2
     },
     {
@@ -69,7 +69,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 13,
-      "ts": 1793286566,
+      "ts": 1793289466,
       "con_foto": 15
     },
     {
@@ -124,12 +124,12 @@
   ],
   "publicadas": 100,
   "reparto": {
+    "La Nueva Crónica": 15,
+    "El Español · CyL": 19,
     "El Bierzo Digital": 19,
-    "El Español · CyL": 18,
     "Heraldo de León": 20,
     "eldiario.es · CyL": 8,
-    "La Nueva Crónica": 15,
-    "Heraldo de León · León": 10,
+    "Heraldo de León · León": 9,
     "20minutos CyL": 8,
     "20minutos León": 2
   },
