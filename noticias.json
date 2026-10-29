@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "De Escocia a San Juan de Dios",
+    "link": "https://www.heraldodeleon.es/leon/escocia-san-juan-dios/20261029084332115344.html",
+    "desc": "Un TAC de vanguardia atrae la mirada internacional hacia León | El Hospital San Juan de Dios recibe a una delegación del centro escocés The Balfour para mostrar el primer Revolution Altitude…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102908402288636.jpg",
+    "pub": 1793259812,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Condenan a Nationale Nederlanden e ING a devolver los 260.000 euros que un agente comercial defraudó a sus clientes en León",
+    "link": "https://www.heraldodeleon.es/leon/condena-historica-leon-nationale-nederlanden-ing-devolver-260000-euros-defraudados-agente-comercial/20261029081709115337.html",
+    "desc": "El fallo determina la obligación de resarcir solidariamente a unos clientes leoneses que sufrieron un perjuicio económico masivo tras confiar sus ahorros a un intermediario que operaba bajo el…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102908102557343.jpg",
+    "pub": 1793258229,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "Confirmado: si te toca ser mesa electoral el 29-N y estás al cuidado de un menor de 12 años puedes librarte",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261029/confirmado-toca-mesa-electoral-cuidado-menor-anos-puedes-librarte-trt/1003744437999_0.html",
     "desc": "A partir de este jueves 29 de octubre se sortearán las mesas para las elecciones generales del 29 de noviembre. Más información: Este es el día que los vallisoletanos sabrán si les toca ir a la mesa…",
@@ -413,7 +429,7 @@
     "desc": "El acto tendrá lugar este miércoles, 28 de octubre, a las 20.00 horas en la plaza de San Marcelo, por iniciativa del Ayuntamiento de León",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102810025538687.jpg",
     "pub": 1793189167,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Cepa 21, primera bodega que desarrolla un sumiller con IA para elegir el vino perfecto: descuento del 10% en compras",
@@ -445,7 +461,7 @@
     "desc": "El plazo de presentación de trabajos estará abierto desde este jueves 29 de octubre hasta el 2 de diciembre a las 14:00 horas",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/12/11/2025121114493265029.jpg",
     "pub": 1793188493,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "La feria del niño y la juventud ideal del 30 de octubre al 2 de noviembre en Cigales: con buñuelos y castañada",
@@ -664,7 +680,7 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "León permite cambiar cientos de locales comerciales vacíos por viviendas, protegerá el comercio del centro y flexibilizará los usos dentro de los edificios",
+    "titulo": "Cientos de locales comerciales vacíos podrán ser viviendas en León capital",
     "link": "https://www.heraldodeleon.es/leon/leon-permitira-convertir-cientos-bajos-comerciales-vacios-viviendas-protegera-comercio-centro-flexibilizara-usos-edificios/20261028085645115220.html",
     "desc": "El Ayuntamiento aprueba inicialmente una modificación del PGOU que extiende el uso residencial a las plantas bajas de casi toda la ciudad, mantiene la prohibición en un perímetro comercial del…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/07/11/2025071108151049796.jpg",
@@ -678,22 +694,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102718513471189.jpg",
     "pub": 1793173726,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "La patata innova de producto básico a categoría estratégica",
-    "link": "https://www.elespanol.com/castilla-y-leon/economia/empresas/20261028/patata-innova-producto-basico-categoria-estrategica/1003744435060_0.html",
-    "desc": "Patatas Meléndez conecta las nuevas formas de consumo con una transformación que empieza en el campo, variedades seleccionadas para cada receta, formatos que simplifican la cocina y tecnología…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387024.png?p=w:1706/h:960&h=YElhLbaQ",
-    "pub": 1793167200,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La gran fiesta de la salchicha ideal para visitar hasta el 3 de noviembre: reparten 250 kg y hay música y encierros",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261028/gran-fiesta-salchicha-ideal-visitar-noviembre-reparten-kg-musica-encierros-trt/1003744436655_0.html",
-    "desc": "Zaratán (Valladolid) rendirá homenaje a su producto más característico en unos festejos en los que estrena la declaración de Fiesta de Interés Turístico Regional. Más información : Tres días de…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11107214.jpg?p=c:3930:2213:nowe:70:342/w:1706/h:960&h=KJ8u8YEa",
-    "pub": 1793167200,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "El consejero de Industria de Castilla y León no cree que vaya a haber un enfrentamiento PP-Vox: \"Haremos lo pactado\"",
