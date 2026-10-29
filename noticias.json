@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "El primer email de la historia…",
+    "link": "https://www.elbierzodigital.com/el-primer-email-de-la-historia/",
+    "desc": "El email es algo que hoy en día es más que común; es más, no tenemos una cuenta de email, lo habitual es tener varias, la personal, la del trabajo, la del club donde entrenas, la familiar, la que…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-15.jpg",
+    "pub": 1793297472,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Tráfico prevé 83.000 desplazamientos por carretera en León este puente de Todos los Santos",
+    "link": "https://www.lanuevacronica.com/actualidad/trafico-preve-83000-desplazamientos-por-carretera-en-leon-este-puente-todos-santos_205543_102.html",
+    "desc": "La operación especial de la DGT arrancará a las 15:00 horas de este viernes y se prolongará hasta la medianoche del lunes día 2, festivo en varias comunidades",
+    "img": "https://www.lanuevacronica.com/uploads/s1/25/03/03/7/el-trafico-en-las-carreteras-leonesas-se-incrementara-durante-el-puente-lnc.gif",
+    "pub": 1793297376,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Obras en la autovía León-Valladolid apenas ocho años después de su apertura",
+    "link": "https://www.lanuevacronica.com/actualidad/obras-en-autovia-leon-valladolid-apenas-ocho-anos-despues-su-apertura_205544_102.html",
+    "desc": "El reasfaltado que se acomete entre Puente Villarente y Arcahueja ha obligado a cortar el tráfico y devolver los vehículos a la nacional",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/71/9/obras-leon-valladolid-autovia-2.jpeg",
+    "pub": 1793296826,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Buscan a una vecina de Bembibre que viajaba en el tren siniestrado de Toledo",
+    "link": "https://www.lanuevacronica.com/sucesos/buscan-vecina-bembibre-viajaba-en-tren-siniestrado-toledo_205512_102.html",
+    "desc": "Tamara González Costa viajaba por motivos laborales y ocupaba el asiento 12B del vagón 8. Su familia se encuentra en Toledo a la espera de noticias sobre su paradero",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/96/6/leonesa-bembibre-tren-urda.png",
+    "pub": 1793295400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Alexandra, una abulense entre los desaparecidos del terrible accidente ferroviario en Toledo",
     "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20261029/alexandra-abulense-desaparecidos-terrible-accidente-ferroviario-toledo/1003744440307_0.html",
     "desc": "Originaria del municipio de San Pascual, viajaba a Sevilla por trabajo en el AVE. Más información: Buscan a Tamara, una joven de Bembibre, entre los desaparecidos en el trágico accidente de tren de…",
@@ -21,14 +53,6 @@
     "desc": "Una campaña llena de carteles barrios como La Sal, El Crucero, El Ejido y San Mamés para llamar a secundar la huelga general del próximo 11 de noviembre",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/71/25/6/vivienda-fondos-buitre-leon.jpeg",
     "pub": 1793294700,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Tráfico prevé 83.000 desplazamientos por carretera en León este puente de Todos los Santos",
-    "link": "https://www.lanuevacronica.com/actualidad/trafico-preve-83000-desplazamientos-por-carretera-en-leon-este-puente-todos-santos_205543_102.html",
-    "desc": "La operación especial de la DGT arrancará a las 15:00 horas de este viernes y se prolongará hasta la medianoche del lunes día 2, festivo en varias comunidades",
-    "img": "https://www.lanuevacronica.com/uploads/s1/25/03/03/7/el-trafico-en-las-carreteras-leonesas-se-incrementara-durante-el-puente-lnc.gif",
-    "pub": 1793294666,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -336,14 +360,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Buscan a una vecina de Bembibre que viajaba en el tren siniestrado de Toledo",
-    "link": "https://www.lanuevacronica.com/sucesos/buscan-vecina-bembibre-viajaba-en-tren-siniestrado-toledo_205512_102.html",
-    "desc": "Tamara González Costa viajaba por motivos laborales y ocupaba el asiento 12B del vagón 8. Su familia se encuentra en Toledo a la espera de noticias sobre su paradero",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/96/6/leonesa-bembibre-tren-urda.png",
-    "pub": 1793280255,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León, bajo el 'buitre inmobiliario'",
     "link": "https://www.heraldodeleon.es/leon/leon-buitre-inmobiliario/20261029141933115464.html",
     "desc": "La campaña de carteles en barrios de la capital calienta la convocatoria de huelga general del 11 de noviembre contra el encarecimiento de la vivienda y la pérdida de poder adquisitivo | Los datos…",
@@ -512,14 +528,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La Universidad de León se une en el silencio al dolor de las víctimas del accidente ferroviario",
-    "link": "https://www.lanuevacronica.com/actualidad/universidad-leon-se-une-en-silencio-dolor-victimas-accidente-ferroviario_205519_102.html",
-    "desc": "La comunidad universitaria se ha sumado a un minuto de silencio que se ha desarrollado en todos los centros de León y Ponferrada como muestra de duelo, respeto y solidaridad con las personas…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/03/8/2026-10-29-minuto-silencio-ingenierias-1.jpeg",
-    "pub": 1793274702,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Junta desconoce si hay víctimas de Castilla y León en el accidente del tren y pide \"esclarecer\" los motivos",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261029/junta-desconoce-victimas-vinculadas-castilla-leon-pide-esclarecer-motivos-accidente/1003744439604_0.html",
     "desc": "Carriedo evita pronunciarse sobre la seguridad del AVE y la gestión del Gobierno por ser período electoral. Más información : Castilla y León, conmocionada por el trágico accidente en Toledo:…",
@@ -670,14 +678,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/03/11/2025031115244056713.jpg",
     "pub": 1793268580,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "El Festival de Otoño en Las Médulas hace balance positivo y busca más implicación municipal",
-    "link": "https://www.elbierzodigital.com/el-festival-de-otono-en-las-medulas-hace-balance-positivo-y-busca-mas-implicacion-municipal/",
-    "desc": "El Festival de Otoño en Las Médulas cierra su segunda edición con un balance positivo y la mirada puesta en su crecimiento. La iniciativa, promovida por Fabularia Teatro, ofreció siete espectáculos…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-festival-de-otono-en-las-medulas-hace-balance-positivo-y-busca-mas-implicacion-municipal-el-bierzo-digital.jpg",
-    "pub": 1793268479,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "PP y Vox 'cuelan' modificaciones a las leyes de caza y apuestas en la Ley de Presupuestos en Castilla y León",
