@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "Un barrio de León vive otro Halloween con pasillos llenos de miedo y puertas aterradoras",
+    "link": "https://www.lanuevacronica.com/actualidad/barrio-leon-vive-otr0-halloween-con-pasillos-llenos-miedo-puertas-aterradoras_205554_102.html",
+    "desc": "La asociación de vecinos Los Juncales de Armunia llenó el barrio de decoraciones escalofriantes, juegos infantiles y premios a las puertas mejores decoradas para la ocasión",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/94/2/un-barrio-de-leon-vive-otra-halloween-pasillos-llenos-de-miedo-y-puertas-aterradoras.jpeg",
+    "pub": 1793299770,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Junta anuncia que iniciará acciones legales contra el peaje de la León-Asturias",
+    "link": "https://www.lanuevacronica.com/actualidad/junta-anuncia-iniciara-acciones-legales-contra-peaje-leon-asturias_205513_102.html",
+    "desc": "El acuerdo autoriza el inicio de medidas administrativas y judiciales contra el Real Decreto que modificó la concesión a Aucalsa y prolongó el pago hasta 2050",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/06/97/0/whatsapp-image-2026-09-24-at-11-48-53-1.jpeg",
+    "pub": 1793299065,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Detenida una mujer por rayar 24 coches aparcados en un barrio de León",
+    "link": "https://www.lanuevacronica.com/sucesos/detenida-mujer-por-rayar-24-coches-aparcados-en-barrio-leon_205506_102.html",
+    "desc": "Los hechos se produjeron durante dos semanas en distintas calles de Armunia y La Sal y la autora, de 68 años, se personó voluntariamente en dependencias policiales y confesó los hechos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/75/9/policia-nacional-sucesos-leon.jpeg",
+    "pub": 1793299047,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Puente solicitará comparecer en la Diputación Permanente del Congreso",
+    "link": "https://www.lanuevacronica.com/panorama/puente-solicitara-comparecer-en-diputacion-permanente-congreso_205551_102.html",
+    "desc": "Esta decisión llega después de que este jueves Sumar registrase una petición y Podemos y ERC lo hicieran posteriormente",
+    "img": "https://www.lanuevacronica.com/uploads/s1/31/19/13/0/oscar-puente.jpeg",
+    "pub": 1793297764,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un dragón de 74 kilómetros para recorrer los pueblos de Gordón",
+    "link": "https://www.lanuevacronica.com/actualidad/dragon-74-kilometros-recorrer-pueblos-gordon_205541_102.html",
+    "desc": "La nueva ruta cicloturista enlaza las 17 localidades del municipio y pone en valor su naturaleza, sus tradiciones y su patrimonio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/56/2/la-pola-de-gordon-suma-una-nueva-ruta-para-descubrir-sus-pueblos-en-bicicleta.jpeg",
+    "pub": 1793297562,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El primer email de la historia…",
     "link": "https://www.elbierzodigital.com/el-primer-email-de-la-historia/",
     "desc": "El email es algo que hoy en día es más que común; es más, no tenemos una cuenta de email, lo habitual es tener varias, la personal, la del trabajo, la del club donde entrenas, la familiar, la que…",
@@ -21,14 +61,6 @@
     "desc": "El reasfaltado que se acomete entre Puente Villarente y Arcahueja ha obligado a cortar el tráfico y devolver los vehículos a la nacional",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/71/71/9/obras-leon-valladolid-autovia-2.jpeg",
     "pub": 1793296826,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Buscan a una vecina de Bembibre que viajaba en el tren siniestrado de Toledo",
-    "link": "https://www.lanuevacronica.com/sucesos/buscan-vecina-bembibre-viajaba-en-tren-siniestrado-toledo_205512_102.html",
-    "desc": "Tamara González Costa viajaba por motivos laborales y ocupaba el asiento 12B del vagón 8. Su familia se encuentra en Toledo a la espera de noticias sobre su paradero",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/96/6/leonesa-bembibre-tren-urda.png",
-    "pub": 1793295400,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -93,14 +125,6 @@
     "desc": "Todos los planes de los que disfrutar estos días en distintos rincones de la provincia",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/71/43/7/todos-los-planes-de-los-que-disfrutar-este-fin-de-semana-en-leon-l-n-c.jpeg",
     "pub": 1793293353,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un dragón de 74 kilómetros para recorrer los pueblos de Gordón",
-    "link": "https://www.lanuevacronica.com/actualidad/dragon-74-kilometros-recorrer-pueblos-gordon_205541_102.html",
-    "desc": "La nueva ruta cicloturista enlaza las 17 localidades del municipio y pone en valor su naturaleza, sus tradiciones y su patrimonio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/56/2/la-pola-de-gordon-suma-una-nueva-ruta-para-descubrir-sus-pueblos-en-bicicleta.jpeg",
-    "pub": 1793293228,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -280,7 +304,7 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "E.Leclerc reparte de más de 19.000 euros en León con su campaña 'Megames'",
+    "titulo": "E.Leclerc reparte más de 19.000 euros en León con su campaña 'Megames'",
     "link": "https://www.heraldodeleon.es/economia/leclerc-reparte-mas-19000-euros-campana-megames/20261029144829115479.html",
     "desc": "Los cuatro vales principales, de 300 euros, se escogieron entre los miles de clientes que participaron en la promoción, recayendo la suerte en Clicerina del Ser, Julio Montalvo, Margarita Marcos y…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102914382799014.jpg",
@@ -512,14 +536,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "La Junta anuncia que iniciará acciones legales contra el peaje de la León-Asturias",
-    "link": "https://www.lanuevacronica.com/actualidad/junta-anuncia-iniciara-acciones-legales-contra-peaje-leon-asturias_205513_102.html",
-    "desc": "El acuerdo autoriza el inicio de medidas administrativas y judiciales contra el Real Decreto que modificó la concesión a Aucalsa y prolongó el pago hasta 2050",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/06/97/0/whatsapp-image-2026-09-24-at-11-48-53-1.jpeg",
-    "pub": 1793274802,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Bierzo recibirá 25.555 euros para impulsar su Ruta del Vino y atraer turismo",
     "link": "https://www.elbierzodigital.com/el-bierzo-recibira-25-555-euros-para-impulsar-su-ruta-del-vino-y-atraer-turismo/",
     "desc": "La Ruta del Vino del Bierz o recibirá una subvención de 25.555 euros de la Junta de Castilla y León para impulsar el enoturismo y reforzar el atractivo turístico de la comarca. La ayuda forma parte…",
@@ -552,14 +568,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "León se suma al duelo por la tragedia de Urda",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-se-suma-duelo-por-tragedia-urda_205517_102.html",
-    "desc": "Un minuto de silencio a las puertas de la Subdelegación del Gobierno en León ha servido para mostrar las condolencias de los leoneses a los allegados de las 69 víctimas mortales",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/00/3/frame-29minutosubdelegacion.jpeg",
-    "pub": 1793273961,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Consulta los puntos de donación de sangre en León y provincia esta semana",
     "link": "https://www.heraldodeleon.es/leon/consulta-puntos-donacion-sangre-leon-provincia-30-octubre-6-noviembre/20261029123633115415.html",
     "desc": "La Hermandad de Donantes de Sangre acerca las donaciones a cinco localidades leonesas con jornadas de tarde y mantiene activo el punto fijo del Centro de Salud José Aguado en la capital",
@@ -574,14 +582,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/01/Centro-de-Salud-de-Bembibre.jpg",
     "pub": 1793273760,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Nuevo curso de iniciación a la lengua y cultura leonesas de la Asociación Faceira",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/nuevo-curso-iniciacion-lengua-cultura-leonesas-asociacion-faceira_205516_102.html",
-    "desc": "La novena edición de la iniciativa en colaboración con la Universidad de León tendrá lugar del 12 de noviembre al 27 de mayo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/79/72/8/ule-21-1-19.jpeg",
-    "pub": 1793273260,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Casi 2,2 millones para recuperar los terrenos degradados por la minería del carbón en Sorbeda del Sil",
