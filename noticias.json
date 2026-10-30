@@ -1,5 +1,61 @@
 [
   {
+    "titulo": "Expira el plazo para solicitar el Bono Cultural de 400 euros para los nacidos en 2008",
+    "link": "https://www.heraldodeleon.es/leon/expira-plazo-solicitar-bono-cultural-joven-400-euros-nacidos-2008/20261030094536115555.html",
+    "desc": "Los jóvenes que cumplen 18 años en 2026 tienen hasta este sábado, 31 de octubre, para solicitar la ayuda de 400 euros destinada al consumo de productos y actividades culturales",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/15/2026101515031581048.webp",
+    "pub": 1793349936,
+    "fuente": "Heraldo de León · León"
+  },
+  {
+    "titulo": "Torre del Bierzo, el precedente más trágico dentro de las catástrofes ferroviarias",
+    "link": "https://www.heraldodeleon.es/actualidad/nacional/torre-bierzo-precedente-mas-tragico-dentro-catastrofes-ferroviarias/20261030094125115554.html",
+    "desc": "El choque de dos trenes de alta velocidad en Urda, con al menos 64 fallecidos, vuelve a situar a España ante uno de sus peores accidentes ferroviarios | La localidad leonesa sufrió en 1944 un…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103009335489669.jpg",
+    "pub": 1793349685,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Primark abre tienda en Salamanca: 1.300 m², una planta y precios asequibles",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261030/primark-abre-primera-tienda-provincia-castilla-leon-m2-planta-precios-asequibles/1003744440705_0.html",
+    "desc": "Será una propuesta perfecta para las compras navideñas. Más información: Ha llegado a Primark la colección de tazas de desayuno más especial del otoño: precios desde 4,50 euros",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11291529.jpg?p=c:1611:907:nowe:1333:383/w:1706/h:960&h=ewzliLQ_",
+    "pub": 1793349528,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Muere Óscar Soto, exalcalde y actual teniente de alcalde de Tudela de Duero, a los 55 años",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261030/muere-oscar-soto-exalcalde-actual-teniente-alcalde-tudela-duero-anos/1003744440684_0.html",
+    "desc": "El fallecido fue regidor del municipio vallisoletano por el PSOE entre 1999 y 2015 y jugó un papel clave para que el PP recuperara la Alcaldía en 2023. Más información: Lío en Tudela de Duero donde…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390618.jpg?p=c:3999:2250:nowe:0:0/w:1706/h:960&h=Hngs4V4K",
+    "pub": 1793349392,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El Bembibre H.C. alza el telón de la temporada 2026/27 en casa",
+    "link": "https://www.heraldodeleon.es/deportes/mas-deporte/bembibre-h-c-alza-telon-temporada-2026-27-casa/20261030092558115517.html",
+    "desc": "Las Águilas reciben este sábado (20:30 horas) al Generali Palau i Plegamans en el Bembibre Arena, con el objetivo de comenzar la competición con una victoria y afrontar una campaña ilusionante en la…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103009085653774.jpg",
+    "pub": 1793348758,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Bonoloto sonríe a Castilla y León y deja un premio de miles de euros en un municipio de Zamora",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261030/bonoloto-sonrie-castilla-leon-deja-premio-miles-euros-municipio-zamora/1003744440668_0.html",
+    "desc": "El sorteo repartió un premio de primera categoría (6 aciertos) valorado en más de un millón de euros. Más información: El sorteo de La Bonoloto deja una lluvia de billetes en una ciudad de Castilla…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390579.jpg?p=w:1706/h:960&h=1sZjFk5U",
+    "pub": 1793348023,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Otro 'veranillo' en León con temperaturas de hasta 20 grados el fin de semana",
+    "link": "https://www.heraldodeleon.es/leon/veranillo-leon-temperaturas-20-grados-fin-semana/20261030090355115513.html",
+    "desc": "La provincia disfrutará de tres jornadas sin precipitaciones y con cielos poco nubosos, según la Aemet | Las temperaturas nocturnas bajarán progresivamente hasta los 2 grados el domingo en la…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/06/29/2026062908334513686.jpg",
+    "pub": 1793347435,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "La investigación del accidente de Urda apunta a una cadena de fallos y el AVE circulaba entre 160 y 200 kilómetros/hora",
     "link": "https://www.heraldodeleon.es/actualidad/nacional/investigacion-accidente-urda-apunta-cadena-fallos-ave-circulaba/20261030083502115512.html",
     "desc": "El primer informe de la AITAT cuestiona que un error humano aislado explique la tragedia ferroviaria y sitúa el choque entre el AVE de Renfe y el Iryo en una sucesión de averías, instrucciones y…",
@@ -296,14 +352,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Baltanás aplaza al domingo 1 de noviembre su Feria del Queso y el Vino por el luto nacional tras el accidente de Urda",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/palencia/20261029/baltanas-aplaza-domingo-noviembre-feria-queso-vino-luto-nacional-accidente-urda/1003744440138_0.html",
-    "desc": "La cita se iba a celebrar el 30 y 31 de octubre. Está cargada de solidaridad, con 22 expositores, catas y muchas actividades más. Más información: La historia de la Feria del Queso y el Vino de…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384913.jpg?p=w:1706/h:960&h=hzDN6qgX",
-    "pub": 1793289699,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Mañueco, abatido por la muerte de su amiga Fátima Báñez en el accidente de tren de Urda: \"Fue una extraordinaria ministra\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261029/manueco-recuerda-fatima-banez-fallecimiento-accidente-toledo-extraordinaria-ministra/1003744440034_0.html",
     "desc": "CEOE de Castilla y León destaca que promovió iniciativas para \"impulsar el empleo y abrir oportunidades a quienes más lo necesitan\". Más información: La Junta desconoce si hay víctimas de Castilla y…",
@@ -472,14 +520,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La Reina Sofía recogerá la Medalla de la Universidad de Salamanca el 24 de noviembre, en pleno V Centenario de su Escuela",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261029/reina-sofia-recogera-medalla-universidad-salamanca-noviembre-pleno-centenario-escuela/1003744429726_0.html",
-    "desc": "La institución académica le concederá su máxima distinción en el Paraninfo de las Escuelas Mayores, coincidiendo con la entrega del XXXV Premio de Poesía Iberoamericana al poeta Jaime Siles. Más…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390072.jpg?p=w:1706/h:960&h=utPpmfJp",
-    "pub": 1793280742,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "CCOO denuncia la \"terrorífica\" situación de la Universidad: \"Menos trucos y más tratos\"",
     "link": "https://www.heraldodeleon.es/universidad/ccoo-denuncia-terrorifica-situacion-ule-menos-trucos-mas-tratos/20261029142520115473.html",
     "desc": "CCOO realiza una nueva protesta a la entrada del Consejo de Gobierno de la Universidad de León, denunciando el bloqueo de la negociación de los convenios colectivos y contra el Plan de Recortes",
@@ -493,7 +533,7 @@
     "desc": "La campaña de carteles en barrios de la capital calienta la convocatoria de huelga general del 11 de noviembre contra el encarecimiento de la vivienda y la pérdida de poder adquisitivo | Los datos…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102914160395822.jpg",
     "pub": 1793279973,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Toreno pone el foco en la ganadería regenerativa como herramienta contra los incendios y la sequía",
@@ -510,22 +550,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390050.jpg?p=c:3600:2024:nowe:172:254/w:1706/h:960&h=anz5_-9D",
     "pub": 1793279646,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Nueva tragedia ferroviaria: 69 fallecidos tras el choque por alcance de un Alvia y un Iryo",
-    "link": "https://www.heraldodeleon.es/actualidad/nacional/menos-64-muertos-accidente-entre-ave-iryo-toledo/20261028101054115236.html",
-    "desc": "El impacto, ocurrido cerca de Urda, ha provocado el descarrilamiento de varios vagones y la suspensión de la alta velocidad entre Madrid y Andalucía; los equipos de rescate continúan trabajando en…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102811230414845.jpg",
-    "pub": 1793279454,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Universidad muestra su duelo, respeto y solidaridad con los afectados por la tragedia",
-    "link": "https://www.heraldodeleon.es/universidad/universidad-muestra-duelo-respeto-solidaridad-afectados-tragedia-urda/20261029140746115457.html",
-    "desc": "La comunidad universitaria celebra un minuto de silencio en todos los centros de León y Ponferrada como muestra apoyo con las personas afectadas por el siniestro&nbsp;",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102914044066740.jpg",
-    "pub": 1793279266,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "El obispo de León reza por las víctimas del accidente y por la recuperación de los heridos",
@@ -664,35 +688,11 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Gadis abre su tienda número 17 en Valladolid ante una gran expectación: \"Queremos que la compra sea cómoda y sencilla\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261029/gadis-abre-tienda-numero-valladolid-gran-expectacion-queremos-compra-comoda-sencilla/1003744439462_0.html",
-    "desc": "El nuevo establecimiento tiene 1.200 metros cuadrados, más de 10.000 referencias y ha creado 35 puestos de trabajo. Más información: Gadis impulsa el negocio de las emprendedoras rurales con sus…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389824.jpg?p=w:1706/h:960&h=BXWQ7eN9",
-    "pub": 1793271359,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "\"La seguridad no puede depender del factor humano\"",
     "link": "https://www.heraldodeleon.es/leon/leon-guarda-silencio-68-fallecidos-accidente-ferroviario-toledo-seguridad-puede-depender-factor-humano/20261029114346115382.html",
     "desc": "Trabajadores ferroviarios y el alcalde de León, José Antonio Diez, guardan un minuto de silencio en la estación en recuerdo de las víctimas del accidente ferroviario de Toledo y en solidaridad con…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102911401516936.jpg",
     "pub": 1793270626,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Una mujer de 68 años reconoce ser la autora de daños en al menos 24 vehículos de León",
-    "link": "https://www.heraldodeleon.es/leon/mujer-68-anos-reconoce-ser-autora-danos-menos-24-vehiculos-leon/20261029113728115385.html",
-    "desc": "La mujer&nbsp;se personó voluntariamente en Comisaría tras una investigación policial que buscaba esclarecer numerosas denuncias por actos delictivos&nbsp;producidos de noche entre el 30 de…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102911362761646.jpg",
-    "pub": 1793270248,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Buscyl llega a los autobuses urbanos de León capital y se ultima que sean gratuitos",
-    "link": "https://www.heraldodeleon.es/leon/buscyl-llega-autobuses-urbanos-leon-capital-ultima-que-sean-gratuitos/20261029113533115383.html",
-    "desc": "La tarjeta de transporte gratuito de la Junta ya aparece en las pantallas interiores de los vehículos de la capital, un indicio del acercamiento entre las redes urbana y metropolitana que prepara el…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102913423050624.jpg",
-    "pub": 1793270133,
     "fuente": "Heraldo de León · León"
   },
   {
