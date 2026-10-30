@@ -1,5 +1,77 @@
 [
   {
+    "titulo": "Un café en el Silver de La Palomera para aprender sobre microalgas y minicerebros",
+    "link": "https://www.lanuevacronica.com/actualidad/cafe-en-silver-palomera-aprender-sobre-microalgas-minicerebros_205589_102.html",
+    "desc": "La Asociación de Biotecnólogos de León acerca la divulgación científica a la ciudadanía leonesa con un nuevo ciclo de charlas 'Con Ciencia, Té'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/39/4/con-ciencia-te-2025-con-vicerrector-de-investigacion.jpeg",
+    "pub": 1793357812,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Huelga de conductores de autobús del Bierzo: denuncian jornadas de 15 horas y los sueldos más bajos de Castilla y León",
+    "link": "https://www.lanuevacronica.com/el-bierzo/huelga-conductores-autobus-bierzo-denuncian-jornadas-15-horas-sueldos-mas-bajos-castilla-leon_205588_102.html",
+    "desc": "Unos 150 trabajadores secundaron la huelga provincial y se concentraron en la estación de Ponferrada para exigir mejoras salariales y laborales; amenazan con convertir los paros en indefinidos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/37/2/huelga-transporte.jpeg",
+    "pub": 1793357522,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La sabrosa aventura ideal para disfrutar en Vallsur el 13 y 14 de noviembre: el Chef Bosquet dirige un gran concurso",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261030/sabrosa-aventura-ideal-disfrutar-vallsur-noviembre-chef-bosquet-dirige-gran-concurso/1003744440920_0.html",
+    "desc": "Habrá talleres, concursos y premios en días en los que la gastronomía será la protagonista en el centro comercial vallisoletano. Más información: Vallsur lo pasa de miedo en familia, entre monstruos…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11169866.jpg?p=w:1706/h:960&h=rN9bUNEO",
+    "pub": 1793357246,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Cárnicas Riaño abrirá un local de hamburguesas en León y busca trabajadores",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/carnicas-riano-abrira-local-hamburguesas-en-leon-busca-trabajadores_205584_102.html",
+    "desc": "La empresa leonesa prepara la inauguración de Riaño Burgers House para los meses de noviembre o diciembre, dando el salto a la restauración con un establecimiento propio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/32/0/carnicas-riano.jpeg",
+    "pub": 1793357066,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Mancomunidad del Agua del Bierzo subirá sus tarifas en línea con el IPC",
+    "link": "https://www.lanuevacronica.com/el-bierzo/mancomunidad-agua-bierzo-subira-sus-tarifas-en-linea-con-ipc_205586_102.html",
+    "desc": "La revisión afectará a cerca de 10.000 abonados de siete municipios y supondrá un incremento de apenas uno o dos céntimos en los recibos, según su presidente",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/32/28/0/img-portada.jpeg",
+    "pub": 1793357009,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ampliado hasta el 27 de noviembre el plazo del concurso de relatos 'Cerca de Las Médulas'",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ampliado-hasta-27-noviembre-plazo-concurso-relatos-cerca-medulas_205585_102.html",
+    "desc": "El certamen está dirigido a jóvenes de cualquier municipio del Bierzo, contempla tres categorías por edades y el fallo del jurado se dará a conocer el 7 de diciembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/34/8/concurso-de-relatos-cortos.png",
+    "pub": 1793356871,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Reino y el Área, atados y prorrogables a cuatro años",
+    "link": "https://www.lanuevacronica.com/deportes/reino-area-atados-prorrogables-cuatro-anos_205583_102.html",
+    "desc": "El Ayuntamiento asumirá los costes generales, excepto mantenimiento, personal, césped y palcos VIP que asumirá la Cultural, que también \"colaborará en la construcción de una nueva instalación para…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/71/63/3/diferentes-momentos-de-las-presentaciones-de-los-palcos-vip-del-reino-de-leon-fernando-otero-2.jpeg",
+    "pub": 1793356337,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada aprueba un Plan de Emergencia en situaciones de sequía",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-aprueba-plan-emergencia-en-situaciones-sequia_205580_102.html",
+    "desc": "El pleno avaló ese documento que plantea medidas preventivas y actualiza recursos hídricos frente a una alerta que reconocen, de momento no se da",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/70/16/7/foto-archivo-pleno.jpeg",
+    "pub": 1793356296,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Pinhel reúne en noviembre los mejores vinos y sabores de Beira Interior en su undécima edición",
+    "link": "https://www.elespanol.com/castilla-y-leon/portugal/20261030/pinhel-reune-noviembre-mejores-vinos-sabores-beira-interior-undecima-edicion/1003744440802_0.html",
+    "desc": "El municipio se prepara para acoger una nueva edición de Beira Interior – Vinos y Sabores del 13 al 15 de noviembre. Más información: Pinhel honra a Rui Ventura: reconocimiento a un presidente que…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390705.jpg?p=c:1771:996:nowe:38:60/w:1706/h:960&h=wEof0t3l",
+    "pub": 1793355892,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Tráfico prevé 83.000 desplazamientos por las carreteras de León durante este puente",
     "link": "https://www.heraldodeleon.es/leon/trafico-preve-83000-desplazamientos-carreteras-leon-puente-todos-santos/20261030111557115579.html",
     "desc": "La operación especial comienza este viernes a las 15.00 horas y se prolongará hasta la medianoche del lunes 2 de noviembre",
@@ -168,14 +240,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Todos los Santos en León: horarios, aparcamientos y autobuses para acudir al cementerio",
-    "link": "https://www.lanuevacronica.com/actualidad/todos-santos-en-leon-horarios-aparcamientos-autobuses-acudir-cementerio_205568_102.html",
-    "desc": "El camposanto abrirá de 9:00 a 18:30 horas entre el 30 de octubre y el 1 de noviembre, con seis accesos habilitados y cambios en la circulación durante la jornada del domingo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/47/67/1/dia-de-todos-los-santos-en-el-cementerio-de-leon-8.jpeg",
-    "pub": 1793350220,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Expira el plazo para solicitar el Bono Cultural de 400 euros para los nacidos en 2008",
     "link": "https://www.heraldodeleon.es/leon/expira-plazo-solicitar-bono-cultural-joven-400-euros-nacidos-2008/20261030094536115555.html",
     "desc": "Los jóvenes que cumplen 18 años en 2026 tienen hasta este sábado, 31 de octubre, para solicitar la ayuda de 400 euros destinada al consumo de productos y actividades culturales",
@@ -304,67 +368,11 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "La peor campaña de setas en medio siglo en El Bierzo hace pensar en comenzar a \"plantarlas\"",
-    "link": "https://www.lanuevacronica.com/el-bierzo/peor-campana-setas-en-medio-siglo-en-bierzo-hace-pensar-en-comenzar-plantarlas_205471_102.html",
-    "desc": "La temporada acumula dos meses de retraso y el presidente de Cantharellus, Manuel Bernardo, reclama medidas para impulsar el cultivo mediante micorrización",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/08/4/setas-2.jpeg",
-    "pub": 1793337399,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La paciencia del ciudadano",
-    "link": "https://www.lanuevacronica.com/opinion/paciencia-ciudadano_205564_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1793332800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Huesos, huesos",
-    "link": "https://www.lanuevacronica.com/opinion/huesos-huesos_205563_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1793332200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Maíz dulce",
-    "link": "https://www.lanuevacronica.com/opinion/maiz-dulce_205562_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1793331600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "¿Estamos informados o vivimos preocupados?",
-    "link": "https://www.lanuevacronica.com/opinion/estamos-informados-vivimos-preocupados_205561_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1793331000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Lo que queda del tercero",
-    "link": "https://www.lanuevacronica.com/opinion/queda-tercero_205560_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1793329800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "España busca su mejor pizza y podría estar en Castilla y León: estos son los 10 establecimientos aspirantes",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261029/espana-busca-mejor-pizza-podria-castilla-leon-establecimientos-aspirantes/1003744440565_0.html",
     "desc": "El Campeonato de España de Pizzas ha arrancado este jueves y reunirá propuestas de todo el país. Más información: Dos sabrosas pizzas de CyL se cuelan entre las finalistas para ser la mejor de…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/9824218.jpg?p=w:1706/h:960&h=GdBsPvEI",
     "pub": 1793307751,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Vallsur lo pasa de miedo en familia, entre monstruos y brujas, para celebrar Halloween: “Son tres días muy especiales”",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261029/vallsur-pasa-miedo-familia-monstruos-brujas-celebrar-halloween-dias-especiales/1003744435322_0.html",
-    "desc": "El centro comercial ha programado, desde este jueves 29 de octubre y hasta el 31 del mismo mes, muchas actividades por Halloween para disfrutar en familia. Más información: La cita ideal para…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390499.jpg?p=w:1706/h:960&h=gwKECFxi",
-    "pub": 1793305985,
     "fuente": "El Español · CyL"
   },
   {
@@ -437,14 +445,6 @@
     "desc": "CEOE de Castilla y León destaca que promovió iniciativas para \"impulsar el empleo y abrir oportunidades a quienes más lo necesitan\". Más información: La Junta desconoce si hay víctimas de Castilla y…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390158.jpg?p=c:2049:1152:nowe:0:43/w:1706/h:960&h=FSGV4cWu",
     "pub": 1793287557,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La fiesta gastronómica ideal para visitar Tordesillas hasta el 3 de noviembre: tapas de primer nivel a 2,5 € y 13 participantes",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261029/fiesta-gastronomica-ideal-visitar-tordesillas-noviembre-tapas-primer-nivel-eur-participantes/1003744440030_0.html",
-    "desc": "La Villa del Tratado celebra este fin de semana su decimocuarto concurso de tapas, que ha arrancado este jueves. Más información: Tordesillas busca su mejor tapa con 13 establecimientos…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390163.jpg?p=c:1600:900:nowe:0:199/w:1706/h:960&h=G-wBYyxh",
-    "pub": 1793287087,
     "fuente": "El Español · CyL"
   },
   {
