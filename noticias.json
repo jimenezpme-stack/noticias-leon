@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Dos científicas de la provincia de León, entre las desaparecidas en el accidente ferroviario de Toledo",
+    "link": "https://www.lanuevacronica.com/sucesos/tragedia-ferroviaria-toledo-deja-otra-leonesa-desaparecida-cientifica-marta-shahbazi_205619_102.html",
+    "desc": "La leonesa Marta Shahbazi y la berciana Tamara González viajaban al mismo congreso en Huelva en el vagón de cabeza del AVE siniestrado el pasado miércoles en Urda",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/67/2/cientificas-leonesas-accidente-tren-toledo-urda.png",
+    "pub": 1793392054,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las almas en pena vagan por Trobajo del Camino",
+    "link": "https://www.lanuevacronica.com/actualidad/almas-en-pena-vagan-por-trobajo-camino_205597_102.html",
+    "desc": "La Güeste de Ánimas recorre las calles de la localidad en una noche de oscuridad, memoria de los difuntos y reivindicación de las raíces culturales leonesas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/62/2/frame-30animas.jpeg",
+    "pub": 1793391526,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Corte Inglés y la Academia Leonesa de Gastronomía organizan un ciclo de filandones",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/corte-ingles-academia-leonesa-gastronomia-organizan-ciclo-filandones_205638_102.html",
+    "desc": "Los miércoles de noviembre recuperarán la tradición leonesa para conversar sobre la memoria de la cocina, la evolución de nuestra alimentación, la ciencia de los alimentos y la cultura del vino",
+    "img": "https://www.lanuevacronica.com/uploads/s1/28/74/36/2/colas-en-el-corte-ingles-de-leon-para-recoger-las-pulseras-del-monoloco-fest.jpeg",
+    "pub": 1793391068,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Renace la Güeste d'Ánimas",
     "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/trobajo-camino-recupera-gueste-danimas-noche-tradicion-recuerdo/20261030205328115681.html",
     "desc": "La comitiva recorrió las calles de la localidad al caer la noche en una marcha solemne que reunió a un público expectante ante la recuperación de una de las manifestaciones más arraigadas de la…",
@@ -14,14 +38,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103020331758422.jpg",
     "pub": 1793388848,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Poesía visual que se recita en la Biblioteca de Astorga",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/poesia-visual-se-recita-en-biblioteca-astorga_205610_102.html",
-    "desc": "La exposición de Nuria Antón, Soco Seco y Benasser-Colom será inaugurada el lunes 2 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/22/21/16/1/imagen-nuria-anto-n-sujetando-silencio.jpeg",
-    "pub": 1793388809,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El romanticismo sonará en el Conde Luna con Raquel del Val",
@@ -45,14 +61,6 @@
     "desc": "La 22ª edición del encuentro, el 14 de noviembre, servirá para presentar el Prada Maceración 2026, elaborado con uva mencía de Canedo",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/73/41/9/cartel-fiesta-maceracion-2026.jpeg",
     "pub": 1793388632,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Otra leonesa desaparecida en la tragedia ferroviaria de Toledo: la científica Marta Shahbazi",
-    "link": "https://www.lanuevacronica.com/actualidad/tragedia-ferroviaria-toledo-deja-otra-leonesa-desaparecida-cientifica-marta-shahbazi_205619_102.html",
-    "desc": "Investigadora de un laboratorio en Cambridge, viajaba a Huelva para recoger un premio a la excelencia científica / Su hermano ha confirmado que no tiene noticias de ella y que iba en el vagón de…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/03/4/leonesa-desaparecida-accidente-tren-urda-toledo.png",
-    "pub": 1793388182,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -125,14 +133,6 @@
     "desc": "La organización agraria exige modificar el borrador de las subvenciones para incluir a los productores leoneses y critica la falta de transparencia de la Consejería de Agricultura",
     "img": "https://www.lanuevacronica.com/uploads/s1/34/62/69/6/los-cereales-frenan-las-subidas-en-leon-pero-el-mar-negro-mantiene-en-vilo-al-mercado.jpeg",
     "pub": 1793384314,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Oportunidad para emprender en 13 parcelas del polígono industrial de este pueblo de León",
-    "link": "https://www.lanuevacronica.com/actualidad/oportunidad-emprender-en-13-parcelas-poligono-industrial-este-pueblo-leon_205604_102.html",
-    "desc": "Con superficies entre los 1.382 y los 2.065 metros cuadrados, las ofertas podrán presentarse a lo largo de las dos próximas semanas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/76/7/almanzapoligono.jpeg",
-    "pub": 1793384271,
     "fuente": "La Nueva Crónica"
   },
   {
