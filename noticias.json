@@ -1,11 +1,59 @@
 [
   {
-    "titulo": "La tragedia ferroviaria de Toledo deja otra leonesa desaparecida: la científica Marta Shahbazi",
-    "link": "https://www.lanuevacronica.com/actualidad/tragedia-ferroviaria-toledo-deja-otra-leonesa-desaparecida-cientifica-marta-shahbazi_205619_102.html",
-    "desc": "Investigadora de un laboratorio en Cambridge, viajaba a Huelva para recoger un premio a la excelencia científica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/03/4/leonesa-desaparecida-accidente-tren-urda-toledo.png",
-    "pub": 1793379951,
+    "titulo": "Ponferrada entrega los certificados profesionales a los alumnos de talleres de empleo",
+    "link": "https://www.heraldodeleon.es/el-bierzo/ponferrada-entrega-certificados-profesionales-alumnos-cuatro-talleres-empleo/20261030185601115657.html",
+    "desc": "El alcalde, Marco Morala, y los concejales David Pacios y Lidia Coca participaron en el acto de clausura de unos programas que han formado a sus participantes durante nueve meses y han supuesto una…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103018524167940.jpg",
+    "pub": 1793382961,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Cabrera protagoniza este sábado un programa de RNE sobre el futuro de la comarca",
+    "link": "https://www.lanuevacronica.com/actualidad/cabrera-protagoniza-este-sabado-programa-rne-sobre-futuro-comarca_205625_102.html",
+    "desc": "El espacio 'España Rural' se emitirá este sábado a las 12:05 horas en Radio 5 tras recorer varios pueblos de la comarca para conocer sus problemas y oportunidades",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/26/4/rne-programa-cabrera.jpeg",
+    "pub": 1793382493,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El alfoz de León estrena un nuevo supermercado",
+    "link": "https://www.lanuevacronica.com/actualidad/alfoz-leon-estrena-nuevo-supermercado_205600_102.html",
+    "desc": "El nuevo establecimiento Claudio, franquicia de Gadis, está situado en la localidad de Villacedré y crea tres puestos de trabajo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/66/3/claudio-gadis-santovenia-de-la-valdoncina.jpeg",
+    "pub": 1793382052,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "UPL celebra que \"por fin\" la Junta apoye la supresión del peaje de la autopista León-Asturias",
+    "link": "https://www.lanuevacronica.com/actualidad/upl-celebra-por-fin-junta-apoye-supresion-peaje-autopista-leon-asturias_205623_102.html",
+    "desc": "Los leonesistas esperan que no sea \"humo electoral\" y que se den los pasos anunciados de iniciar acciones legales",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/07/18/6/las-mejores-imagenes-de-la-manifestacion-contra-el-peaje-de-la-magdalena-6.jpeg",
+    "pub": 1793381698,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La gran cita de la micología se celebra del 2 al 8 de noviembre: cocina en directo, salidas al campo y exposiciones",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261030/gran-cita-micologia-celebra-noviembre-cocina-directo-salidas-campo-exposiciones/1003744441857_0.html",
+    "desc": "La Semana Micológica de León alcanza este año su 52ª edición. Más información: La campaña micológica de primavera en Castilla y León espera una nueva florada de marzuelo a finales de marzo",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391365.jpg?p=c:2925:1645:nowe:749:397/w:1706/h:960&h=O47Bv2Hh",
+    "pub": 1793381399,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Otra leonesa desaparecida en la tragedia ferroviaria de Toledo: la científica Marta Shahbazi",
+    "link": "https://www.lanuevacronica.com/actualidad/tragedia-ferroviaria-toledo-deja-otra-leonesa-desaparecida-cientifica-marta-shahbazi_205619_102.html",
+    "desc": "Investigadora de un laboratorio en Cambridge, viajaba a Huelva para recoger un premio a la excelencia científica / Su hermano ha confirmado que no tiene noticias de ella y que iba en el vagón de…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/03/4/leonesa-desaparecida-accidente-tren-urda-toledo.png",
+    "pub": 1793381029,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Dos leonesas, pendientes de localizar tras el accidente ferroviario de Urda: la reconocida científica Marta Shahbazi y la bióloga Tamara González",
+    "link": "https://www.heraldodeleon.es/leon/dos-leonesas-pendientes-localizar-accidente-ferroviario-urda/20261030181902115651.html",
+    "desc": "La científica leonesa Marta Shahbazi y la investigadora berciana Tamara González Costa figuran entre las personas cuyo paradero se desconoce tras el siniestro ferroviario registrado en Toledo",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103018180171842.jpg",
+    "pub": 1793380742,
+    "fuente": "Heraldo de León"
   },
   {
     "titulo": "UPL celebra que la Junta active la vía judicial contra el peaje de la AP-66",
@@ -272,14 +320,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Concentración en Ponferrada para reclamar intérpretes de lengua de signos en los colegios",
-    "link": "https://www.lanuevacronica.com/el-bierzo/concentracion-en-ponferrada-reclamar-interpretes-lengua-signos-en-colegios_205598_102.html",
-    "desc": "La Asociación de Personas Sordas convoca una movilización el próximo 6 de noviembre frente al IES Virgen de la Encina para exigir a la Junta recursos que garanticen la igualdad de oportunidades del…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/61/4/www-ies-virgen-de-la-encina-4-1000x563-4-1000x563.jpeg",
-    "pub": 1793366024,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León celebra la 52ª Semana Micológica con salidas al campo y cocina en directo",
     "link": "https://www.heraldodeleon.es/sabores-de-leon/leon-celebra-52a-semana-micologica-salidas-campo-cocina-directo/20261030141245115620.html",
     "desc": "La Asociación Micológica San Jorge organiza del 2 al 8 de noviembre un programa con conferencias, actividades gastronómicas y una exposición de setas en el Palacio de los Guzmanes",
@@ -293,14 +333,6 @@
     "desc": "Los servicios de emergencia recibieron el aviso a las 12:31 horas por la presencia de humo en un inmueble de la calle Méjico y movilizaron a los bomberos y a la Policía Local",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/72/79/7/112-la-nueva-cronica-4-1000x563-4-1000x563-4-1000x563.jpeg",
     "pub": 1793365822,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los alumnos de los cuatro talleres de empleo de Ponferrada reciben sus certificados profesionales",
-    "link": "https://www.lanuevacronica.com/el-bierzo/alumnos-cuatro-talleres-empleo-ponferrada-reciben-sus-certificados-profesionales_205599_102.html",
-    "desc": "Los participantes completan nueve meses de formación y trabajo práctico en jardinería, albañilería, carpintería metálica y hostelería",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/62/9/foto-grupo-3.jpeg",
-    "pub": 1793365168,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -320,28 +352,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Nueva jornada | Juega 'El quinteto' con el BF León",
-    "link": "https://www.heraldodeleon.es/deportes/baloncesto/nueva-jornada-juega-quinteto-bf-leon/20261030135457115617.html",
-    "desc": "El periódico, patrocinador del primer equipo, te invita a participar un juego para que los aficionados formen su propio equipo con la plantilla del BF León recién ascendido a la LF Challenge y…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/02/2026100208301452914.jpg",
-    "pub": 1793364897,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Gadis abre un Claudio en un municipio de León: 135 m² con 1.200 referencias y tres nuevos puestos de trabajo",
     "link": "https://www.elespanol.com/castilla-y-leon/economia/empresas/20261030/gadis-abre-claudio-municipio-leon-m2-referencias-nuevos-puestos-trabajo/1003744441323_0.html",
     "desc": "En el municipio leonés de Santovenia de la Valdoncina y ubicado en la calle Real 45, de la población de Villacedré. Más información: Gadis abre su tercer Claudio Express en Valladolid con más de 70…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390994.jpg?p=w:1706/h:960&h=s4SNQfXc",
     "pub": 1793364698,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Lino Salsón y Lucía Vargas presentan en Madrid su libro 'Entre tú y yo'",
-    "link": "https://www.heraldodeleon.es/cultura/lino-salson-lucia-vargas-presentan-madrid-libro-entre/20261030134757115616.html",
-    "desc": "La Casa de León acogió la presentación de una obra conjunta de 109 páginas que combina poesía, microrrelatos, cuentos y reflexiones con humor, ironía y crítica social",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103013443762507.jpg",
-    "pub": 1793364477,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Ponferrada entrega los certificados de profesionalidad a los alumnos de sus cuatro programas de empleo",
@@ -413,14 +429,6 @@
     "desc": "Visita la Ponferradina sin San Emeterio y Arturo Molina a un Racing de Ferrol (16:30 horas) con pleno de victorias como local y solo dos goles encajados",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/63/73/3/ponferradina-y-barakaldo-empatan-en-el-toralin-2.jpeg",
     "pub": 1793362945,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El alfoz de León estrena un nuevo supermercado",
-    "link": "https://www.lanuevacronica.com/actualidad/alfoz-leon-estrena-nuevo-supermercado_205600_102.html",
-    "desc": "El nuevo establecimiento Claudio, franquicia de Gadis, está situado en la localidad de Villacedré",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/66/3/claudio-gadis-santovenia-de-la-valdoncina.jpeg",
-    "pub": 1793362721,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -656,12 +664,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "El pueblo más bonito de España con el mejor lechazo, castillo del siglo XII y puente medieval: es de los preferidos de los viajeros",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261030/pueblo-bonito-espana-mejor-lechazo-castillo-siglo-xii-puente-medieval-preferidos-viajeros-trt/1003744439281_0.html",
-    "desc": "Está situado en Castilla y León, una comunidad que tiene otros tres municipios en la lista oficial. Más información : El pueblo más bonito de España con el mejor embutido, un rollo del s. XVIII y…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10323790.jpg?p=c:1909:1074:nowe:8:99/w:1706/h:960&h=toHRTanf",
-    "pub": 1793340000,
-    "fuente": "El Español · CyL"
+    "titulo": "\"Es difícil consolar a las familias pero queremos que sientan el apoyo de León\"",
+    "link": "https://www.heraldodeleon.es/leon/gobierno-hara-todo-posible-esclarecer-hechos-victimas-merecen/20261029124152115418.html",
+    "desc": "\"El Gobierno hará todo lo posible por esclarecer los hecho porque las víctimas y sus familias se lo merecen\", asegura el subdelegado del Gobierno en León tras un minuto de silencio que ha unido a…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102912521384555.jpg",
+    "pub": 1793338912,
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Vallsur lo pasa de miedo en familia, entre monstruos y brujas, para celebrar Halloween: “Son tres días muy especiales”",
@@ -693,14 +701,6 @@
     "desc": "Un amplio despliegue de la Guardia Civil sorprendió este jueves a los vecinos de Molinaseca con una operación que terminó con seis personas detenidas en una casa rural de la localidad. Los…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-28-at-13.26.59-4.jpeg",
     "pub": 1793294764,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Carameloraro y Gekkō unen el rock salmantino y berciano en un concierto gratuito en Ponferrada",
-    "link": "https://www.elbierzodigital.com/carameloraro-y-gekko-unen-el-rock-salmantino-y-berciano-en-un-concierto-gratuito-en-ponferrada/",
-    "desc": "La Sala Tararí de Ponferrada acogerá el próximo sábado 7 de noviembre un concierto gratuito con Carameloraro y Gekkō como protagonistas. La cita comenzará a las 23:55 horas y reunirá sobre el…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/carameloraro-y-gekko-unen-el-rock-salmantino-y-berciano-en-un-concierto-gratuito-en-ponferrada-el-bierzo-digital.jpg",
-    "pub": 1793293573,
     "fuente": "El Bierzo Digital"
   },
   {
