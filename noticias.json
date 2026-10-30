@@ -1,18 +1,26 @@
 [
   {
+    "titulo": "Las almas en pena vagan por Trobajo del Camino",
+    "link": "https://www.lanuevacronica.com/actualidad/almas-en-pena-vagan-por-trobajo-camino_205597_102.html",
+    "desc": "La Güeste de Ánimas recorre las calles de la localidad en una noche de oscuridad, memoria de los difuntos y reivindicación de las raíces culturales leonesas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/62/2/frame-30animas.jpeg",
+    "pub": 1793392934,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Fallece Tavito el de Vegacervera, padre y embajador de la cecina de chivo",
+    "link": "https://www.lanuevacronica.com/actualidad/fallece-tavito-vegacervera-padre-embajador-cecina-chivo_205639_102.html",
+    "desc": "Octavio González era miembro de una larga familia a la que muchos llaman \"los del Miserias\", pues regentaron ese bar en León durante años y después regresaron a Vegacervera, donde abrieron La Cocinona",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/68/7/tavito-chivo-vegacervera.jpeg",
+    "pub": 1793392655,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Dos científicas de la provincia de León, entre las desaparecidas en el accidente ferroviario de Toledo",
     "link": "https://www.lanuevacronica.com/sucesos/tragedia-ferroviaria-toledo-deja-otra-leonesa-desaparecida-cientifica-marta-shahbazi_205619_102.html",
     "desc": "La leonesa Marta Shahbazi y la berciana Tamara González viajaban al mismo congreso en Huelva en el vagón de cabeza del AVE siniestrado el pasado miércoles en Urda",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/73/67/2/cientificas-leonesas-accidente-tren-toledo-urda.png",
     "pub": 1793392054,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Las almas en pena vagan por Trobajo del Camino",
-    "link": "https://www.lanuevacronica.com/actualidad/almas-en-pena-vagan-por-trobajo-camino_205597_102.html",
-    "desc": "La Güeste de Ánimas recorre las calles de la localidad en una noche de oscuridad, memoria de los difuntos y reivindicación de las raíces culturales leonesas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/62/2/frame-30animas.jpeg",
-    "pub": 1793391526,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -38,14 +46,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103020331758422.jpg",
     "pub": 1793388848,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El romanticismo sonará en el Conde Luna con Raquel del Val",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/romanticismo-sonara-en-conde-luna-con-raquel-val_205611_102.html",
-    "desc": "La pianista dirige la segunda edición de unas jornadas que se celebrarán del 4 al 6 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/29/00/05/5/la-leonesa-raquel-del-val-llega-este-viernes-a-oporto-para-hablar-de-pedro-blanco-l-n-c.jpeg",
-    "pub": 1793388754,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "ColproLeón se incorpora a la Cátedra de Territorios Sostenibles de la Uned en Ponferrada",
