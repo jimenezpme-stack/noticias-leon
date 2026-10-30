@@ -1,10 +1,66 @@
 [
   {
-    "titulo": "Un café en el Silver de La Palomera para aprender sobre microalgas y minicerebros",
-    "link": "https://www.lanuevacronica.com/actualidad/cafe-en-silver-palomera-aprender-sobre-microalgas-minicerebros_205589_102.html",
-    "desc": "La Asociación de Biotecnólogos de León acerca la divulgación científica a la ciudadanía leonesa con un nuevo ciclo de charlas 'Con Ciencia, Té'",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/39/4/con-ciencia-te-2025-con-vicerrector-de-investigacion.jpeg",
-    "pub": 1793357812,
+    "titulo": "El Centro Joven Paramés se consolida como punto de encuentro de la juventud",
+    "link": "https://www.lanuevacronica.com/actualidad/centro-joven-parames-se-consolida-como-punto-encuentro-juventud_205594_102.html",
+    "desc": "El espacio de Santa María del Páramo ha registrado 118 asistencias durante los tres primeros fines de semana de octubre, con la participación de 57 jóvenes diferentes",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/52/2/el-centro-joven-parames-se-consolida-como-punto-de-encuentro-de-la-juventud.jpeg",
+    "pub": 1793360050,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Colas en el peaje de Villadangos por fallos en el cobro con tarjeta",
+    "link": "https://www.lanuevacronica.com/actualidad/colas-en-peaje-villadangos-por-fallos-en-cobro-con-tarjeta_205593_102.html",
+    "desc": "El mal funcionamiento de los lectores de tarjetas de crédito provoca retenciones en la AP-71, entre León y Astorga, en plena operación salida del puente de Todos los Santos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/46/5/peaje-villadangos.jpeg",
+    "pub": 1793360034,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Juan González Herrero: así construye una nueva Herrero Brigantina",
+    "link": "https://www.elbierzodigital.com/juan-gonzalez-herrero-asi-construye-una-nueva-herrero-brigantina/",
+    "desc": "Juan González Herrero vuelve a situarse en el centro de una historia que parecía haber quedado sepultada bajo las denuncias de los afectados por el hundimiento de Herrero Brigantina. Un vídeo…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/juan-gonzalez-herrero-asi-construye-una-nueva-herrero-brigantina-el-bierzo-digital.jpg",
+    "pub": 1793359813,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Page no descarta más víctimas mortales por los restos pendientes de identificar",
+    "link": "https://www.heraldodeleon.es/actualidad/nacional/page-descarta-mas-victimas-mortales-restos-pendientes-identificar/20261030122905115599.html",
+    "desc": "El presidente de Castilla-La Mancha sitúa en 69 el balance provisional de fallecidos y advierte de que existen 31 bolsas con restos humanos parciales. La cifra de heridos hospitalizados baja a 39,…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103012275933202.jpg",
+    "pub": 1793359745,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Japón se sienta a la mesa en Carracedelo con los talleres de cocina de Okome Food",
+    "link": "https://www.lanuevacronica.com/el-bierzo/japon-se-sienta-mesa-en-carracedelo-con-talleres-cocina-okome-food_205574_102.html",
+    "desc": "La emprendedora japonesa Tezuka Masami abre las puertas de su obrador para enseñar a elaborar miso de garbanzo, kimchi coreano y gyozas caseras en seis sesiones",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/16/2/japonesa-vale.jpeg",
+    "pub": 1793359522,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Casi la totalidad de la plantilla secunda la jornada de huelga del transporte interurbano",
+    "link": "https://www.heraldodeleon.es/leon/casi-totalidad-plantilla-secunda-primera-jornada-huelga-transporte-interurbano-viajeros-leon/20261030122020115597.html",
+    "desc": "CCOO y UGT advierten que denunciarán ante Trabajo que Alsa, concesionaria del 90% de las líneas, se saltó “por completo” los servicios mínimos y movilizó a todos los trabajadores",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103011341814135.jpg",
+    "pub": 1793359220,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Junta pagará 20 euros más al mes a los profesores que sean tutores",
+    "link": "https://www.elespanol.com/castilla-y-leon/cultura/educacion-y-universidad/20261030/junta-pagara-euros-mes-profesores-tutores/1003744441009_0.html",
+    "desc": "La cuantía irá aumentando con los años hasta alcanzar los 60 euros en el curso 2028-2029. Más información : Castilla y León reconoce por primera vez la tutoría docente: pagará hasta 60 euros al mes…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10323154.jpg?p=w:1706/h:960&h=XLZY5ZpQ",
+    "pub": 1793359193,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Ampliado hasta el 27 de noviembre el plazo del concurso de relatos 'Cerca de Las Médulas'",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ampliado-hasta-27-noviembre-plazo-concurso-relatos-cerca-medulas_205585_102.html",
+    "desc": "El certamen está dirigido a jóvenes de cualquier municipio del Bierzo, contempla tres categorías por edades y el fallo del jurado se dará a conocer el 7 de diciembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/34/8/concurso-de-relatos-cortos.png",
+    "pub": 1793359128,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -12,7 +68,63 @@
     "link": "https://www.lanuevacronica.com/el-bierzo/huelga-conductores-autobus-bierzo-denuncian-jornadas-15-horas-sueldos-mas-bajos-castilla-leon_205588_102.html",
     "desc": "Unos 150 trabajadores secundaron la huelga provincial y se concentraron en la estación de Ponferrada para exigir mejoras salariales y laborales; amenazan con convertir los paros en indefinidos",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/72/37/2/huelga-transporte.jpeg",
-    "pub": 1793357522,
+    "pub": 1793359113,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Daniel Cabañas, el maquinista en prácticas fallecido en el accidente de Urda, era sobrino de dos religiosos de Burgos",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261030/maquinista-practicas-fallecido-accidente-tren-urda-sobrino-religiosos-burgos/1003744440982_0.html",
+    "desc": "El joven era sobrino de monseñor Rafael Cob, obispo vicario apostólico de Puyo (Ecuador), y Gabriel Cob, párroco de la Sagrada Familia. Más información: Mañueco, abatido por la muerte de su amiga…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390124.jpg?p=c:800:450:nowe:0:151/w:1706/h:960&h=__aSWImo",
+    "pub": 1793359003,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "La DGT prevé 83.000 desplazamientos por las carreteras de León en el puente",
+    "link": "https://www.heraldodeleon.es/leon/dgt-preve-83000-desplazamientos-carreteras-leon-puente/20261030121627115596.html",
+    "desc": "El dispositivo especial de Todos los Santos arranca este viernes a las 15.00 horas y se prolongará hasta la medianoche del lunes 2 de noviembre. Tráfico alerta del aumento de la siniestralidad…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/05/05/2025050518331760803.jpg",
+    "pub": 1793358987,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Choque entre Morala y Ramón por las viviendas de La Rosaleda en un pleno que aprueba el Plan contra la Sequía",
+    "link": "https://www.elbierzodigital.com/choque-entre-morala-y-olegario-ramon-por-las-viviendas-de-la-rosaleda-en-un-pleno-que-aprueba-el-plan-contra-la-sequia/",
+    "desc": "El Ayuntamiento de Ponferrada ha celebrado este viernes su pleno ordinario , una sesión en la que se han abordado cuestiones relacionadas con la prevención ante posibles situaciones de sequía, la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/choque-entre-morala-y-olegario-ramon-por-las-viviendas-de-la-rosaleda-en-un-pleno-que-aprueba-el-plan-contra-la-sequia-el-bierzo-digital.jpeg",
+    "pub": 1793358728,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Ponferrada aprueba un Plan de Emergencia en situaciones de sequía",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-aprueba-plan-emergencia-en-situaciones-sequia_205580_102.html",
+    "desc": "El pleno avaló ese documento que plantea medidas preventivas y actualiza recursos hídricos frente a una alerta que reconocen, de momento no se da",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/70/16/7/foto-archivo-pleno.jpeg",
+    "pub": 1793358610,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Mancomunidad del Agua del Bierzo subirá sus tarifas en línea con el IPC",
+    "link": "https://www.lanuevacronica.com/el-bierzo/mancomunidad-agua-bierzo-subira-sus-tarifas-en-linea-con-ipc_205586_102.html",
+    "desc": "La revisión afectará a cerca de 10.000 abonados de siete municipios y supondrá un incremento de apenas uno o dos céntimos en los recibos, según su presidente",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/32/28/0/img-portada.jpeg",
+    "pub": 1793358275,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ponferrada desestima las alegaciones vecinales y avala construir las 80 viviendas para jóvenes en La Rosaleda",
+    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-desestima-alegaciones-vecinales-avala-construir-80-viviendas-jovenes-en-rosaleda_205578_102.html",
+    "desc": "El pleno desestima las alegaciones vecinales y aprueba el convenio para ceder la parcela a la Junta con la abstención del PSOE, que cuestiona la prioridad nacional de diez años de empadronamiento…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/70/01/7/parcela-rosaleda.jpeg",
+    "pub": 1793358075,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un café en el Silver de La Palomera para aprender sobre microalgas y minicerebros",
+    "link": "https://www.lanuevacronica.com/actualidad/cafe-en-silver-palomera-aprender-sobre-microalgas-minicerebros_205589_102.html",
+    "desc": "La Asociación de Biotecnólogos de León acerca la divulgación científica a la ciudadanía leonesa con un nuevo ciclo de charlas 'Con Ciencia, Té'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/39/4/con-ciencia-te-2025-con-vicerrector-de-investigacion.jpeg",
+    "pub": 1793357812,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -32,35 +144,11 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La Mancomunidad del Agua del Bierzo subirá sus tarifas en línea con el IPC",
-    "link": "https://www.lanuevacronica.com/el-bierzo/mancomunidad-agua-bierzo-subira-sus-tarifas-en-linea-con-ipc_205586_102.html",
-    "desc": "La revisión afectará a cerca de 10.000 abonados de siete municipios y supondrá un incremento de apenas uno o dos céntimos en los recibos, según su presidente",
-    "img": "https://www.lanuevacronica.com/uploads/s1/32/32/28/0/img-portada.jpeg",
-    "pub": 1793357009,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ampliado hasta el 27 de noviembre el plazo del concurso de relatos 'Cerca de Las Médulas'",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ampliado-hasta-27-noviembre-plazo-concurso-relatos-cerca-medulas_205585_102.html",
-    "desc": "El certamen está dirigido a jóvenes de cualquier municipio del Bierzo, contempla tres categorías por edades y el fallo del jurado se dará a conocer el 7 de diciembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/34/8/concurso-de-relatos-cortos.png",
-    "pub": 1793356871,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Reino y el Área, atados y prorrogables a cuatro años",
     "link": "https://www.lanuevacronica.com/deportes/reino-area-atados-prorrogables-cuatro-anos_205583_102.html",
     "desc": "El Ayuntamiento asumirá los costes generales, excepto mantenimiento, personal, césped y palcos VIP que asumirá la Cultural, que también \"colaborará en la construcción de una nueva instalación para…",
     "img": "https://www.lanuevacronica.com/uploads/s1/34/71/63/3/diferentes-momentos-de-las-presentaciones-de-los-palcos-vip-del-reino-de-leon-fernando-otero-2.jpeg",
     "pub": 1793356337,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ponferrada aprueba un Plan de Emergencia en situaciones de sequía",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-aprueba-plan-emergencia-en-situaciones-sequia_205580_102.html",
-    "desc": "El pleno avaló ese documento que plantea medidas preventivas y actualiza recursos hídricos frente a una alerta que reconocen, de momento no se da",
-    "img": "https://www.lanuevacronica.com/uploads/s1/32/70/16/7/foto-archivo-pleno.jpeg",
-    "pub": 1793356296,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -88,12 +176,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Ponferrada desestima las alegaciones vecinales y avala construir las 80 viviendas para jóvenes en La Rosaleda",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-desestima-alegaciones-vecinales-avala-construir-80-viviendas-jovenes-en-rosaleda_205578_102.html",
-    "desc": "El pleno desestima las alegaciones vecinales por el tráfico y la falta de servicios y aprueba el convenio con la abstención del PSOE, que cuestiona la prioridad nacional de diez años de…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/70/01/7/parcela-rosaleda.jpeg",
-    "pub": 1793355245,
-    "fuente": "La Nueva Crónica"
+    "titulo": "La feria de la miel, las castañas y las setas perfecta para visitar Trabazos este 1 de noviembre: concursos, tradición y música",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261030/feria-miel-castanas-setas-perfecta-visitar-trabazos-noviembre-concursos-tradicion-musica/1003744440792_0.html",
+    "desc": "La localidad propone una amplia programación que combina gastronomía con cultura. Más información : La fiesta ideal para disfrutar de la castaña este 31 de octubre: con degustaciones, concursos y un…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11119443.jpg?p=w:1706/h:960&h=idCcWc6T",
+    "pub": 1793355253,
+    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Carolina Yuste, Cristina Fanjul y otros autores protagonizan la agenda cultural de noviembre de El Libro Imposible",
@@ -184,14 +272,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Japón se sienta a la mesa en Carracedelo con los talleres de cocina de Okome Food",
-    "link": "https://www.lanuevacronica.com/el-bierzo/japon-se-sienta-mesa-en-carracedelo-con-talleres-cocina-okome-food_205574_102.html",
-    "desc": "La emprendedora japonesa Tezuka Masami abre las puertas de su obrador para enseñar a elaborar miso de garbanzo, kimchi coreano y gyozas caseras en seis sesiones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/16/2/japonesa-vale.jpeg",
-    "pub": 1793351738,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Unicaja gana 543 millones hasta septiembre, un 8,1% más",
     "link": "https://www.lanuevacronica.com/panorama/unicaja-gana-543-millones-hasta-septiembre-81-mas_205573_102.html",
     "desc": "El margen de intereses creció un tres por ciento en el periodo, hasta los 1.151 millones, apoyado en la inversión crediticia y la cartera de renta fija",
@@ -214,22 +294,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103010005551442.jpg",
     "pub": 1793350893,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Junta prorroga la declaración de peligro medio de incendios hasta el 9 de noviembre",
-    "link": "https://www.lanuevacronica.com/actualidad/junta-prorroga-declaracion-peligro-medio-incendios-hasta-9-noviembre_205570_102.html",
-    "desc": "Por la previsión de que se prolongue el bloqueo anticiclónico con temperaturas más altas de las esperadas para la época y la ausencia de precipitaciones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/31/27/6/incendio-de-oteruelo-5.jpeg",
-    "pub": 1793350828,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un pastor más rico que Amancio",
-    "link": "https://www.lanuevacronica.com/extras/a-la-contra/pastor-mas-rico-amancio_205569_102.html",
-    "desc": "La última de La Nueva Crónica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/14/4/contra.jpeg",
-    "pub": 1793350459,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "León mantendrá el riesgo de incendios forestales al menos hasta el 9 de noviembre",
@@ -317,23 +381,7 @@
     "desc": "El Ayuntamiento tiene operativas las cámaras de reconocimiento de matrículas, pero ha decidido no utilizarlas todavía para imponer sanciones a los vehículos que circulan sin autorización por la…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/06/02/2025060211433117733.jpg",
     "pub": 1793343562,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Hallowindie: arranca la cita más terrorífica con el indie de León",
-    "link": "https://www.heraldodeleon.es/cultura/hallowindie-llega-cita-mas-terrorifica-indie-leon/20261030074705115506.html",
-    "desc": "León tiene este viernes y este sábado una cita terrorífica con la mejor música indie | Esta tarde será el turno acústico con&nbsp;Javi Chapela, Noa y Casino Montreal a la espera del plato fuerte de…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102922080882819.jpg",
-    "pub": 1793342825,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Rebrote en León: \"Habrá lugares para echar gasolina y momentos para el recuerdo\"",
-    "link": "https://www.heraldodeleon.es/cultura/inaki-uoho-llega-leon-rebrote-habra-lugares-echar-gasolina-momentos-recuerdo/20261030074315115504.html",
-    "desc": "Iñaki 'Uoho', leyenda viva del rock gracias a bandas como Extremoduro o Platero y Tú, regresa junto a Jaime Moreno con Rebrote y esta noche prometen ponerse \"chaqueta gordita\" para \"echar gasolina\"…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102920345546964.jpg",
-    "pub": 1793342595,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Pablo Ferreras, presidente de la Cámara de la Propiedad Urbana: “El depósito de fianzas de alquiler ha bajado un 20%\"",
@@ -368,11 +416,11 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "España busca su mejor pizza y podría estar en Castilla y León: estos son los 10 establecimientos aspirantes",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261029/espana-busca-mejor-pizza-podria-castilla-leon-establecimientos-aspirantes/1003744440565_0.html",
-    "desc": "El Campeonato de España de Pizzas ha arrancado este jueves y reunirá propuestas de todo el país. Más información: Dos sabrosas pizzas de CyL se cuelan entre las finalistas para ser la mejor de…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/9824218.jpg?p=w:1706/h:960&h=GdBsPvEI",
-    "pub": 1793307751,
+    "titulo": "Vallsur lo pasa de miedo en familia, entre monstruos y brujas, para celebrar Halloween: “Son tres días muy especiales”",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261029/vallsur-pasa-miedo-familia-monstruos-brujas-celebrar-halloween-dias-especiales/1003744435322_0.html",
+    "desc": "El centro comercial ha programado, desde este jueves 29 de octubre y hasta el 31 del mismo mes, muchas actividades por Halloween para disfrutar en familia. Más información: La cita ideal para…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390499.jpg?p=w:1706/h:960&h=gwKECFxi",
+    "pub": 1793305985,
     "fuente": "El Español · CyL"
   },
   {
@@ -437,6 +485,14 @@
     "desc": "La formación de Abascal reclama que se investigue al vallisoletano por sus actuaciones en materia de seguridad ferroviaria y declare en calidad de investigado. Más información: Un tren Ouigo con…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10545315.jpg?p=c:2845:1599:nowe:644:627/w:1706/h:960&h=c2DKovEI",
     "pub": 1793290646,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Baltanás aplaza al domingo 1 de noviembre su Feria del Queso y el Vino por el luto nacional tras el accidente de Urda",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/palencia/20261029/baltanas-aplaza-domingo-noviembre-feria-queso-vino-luto-nacional-accidente-urda/1003744440138_0.html",
+    "desc": "La cita se iba a celebrar el 30 y 31 de octubre. Está cargada de solidaridad, con 22 expositores, catas y muchas actividades más. Más información: La historia de la Feria del Queso y el Vino de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11384913.jpg?p=w:1706/h:960&h=hzDN6qgX",
+    "pub": 1793289699,
     "fuente": "El Español · CyL"
   },
   {
@@ -510,14 +566,6 @@
     "img": "https://static.eldiario.es/clip/b48620d6-bab7-4aa6-84f3-10b51b52919f_16-9-discover-aspect-ratio_default_0_x975y902.jpg",
     "pub": 1793281326,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Peñafiel llora la muerte de un joven hostelero afgano de 22 años por meningitis: la Junta no ha identificado más casos",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261029/penafiel-llora-muerte-joven-hostelero-afgano-anos-meningitis-junta-no-identificado-casos/1003744439905_0.html",
-    "desc": "Carriedo ha explicado que se han activado los procedimientos de vigilancia epidemiológica para los contactos más directos del joven. Más información : El fútbol abulense llora la muerte repentina…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390082.webp?p=w:1706/h:960&h=LM76OZfY",
-    "pub": 1793281240,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "La DGT refuerza los controles en las carreteras del Bierzo por el puente de Todos los Santos",
@@ -640,14 +688,6 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "El Clínica Ponferrada SDP quiere mantener su buena racha ante el Cáceres",
-    "link": "https://www.elbierzodigital.com/samuel-conde-reta-al-clinica-ponferrada-sdp-a-demostrar-su-potencial-ante-el-caceres/",
-    "desc": "El Clínica Ponferrada SDP afronta una nueva prueba de nivel este sábado , 31 de octubre, a las 19:00 horas , en el pabellón Lydia Valentín, donde recibirá al Cáceres . Así lo anunciaron este jueves…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/samuel-conde-reta-al-clinica-ponferrada-sdp-a-demostrar-su-potencial-ante-el-caceres-el-bierzo-digital.jpeg",
-    "pub": 1793273986,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Consulta los puntos de donación de sangre en León y provincia esta semana",
     "link": "https://www.heraldodeleon.es/leon/consulta-puntos-donacion-sangre-leon-provincia-30-octubre-6-noviembre/20261029123633115415.html",
     "desc": "La Hermandad de Donantes de Sangre acerca las donaciones a cinco localidades leonesas con jornadas de tarde y mantiene activo el punto fijo del Centro de Salud José Aguado en la capital",
@@ -656,52 +696,12 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "Bembibre renovará la climatización de su centro de salud con una inversión de más de 400.000 euros",
-    "link": "https://www.elbierzodigital.com/bembibre-renovara-la-climatizacion-de-su-centro-de-salud-con-una-inversion-de-mas-de-400-000-euros/",
-    "desc": "El Centro de Salud de Bembibre contará con un nuevo sistema de climatización tras la autorización del Consejo de Gobierno de Castilla y León de una inversión de 401.387 euros para acometer las obras…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/01/Centro-de-Salud-de-Bembibre.jpg",
-    "pub": 1793273760,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Casi 2,2 millones para recuperar los terrenos degradados por la minería del carbón en Sorbeda del Sil",
-    "link": "https://www.elbierzodigital.com/casi-22-millones-para-recuperar-los-terrenos-degradados-por-la-mineria-del-carbon-en-sorbeda-del-sil/",
-    "desc": "La antigua actividad minera del carbón en Sorbeda del Sil , localidad del municipio de Páramo del Sil , será objeto de una nueva intervención para recuperar los terrenos degradados y eliminar…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2022/07/IMG_20220730_165031.jpg",
-    "pub": 1793273019,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Seminci suspende la gala de clausura por el accidente ferroviario de Toledo",
     "link": "https://www.eldiario.es/castilla-y-leon/cultura/seminci-suspende-gala-clausura-accidente-ferroviario-toledo_1_13624149.html",
     "desc": "El festival de cine vallisoletano dará a conocer el palmarés de esta edición en un acto informativo el sábado 31 de octubre por la mañana La película que se ha convertido en el símbolo de la…",
     "img": "https://static.eldiario.es/clip/deb513d6-1050-45fa-9435-817b036e70d7_16-9-discover-aspect-ratio_default_0_x1565y393.jpg",
     "pub": 1793272200,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "CCOO reclama industria y empleo de calidad para retener el talento joven en el Bierzo",
-    "link": "https://www.elbierzodigital.com/ccoo-reclama-industria-y-empleo-de-calidad-para-retener-el-talento-joven-en-el-bierzo/",
-    "desc": "CCOO valoró positivamente la elevada presencia de jóvenes y público en general en la V Feria de Empleo, Innovación y Emprendimiento del Bierzo , celebrada el pasado martes en el Museo del…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ccoo-reclama-industria-y-empleo-de-calidad-para-retener-el-talento-joven-en-el-bierzo-el-bierzo-digital-e1793270449255.jpg",
-    "pub": 1793271446,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Gadis abre su tienda número 17 en Valladolid ante una gran expectación: \"Queremos que la compra sea cómoda y sencilla\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261029/gadis-abre-tienda-numero-valladolid-gran-expectacion-queremos-compra-comoda-sencilla/1003744439462_0.html",
-    "desc": "El nuevo establecimiento tiene 1.200 metros cuadrados, más de 10.000 referencias y ha creado 35 puestos de trabajo. Más información: Gadis impulsa el negocio de las emprendedoras rurales con sus…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389824.jpg?p=w:1706/h:960&h=BXWQ7eN9",
-    "pub": 1793271359,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "\"La seguridad no puede depender del factor humano\"",
-    "link": "https://www.heraldodeleon.es/leon/leon-guarda-silencio-68-fallecidos-accidente-ferroviario-toledo-seguridad-puede-depender-factor-humano/20261029114346115382.html",
-    "desc": "Trabajadores ferroviarios y el alcalde de León, José Antonio Diez, guardan un minuto de silencio en la estación en recuerdo de las víctimas del accidente ferroviario de Toledo y en solidaridad con…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/29/2026102911401516936.jpg",
-    "pub": 1793270626,
-    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "PP y Vox 'cuelan' modificaciones a las leyes de caza y apuestas en la Ley de Presupuestos en Castilla y León",
