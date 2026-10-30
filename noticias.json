@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "La paciencia del ciudadano",
+    "link": "https://www.lanuevacronica.com/opinion/paciencia-ciudadano_205564_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793332800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Huesos, huesos",
+    "link": "https://www.lanuevacronica.com/opinion/huesos-huesos_205563_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793332200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Maíz dulce",
+    "link": "https://www.lanuevacronica.com/opinion/maiz-dulce_205562_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793331600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "¿Estamos informados o vivimos preocupados?",
+    "link": "https://www.lanuevacronica.com/opinion/estamos-informados-vivimos-preocupados_205561_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793331000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Lo que queda del tercero",
     "link": "https://www.lanuevacronica.com/opinion/queda-tercero_205560_102.html",
     "desc": "",
@@ -88,14 +120,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Ganadería extensiva como aliada de la biodiversidad",
-    "link": "https://www.lanuevacronica.com/actualidad/ganaderia-extensiva-como-aliada-biodiversidad_205538_102.html",
-    "desc": "Las IV Jornadas de Pastoreo analizan en La Pola la relación entre el pastoreo, la conservación de los paisajes y la salud del suelo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/51/0/en-la-imagen-un-momento-de-la-apertura-de-las-jornadas-en-la-pola-e-nino.jpeg",
-    "pub": 1793325600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "España busca su mejor pizza y podría estar en Castilla y León: estos son los 10 establecimientos aspirantes",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261029/espana-busca-mejor-pizza-podria-castilla-leon-establecimientos-aspirantes/1003744440565_0.html",
     "desc": "El Campeonato de España de Pizzas ha arrancado este jueves y reunirá propuestas de todo el país. Más información: Dos sabrosas pizzas de CyL se cuelan entre las finalistas para ser la mejor de…",
@@ -120,36 +144,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "La Alubia La Bañeza-León vuelve a contar con Pepe Ribagorda como embajador",
-    "link": "https://www.lanuevacronica.com/actualidad/alubia-baneza-leon-vuelve-contar-con-pepe-ribagorda-como-embajador_205558_102.html",
-    "desc": "El periodista visitó este jueves el Museo de la Alubia para respaldar las jornadas gastronómicas que se celebrarán durante todo el mes de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/05/7/la-alubia-la-baneza-leon-vuelve-a-contar-con-pepe-ribagorda-como-embajador.jpeg",
-    "pub": 1793302937,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Santiago Abascal carga contra el PSOE: \"Frenar al fascismo les gusta mucho, que frenen un tren es pedirles demasiado\"",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/santiago-abascal-carga-psoe-frenar-fascismo-les-gusta-frenen-tren-pedirles_1_13625711.html",
     "desc": "El presidente de Vox tilda a Pedro Sánchez y Óscar Puente –\"Óscar Muerte\"– como una \"pareja siniestra\" que le provoca \"un desprecio infinito\" Óscar Puente comparecerá el martes a petición propia en…",
     "img": "https://static.eldiario.es/clip/a1f43ee8-e0d4-48bc-b7de-3ddb8b9beac4_16-9-discover-aspect-ratio_default_0_x1111y492.jpg",
     "pub": 1793302057,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Los maquinistas convocan dos nuevas jornadas de huelga en Renfe en noviembre",
-    "link": "https://www.lanuevacronica.com/actualidad/maquinistas-convocan-dos-nuevas-jornadas-huelga-en-renfe-en-noviembre_205557_102.html",
-    "desc": "Semaf ha convocado dos nuevas jornadas de paro para los días 10 y 12 de noviembre, quedando justo en medio la huelga general del 11 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/46/17/9/renfe-tren-oficial-hallowindie-leon-4-1000x563.jpeg",
-    "pub": 1793301462,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Puente solicitará comparecer en la Diputación Permanente del Congreso",
-    "link": "https://www.lanuevacronica.com/panorama/puente-solicitara-comparecer-en-diputacion-permanente-congreso_205551_102.html",
-    "desc": "Esta decisión llega después de que este jueves Sumar registrase una petición y Podemos y ERC lo hicieran posteriormente",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/19/13/0/oscar-puente.jpeg",
-    "pub": 1793297764,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El primer email de la historia…",
