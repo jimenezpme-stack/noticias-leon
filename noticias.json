@@ -1,6 +1,62 @@
 [
   {
-    "titulo": "Fallece Tavito, el hombre que impulsó la cecina de chivo como seña de identidad de Vegacervera",
+    "titulo": "Renace la Güeste d'Ánimas",
+    "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/trobajo-camino-recupera-gueste-danimas-noche-tradicion-recuerdo/20261030205328115681.html",
+    "desc": "La comitiva recorrió las calles de la localidad al caer la noche en una marcha solemne que reunió a un público expectante ante la recuperación de una de las manifestaciones más arraigadas de la…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103020503539436.jpg",
+    "pub": 1793390008,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El Centro Joven Paramés reúne a 57 jóvenes en sus primeros fines de semana",
+    "link": "https://www.heraldodeleon.es/comarcas/paramo/centro-joven-parames-reune-57-jovenes-primeros-fines-semana/20261030203408115674.html",
+    "desc": "El espacio municipal de Santa María del Páramo contabiliza 118 asistencias durante octubre y ofrece actividades de ocio saludable para vecinos de entre 12 y 22 años en unas instalaciones de más de…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103020331758422.jpg",
+    "pub": 1793388848,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Poesía visual que se recita en la Biblioteca de Astorga",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/poesia-visual-se-recita-en-biblioteca-astorga_205610_102.html",
+    "desc": "La exposición de Nuria Antón, Soco Seco y Benasser-Colom será inaugurada el lunes 2 de noviembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/22/21/16/1/imagen-nuria-anto-n-sujetando-silencio.jpeg",
+    "pub": 1793388809,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El romanticismo sonará en el Conde Luna con Raquel del Val",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/romanticismo-sonara-en-conde-luna-con-raquel-val_205611_102.html",
+    "desc": "La pianista dirige la segunda edición de unas jornadas que se celebrarán del 4 al 6 de noviembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/29/00/05/5/la-leonesa-raquel-del-val-llega-este-viernes-a-oporto-para-hablar-de-pedro-blanco-l-n-c.jpeg",
+    "pub": 1793388754,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "ColproLeón se incorpora a la Cátedra de Territorios Sostenibles de la Uned en Ponferrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/colproleon-se-incorpora-catedra-territorios-sostenibles-uned-en-ponferrada_205629_102.html",
+    "desc": "El acuerdo establece un canal de comunicación permanente para promover futuras colaboraciones en investigación, formación, divulgación e innovación vinculadas al desarrollo sostenible del territorio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/37/5/colpro-uned.jpeg",
+    "pub": 1793388669,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Palacio de Canedo celebra la Fiesta del Vino Nuevo con Ángel Moretón como pregonero",
+    "link": "https://www.lanuevacronica.com/el-bierzo/palacio-canedo-celebra-fiesta-vino-nuevo-con-angel-moreton-como-pregonero_205632_102.html",
+    "desc": "La 22ª edición del encuentro, el 14 de noviembre, servirá para presentar el Prada Maceración 2026, elaborado con uva mencía de Canedo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/41/9/cartel-fiesta-maceracion-2026.jpeg",
+    "pub": 1793388632,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Otra leonesa desaparecida en la tragedia ferroviaria de Toledo: la científica Marta Shahbazi",
+    "link": "https://www.lanuevacronica.com/actualidad/tragedia-ferroviaria-toledo-deja-otra-leonesa-desaparecida-cientifica-marta-shahbazi_205619_102.html",
+    "desc": "Investigadora de un laboratorio en Cambridge, viajaba a Huelva para recoger un premio a la excelencia científica / Su hermano ha confirmado que no tiene noticias de ella y que iba en el vagón de…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/03/4/leonesa-desaparecida-accidente-tren-urda-toledo.png",
+    "pub": 1793388182,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Fallece 'Tavito', el hombre que impulsó la cecina de chivo como seña de identidad de Vegacervera",
     "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/fallece-tavito-hombre-que-impulso-cecina-chivo-como-sena-identidad-vegacervera/20261030202217115672.html",
     "desc": "El empresario leonés, propietario de Cárnicas Tavito e impulsor de la Feria de la Cecina de Chivo, dedicó su vida a la ganadería y a la promoción de un producto ligado a la montaña leonesa | Era el…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103020204885919.jpg",
@@ -45,14 +101,6 @@
     "desc": "Jerez al Norte impulsa tres experiencias enogastronómicas en El Fandango, Amarone by Vinalium y el Hotel Real Colegiata de San Isidoro, del 3 al 7 de noviembre",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/73/44/1/sherry-week-vinos-leon.jpeg",
     "pub": 1793386143,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Palacio de Canedo celebra la Fiesta del Vino Nuevo con Ángel Moretón como pregonero",
-    "link": "https://www.lanuevacronica.com/el-bierzo/palacio-canedo-celebra-fiesta-vino-nuevo-con-angel-moreton-como-pregonero_205632_102.html",
-    "desc": "La 22ª edición del encuentro, el 14 de noviembre, servirá para presentar el Prada Maceración 2026, elaborado con uva mencía de Canedo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/41/9/cartel-fiesta-maceracion-2026.jpeg",
-    "pub": 1793385649,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -104,14 +152,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "ColproLeón se incorpora a la Cátedra de Territorios Sostenibles de la Uned en Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/colproleon-se-incorpora-catedra-territorios-sostenibles-uned-en-ponferrada_205629_102.html",
-    "desc": "El acuerdo establece un canal de comunicación permanente para promover futuras colaboraciones en investigación, formación, divulgación e innovación vinculadas al desarrollo sostenible del territorio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/37/5/colpro-uned.jpeg",
-    "pub": 1793383697,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ponferrada entrega los certificados profesionales a los alumnos de talleres de empleo",
     "link": "https://www.heraldodeleon.es/el-bierzo/ponferrada-entrega-certificados-profesionales-alumnos-cuatro-talleres-empleo/20261030185601115657.html",
     "desc": "El alcalde, Marco Morala, y los concejales David Pacios y Lidia Coca participaron en el acto de clausura de unos programas que han formado a sus participantes durante nueve meses y han supuesto una…",
@@ -134,14 +174,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391365.jpg?p=c:2925:1645:nowe:749:397/w:1706/h:960&h=O47Bv2Hh",
     "pub": 1793381399,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Otra leonesa desaparecida en la tragedia ferroviaria de Toledo: la científica Marta Shahbazi",
-    "link": "https://www.lanuevacronica.com/actualidad/tragedia-ferroviaria-toledo-deja-otra-leonesa-desaparecida-cientifica-marta-shahbazi_205619_102.html",
-    "desc": "Investigadora de un laboratorio en Cambridge, viajaba a Huelva para recoger un premio a la excelencia científica / Su hermano ha confirmado que no tiene noticias de ella y que iba en el vagón de…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/03/4/leonesa-desaparecida-accidente-tren-urda-toledo.png",
-    "pub": 1793381029,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Dos leonesas, pendientes de localizar tras el accidente ferroviario de Urda: la reconocida científica Marta Shahbazi y la bióloga Tamara González",
@@ -368,44 +400,12 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "Heraldo de León busca al MVP de la 10ª jornada en la quiniela de 1ª RFEF y ganar tiene premio",
-    "link": "https://www.heraldodeleon.es/deportes/cultural/heraldo-leon-busca-mvp-10a-jornada-quiniela-1a-rfef-ganar-tiene-premio/20261030144602115626.html",
-    "desc": "La décima jornada de Primera RFEF pone en juego un nuevo MVP | El ganador de la quiniela de Heraldo de León podrá conseguir un nuevo premio",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/08/24/2026082417182919587.jpg",
-    "pub": 1793367962,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Nafti admite que la Ponferradina tiene un «déficit técnico»: «Esperábamos algo más de la plantilla»",
     "link": "https://www.elbierzodigital.com/nafti-admite-que-la-ponferradina-tiene-un-deficit-tecnico-esperabamos-algo-mas-de-la-plantilla/",
     "desc": "Mehdi Nafti ha puesto voz a una de las principales carencias que está mostrando la SD Ponferradina en este inicio de temporada: la falta de recursos técnicos para mejorar su producción ofensiva. El…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/nafti-admite-que-la-ponferradina-tiene-un-deficit-tecnico-esperabamos-algo-mas-de-la-plantilla-el-bierzo-digital.jpg",
     "pub": 1793367558,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Valdavido reunirá la cultura y las tradiciones de Cabreira en el Magostu Ambulante 2026",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/valdavido-reunira-cultura-tradiciones-cabreira-magostu-ambulante-2026/20261030143037115624.html",
-    "desc": "La Junta Vecinal y el Instituto de Estudios Cabreireses organizan una jornada con actividades micológicas, talleres infantiles, presentaciones culturales, música tradicional y un magosto popular",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103014292634583.jpg",
-    "pub": 1793367037,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El romanticismo sonará en el Conde Luna con Raquel del Val",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/romanticismo-sonara-en-conde-luna-con-raquel-val_205611_102.html",
-    "desc": "La pianista dirige la segunda edición de unas jornadas que se celebrarán del 4 al 6 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/29/00/05/5/la-leonesa-raquel-del-val-llega-este-viernes-a-oporto-para-hablar-de-pedro-blanco-l-n-c.jpeg",
-    "pub": 1793366698,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Poesía visual que se recita en la Biblioteca de Astorga",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/poesia-visual-se-recita-en-biblioteca-astorga_205610_102.html",
-    "desc": "La exposición de Nuria Antón, Soco Seco y Benasser-Colom será inaugurada el lunes 2 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/22/21/16/1/imagen-nuria-anto-n-sujetando-silencio.jpeg",
-    "pub": 1793366195,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Gadis abre un Claudio en un municipio de León: 135 m² con 1.200 referencias y tres nuevos puestos de trabajo",
@@ -688,6 +688,14 @@
     "fuente": "Heraldo de León · León"
   },
   {
+    "titulo": "Vallsur lo pasa de miedo en familia, entre monstruos y brujas, para celebrar Halloween: “Son tres días muy especiales”",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261029/vallsur-pasa-miedo-familia-monstruos-brujas-celebrar-halloween-dias-especiales/1003744435322_0.html",
+    "desc": "El centro comercial ha programado, desde este jueves 29 de octubre y hasta el 31 del mismo mes, muchas actividades por Halloween para disfrutar en familia. Más información: La cita ideal para…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390499.jpg?p=w:1706/h:960&h=gwKECFxi",
+    "pub": 1793305985,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Abascal carga contra Puente y Sánchez y exige su dimisión tras la tragedia ferroviaria de Urda: “Ellos son el error humano”",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261029/abascal-carga-puente-sanchez-exige-dimision-tragedia-ferroviaria-urda-error-humano/1003744440504_0.html",
     "desc": "“Vamos a dejarnos la piel para que esto jamás vuelva a ocurrir”, ha afirmado el líder de Vox en Ávila. Más información: Vox no suspende los actos de precampaña tras la catástrofe de Urda y Abascal…",
@@ -702,14 +710,6 @@
     "img": "https://static.eldiario.es/clip/a1f43ee8-e0d4-48bc-b7de-3ddb8b9beac4_16-9-discover-aspect-ratio_default_0_x1111y492.jpg",
     "pub": 1793302057,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Seis detenidos en un amplio operativo de la Guardia Civil en una casa rural de Molinaseca",
-    "link": "https://www.elbierzodigital.com/seis-detenidos-en-un-amplio-operativo-de-la-guardia-civil-en-una-casa-rural-de-molinaseca/",
-    "desc": "Un amplio despliegue de la Guardia Civil sorprendió este jueves a los vecinos de Molinaseca con una operación que terminó con seis personas detenidas en una casa rural de la localidad. Los…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-28-at-13.26.59-4.jpeg",
-    "pub": 1793294764,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Consulta si te ha tocado mesa electoral en Valladolid para las elecciones del 29 de noviembre",
