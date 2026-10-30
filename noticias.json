@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Intoxicado por humo en un incendio en una vivienda de Ponferrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/persona-resulta-afectada-por-humo-en-incendio-en-vivienda-ponferrada_205607_102.html",
+    "desc": "La UVI móvil trasladó a la víctima al Hospital El Bierzo tras las primeras atenciones médicas en un inmueble de la calle Méjico",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/79/7/112-la-nueva-cronica-4-1000x563-4-1000x563-4-1000x563.jpeg",
+    "pub": 1793384460,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ucale-Coag denuncia que la Junta excluye al maíz y al regadío de las ayudas a fertilizantes",
+    "link": "https://www.lanuevacronica.com/actualidad/ucale-coag-denuncia-junta-excluye-maiz-regadio-ayudas-fertilizantes_205631_102.html",
+    "desc": "La organización agraria exige modificar el borrador de las subvenciones para incluir a los productores leoneses y critica la falta de transparencia de la Consejería de Agricultura",
+    "img": "https://www.lanuevacronica.com/uploads/s1/34/62/69/6/los-cereales-frenan-las-subidas-en-leon-pero-el-mar-negro-mantiene-en-vilo-al-mercado.jpeg",
+    "pub": 1793384314,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Oportunidad para emprender en 13 parcelas del polígono industrial de este pueblo de León",
+    "link": "https://www.lanuevacronica.com/actualidad/oportunidad-emprender-en-13-parcelas-poligono-industrial-este-pueblo-leon_205604_102.html",
+    "desc": "Con superficies entre los 1.382 y los 2.065 metros cuadrados, las ofertas podrán presentarse a lo largo de las dos próximas semanas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/76/7/almanzapoligono.jpeg",
+    "pub": 1793384271,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las miradas del XVI Maratón Reino de León",
+    "link": "https://www.heraldodeleon.es/sociedad/leon-premia-mejores-miradas-xvi-maraton-fotografico-reino-leon/20261030191616115665.html",
+    "desc": "La Sala de Ámbito Cultural de El Corte Inglés acoge este viernes la entrega de galardones del certamen, que ha reconocido los trabajos de Eduardo Rodríguez, Laura Díaz, Pablo Arranz y Valentín…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103019113048740.jpg",
+    "pub": 1793384176,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Un dulce puente en Astorga con la miel como protagonista",
+    "link": "https://www.lanuevacronica.com/actualidad/dulce-puente-en-astorga-con-miel-como-protagonista_205617_102.html",
+    "desc": "La muestra abrió este viernes sus puertas con más de una veintena de expositores y continúa este sábado y domingo con degustaciones, talleres, cocina en directo y conferencias",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/34/0/frame-30miel.jpeg",
+    "pub": 1793384122,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "ColproLeón se incorpora a la Cátedra de Territorios Sostenibles de la Uned en Ponferrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/colproleon-se-incorpora-catedra-territorios-sostenibles-uned-en-ponferrada_205629_102.html",
+    "desc": "El acuerdo establece un canal de comunicación permanente para promover futuras colaboraciones en investigación, formación, divulgación e innovación vinculadas al desarrollo sostenible del territorio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/37/5/colpro-uned.jpeg",
+    "pub": 1793383697,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Ponferrada entrega los certificados profesionales a los alumnos de talleres de empleo",
     "link": "https://www.heraldodeleon.es/el-bierzo/ponferrada-entrega-certificados-profesionales-alumnos-cuatro-talleres-empleo/20261030185601115657.html",
     "desc": "El alcalde, Marco Morala, y los concejales David Pacios y Lidia Coca participaron en el acto de clausura de unos programas que han formado a sus participantes durante nueve meses y han supuesto una…",
@@ -13,14 +61,6 @@
     "desc": "El espacio 'España Rural' se emitirá este sábado a las 12:05 horas en Radio 5 tras recorer varios pueblos de la comarca para conocer sus problemas y oportunidades",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/73/26/4/rne-programa-cabrera.jpeg",
     "pub": 1793382493,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El alfoz de León estrena un nuevo supermercado",
-    "link": "https://www.lanuevacronica.com/actualidad/alfoz-leon-estrena-nuevo-supermercado_205600_102.html",
-    "desc": "El nuevo establecimiento Claudio, franquicia de Gadis, está situado en la localidad de Villacedré y crea tres puestos de trabajo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/66/3/claudio-gadis-santovenia-de-la-valdoncina.jpeg",
-    "pub": 1793382052,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -328,30 +368,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Una persona resulta afectada por humo en un incendio en una vivienda de Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/persona-resulta-afectada-por-humo-en-incendio-en-vivienda-ponferrada_205607_102.html",
-    "desc": "Los servicios de emergencia recibieron el aviso a las 12:31 horas por la presencia de humo en un inmueble de la calle Méjico y movilizaron a los bomberos y a la Policía Local",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/79/7/112-la-nueva-cronica-4-1000x563-4-1000x563-4-1000x563.jpeg",
-    "pub": 1793365822,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Intoxicada una persona en el incendio de una vivienda en la calle Méjico de Ponferrada",
-    "link": "https://www.heraldodeleon.es/el-bierzo/intoxicada-persona-incendio-vivienda-calle-mejico-ponferrada/20261030135815115618.html",
-    "desc": "El suceso se produjo a las 12.31 horas de esta mañana, cuando se dio aviso de que salía humo de esa vivienda, por lo que se trasladó aviso a los bomberos de la capital berciana y a la Policía…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/05/22/2026052219435531725.jpg",
-    "pub": 1793365095,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Ponferrada desestima las alegaciones vecinales y avala construir las 80 viviendas para jóvenes en La Rosaleda",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-desestima-alegaciones-vecinales-avala-construir-80-viviendas-jovenes-en-rosaleda_205578_102.html",
-    "desc": "El pleno desestima las alegaciones vecinales y aprueba el convenio para ceder la parcela a la Junta con la negativa del PSOE, que cuestiona la prioridad nacional de diez años de empadronamiento…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/70/01/7/parcela-rosaleda.jpeg",
-    "pub": 1793365041,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Gadis abre un Claudio en un municipio de León: 135 m² con 1.200 referencias y tres nuevos puestos de trabajo",
     "link": "https://www.elespanol.com/castilla-y-leon/economia/empresas/20261030/gadis-abre-claudio-municipio-leon-m2-referencias-nuevos-puestos-trabajo/1003744441323_0.html",
     "desc": "En el municipio leonés de Santovenia de la Valdoncina y ubicado en la calle Real 45, de la población de Villacedré. Más información: Gadis abre su tercer Claudio Express en Valladolid con más de 70…",
@@ -373,14 +389,6 @@
     "desc": "Estaba previsto que los proyectos llegaran también a las pedanías de Joara, Villalebrín, Riosequillo y Celada de Cea",
     "img": "https://www.lanuevacronica.com/uploads/s1/13/47/68/sahagun-covid-21820-2.jpeg",
     "pub": 1793364112,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Oportunidad para emprender en 13 parcelas del polígono industrial de este pueblo de León",
-    "link": "https://www.lanuevacronica.com/actualidad/oportunidad-emprender-en-13-parcelas-poligono-industrial-este-pueblo-leon_205604_102.html",
-    "desc": "Con superficies entre los 1.382 y los 2.065 metros cuadrados, las ofertas podrán presentarse a lo largo de las dos próximas semanas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/76/7/almanzapoligono.jpeg",
-    "pub": 1793363902,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -438,14 +446,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/03/san-isidro-y-valle-laciana-leitariegos-abren-este-fin-de-semana-187-km-de-pistas-de-esqui-el-bierzo-digital.jpeg",
     "pub": 1793362645,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ponferrada aprueba un Plan de Emergencia en situaciones de sequía",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ponferrada-aprueba-plan-emergencia-en-situaciones-sequia_205580_102.html",
-    "desc": "El pleno avaló ese documento que plantea medidas preventivas y actualiza recursos hídricos frente a una alerta que reconocen, de momento no se da",
-    "img": "https://www.lanuevacronica.com/uploads/s1/32/70/16/7/foto-archivo-pleno.jpeg",
-    "pub": 1793362524,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Iberdrola busca entre alumnos de Formación Profesional en Castilla y León al mejor talento eléctrico de España",
