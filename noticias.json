@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "La tragedia ferroviaria de Toledo deja otra leonesa desaparecida: la científica Marta Shahbazi",
+    "link": "https://www.lanuevacronica.com/actualidad/tragedia-ferroviaria-toledo-deja-otra-leonesa-desaparecida-cientifica-marta-shahbazi_205619_102.html",
+    "desc": "Investigadora de un laboratorio en Cambridge, viajaba a Huelva para recoger un premio a la excelencia científica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/03/4/leonesa-desaparecida-accidente-tren-urda-toledo.png",
+    "pub": 1793379951,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "UPL celebra que la Junta active la vía judicial contra el peaje de la AP-66",
+    "link": "https://www.heraldodeleon.es/leon/upl-celebra-que-junta-active-via-judicial-peaje-ap-66/20261030180337115649.html",
+    "desc": "La formación leonesista reivindica sus iniciativas parlamentarias de 2021, 2024 y julio de 2026 para eliminar el pago entre León y Asturias y pide al Gobierno autonómico que materialice su compromiso",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/09/27/2025092709171279029.jpg",
+    "pub": 1793379817,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Todos los Santos en León: horarios, aparcamientos y autobuses para acudir al cementerio",
+    "link": "https://www.lanuevacronica.com/actualidad/todos-santos-en-leon-horarios-aparcamientos-autobuses-acudir-cementerio_205568_102.html",
+    "desc": "El camposanto abrirá de 9:00 a 18:30 horas entre el 30 de octubre y el 1 de noviembre, con seis accesos habilitados y cambios en la circulación durante la jornada del domingo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/30/47/67/1/dia-de-todos-los-santos-en-el-cementerio-de-leon-8.jpeg",
+    "pub": 1793379600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Ruta del Cares reabre al público dos semanas después tras reparar la pasarela",
+    "link": "https://www.lanuevacronica.com/actualidad/ruta-cares-reabre-publico-reparar-pasarela_205615_102.html",
+    "desc": "Se han ejecutado obras de emergencia en la infraestructura, cerca del Puente de los Rebecos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/97/0/ruta-del-cares-02.jpeg",
+    "pub": 1793379162,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Asorbier sale a la calle para exigir intérpretes de lengua de signos en las aulas",
     "link": "https://www.elbierzodigital.com/asorbier-sale-a-la-calle-para-exigir-interpretes-de-lengua-de-signos-en-las-aulas/",
     "desc": "La Asociación de Personas Sordas del Bierzo (Asorbier) ha convocado una concentración el próximo viernes, 6 de noviembre , en Ponferrada para reclamar que los centros educativos cuenten con…",
@@ -16,20 +48,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Cuatro estaciones, muchas promesas y ningún avance",
-    "link": "https://www.lanuevacronica.com/actualidad/cuatro-estaciones-muchas-promesas-ningun-avance_205616_102.html",
-    "desc": "Leitariegos es Futuro Nieve y Montaña de Asturias denuncian que el nuevo convenio entre Asturias y León no aporta avances",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/99/0/la-estacion-invernal-valle-de-laciana-leitariegos-en-una-imagen-de-archivo.jpeg",
-    "pub": 1793376958,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Ruta del Cares reabre al público tras reparar una pasarela",
-    "link": "https://www.lanuevacronica.com/actualidad/ruta-cares-reabre-publico-reparar-pasarela_205615_102.html",
-    "desc": "Se han ejecutado obras de emergencia en la infraestructura, cerca del Puente de los Rebecos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/97/0/ruta-del-cares-02.jpeg",
-    "pub": 1793376621,
-    "fuente": "La Nueva Crónica"
+    "titulo": "Los pacientes de Castilla y León tienen que esperar un mes más que el año pasado para ser operados en los hospitales",
+    "link": "https://www.eldiario.es/castilla-y-leon/sociedad/pacientes-castilla-leon-esperar-mes-operados-hospitales_1_13627788.html",
+    "desc": "El número de pacientes que ha esperado más de un año para ser operado se ha multiplicado por siete en el último año La lista de espera oculta del Gobierno de Ayuso se desboca: 360.000 pruebas y…",
+    "img": "https://static.eldiario.es/clip/6a26de10-611f-4d98-8ec4-bb01788944b8_16-9-discover-aspect-ratio_default_0.jpg",
+    "pub": 1793376879,
+    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "El Hospital El Bierzo vuelve a liderar las listas de espera quirúrgica de Castilla y León, con 215 días",
@@ -320,14 +344,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Pablo Linares será el mantenedor del Magosto de Ponferrada, que se celebra este domingo",
-    "link": "https://www.lanuevacronica.com/el-bierzo/pablo-linares-sera-mantenedor-magosto-ponferrada-se-celebra-este-domingo_205602_102.html",
-    "desc": "El director de Alimentos de Calidad del Bierzo encenderá la queimada y pronunciará el conxuro en una fiesta que sustituirá el espectáculo de fuego por un pasacalles de Mekanika Rolling Band",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/71/8/linares.jpeg",
-    "pub": 1793364414,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ponferrada entrega los certificados de profesionalidad a los alumnos de sus cuatro programas de empleo",
     "link": "https://www.elbierzodigital.com/ponferrada-entrega-los-certificados-de-profesionalidad-a-los-alumnos-de-sus-cuatro-programas-de-empleo/",
     "desc": "El Ayuntamiento de Ponferrada ha entregado este viernes los certificados de profesionalidad a los alumnos de los cuatro Programas Públicos Mixtos de Empleo y Formación desarrollados durante 2026. El…",
@@ -365,7 +381,7 @@
     "desc": "El circuito, de 505 metros de recorrido, ampliará su horario de utilización con la instalación de alumbrado artificial. La Junta de Gobierno renueva también el acuerdo con la Cultural para gestionar…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/10/22/2025102208523119273.jpg",
     "pub": 1793363679,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "'Lo que no entra en cuadro' sí entró en los Cines Van Gogh",
@@ -624,6 +640,14 @@
     "fuente": "El Español · CyL"
   },
   {
+    "titulo": "La Raya y sus difuntos",
+    "link": "https://www.elespanol.com/castilla-y-leon/opinion/20261030/raya-difuntos/1003744439163_12.html",
+    "desc": "\"Entre las calles de siempre y los bancales que descienden hacia el Duero, Todos los Santos devuelve a la Raya, y a Villarino en particular, el recuerdo de quienes levantaron su historia\"",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389617.jpg?p=w:1706/h:960&h=60KJLpRC",
+    "pub": 1793340000,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Roberto Migallón, alcalde de Zaratán: \"La salchicha es un símbolo gastronómico que nos representa y hay que ensalzar\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261030/roberto-migallon-alcalde-zaratan-salchicha-simbolo-gastronomico-representa-ensalzar/1003744440102_0.html",
     "desc": "La localidad celebra hasta el martes 3 de noviembre los actos festivos en homenaje a este producto tradicional. Más información : Carlos, embajador de la Fiesta de la Salchicha de Zaratán: “Algo tan…",
@@ -632,11 +656,19 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "La Raya y sus difuntos",
-    "link": "https://www.elespanol.com/castilla-y-leon/opinion/20261030/raya-difuntos/1003744439163_12.html",
-    "desc": "\"Entre las calles de siempre y los bancales que descienden hacia el Duero, Todos los Santos devuelve a la Raya, y a Villarino en particular, el recuerdo de quienes levantaron su historia\"",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389617.jpg?p=w:1706/h:960&h=60KJLpRC",
+    "titulo": "El pueblo más bonito de España con el mejor lechazo, castillo del siglo XII y puente medieval: es de los preferidos de los viajeros",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261030/pueblo-bonito-espana-mejor-lechazo-castillo-siglo-xii-puente-medieval-preferidos-viajeros-trt/1003744439281_0.html",
+    "desc": "Está situado en Castilla y León, una comunidad que tiene otros tres municipios en la lista oficial. Más información : El pueblo más bonito de España con el mejor embutido, un rollo del s. XVIII y…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10323790.jpg?p=c:1909:1074:nowe:8:99/w:1706/h:960&h=toHRTanf",
     "pub": 1793340000,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Vallsur lo pasa de miedo en familia, entre monstruos y brujas, para celebrar Halloween: “Son tres días muy especiales”",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261029/vallsur-pasa-miedo-familia-monstruos-brujas-celebrar-halloween-dias-especiales/1003744435322_0.html",
+    "desc": "El centro comercial ha programado, desde este jueves 29 de octubre y hasta el 31 del mismo mes, muchas actividades por Halloween para disfrutar en familia. Más información: La cita ideal para…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390499.jpg?p=w:1706/h:960&h=gwKECFxi",
+    "pub": 1793305985,
     "fuente": "El Español · CyL"
   },
   {
@@ -672,30 +704,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Bembibre repartirá 1.800 euros en premios en su concurso de escaparates navideños",
-    "link": "https://www.elbierzodigital.com/bembibre-repartira-1-800-euros-en-premios-en-su-concurso-de-escaparates-navidenos/",
-    "desc": "El Ayuntamiento de Bembibre convoca una nueva edición del Concurso de Escaparates de Navidad, que repartirá 1.800 euros en premios entre los establecimientos participantes. La iniciativa busca…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/bembibre-repartira-1-800-euros-en-premios-en-su-concurso-de-escaparates-navidenos-el-bierzo-digital.jpg",
-    "pub": 1793292455,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Mañueco lamenta la muerte de Fátima Báñez, a quien recuerda como «una extraordinaria ministra»",
-    "link": "https://www.elbierzodigital.com/manueco-lamenta-la-muerte-de-fatima-banez-a-quien-recuerda-como-una-extraordinaria-ministra/",
-    "desc": "El presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco , se mostró este jueves \"muy triste\" tras confirmarse la muerte de Fátima Báñez , exministra de Empleo y Seguridad Social y…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/manueco-lamenta-la-muerte-de-fatima-banez-a-quien-recuerda-como-una-extraordinaria-ministra-el-bierzo-digital.jpeg",
-    "pub": 1793290956,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Vox se querella contra Óscar Puente por presuntos homicidios y lesiones por imprudencia grave",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261029/vox-querella-oscar-puente-presuntos-homicidios-lesiones-imprudencia-grave/1003744440179_0.html",
-    "desc": "La formación de Abascal reclama que se investigue al vallisoletano por sus actuaciones en materia de seguridad ferroviaria y declare en calidad de investigado. Más información: Un tren Ouigo con…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10545315.jpg?p=c:2845:1599:nowe:644:627/w:1706/h:960&h=c2DKovEI",
-    "pub": 1793290646,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Consulta si te ha tocado mesa electoral en Valladolid para las elecciones del 29 de noviembre",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/consulta-si-tocado-mesa-electoral-valladolid-elecciones-29-noviembre_1_13624779.html",
     "desc": "Los ciudadanos elegidos disponen de siete días desde la recepción de la notificación para justificar ante la Junta Electoral de Zona por qué no pueden ejercer como miembros de una mesa El BOE…",
@@ -717,14 +725,6 @@
     "desc": "El festival de cine vallisoletano dará a conocer el palmarés de esta edición en un acto informativo el sábado 31 de octubre por la mañana La película que se ha convertido en el símbolo de la…",
     "img": "https://static.eldiario.es/clip/deb513d6-1050-45fa-9435-817b036e70d7_16-9-discover-aspect-ratio_default_0_x1565y393.jpg",
     "pub": 1793272200,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "PP y Vox 'cuelan' modificaciones a las leyes de caza y apuestas en la Ley de Presupuestos en Castilla y León",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/pp-vox-cuelan-modificaciones-leyes-caza-apuestas-ley-presupuestos-castilla-leon_1_13605322.html",
-    "desc": "La Ley que acompaña a las cuentas autonómicas incluye la modificación de 18 leyes no tributarias y retrocesos en la participación social en Servicios Sociales, Residencias, Urbanismo y Medio…",
-    "img": "https://static.eldiario.es/clip/7c84f2b5-a762-48c3-878c-8f878769ba6b_16-9-discover-aspect-ratio_default_0_x978y354.jpg",
-    "pub": 1793227224,
     "fuente": "eldiario.es · CyL"
   },
   {
