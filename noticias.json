@@ -1,11 +1,35 @@
 [
   {
+    "titulo": "El PP de Torre del Bierzo pide explicaciones por las grietas en las pistas de Albares",
+    "link": "https://www.heraldodeleon.es/el-bierzo/pp-torre-bierzo-pide-explicaciones-grietas-pistas-albares-reforma/20261031161009115738.html",
+    "desc": "El portavoz popular en el Ayuntamiento, José Luis de la Torre, reclama que se aclaren las causas del deterioro de unas instalaciones cuya reforma fue adjudicada por 97.000 euros y cuestiona la…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103116083085744.jpg",
+    "pub": 1793459409,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Aplazado el magosto de Corullón",
+    "link": "https://www.elbierzodigital.com/aplazado-el-magosto-de-corullon/",
+    "desc": "La Asociación Cultural San Esteban de Corullón aplaza su magosto por el accidente ferroviario de Urda, en Toledo, como muestra de respeto y solidaridad con las víctimas del accidente ferroviario,…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2013/11/2mbgqe00Magosto2009-14c.jpeg",
+    "pub": 1793459259,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Un fallecido y un herido grave por una agresión con arma blanca en Valladolid",
     "link": "https://www.heraldodeleon.es/castilla-y-leon/fallecido-herido-grave-agresion-arma-blanca-valladolid/20261031155423115736.html",
     "desc": "Los dos varones fueron trasladados al centro de salud de Villafrechós, donde se solicitó el envío de un helicóptero",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103115514441482.jpg",
     "pub": 1793458463,
     "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Un muerto por arma blanca y otro grave en una agresión en Tordehumos",
+    "link": "https://www.20minutos.es/castilla-y-leon/valladolid/un-muerto-por-arma-blanca-otro-grave-una-agresion-tordehumos_7055815_0.html",
+    "desc": "Las tres víctimas, trabajadores de origen indio alojados en un albergue de la localidad, han sufrido heridas de distinta gravedad. La Guardia Civil busca al presunto autor del apuñalamiento, que ya…",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/18/6aad06a9197f96-90143596.jpeg",
+    "pub": 1793457769,
+    "fuente": "20minutos CyL"
   },
   {
     "titulo": "Tres amigos bercianos a la conquista del desierto marroquí a bordo de su Citroën C15",
@@ -344,14 +368,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Herida una mujer tras chocar contra un coche estacionado en Valencia de Don Juan",
-    "link": "https://www.heraldodeleon.es/comarcas/coyanza/mujer-resulta-herida-chocar-coche-estacionado-valencia-don-juan/20261031103113115684.html",
-    "desc": "El turismo que conducía se salió de la vía y colisionó contra otro vehículo en la plaza Santa Marina | La conductora, de unos 50 años, estaba consciente, aunque desorientada&nbsp;",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/09/22/2025092213325012995.jpg",
-    "pub": 1793439073,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "COLPROLeón estrecha lazos con la UNED para impulsar el desarrollo sostenible del territorio",
     "link": "https://www.elbierzodigital.com/colproleon-estrecha-lazos-con-la-uned-para-impulsar-el-desarrollo-sostenible-del-territorio/",
     "desc": "La Asociación de Colegios Profesionales de León (COLPROLeón) se ha incorporado a la Cátedra de Territorios Sostenibles y Desarrollo Local de la UNED en Ponferrada tras la firma de un acuerdo de…",
@@ -600,7 +616,7 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "Nafti admite que la Ponferradina tiene un «déficit técnico»: «Esperábamos algo más de la plantilla»",
+    "titulo": "Nafti admite que la Ponferradina tiene un déficit técnico: «Esperábamos algo más de la plantilla»",
     "link": "https://www.elbierzodigital.com/nafti-admite-que-la-ponferradina-tiene-un-deficit-tecnico-esperabamos-algo-mas-de-la-plantilla/",
     "desc": "Mehdi Nafti ha puesto voz a una de las principales carencias que está mostrando la SD Ponferradina en este inicio de temporada: la falta de recursos técnicos para mejorar su producción ofensiva. El…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/nafti-admite-que-la-ponferradina-tiene-un-deficit-tecnico-esperabamos-algo-mas-de-la-plantilla-el-bierzo-digital.jpg",
@@ -686,14 +702,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103011244827741.jpg",
     "pub": 1793359220,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "La Junta pagará 20 euros más al mes a los profesores que sean tutores",
-    "link": "https://www.elespanol.com/castilla-y-leon/cultura/educacion-y-universidad/20261030/junta-pagara-euros-mes-profesores-tutores/1003744441009_0.html",
-    "desc": "La cuantía irá aumentando con los años hasta alcanzar los 60 euros en el curso 2028-2029. Más información : Castilla y León reconoce por primera vez la tutoría docente: pagará hasta 60 euros al mes…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10323154.jpg?p=w:1706/h:960&h=XLZY5ZpQ",
-    "pub": 1793359193,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "La DGT prevé 83.000 desplazamientos por las carreteras de León en el puente de los Santos",
@@ -789,14 +797,6 @@
     "desc": "La Policía Nacional se ha hecho cargo de la investigación para esclarecer las circunstancias concretas del accidente.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2020/10/19/decretado-el-confinamiento-de-burgos-y-aranda-de-duero.jpeg",
     "pub": 1792601310,
-    "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "La Policía detiene a cuatro personas más por el homicidio de la anciana en Burgos y eleva a seis los implicados, tres de ellos menores",
-    "link": "https://www.20minutos.es/castilla-y-leon/burgos/tres-nuevos-detenidos-por-muerte-una-anciana-maniatada-tras-un-robo-su-casa-burgos_7051466_0.html",
-    "desc": "Estos nuevos arrestos se suman a los de otros dos menores de 16 y 17 años, detenidos cuatro días después de los hechos como presuntos autores materiales del asalto, el robo de joyas y la muerte…",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/16/6ad215fdc0dae9-79554452.jpeg",
-    "pub": 1792576031,
     "fuente": "20minutos CyL"
   }
 ]
