@@ -1,5 +1,61 @@
 [
   {
+    "titulo": "Los Amigos del Teatro Emperador confían en que la rehabilitación siga adelante tras el 29-N",
+    "link": "https://www.lanuevacronica.com/actualidad/amigos-teatro-emperador-confian-en-rehabilitacion-siga-adelante-29-n_205650_102.html",
+    "desc": "Atem y Fundación Amithe recuerdan que por ahora solo hay presupuesto para redactar el proyecto justo cuando se cumplen dos décadas desde el cierre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/15/20/13/emperador-23-04-23.jpeg",
+    "pub": 1793444443,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La unidad móvil de Recoletas y la Diputación de Segovia alcanza las 3.500 revisiones oculares en el medio rural",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/segovia/20261031/unidad-movil-recoletas-diputacion-segovia-alcanza-revisiones-oculares-medio-rural/1003744442220_0.html",
+    "desc": "El programa roza las 3.500 atenciones en su quinta etapa por la N-110, que concluirá el 6 de noviembre en Navafría evitando desplazamientos a la capital. Más información: Celia y Esther, dos nuevas…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391595.jpg?p=w:1706/h:960&h=oiJjoRf6",
+    "pub": 1793444379,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "León contará con dos nuevas plazas de magistrado en su Audiencia Provincial",
+    "link": "https://www.heraldodeleon.es/leon/leon-contara-dos-nuevas-plazas-magistrado-audiencia-provincial/20261031115928115710.html",
+    "desc": "Una plaza corresponderá al orden civil y otra al penal, a las que se sumará una tercera en la Sección de lo Penal del Tribunal de Instancia de León",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/03/07/2025030708104041703.jpg",
+    "pub": 1793444368,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "UPL preguntará a Mañueco si negociará los presupuestos para mejorar las inversiones en León",
+    "link": "https://www.lanuevacronica.com/actualidad/upl-preguntara-manueco-si-negociara-presupuestos-mejorar-inversiones-en-leon_205652_102.html",
+    "desc": "Los leonesistas llevarán al pleno de las Cortes las obras pendientes del camping de Sahagún y reclamarán mayores inversiones en carreteras e infraestructuras",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/50/38/7/la-portavoz-de-upl-en-las-ccyl-alicia-gallego-1.jpeg",
+    "pub": 1793443970,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León gana un prestigioso premio europeo por su proyecto de energía solar",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-gana-prestigioso-premio-europeo-por-su-proyecto-energia-solar_205651_102.html",
+    "desc": "El Ayuntamiento recibe el Innovation in Politics Awards 2026 por una iniciativa de autoconsumo energético que contempla una inversión de 2,5 millones de euros y busca reducir la factura eléctrica…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/82/6/leon-gana-un-prestigioso-premio-europeo-por-su-proyecto-de-energia-solar.jpeg",
+    "pub": 1793443552,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León recibe el premio Innovation in Politics Awards por su proyecto de energía solar",
+    "link": "https://www.heraldodeleon.es/leon/leon-recibe-premio-innovation-in-politics-awards-proyecto-autoconsumo-energetico/20261031114450115709.html",
+    "desc": "'León Smart City Solar' ha sido elegido por The European Capital of Democracy entre más de 300 iniciativas de 35 países de toda Europa",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103111352885063.jpg",
+    "pub": 1793443490,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Junta avala tres nuevas plazas judiciales para León en 2027",
+    "link": "https://www.lanuevacronica.com/actualidad/junta-avala-tres-nuevas-plazas-judiciales-leon-en-2027_205649_102.html",
+    "desc": "La Audiencia Provincial incorporaría dos magistrados y el Tribunal de Instancia sumaría una plaza en la Sección de lo Penal, una necesidad que se viene reclamando desde 2022",
+    "img": "https://www.lanuevacronica.com/uploads/s1/32/68/99/0/audiencialeon-4-12-22-4-1000x563-4-1000x563.jpeg",
+    "pub": 1793442962,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "León espera más de 15.000 visitas al cementerio por Todos los Santos",
     "link": "https://www.heraldodeleon.es/leon/leon-espera-mas-15000-visitas-cementerio-todos-santos/20261031111930115697.html",
     "desc": "El Ayuntamiento despliega 152 policías locales, habilita 595 plazas de aparcamiento y pone en marcha dos líneas especiales de autobús para facilitar los desplazamientos a Puente Castro durante las…",
@@ -144,6 +200,14 @@
     "fuente": "El Bierzo Digital"
   },
   {
+    "titulo": "El Mercado de Otoño llena de sabor y artesanía la avenida Pérez Colino",
+    "link": "https://www.elbierzodigital.com/el-mercado-de-otono-llena-de-sabor-y-artesania-la-avenida-perez-colino/",
+    "desc": "El Mercado de Otoño ha tomado este sábado, 31 de octubre, la avenida Pérez Colino de Ponferrada. Desde las 10.00 horas, cuarenta productores y artesanos de la zona ofrecen a vecinos y visitantes una…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-mercado-de-otono-llena-de-sabor-y-artesania-la-avenida-perez-colino-el-bierzo-digital-3.jpeg",
+    "pub": 1793429422,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Mercedes, trabajadora de una residencia: \"Cobro 1.160 euros de salario base después de 25 años, hay que ir a la huelga\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261031/mercedes-trabajadora-residencia-cobro-euros-salario-base-despues-anos-ir-huelga-trt/1003744437844_0.html",
     "desc": "Esta empleada denuncia que \"no hay nadie para trabajar\" y que \"la patronal no quiere llegar a un acuerdo\". Más información: CC.OO. exige más personal y mejores condiciones laborales en las…",
@@ -236,38 +300,6 @@
     "link": "https://www.lanuevacronica.com/lnc-culturas/tradicion-sabor-en-popular-plaza-churros-baneza_205626_102.html",
     "desc": "Los churros forman parte de la identidad de los desayunos bañezanos, una tradición que sigue viva en Churrería Victoria",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/73/28/2/churreria-victoria-la-baneza.jpeg",
-    "pub": 1793415600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Avanzan las obras del parking subterráneo de San Marcelo",
-    "link": "https://www.lanuevacronica.com/actualidad/avanzan-obras-parking-subterraneo-san-marcelo_205621_102.html",
-    "desc": "Los trabajos llevan ya un tiempo ejecutándose en el interior, pero son ahora más visibles al centrarse en la reapertura de la antigua escalera",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/04/9/img-20261030-121839-070.jpeg",
-    "pub": 1793415600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El verano y las huelgas elevan hasta 8.700 los pacientes que aguardan una operación",
-    "link": "https://www.lanuevacronica.com/actualidad/verano-huelgas-elevan-hasta-8700-pacientes-aguardan-operacion_205620_102.html",
-    "desc": "Son casi 1.800 más que hace un año y la demora media sube a 120 días en el Hospital de León y 215 en el del Bierzo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/15/60/52/quirofano-14-07-23.jpeg",
-    "pub": 1793415600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los personajes del tío Ful: Goyo, 49 años de mecánico en la Ford",
-    "link": "https://www.lanuevacronica.com/extras/los-personajes-de-ful/personajes-tio-ful-goyo-49-anos-mecanico-en-ford_205622_102.html",
-    "desc": "Entró en Auto Palacios con 14 años, tuvo que ir su padre con él; el 6 de diciembre haría 50 años sin cambiar de empresa pero ha decidido jubilarse, \"cuidar de mi nieta es lo más bello\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/06/5/frame-31personaje.jpeg",
-    "pub": 1793415600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Uno de cada cuatro estudiantes de León se retrasa en la obtención del título de Bachillerato",
-    "link": "https://www.lanuevacronica.com/actualidad/cada-cuatro-estudiantes-leon-se-retrasa-en-obtencion-titulo-bachillerato_205618_102.html",
-    "desc": "La provincia es la que muestra un rendimiento más bajo de la comunidad autónoma en estos estudios postobligatorios",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/00/4/leonbachillerato.jpeg",
     "pub": 1793415600,
     "fuente": "La Nueva Crónica"
   },
@@ -365,7 +397,7 @@
     "desc": "La científica leonesa Marta Shahbazi y la investigadora berciana Tamara González Costa figuran entre las personas cuyo paradero se desconoce tras el siniestro ferroviario registrado en Toledo",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103018180171842.jpg",
     "pub": 1793380742,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "UPL celebra que la Junta active la vía judicial contra el peaje de la AP-66",
@@ -373,7 +405,7 @@
     "desc": "La formación leonesista reivindica sus iniciativas parlamentarias de 2021, 2024 y julio de 2026 para eliminar el pago entre León y Asturias y pide al Gobierno autonómico que materialice su compromiso",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/09/27/2025092709171279029.jpg",
     "pub": 1793379817,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Asorbier sale a la calle para exigir intérpretes de lengua de signos en las aulas",
@@ -678,38 +710,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390579.jpg?p=w:1706/h:960&h=1sZjFk5U",
     "pub": 1793348023,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Otro 'veranillo' en León con temperaturas de hasta 20 grados el fin de semana",
-    "link": "https://www.heraldodeleon.es/leon/veranillo-leon-temperaturas-20-grados-fin-semana/20261030090355115513.html",
-    "desc": "La provincia disfrutará de tres jornadas sin precipitaciones y con cielos poco nubosos, según la Aemet | Las temperaturas nocturnas bajarán progresivamente hasta los 2 grados el domingo en la…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/06/29/2026062908334513686.jpg",
-    "pub": 1793347435,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Los conductores de autobús plantan cara al bloqueo del convenio y amenazan con una huelga indefinida",
-    "link": "https://www.elbierzodigital.com/los-conductores-de-autobus-del-bierzo-plantan-cara-al-bloqueo-del-convenio-y-amenazan-con-una-huelga-indefinida/",
-    "desc": "La estación de autobuses de Ponferrada ha sido escenario esta mañana de una concentración de conductores de autobuses interurbanos del Bierzo y la provincia, que han secundado la primera jornada de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-16.jpeg",
-    "pub": 1793347235,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Bembibre HC abre la OK Liga Iberdrola en casa con el reto de romper su racha ante el Palau",
-    "link": "https://www.elbierzodigital.com/el-bembibre-hc-abre-la-ok-liga-iberdrola-en-casa-con-el-reto-de-romper-su-racha-ante-el-palau/",
-    "desc": "El Bembibre Hockey Club levanta este sábado el telón de la temporada 2026/27 con el estreno en casa ante el Generali Palau i Plegamans. El encuentro, correspondiente a la primera jornada de la OK…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-bembibre-hc-abre-la-ok-liga-iberdrola-en-casa-con-el-reto-de-romper-su-racha-ante-el-palau-el-bierzo-digital.jpg",
-    "pub": 1793347206,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Las cámaras en la 'almendra central' de León siguen sin poder multar",
-    "link": "https://www.heraldodeleon.es/leon/camaras-control-almendra-central-siguen-multar-policia-local-estrecha-vigilancia-zona/20261030075922115509.html",
-    "desc": "El Ayuntamiento tiene operativas las cámaras de reconocimiento de matrículas, pero ha decidido no utilizarlas todavía para imponer sanciones a los vehículos que circulan sin autorización por la…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/06/02/2025060211433117733.jpg",
-    "pub": 1793343562,
-    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Santiago Abascal carga contra el PSOE: \"Frenar al fascismo les gusta mucho, que frenen un tren es pedirles demasiado\"",
