@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "El Leonés despide a 'Mari' Rodríguez, referente de la educación durante más de 40 años",
+    "link": "https://www.heraldodeleon.es/leon/leones-despide-mari-rodriguez-referente-educacion-mas-40-anos/20261031131348115722.html",
+    "desc": "El centro lamenta el fallecimiento de María del Carmen Rodríguez Sánchez, a los 85 años, y destaca su papel clave en la transición del Colegio de las Hermanas Josefinas al actual Jesús Maestro en 2001",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103113123032312.jpg",
+    "pub": 1793448828,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Confirman la muerte de Tamara González, la científica berciana desaparecida en el accidente de Urda",
+    "link": "https://www.lanuevacronica.com/el-bierzo/confirman-muerte-tamara-gonzalez-cientifica-berciana-desaparecida-en-accidente-urda_205655_102.html",
+    "desc": "La biotecnóloga bembibrense, de 31 años, viajaba en el tren de Renfe que colisionó con otro convoy de Iryo en Toledo. La científica leonesa Marta Shahbazi continúa desaparecida",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/93/5/leonesa-bembibre-tren-urda-4-1000x563.png",
+    "pub": 1793448598,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "\"El Coto pertenece a la ciudadanía\": los monitores reclaman garantías para su futuro",
+    "link": "https://www.heraldodeleon.es/leon/coto-escolar-pertenece-ciudadania-monitores-reclaman-garantias-futuro/20261031125724115720.html",
+    "desc": "La plantilla exige al Ayuntamiento que cumpla el acuerdo de junio y aclare sus planes sobre el futuro de este servicio público, que lleva 42 años en funcionamiento",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/11/22/2025112214300666298.jpg",
+    "pub": 1793447844,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Los estudiantes de la ULE buscan soluciones a problemas reales de empresas y entidades de León",
+    "link": "https://www.lanuevacronica.com/actualidad/estudiantes-ule-buscan-soluciones-problemas-reales-empresas-entidades-leon_205654_102.html",
+    "desc": "Más de 40 universitarios participaron en el primer Hackathon Edu-Hack, una iniciativa que repartió 1.000 euros en premios entre los cuatro equipos ganadores",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/91/7/medio-centenar-de-estudiantes-de-la-ule-disena-soluciones-innovadoras-para-problematicas-reales-del-sector-socioeducativo.jpeg",
+    "pub": 1793447319,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Uno de cada cuatro estudiantes de León se retrasa en la obtención del título de Bachillerato",
     "link": "https://www.lanuevacronica.com/actualidad/cada-cuatro-estudiantes-leon-se-retrasa-en-obtencion-titulo-bachillerato_205618_102.html",
     "desc": "La provincia es la que muestra un rendimiento más bajo de la comunidad autónoma en estos estudios postobligatorios",
@@ -72,6 +104,14 @@
     "fuente": "Heraldo de León"
   },
   {
+    "titulo": "La Junta avala la llegada de 17 nuevas plazas de jueces a Castilla y León en 2027, pero reclama más en  Palencia y Soria",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261031/junta-avala-llegada-nuevas-plazas-jueces-castilla-leon-reclama-palencia-soria/1003744442207_0.html",
+    "desc": "El informe de Presidencia respalda las nuevas plazas asignadas a la Comunidad pero insiste en extender los juzgados de Violencia sobre la Mujer y cubrir vacantes históricas. Más información:…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391590.jpg?p=w:1706/h:960&h=CL3xtQcX",
+    "pub": 1793443213,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "La Junta avala tres nuevas plazas judiciales para León en 2027",
     "link": "https://www.lanuevacronica.com/actualidad/junta-avala-tres-nuevas-plazas-judiciales-leon-en-2027_205649_102.html",
     "desc": "La Audiencia Provincial incorporaría dos magistrados y el Tribunal de Instancia sumaría una plaza en la Sección de lo Penal, una necesidad que se viene reclamando desde 2022",
@@ -94,6 +134,14 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/09/07/2025090711265240970.jpg",
     "pub": 1793441963,
     "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "León despide a Octavio González 'Tavito', \"referente\" de Vegacervera y gran impulsor de la Feria de la Cecina de Chivo",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261031/leon-despide-octavio-gonzalez-tavito-referente-vegacervera-gran-impulsor-feria-cecina-chivo/1003744442196_0.html",
+    "desc": "La Diputación de León traslada su pésame a sus allegados y a su hijo, el diputado Octavio González, destacando la huella imborrable que deja en la promoción de las tradiciones leonesas. Más…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391582.jpg?p=w:1706/h:960&h=Uyz1JDhb",
+    "pub": 1793441744,
+    "fuente": "El Español · CyL"
   },
   {
     "titulo": "La Sobarriba recupera su memoria rural en un ensayo histórico de Clemente Fuertes",
@@ -232,18 +280,18 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Mercedes, trabajadora de una residencia: \"Cobro 1.160 euros de salario base después de 25 años, hay que ir a la huelga\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261031/mercedes-trabajadora-residencia-cobro-euros-salario-base-despues-anos-ir-huelga-trt/1003744437844_0.html",
-    "desc": "Esta empleada denuncia que \"no hay nadie para trabajar\" y que \"la patronal no quiere llegar a un acuerdo\". Más información: CC.OO. exige más personal y mejores condiciones laborales en las…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388779.jpg?p=w:1706/h:960&h=FVsnVDvu",
-    "pub": 1793426400,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Charo (58), dueña de una panadería: “Repartimos barras a 28 pueblos y algunos vecinos solo salen de casa para esto”",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261031/charo-duena-panaderia-repartimos-barras-pueblos-vecinos-solo-salen-casa-trt/1003744439234_0.html",
     "desc": "Charo González Rubio mantiene encendido el horno de la Panadería Nuestra Señora del Rosario en La Unión de Campos. Más información: La historia de una panadería con 80 años de historia y tres…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389656.jpg?p=c:458:258:nowe:96:43/w:1706/h:960&h=wSom7Cs7",
+    "pub": 1793426400,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Mercedes, trabajadora de una residencia: \"Cobro 1.160 euros de salario base después de 25 años, hay que ir a la huelga\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261031/mercedes-trabajadora-residencia-cobro-euros-salario-base-despues-anos-ir-huelga-trt/1003744437844_0.html",
+    "desc": "Esta empleada denuncia que \"no hay nadie para trabajar\" y que \"la patronal no quiere llegar a un acuerdo\". Más información: CC.OO. exige más personal y mejores condiciones laborales en las…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388779.jpg?p=w:1706/h:960&h=FVsnVDvu",
     "pub": 1793426400,
     "fuente": "El Español · CyL"
   },
@@ -304,22 +352,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Las cucerías de Cantón",
-    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_205634_102.html",
-    "desc": "El humorista gráfico Rubén Cantón lanza una nueva pregunta sobre curiosidades de la provincia de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/49/7/31-10-2026-las-cucerias-de-canton.jpeg",
-    "pub": 1793415600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Fresno de la Vega presume de un espacio joven renovado con un toque muy local",
-    "link": "https://www.lanuevacronica.com/actualidad/fresno-vega-presume-espacio-joven-renovado-con-toque-muy-local_205627_102.html",
-    "desc": "El Ayuntamiento ha acondicionado las instalaciones con una ayuda de 1.710 euros de la Diputación de León y las ha decorado con murales que homenajean al mundo rural y a sus famosos pimientos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/30/0/fresno-de-la-vega-presuden-de-un-espacio-joven-renovado-con-un-toque-muy-local.jpeg",
-    "pub": 1793415600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Atendido un hombre de 55 años tras una colisión entre dos coches en Carracedelo",
     "link": "https://www.elbierzodigital.com/atendido-un-hombre-de-55-anos-tras-una-colision-entre-dos-coches-en-carracedelo/",
     "desc": "Un hombre de unos 55 años ha precisado asistencia sanitaria este viernes por la noche tras verse implicado en una colisión por alcance entre dos turismos en Carracedelo. El accidente se produjo a…",
@@ -352,28 +384,12 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Fallece 'Tavito', el hombre que impulsó la cecina de chivo como seña de identidad de Vegacervera",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/fallece-tavito-hombre-que-impulso-cecina-chivo-como-sena-identidad-vegacervera/20261030202217115672.html",
-    "desc": "El empresario leonés, propietario de Cárnicas Tavito e impulsor de la Feria de la Cecina de Chivo, dedicó su vida a la ganadería y a la promoción de un producto ligado a la montaña leonesa | Era el…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103020204885919.jpg",
-    "pub": 1793388137,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Desaparecida en el tren de Urda Marta Shahbazi, científica de origen leonés: vino a España a recoger un premio",
     "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261030/desaparecida-tren-urda-marta-shahbazi-cientifica-origen-leones-vino-espana-recoger-premio/1003744441964_0.html",
     "desc": "Dirige un grupo en el Laboratorio de Biología Molecular de Cambridge, viajaba a Huelva para recoger un premio a la excelencia científica. Más información: David Jiménez Gil de 49 años, el bioquímico…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391435.avif?p=c:792:445:nowe:202:66/w:1706/h:960&h=yC_B1A8O",
     "pub": 1793386863,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Centristas acusa al Ayuntamiento de San Andrés de excluir sus alegaciones contra la subida del agua",
-    "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/centristas-acusa-ayuntamiento-san-andres-excluir-alegaciones-subida-agua/20261030195046115670.html",
-    "desc": "La formación denuncia que sus reclamaciones, registradas el 11 de agosto, no llegaron a la comisión informativa ni al Pleno municipal y estudia recurrir a la vía judicial para cuestionar la…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/05/23/2025052313070856335.jpg",
-    "pub": 1793386246,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Valladolid adelanta el sorteo para elegir a los miembros de las mesas electorales para las elecciones generales: consulta si te ha tocado",
@@ -693,22 +709,6 @@
     "desc": "Será una \"propuesta perfecta\" para las compras navideñas. Más información: Ha llegado a Primark la colección de tazas de desayuno más especial del otoño: precios desde 4,50 euros",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11291529.jpg?p=c:1611:907:nowe:1333:383/w:1706/h:960&h=ewzliLQ_",
     "pub": 1793349528,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Muere Óscar Soto, exalcalde y actual teniente de alcalde de Tudela de Duero, a los 55 años",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261030/muere-oscar-soto-exalcalde-actual-teniente-alcalde-tudela-duero-anos/1003744440684_0.html",
-    "desc": "Fue regidor del municipio vallisoletano por el PSOE entre 1999 y 2015 y jugó un papel clave para que el PP recuperara la Alcaldía en 2023. Más información: Lío en Tudela de Duero donde el PSOE…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390618.jpg?p=c:3999:2250:nowe:0:0/w:1706/h:960&h=Hngs4V4K",
-    "pub": 1793349392,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La Bonoloto sonríe a Castilla y León y deja un premio de miles de euros en un municipio de Zamora",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261030/bonoloto-sonrie-castilla-leon-deja-premio-miles-euros-municipio-zamora/1003744440668_0.html",
-    "desc": "El sorteo repartió un premio de primera categoría (6 aciertos) valorado en más de un millón de euros. Más información: El sorteo de La Bonoloto deja una lluvia de billetes en una ciudad de Castilla…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390579.jpg?p=w:1706/h:960&h=1sZjFk5U",
-    "pub": 1793348023,
     "fuente": "El Español · CyL"
   },
   {
