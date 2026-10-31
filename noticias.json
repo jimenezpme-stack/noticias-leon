@@ -1,5 +1,61 @@
 [
   {
+    "titulo": "Cultural - Badajoz: 'Del reto a la obligación'",
+    "link": "https://www.lanuevacronica.com/deportes/cultural-badajoz-reto-obligacion_205672_102.html",
+    "desc": "El equipo leonés afrontará por primera vez esta temporada un choque como claro favorito cuando este domingo reciba a un Badajoz que es penúltimo y ha perdido 6 de sus 7 encuentros oficiales",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/57/6/cultural-oviedo-1.jpeg",
+    "pub": 1793471199,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Racing de Ferrol 0-0 Ponferradina: 'Otro ejercicio de supervivencia total'",
+    "link": "https://www.lanuevacronica.com/deportes/racing-ferrol-0-0-ponferradina-otro-ejercicio-supervivencia-total_205671_102.html",
+    "desc": "Resistió la Deportiva en Ferrol (0-0), en un partido donde los locales las tuvieron de todos los colores, pero se estrellaron una y otra vez ante Álex Domínguez y con dos largueros",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/26/9/la-deportiva-salvo-un-punto-de-mucho-valor-ante-el-racing-de-ferrol-reportaje-grafico-racing-de-ferrol.jpeg",
+    "pub": 1793470811,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Ponfe resiste y suma un punto ante el Racing de Ferrol",
+    "link": "https://www.heraldodeleon.es/deportes/ponferradinasd/ponferradina-resiste-malata-suma-punto-racing-ferrol/20261031191500115743.html",
+    "desc": "Los bercianos, superados durante buena parte del encuentro, sobreviven a las numerosas ocasiones del conjunto gallego, que estrelló dos balones en el larguero y se encontró con un inspirado Álex…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103119041770955.jpg",
+    "pub": 1793470500,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El PP de Torre del Bierzo pide explicaciones por los desperfectos en las pistas deportivas de Albares",
+    "link": "https://www.lanuevacronica.com/el-bierzo/pp-torre-bierzo-pide-explicaciones-por-desperfectos-en-pistas-deportivas-albares_205670_102.html",
+    "desc": "José Luis de la Torre cuestiona el estado de las instalaciones, cuya renovación fue adjudicada por 97.000 euros, después de que el alcalde asegurase en septiembre que las obras se desarrollaban…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/24/9/pista-futbol-sala.jpeg",
+    "pub": 1793470322,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Nafti: «Esta es nuestra realidad: un puntazo ante un gran equipo»",
+    "link": "https://www.elbierzodigital.com/racing-ferrol-ponferradina-nafti-2627/",
+    "desc": "Nafti reaccionó al empate de la Ponferradina ante el Racing de Ferrol asegurando que \"es un punto muy importante para nosotros y otra portería a cero contra, seguramente, el mejor equipo de la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/ponferradina-barakaldo-26-27-el-bierzo-digital-49.jpeg",
+    "pub": 1793469679,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El Bierzo reclama educación en igualdad para frenar la violencia machista",
+    "link": "https://www.lanuevacronica.com/el-bierzo/bierzo-reclama-educacion-en-igualdad-frenar-violencia-machista_205656_102.html",
+    "desc": "El manifiesto del nuevo 'Sábado sin sol' alerta sobre el control en las relaciones, el acceso temprano a la pornografía y los discursos negacionistas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/95/0/whatsapp-image-2026-10-31-at-13-16-09.jpeg",
+    "pub": 1793469588,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Ourense - Cultural: 'Sin margen para otro paso atrás'",
+    "link": "https://www.lanuevacronica.com/deportes/ourense-cultural-sin-margen-otro-paso-atras_205669_102.html",
+    "desc": "La Cultural busca reaccionar este domingo en casa del vicecolista Ourense, que lleva 5 puntos de 27 posibles y viene de caer con un Segunda Federación en Copa pese a jugar con titulares",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/73/7/la-cultural-mostro-su-mejor-y-peor-cara-ante-el-pontevedra-para-perder-su-primer-partido-en-el-reino-saul-aren-9.jpeg",
+    "pub": 1793469576,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La Deportiva sobrevive a una tarde de miedo en A Malata",
     "link": "https://www.elbierzodigital.com/racing-ferrol-ponferradina-cronica-2627/",
     "desc": "La Ponferradina encadenó su cuarto partido sin ganar en liga (o el tercero sin perder, para los optimistas) tras un ejercicio de resistencia numantina en A Malata, donde logró mantener el resultado…",
@@ -32,27 +88,11 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "León reunirá a expertos nacionales para abordar los últimos avances contra el Alzheimer",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-reunira-expertos-nacionales-abordar-ultimos-avances-contra-alzheimer_205662_102.html",
-    "desc": "El Albéitar acogerá cuatro conferencias durante noviembre para analizar la prevención, el diagnóstico y los nuevos tratamientos de la enfermedad, con la participación de especialistas de León,…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/12/3/foto-de-archivo-del-albeitar.jpeg",
-    "pub": 1793464136,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Un fallecido y un herido grave por una agresión con arma blanca en Tordehumos (Valladolid)",
     "link": "https://www.lanuevacronica.com/cyl/fallecido-herido-grave-por-agresion-con-arma-blanca-en-tordehumos-valladolid_205661_102.html",
     "desc": "Los dos varones fueron trasladados al centro de salud de Villafrechós, donde se solicitó el envío de un helicóptero",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/74/10/1/un-fallecido-y-un-herido-grave-por-una-agresion-con-arma-blanca-en-tordehumos-valladolid.jpeg",
     "pub": 1793463397,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Bierzo reclama educación en igualdad para frenar la violencia machista",
-    "link": "https://www.lanuevacronica.com/el-bierzo/bierzo-reclama-educacion-en-igualdad-frenar-violencia-machista_205656_102.html",
-    "desc": "El manifiesto del nuevo 'Sábado sin sol' alerta sobre el control en las relaciones, el acceso temprano a la pornografía y los discursos negacionistas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/95/0/whatsapp-image-2026-10-31-at-13-16-09.jpeg",
-    "pub": 1793463294,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -280,14 +320,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Los estudiantes de la ULE buscan soluciones a problemas reales de empresas y entidades de León",
-    "link": "https://www.lanuevacronica.com/actualidad/estudiantes-ule-buscan-soluciones-problemas-reales-empresas-entidades-leon_205654_102.html",
-    "desc": "Más de 40 universitarios participaron en el primer Hackathon Edu-Hack, una iniciativa que repartió 1.000 euros en premios entre los cuatro equipos ganadores",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/91/7/medio-centenar-de-estudiantes-de-la-ule-disena-soluciones-innovadoras-para-problematicas-reales-del-sector-socioeducativo.jpeg",
-    "pub": 1793447319,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Iván Loaisa renueva con el Technosylva Rower Bembibre Cycling Team para 2027",
     "link": "https://www.heraldodeleon.es/deportes/mas-deporte/ivan-loaisa-renueva-technosylva-rower-bembibre-cycling-team-2027/20261031122440115714.html",
     "desc": "El ciclista granadino continuará en la formación tras una notable temporada, en la que logró victorias, clasificaciones y un brillante tercer puesto en la general de la Vuelta a Castilla y León",
@@ -384,14 +416,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La Universidad de León abre la puerta a intercambios de estudiantes con Estados Unidos",
-    "link": "https://www.lanuevacronica.com/actualidad/universidad-leon-abre-puerta-intercambios-estudiantes-con-estados-unidos_205647_102.html",
-    "desc": "La ULE estudia un acuerdo con Gonzaga University para facilitar la movilidad internacional y colaborar en investigaciones sobre inteligencia artificial, ciberseguridad y ciencias de la salud",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/74/2/la-universidad-de-leon-abre-la-puerta-a-intercambios-de-estudiantes-con-estados-unidos.jpeg",
-    "pub": 1793440651,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Prada a Tope descorchará su Prada Maceración en la 22 Fiesta del Vino Nuevo",
     "link": "https://www.heraldodeleon.es/el-bierzo/prada-tope-descorchara-14-noviembre-prada-maceracion-22-fiesta-vino-nuevo/20261031105240115692.html",
     "desc": "La celebración, que se llevará a cabo el 14 de noviembre en el Palacio de Canedo, contará con el gastrónomo Ángel Moretón como pregonero y repartirá castañas y chorizo, además del vino",
@@ -408,28 +432,12 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Una mujer herida tras chocar contra un coche aparcado en Valencia de Don Juan",
-    "link": "https://www.lanuevacronica.com/sucesos/mujer-herida-chocar-contra-coche-aparcado-en-valencia-don-juan_205646_102.html",
-    "desc": "La conductora, de unos 50 años, se salió de la vía y quedó desorientada tras el accidente, ocurrido en la plaza Santa Marina",
-    "img": "https://www.lanuevacronica.com/uploads/s1/22/14/72/6/img-20240110-wa0030.jpeg",
-    "pub": 1793439899,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Prada A Tope prepara el primer brindis de la nueva añada con su Fiesta del Vino Nuevo",
     "link": "https://www.elbierzodigital.com/prada-a-tope-prepara-primer-brindis-de-la-nueva-anada-con-su-fiesta-del-vino-nuevo/",
     "desc": "El primer vino de la nueva cosecha ya tiene fecha para salir a escena. Prada A Tope celebrará el próximo 14 de noviembre , a partir de las 19 horas, la vigésima segunda edición de su Fiesta del Vino…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/03/el-foro-del-manzanal-impulsa-sus-primeras-iniciativas-y-define-su-funcionamiento-interno-el-bierzo-digital.png",
     "pub": 1793439664,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El Palacio del Conde Luna acoge el taller 'Conocemos a la Reina Urraca'",
-    "link": "https://www.heraldodeleon.es/cultura/palacio-conde-luna-acoge-taller-infantil-conocemos-reina-urraca/20261031103905115688.html",
-    "desc": "Dirigido a niños y niñas de 6 a 8 años, se desarrollará en ocho sesiones idénticas e independientes todos los viernes y sábados de noviembre",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103110382851976.jpg",
-    "pub": 1793439545,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "COLPROLeón estrecha lazos con la UNED para impulsar el desarrollo sostenible del territorio",
@@ -686,14 +694,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/10/22/2025102208523119273.jpg",
     "pub": 1793363679,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Una persona resulta afectada por inhalación de humo en un incendio en una vivienda de Ponferrada",
-    "link": "https://www.elbierzodigital.com/una-persona-resulta-afectada-por-inhalacion-de-humo-en-un-incendio-en-una-vivienda-de-ponferrada/",
-    "desc": "Una persona ha resultado afectada por inhalación de humo tras registrarse un incendio en una vivienda de la calle Méjico , en Ponferrada. El aviso se recibió a las 12.31 horas, cuando se alertó de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/una-persona-resulta-afectada-por-inhalacion-de-humo-en-un-incendio-en-una-vivienda-de-ponferrada-el-bierzo-digital-e1793363777148.jpeg",
-    "pub": 1793363169,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "León proyecta renovar el Centro Cívico León Oeste con una inversión de 2,1 millones",
