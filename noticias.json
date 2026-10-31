@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Balón de oro a la hipocresía",
+    "link": "https://www.lanuevacronica.com/opinion/balon-oro-hipocresia_205645_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793418600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "España y sus lutos",
+    "link": "https://www.lanuevacronica.com/opinion/espana-sus-lutos_205644_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793418000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Angustias sí, alboroto no",
+    "link": "https://www.lanuevacronica.com/opinion/angustias-si-alboroto-no_205643_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793417400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cerraron sus ojos",
+    "link": "https://www.lanuevacronica.com/opinion/cerraron-sus-ojos_205642_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793416800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Esperanzas",
     "link": "https://www.lanuevacronica.com/opinion/esperanzas_205641_102.html",
     "desc": "",
@@ -88,14 +120,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Avances en Canalejas con las obras para adecuar el entorno de la pista polideportiva",
-    "link": "https://www.lanuevacronica.com/actualidad/avances-en-canalejas-con-obras-adecuar-entorno-pista-polideportiva_205606_102.html",
-    "desc": "El Ayuntamiento de Almanza también está trabajando en un nuevo colector para Calaveras de Arriba",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/78/2/canalejasalmanza.jpeg",
-    "pub": 1793415600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Atendido un hombre de 55 años tras una colisión entre dos coches en Carracedelo",
     "link": "https://www.elbierzodigital.com/atendido-un-hombre-de-55-anos-tras-una-colision-entre-dos-coches-en-carracedelo/",
     "desc": "Un hombre de unos 55 años ha precisado asistencia sanitaria este viernes por la noche tras verse implicado en una colisión por alcance entre dos turismos en Carracedelo. El accidente se produjo a…",
@@ -110,30 +134,6 @@
     "img": "https://static.eldiario.es/clip/800599b9-5af7-4cfe-9dfb-9239ee6daafd_16-9-discover-aspect-ratio_default_1154627.jpg",
     "pub": 1793394977,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Las almas en pena vagan por Trobajo del Camino",
-    "link": "https://www.lanuevacronica.com/actualidad/almas-en-pena-vagan-por-trobajo-camino_205597_102.html",
-    "desc": "La Güeste de Ánimas recorre las calles de la localidad en una noche de oscuridad, memoria de los difuntos y reivindicación de las raíces culturales leonesas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/62/2/frame-30animas.jpeg",
-    "pub": 1793392934,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Fallece Tavito el de Vegacervera, padre y embajador de la cecina de chivo",
-    "link": "https://www.lanuevacronica.com/actualidad/fallece-tavito-vegacervera-padre-embajador-cecina-chivo_205639_102.html",
-    "desc": "Octavio González era miembro de una larga familia a la que muchos llaman \"los del Miserias\", pues regentaron ese bar en León durante años y después regresaron a Vegacervera, donde abrieron La Cocinona",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/68/7/tavito-chivo-vegacervera.jpeg",
-    "pub": 1793392655,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Corte Inglés y la Academia Leonesa de Gastronomía organizan un ciclo de filandones",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/corte-ingles-academia-leonesa-gastronomia-organizan-ciclo-filandones_205638_102.html",
-    "desc": "Los miércoles de noviembre recuperarán la tradición leonesa para conversar sobre la memoria de la cocina, la evolución de nuestra alimentación, la ciencia de los alimentos y la cultura del vino",
-    "img": "https://www.lanuevacronica.com/uploads/s1/28/74/36/2/colas-en-el-corte-ingles-de-leon-para-recoger-las-pulseras-del-monoloco-fest.jpeg",
-    "pub": 1793391068,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Renace la Güeste d'Ánimas",
