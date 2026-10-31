@@ -1,5 +1,77 @@
 [
   {
+    "titulo": "La Universidad de León abre la puerta a intercambios de estudiantes con Estados Unidos",
+    "link": "https://www.lanuevacronica.com/actualidad/universidad-leon-abre-puerta-intercambios-estudiantes-con-estados-unidos_205647_102.html",
+    "desc": "La ULE estudia un acuerdo con Gonzaga University para facilitar la movilidad internacional y colaborar en investigaciones sobre inteligencia artificial, ciberseguridad y ciencias de la salud",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/74/2/la-universidad-de-leon-abre-la-puerta-a-intercambios-de-estudiantes-con-estados-unidos.jpeg",
+    "pub": 1793440651,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Prada a Tope descorchará su Prada Maceración en la 22 Fiesta del Vino Nuevo",
+    "link": "https://www.heraldodeleon.es/el-bierzo/prada-tope-descorchara-14-noviembre-prada-maceracion-22-fiesta-vino-nuevo/20261031105240115692.html",
+    "desc": "La celebración, que se llevará a cabo el 14 de noviembre en el Palacio de Canedo, contará con el gastrónomo Ángel Moretón como pregonero y repartirá castañas y chorizo, además del vino",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103110483199672.jpg",
+    "pub": 1793440360,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Los maquinistas exigen circular siempre a la vista tras fallos del sistema LZB",
+    "link": "https://www.heraldodeleon.es/actualidad/nacional/maquinistas-exigen-circular-siempre-vista-fallos-sistema-lzb/20261031104556115690.html",
+    "desc": "El sindicato SEMAF reclama cambios en el Reglamento de Circulación Ferroviaria y advierte de que se han repetido instrucciones que permiten reanudar la marcha en condiciones que considera inadecuadas",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103110421765657.jpg",
+    "pub": 1793439956,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Una mujer herida tras chocar contra un coche aparcado en Valencia de Don Juan",
+    "link": "https://www.lanuevacronica.com/sucesos/mujer-herida-chocar-contra-coche-aparcado-en-valencia-don-juan_205646_102.html",
+    "desc": "La conductora, de unos 50 años, se salió de la vía y quedó desorientada tras el accidente, ocurrido en la plaza Santa Marina",
+    "img": "https://www.lanuevacronica.com/uploads/s1/22/14/72/6/img-20240110-wa0030.jpeg",
+    "pub": 1793439899,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Prada A Tope prepara el primer brindis de la nueva añada con su Fiesta del Vino Nuevo",
+    "link": "https://www.elbierzodigital.com/prada-a-tope-prepara-primer-brindis-de-la-nueva-anada-con-su-fiesta-del-vino-nuevo/",
+    "desc": "El primer vino de la nueva cosecha ya tiene fecha para salir a escena. Prada A Tope celebrará el próximo 14 de noviembre , a partir de las 19 horas, la vigésima segunda edición de su Fiesta del Vino…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/03/el-foro-del-manzanal-impulsa-sus-primeras-iniciativas-y-define-su-funcionamiento-interno-el-bierzo-digital.png",
+    "pub": 1793439664,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El Palacio del Conde Luna acoge el taller 'Conocemos a la Reina Urraca'",
+    "link": "https://www.heraldodeleon.es/cultura/palacio-conde-luna-acoge-taller-infantil-conocemos-reina-urraca/20261031103905115688.html",
+    "desc": "Dirigido a niños y niñas de 6 a 8 años, se desarrollará en ocho sesiones idénticas e independientes todos los viernes y sábados de noviembre",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103110382851976.jpg",
+    "pub": 1793439545,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Consternación en León por la desaparición de las brillantes científicas Marta Shahbazi y Tamara González tras el choque de los dos trenes de alta velocidad en Urda",
+    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/consternacion-leon-desaparicion-brillantes-cientificas-marta-shahbazi-tamara-gonzalez-choque-dos-trenes-alta-velocidad-urda/20261031103243115686.html",
+    "desc": "La bióloga Marta Shahbazi y la biotecnóloga Tamara González, ambas leonesas y referentes de la investigación biomédica, viajaban al mismo congreso científico cuando se produjo el accidente…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103110315364072.jpg",
+    "pub": 1793439163,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Herida una mujer tras chocar contra un coche estacionado en Valencia de Don Juan",
+    "link": "https://www.heraldodeleon.es/comarcas/coyanza/mujer-resulta-herida-chocar-coche-estacionado-valencia-don-juan/20261031103113115684.html",
+    "desc": "El turismo que conducía se salió de la vía y colisionó contra otro vehículo en la plaza Santa Marina | La conductora, de unos 50 años, estaba consciente, aunque desorientada&nbsp;",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/09/22/2025092213325012995.jpg",
+    "pub": 1793439073,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "COLPROLeón estrecha lazos con la UNED para impulsar el desarrollo sostenible del territorio",
+    "link": "https://www.elbierzodigital.com/colproleon-estrecha-lazos-con-la-uned-para-impulsar-el-desarrollo-sostenible-del-territorio/",
+    "desc": "La Asociación de Colegios Profesionales de León (COLPROLeón) se ha incorporado a la Cátedra de Territorios Sostenibles y Desarrollo Local de la UNED en Ponferrada tras la firma de un acuerdo de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/colproleon-estrecha-lazos-con-la-uned-para-impulsar-el-desarrollo-sostenible-del-territorio-el-bierzo-digital.jpg",
+    "pub": 1793438905,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "León disfrutará de un sábado soleado con temperaturas que alcanzarán los 20 grados",
     "link": "https://www.heraldodeleon.es/leon/leon-disfrutara-sabado-soleado-temperaturas-que-alcanzaran-20-grados/20261031102207115683.html",
     "desc": "La estabilidad meteorológica marcará la jornada del 31 de octubre, con cielos despejados y ausencia de lluvias, aunque las temperaturas serán más bajas durante las primeras horas del día",
@@ -24,11 +96,27 @@
     "fuente": "Heraldo de León"
   },
   {
+    "titulo": "El AVE circulaba entre 160 y 200 kilómetros por hora en el impacto",
+    "link": "https://www.heraldodeleon.es/actualidad/nacional/investigacion-accidente-urda-apunta-cadena-fallos-ave-circulaba/20261030083502115512.html",
+    "desc": "El primer informe de la AITAT cuestiona que un error humano aislado explique la tragedia ferroviaria y sitúa el choque entre el AVE de Renfe y el Iryo en una sucesión de averías, instrucciones y…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/28/2026102811230414845.jpg",
+    "pub": 1793432102,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "Mar Palacio, la fuerza y el compromiso que ayudaron a devolver el pulso al IEB",
     "link": "https://www.elbierzodigital.com/mar-palacio-la-fuerza-y-el-compromiso-que-ayudaron-a-devolver-el-pulso-al-ieb/",
     "desc": "Mar Palacio es una asturiana afincada en el Bierzo que nunca ha entendido la cultura como un ejercicio de despacho, sino como un trabajo constante, muchas veces silencioso, que exige tiempo y mucha…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/borrador-automatico-el-bierzo-digital-11.jpeg",
     "pub": 1793430028,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La leonesa Marta Shahbazi y la berciana Tamara González, continúan desaparecidas tras el accidente ferroviario de Toledo",
+    "link": "https://www.elbierzodigital.com/la-leonesa-marta-shahbazi-y-la-berciana-tamara-gonzalez-continuan-desaparecidas-tras-el-accidente-ferroviario-de-toledo/",
+    "desc": "La preocupación se extiende en León y el Bierzo por la desaparición de dos científicas que viajaban en uno de los trenes implicados en el accidente ferroviario ocurrido este miércoles en Urda…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/la-leonesa-marta-shahbazi-y-la-berciana-tamara-gonzalez-continuan-desaparecidas-tras-el-accidente-ferroviario-de-toledo-el-bierzo-digital.jpg",
+    "pub": 1793429756,
     "fuente": "El Bierzo Digital"
   },
   {
@@ -156,22 +244,6 @@
     "link": "https://www.lanuevacronica.com/actualidad/cada-cuatro-estudiantes-leon-se-retrasa-en-obtencion-titulo-bachillerato_205618_102.html",
     "desc": "La provincia es la que muestra un rendimiento más bajo de la comunidad autónoma en estos estudios postobligatorios",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/73/00/4/leonbachillerato.jpeg",
-    "pub": 1793415600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Jonathan Notario: \"Ahora se hacen muchas cosas con IA, pero a mí me gusta el collage\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/jonathan-notario-ahora-se-hacen-muchas-cosas-con-ia-pero-mi-me-gusta-collage_205612_102.html",
-    "desc": "'El gabinete del doctor Notario' podrá verse en la galería leonesa Ármaga hasta el próximo 21 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/85/3/jonathan-notaria-ante-su-obra-de-mayor-tamano-vicente-garcia.jpeg",
-    "pub": 1793415600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Villamartín de Don Sancho 'se pone en forma' con la calistenia",
-    "link": "https://www.lanuevacronica.com/actualidad/villamartin-don-sancho-se-pone-en-forma-con-calistenia_205608_102.html",
-    "desc": "El nuevo parque completa el recinto polideportivo del municipio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/81/2/villamartinparque.jpeg",
     "pub": 1793415600,
     "fuente": "La Nueva Crónica"
   },
@@ -320,7 +392,7 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Jandro Castro exige regularidad a la Cultural antes de visitar al colista Ourense",
+    "titulo": "Jandro Castro exige regularidad a la Cultural",
     "link": "https://www.heraldodeleon.es/deportes/cultural/jandro-castro-exige-regularidad-cultural-antes-visitar-colista-ourense/20261030162247115648.html",
     "desc": "El técnico culturalista quiere que su equipo convierta sus buenos tramos de juego en resultados y advierte de la dificultad de un encuentro en O Couto en el que busca encadenar dos victorias…",
     "img": "https://i.ytimg.com/vi/6TOtJhaueUA/hqdefault.jpg",
@@ -336,7 +408,7 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Nafti pone a prueba a la Ponferradina ante un Racing de Ferrol muy equilibrado",
+    "titulo": "Nafti pone a prueba a la Ponferradina ante el Ferrol",
     "link": "https://www.heraldodeleon.es/deportes/ponferradinasd/nafti-pone-prueba-ponferradina-racing-ferrol-que-exige-respuestas/20261030161320115646.html",
     "desc": "El técnico blanquiazul reconoce que esperaba más calidad técnica de la plantilla y señala los duelos ante el conjunto ferrolano y la Cultural como una referencia para medir las posibilidades del…",
     "img": "https://i.ytimg.com/vi/HoDgfJgw4TE/hqdefault.jpg",
@@ -368,60 +440,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "El BF León busca prolongar su buena racha ante un invicto Osés Ardoi",
-    "link": "https://www.heraldodeleon.es/deportes/baloncesto/bf-leon-busca-prolongar-buena-racha-invicto-oses-ardoi/20261030153208115640.html",
-    "desc": "El conjunto dirigido por Rafa González recibe este domingo, 1 de noviembre, a las 13.00 horas, en el Palacio Municipal de Deportes, a uno de los equipos más fuertes de la LF Challenge, con el…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/03/18/2026031817534571977.jpg",
-    "pub": 1793370728,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Ruta del Cares reabre tras finalizar los trabajos de reparación de una pasarela",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/ruta-cares-reabre-finalizar-trabajos-reparacion-pasarela/20261030153002115639.html",
-    "desc": "La Consejería de Medio Ambiente y Energía completa la actuación de emergencia en el tramo afectado por un derrumbe, que obligó a cerrar la senda el 14 de octubre",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/03/06/2025030609255050911.jpg",
-    "pub": 1793370602,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Eneicat incorpora a Elena Dušková, referente del gravel nacional",
-    "link": "https://www.heraldodeleon.es/deportes/mas-deporte/eneicat-incorpora-elena-duskova-referente-gravel-nacional/20261030152430115638.html",
-    "desc": "La ciclista eslovaca, afincada en Madrid, se une al equipo tras conquistar la Copa de España de Gravel 2026 en categoría élite y proclamarse subcampeona de la general absoluta femenina",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103015235734295.jpg",
-    "pub": 1793370270,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La selección española femenina debutará en León ante Chile el 28 de noviembre",
-    "link": "https://www.heraldodeleon.es/deportes/futbol/seleccion-espanola-femenina-debutara-leon-chile-28-noviembre/20261030152317115636.html",
-    "desc": "El Reino de León será escenario del primer partido de la absoluta femenina en la capital leonesa, con un encuentro a las 18.00 horas dentro de su última concentración de 2026, que también incluirá…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/27/2026102718205283690.jpg",
-    "pub": 1793370197,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El Atlético Astorga busca romper su sequía lejos de La Eragudina",
-    "link": "https://www.heraldodeleon.es/deportes/futbol/atletico-astorga-busca-romper-sequia-lejos-eragudina/20261030151641115635.html",
-    "desc": "El conjunto de José Luis Lago visita este domingo al Rayo Cantabria, a las 11.30 horas, con el objetivo de estrenar su casillero de puntos como visitante tras el empate frente al Gernika",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/10/2026101018420635820.jpg",
-    "pub": 1793369801,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Los alumnos de cocina de Grupo Aspasia muestran su talento en Televisión Canaria",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261030/alumnos-cocina-grupo-aspasia-muestran-talento-television-canaria/1003744441463_0.html",
     "desc": "Los estudiantes participaron en directo en el programa ‘Una hora menos’, donde presentaron una tapa elaborada durante su formación. Más información: Valladolid, líder en formación profesional: la…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391090.jpg?p=c:3195:1799:nowe:527:0/w:1706/h:960&h=0LQvYW6y",
     "pub": 1793369745,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El gerente de Alimentos de Calidad del Bierzo será el mantenedor del magosto de Ponferrada este domingo",
-    "link": "https://www.heraldodeleon.es/el-bierzo/gerente-alimentos-calidad-bierzo-sera-mantenedor-magosto-ponferrada/20261030151329115634.html",
-    "desc": "Pablo Linares encenderá este domingo la queimada y pronunciará el conxuro en una fiesta que contará con un pasacalles de Mekanika Rolling Band como alternativa al espectáculo de fuego suspendido",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/11/11/2025111111020871365.jpg",
-    "pub": 1793369609,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Pablo Linares será el mantenedor del Magosto de Ponferrada en su tercera edición",
@@ -686,30 +710,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/06/02/2025060211433117733.jpg",
     "pub": 1793343562,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "La Raya y sus difuntos",
-    "link": "https://www.elespanol.com/castilla-y-leon/opinion/20261030/raya-difuntos/1003744439163_12.html",
-    "desc": "\"Entre las calles de siempre y los bancales que descienden hacia el Duero, Todos los Santos devuelve a la Raya, y a Villarino en particular, el recuerdo de quienes levantaron su historia\"",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389617.jpg?p=w:1706/h:960&h=60KJLpRC",
-    "pub": 1793340000,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Roberto Migallón, alcalde de Zaratán: \"La salchicha es un símbolo gastronómico que nos representa y hay que ensalzar\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261030/roberto-migallon-alcalde-zaratan-salchicha-simbolo-gastronomico-representa-ensalzar/1003744440102_0.html",
-    "desc": "La localidad celebra hasta el martes 3 de noviembre los actos festivos en homenaje a este producto tradicional. Más información : Carlos, embajador de la Fiesta de la Salchicha de Zaratán: “Algo tan…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11390262.jpg?p=w:1706/h:960&h=9sLPfgbj",
-    "pub": 1793340000,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Pablo Ferreras, presidente de la Cámara de la Propiedad Urbana: “El depósito de fianzas de alquiler ha bajado un 20%\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261030/pablo-ferreras-presidente-camara-propiedad-urbana-deposito-fianzas-alquiler-bajado/1003744438523_0.html",
-    "desc": "“La escasez de viviendas es el principal problema de España”, afirma. Pide “un pacto de Estado” para la resolución del mismo. Más información: Los expertos alertan de los perjuicios del Real Decreto…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11389207.jpg?p=w:1706/h:960&h=bchC_rsi",
-    "pub": 1793340000,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Santiago Abascal carga contra el PSOE: \"Frenar al fascismo les gusta mucho, que frenen un tren es pedirles demasiado\"",
