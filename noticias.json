@@ -1,5 +1,101 @@
 [
   {
+    "titulo": "Esperanzas",
+    "link": "https://www.lanuevacronica.com/opinion/esperanzas_205641_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793416200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El leonés que le presta su voz a los Grimm: \"Quería devolver la oralidad a sus cuentos\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/leones-presta-su-voz-grimm-queria-devolver-oralidad-sus-cuentos_205637_102.html",
+    "desc": "Los hermanos alemanes no escribieron 'Cenicienta', 'Hänsel y Gretel' ni 'Caperucita roja', sino que recopilaron historias que se contaban en algunas regiones del país y que hoy llenan las páginas de…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/55/6/el-traductor-leones-alberto-gordo-y-la-portada-de-los-cuentos-completos-de-los-hermanos-grimm-publicados-por-paginas-de-espuma-l-n-c.jpeg",
+    "pub": 1793415600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_205634_102.html",
+    "desc": "El humorista gráfico Rubén Cantón lanza una nueva pregunta sobre curiosidades de la provincia de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/49/7/31-10-2026-las-cucerias-de-canton.jpeg",
+    "pub": 1793415600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Fresno de la Vega presume de un espacio joven renovado con un toque muy local",
+    "link": "https://www.lanuevacronica.com/actualidad/fresno-vega-presume-espacio-joven-renovado-con-toque-muy-local_205627_102.html",
+    "desc": "El Ayuntamiento ha acondicionado las instalaciones con una ayuda de 1.710 euros de la Diputación de León y las ha decorado con murales que homenajean al mundo rural y a sus famosos pimientos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/30/0/fresno-de-la-vega-presuden-de-un-espacio-joven-renovado-con-un-toque-muy-local.jpeg",
+    "pub": 1793415600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Tradición y sabor en la popular \"plaza los churros\" de La Bañeza",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/tradicion-sabor-en-popular-plaza-churros-baneza_205626_102.html",
+    "desc": "Los churros forman parte de la identidad de los desayunos bañezanos, una tradición que sigue viva en Churrería Victoria",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/28/2/churreria-victoria-la-baneza.jpeg",
+    "pub": 1793415600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Avanzan las obras del parking subterráneo de San Marcelo",
+    "link": "https://www.lanuevacronica.com/actualidad/avanzan-obras-parking-subterraneo-san-marcelo_205621_102.html",
+    "desc": "Los trabajos llevan ya un tiempo ejecutándose en el interior, pero son ahora más visibles al centrarse en la reapertura de la antigua escalera",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/04/9/img-20261030-121839-070.jpeg",
+    "pub": 1793415600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El verano y las huelgas elevan hasta 8.700 los pacientes que aguardan una operación",
+    "link": "https://www.lanuevacronica.com/actualidad/verano-huelgas-elevan-hasta-8700-pacientes-aguardan-operacion_205620_102.html",
+    "desc": "Son casi 1.800 más que hace un año y la demora media sube a 120 días en el Hospital de León y 215 en el del Bierzo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/15/60/52/quirofano-14-07-23.jpeg",
+    "pub": 1793415600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los personajes del tío Ful: Goyo, 49 años de mecánico en la Ford",
+    "link": "https://www.lanuevacronica.com/extras/los-personajes-de-ful/personajes-tio-ful-goyo-49-anos-mecanico-en-ford_205622_102.html",
+    "desc": "Entró en Auto Palacios con 14 años, tuvo que ir su padre con él; el 6 de diciembre haría 50 años sin cambiar de empresa pero ha decidido jubilarse, \"cuidar de mi nieta es lo más bello\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/06/5/frame-31personaje.jpeg",
+    "pub": 1793415600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Uno de cada cuatro estudiantes de León se retrasa en la obtención del título de Bachillerato",
+    "link": "https://www.lanuevacronica.com/actualidad/cada-cuatro-estudiantes-leon-se-retrasa-en-obtencion-titulo-bachillerato_205618_102.html",
+    "desc": "La provincia es la que muestra un rendimiento más bajo de la comunidad autónoma en estos estudios postobligatorios",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/00/4/leonbachillerato.jpeg",
+    "pub": 1793415600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Jonathan Notario: \"Ahora se hacen muchas cosas con IA, pero a mí me gusta el collage\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/jonathan-notario-ahora-se-hacen-muchas-cosas-con-ia-pero-mi-me-gusta-collage_205612_102.html",
+    "desc": "'El gabinete del doctor Notario' podrá verse en la galería leonesa Ármaga hasta el próximo 21 de noviembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/85/3/jonathan-notaria-ante-su-obra-de-mayor-tamano-vicente-garcia.jpeg",
+    "pub": 1793415600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Villamartín de Don Sancho 'se pone en forma' con la calistenia",
+    "link": "https://www.lanuevacronica.com/actualidad/villamartin-don-sancho-se-pone-en-forma-con-calistenia_205608_102.html",
+    "desc": "El nuevo parque completa el recinto polideportivo del municipio",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/81/2/villamartinparque.jpeg",
+    "pub": 1793415600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Avances en Canalejas con las obras para adecuar el entorno de la pista polideportiva",
+    "link": "https://www.lanuevacronica.com/actualidad/avances-en-canalejas-con-obras-adecuar-entorno-pista-polideportiva_205606_102.html",
+    "desc": "El Ayuntamiento de Almanza también está trabajando en un nuevo colector para Calaveras de Arriba",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/78/2/canalejasalmanza.jpeg",
+    "pub": 1793415600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Atendido un hombre de 55 años tras una colisión entre dos coches en Carracedelo",
     "link": "https://www.elbierzodigital.com/atendido-un-hombre-de-55-anos-tras-una-colision-entre-dos-coches-en-carracedelo/",
     "desc": "Un hombre de unos 55 años ha precisado asistencia sanitaria este viernes por la noche tras verse implicado en una colisión por alcance entre dos turismos en Carracedelo. El accidente se produjo a…",
@@ -32,14 +128,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Dos científicas de la provincia de León, entre las desaparecidas en el accidente ferroviario de Toledo",
-    "link": "https://www.lanuevacronica.com/sucesos/tragedia-ferroviaria-toledo-deja-otra-leonesa-desaparecida-cientifica-marta-shahbazi_205619_102.html",
-    "desc": "La leonesa Marta Shahbazi y la berciana Tamara González viajaban al mismo congreso en Huelva en el vagón de cabeza del AVE siniestrado el pasado miércoles en Urda",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/67/2/cientificas-leonesas-accidente-tren-toledo-urda.png",
-    "pub": 1793392054,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Corte Inglés y la Academia Leonesa de Gastronomía organizan un ciclo de filandones",
     "link": "https://www.lanuevacronica.com/lnc-culturas/corte-ingles-academia-leonesa-gastronomia-organizan-ciclo-filandones_205638_102.html",
     "desc": "Los miércoles de noviembre recuperarán la tradición leonesa para conversar sobre la memoria de la cocina, la evolución de nuestra alimentación, la ciencia de los alimentos y la cultura del vino",
@@ -64,36 +152,12 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "ColproLeón se incorpora a la Cátedra de Territorios Sostenibles de la Uned en Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/colproleon-se-incorpora-catedra-territorios-sostenibles-uned-en-ponferrada_205629_102.html",
-    "desc": "El acuerdo establece un canal de comunicación permanente para promover futuras colaboraciones en investigación, formación, divulgación e innovación vinculadas al desarrollo sostenible del territorio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/37/5/colpro-uned.jpeg",
-    "pub": 1793388669,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Palacio de Canedo celebra la Fiesta del Vino Nuevo con Ángel Moretón como pregonero",
-    "link": "https://www.lanuevacronica.com/el-bierzo/palacio-canedo-celebra-fiesta-vino-nuevo-con-angel-moreton-como-pregonero_205632_102.html",
-    "desc": "La 22ª edición del encuentro, el 14 de noviembre, servirá para presentar el Prada Maceración 2026, elaborado con uva mencía de Canedo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/41/9/cartel-fiesta-maceracion-2026.jpeg",
-    "pub": 1793388632,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Fallece 'Tavito', el hombre que impulsó la cecina de chivo como seña de identidad de Vegacervera",
     "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/fallece-tavito-hombre-que-impulso-cecina-chivo-como-sena-identidad-vegacervera/20261030202217115672.html",
     "desc": "El empresario leonés, propietario de Cárnicas Tavito e impulsor de la Feria de la Cecina de Chivo, dedicó su vida a la ganadería y a la promoción de un producto ligado a la montaña leonesa | Era el…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103020204885919.jpg",
     "pub": 1793388137,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Riaño recupera la leyenda de la Güeste de Ánimas en la noche de Halloween",
-    "link": "https://www.lanuevacronica.com/actualidad/riano-recupera-leyenda-gueste-animas-en-noche-halloween_205635_102.html",
-    "desc": "La Asociación Cultural Montaña de Vadinia representará este sábado una de las tradiciones más misteriosas de la mitología leonesa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/47/9/animas-riano.jpeg",
-    "pub": 1793386944,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Desaparecida en el tren de Urda Marta Shahbazi, científica de origen leonés: vino a España a recoger un premio",
@@ -104,28 +168,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "La Cabrera protagoniza este sábado un programa de RNE sobre el futuro de la comarca",
-    "link": "https://www.lanuevacronica.com/actualidad/cabrera-protagoniza-este-sabado-programa-rne-sobre-futuro-comarca_205625_102.html",
-    "desc": "El espacio 'España Rural' se emitirá este sábado a las 12:05 horas en Radio 5 tras recorrer varios pueblos de la provincia para conocer sus problemas y oportunidades",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/26/4/rne-programa-cabrera.jpeg",
-    "pub": 1793386425,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Centristas acusa al Ayuntamiento de San Andrés de excluir sus alegaciones contra la subida del agua",
     "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/centristas-acusa-ayuntamiento-san-andres-excluir-alegaciones-subida-agua/20261030195046115670.html",
     "desc": "La formación denuncia que sus reclamaciones, registradas el 11 de agosto, no llegaron a la comisión informativa ni al Pleno municipal y estudia recurrir a la vía judicial para cuestionar la…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/05/23/2025052313070856335.jpg",
     "pub": 1793386246,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "León se suma a la Sherry Week 2026, dedicada a los vinos de Jerez",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/leon-se-suma-sherry-week-2026-dedicada-vinos-jerez_205633_102.html",
-    "desc": "Jerez al Norte impulsa tres experiencias enogastronómicas en El Fandango, Amarone by Vinalium y el Hotel Real Colegiata de San Isidoro, del 3 al 7 de noviembre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/44/1/sherry-week-vinos-leon.jpeg",
-    "pub": 1793386143,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Valladolid adelanta el sorteo para elegir a los miembros de las mesas electorales para las elecciones generales: consulta si te ha tocado",
@@ -136,22 +184,6 @@
     "fuente": "20minutos CyL"
   },
   {
-    "titulo": "Intoxicado por humo en un incendio en una vivienda de Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/persona-resulta-afectada-por-humo-en-incendio-en-vivienda-ponferrada_205607_102.html",
-    "desc": "La UVI móvil trasladó a la víctima al Hospital El Bierzo tras las primeras atenciones médicas en un inmueble de la calle Méjico",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/79/7/112-la-nueva-cronica-4-1000x563-4-1000x563-4-1000x563.jpeg",
-    "pub": 1793384460,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ucale-Coag denuncia que la Junta excluye al maíz y al regadío de las ayudas a fertilizantes",
-    "link": "https://www.lanuevacronica.com/actualidad/ucale-coag-denuncia-junta-excluye-maiz-regadio-ayudas-fertilizantes_205631_102.html",
-    "desc": "La organización agraria exige modificar el borrador de las subvenciones para incluir a los productores leoneses y critica la falta de transparencia de la Consejería de Agricultura",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/62/69/6/los-cereales-frenan-las-subidas-en-leon-pero-el-mar-negro-mantiene-en-vilo-al-mercado.jpeg",
-    "pub": 1793384314,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Las miradas del XVI Maratón Reino de León",
     "link": "https://www.heraldodeleon.es/sociedad/leon-premia-mejores-miradas-xvi-maraton-fotografico-reino-leon/20261030191616115665.html",
     "desc": "La Sala de Ámbito Cultural de El Corte Inglés acoge este viernes la entrega de galardones del certamen, que ha reconocido los trabajos de Eduardo Rodríguez, Laura Díaz, Pablo Arranz y Valentín…",
@@ -160,28 +192,12 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Un dulce puente en Astorga con la miel como protagonista",
-    "link": "https://www.lanuevacronica.com/actualidad/dulce-puente-en-astorga-con-miel-como-protagonista_205617_102.html",
-    "desc": "La muestra abrió este viernes sus puertas con más de una veintena de expositores y continúa este sábado y domingo con degustaciones, talleres, cocina en directo y conferencias",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/34/0/frame-30miel.jpeg",
-    "pub": 1793384122,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ponferrada entrega los certificados profesionales a los alumnos de talleres de empleo",
     "link": "https://www.heraldodeleon.es/el-bierzo/ponferrada-entrega-certificados-profesionales-alumnos-cuatro-talleres-empleo/20261030185601115657.html",
     "desc": "El alcalde, Marco Morala, y los concejales David Pacios y Lidia Coca participaron en el acto de clausura de unos programas que han formado a sus participantes durante nueve meses y han supuesto una…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/30/2026103018524167940.jpg",
     "pub": 1793382961,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "UPL celebra que \"por fin\" la Junta apoye la supresión del peaje de la autopista León-Asturias",
-    "link": "https://www.lanuevacronica.com/actualidad/upl-celebra-por-fin-junta-apoye-supresion-peaje-autopista-leon-asturias_205623_102.html",
-    "desc": "Los leonesistas esperan que no sea \"humo electoral\" y que se den los pasos anunciados de iniciar acciones legales",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/07/18/6/las-mejores-imagenes-de-la-manifestacion-contra-el-peaje-de-la-magdalena-6.jpeg",
-    "pub": 1793381698,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La gran cita de la micología se celebra del 2 al 8 de noviembre: cocina en directo, salidas al campo y exposiciones",
@@ -206,22 +222,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/09/27/2025092709171279029.jpg",
     "pub": 1793379817,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Todos los Santos en León: horarios, aparcamientos y autobuses para acudir al cementerio",
-    "link": "https://www.lanuevacronica.com/actualidad/todos-santos-en-leon-horarios-aparcamientos-autobuses-acudir-cementerio_205568_102.html",
-    "desc": "El camposanto abrirá de 9:00 a 18:30 horas entre el 30 de octubre y el 1 de noviembre, con seis accesos habilitados y cambios en la circulación durante la jornada del domingo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/30/47/67/1/dia-de-todos-los-santos-en-el-cementerio-de-leon-8.jpeg",
-    "pub": 1793379600,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Ruta del Cares reabre al público dos semanas después tras reparar la pasarela",
-    "link": "https://www.lanuevacronica.com/actualidad/ruta-cares-reabre-publico-reparar-pasarela_205615_102.html",
-    "desc": "Se han ejecutado obras de emergencia en la infraestructura, cerca del Puente de los Rebecos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/97/0/ruta-del-cares-02.jpeg",
-    "pub": 1793379162,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Asorbier sale a la calle para exigir intérpretes de lengua de signos en las aulas",
