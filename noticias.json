@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "El último viaje",
+    "link": "https://www.lanuevacronica.com/opinion/ultimo-viaje_205681_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793505600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "«Necios como carneros»",
+    "link": "https://www.lanuevacronica.com/opinion/necios-como-carneros_205676_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793505300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "El espejo de Delft",
     "link": "https://www.lanuevacronica.com/opinion/espejo-delft_205665_102.html",
     "desc": "",
@@ -104,28 +120,12 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "¿Quién está pensando por nosotros?",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/quien-esta-pensando-por-nosotros_205668_102.html",
-    "desc": "Por Nuria Crespo y José Antonio Santocildes",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/20/6/quien-esta-pensando-por-nosotros.jpeg",
-    "pub": 1793501400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Clínica Ponferrada cede ante el potencial del Cáceres y pierde su imbatibilidad en el Lydia Valentín (78-90)",
     "link": "https://www.elbierzodigital.com/el-clinica-ponferrada-cede-ante-el-potencial-del-caceres-y-pierde-su-imbatibilidad-en-el-lydia-valentin-78-90/",
     "desc": "El Clínica Ponferrada SDP vio frenada su buena trayectoria como local después de caer por 78-90 ante el Cáceres Patrimonio de la Humanidad , en el encuentro correspondiente a la quinta jornada del…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/el-clinica-ponferrada-cede-ante-el-potencial-del-caceres-y-pierde-su-imbatibilidad-en-el-lydia-valentin-78-90-el-bierzo-digital.jpg",
     "pub": 1793488406,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Ademar 33 - Bidasoa 37: 'Una hora de esperanza, 10 minutos de vacío'",
-    "link": "https://www.lanuevacronica.com/deportes/ademar-33-bidasoa-37-hora-esperanza-10-minutos-vacio_205683_102.html",
-    "desc": "De la mano de Gonzalo y Castro el Ademar plantó cara durante 47 minutos al líder Bidasoa, pero con 29-29 se atascó y recibió un parcial de 0-8 que sentenció su derrota",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/44/8/ademar-bidasoa-2.jpeg",
-    "pub": 1793484018,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El Ademar se desploma en el tramo final ante el Bidasoa (33-37)",
