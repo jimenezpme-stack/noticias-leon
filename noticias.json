@@ -1,10 +1,26 @@
 [
   {
+    "titulo": "Del Samaín a la pesadilla de la Cultural",
+    "link": "https://www.lanuevacronica.com/deportes/samain-pesadilla-cultural_205708_102.html",
+    "desc": "CONTRACRÓNICA | Ourense amaneció de resaca después de una multitudinaria celebración de Halloween, pero encontró motivos para la fiesta con un inesperado triunfo ante una Cultural que se hunde entre…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/76/97/2/ourense-cultural-1.jpeg",
+    "pub": 1793560241,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Ourense 1 - Cultural 0: 'La Cultural perdona y Jandro lo paga'",
     "link": "https://www.lanuevacronica.com/deportes/ourense-1-cultural-0-cultural-perdona-jandro-paga_205705_102.html",
-    "desc": "El vicecolista deja sin crédito al entrenador y con un gol de penalti en el minuto 98 tumba a un equipo leonés previsible y de ritmo lento que falló cinco ocasiones claras y vio cómo le anularon un…",
+    "desc": "El vicecolista deja contra las cuerdas al entrenador y con un gol de penalti en el minuto 98 tumba a un equipo leonés previsible y de ritmo lento que falló cinco ocasiones claras y vio cómo le…",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/76/65/8/bichoculturalourense.jpeg",
-    "pub": 1793558507,
+    "pub": 1793560008,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Jandro: \"El fútbol no está siendo justo con la Cultural, no merecíamos perder\"",
+    "link": "https://www.lanuevacronica.com/deportes/jandro-futbol-no-esta-siendo-justo-con-cultural-no-mereciamos-perder_205704_102.html",
+    "desc": "El técnico señala que «llevo recibiendo críticas desde que llegué, hay que dejar trabajar, el fútbol pone a cada uno en su sitio» y asegura que «claro que me veo ante la Ponferradina»",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/76/74/8/cultuonce.jpeg",
+    "pub": 1793559405,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -98,7 +114,7 @@
   {
     "titulo": "Trágico accidente en Zamora: cuatro miembros de una familia mueren al salirse de la carretera el vehículo en el que viajaban",
     "link": "https://www.20minutos.es/castilla-y-leon/zamora/tragico-accidente-zamora-cuatro-muertos-salirse-carretera-vehiculo-que-viajaban_7056013_0.html",
-    "desc": "Los fallecidos son dos adultos y dos niños. Hasta el lugar del accidente se han desplazado efectivos de la Policía y los bomberos. También se han movilizado un helicóptero y una ambulancia de…",
+    "desc": "Los fallecidos son un hombre de 59 años, su hija de 29 y los dos hijos de esta, de dos y tres años.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/01/6ae77cffb16c62-43555600.jpeg",
     "pub": 1793546630,
     "fuente": "20minutos CyL"
@@ -214,14 +230,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/01/2026110113130358192.jpg",
     "pub": 1793535213,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "UPL denuncia que la Junta excluye al maíz de las ayudas al cereal",
-    "link": "https://www.lanuevacronica.com/actualidad/upl-denuncia-junta-excluye-maiz-ayudas-cereal_205693_102.html",
-    "desc": "Los leonesistas consideran insuficientes los 20 euros por hectárea planteados por la Consejería de Agricultura y exigen medidas extraordinarias ante las pérdidas del sector",
-    "img": "https://www.lanuevacronica.com/uploads/s1/22/93/24/3/dsc-0145.jpeg",
-    "pub": 1793533989,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Sospechan que un alumno utilizaba la IA para atacar empresas desde el aula",
@@ -349,14 +357,6 @@
     "desc": "Tomás Martínez 'el hospitalero de Manjarín' fue uno de los personajes más singulares del Camino de Santiago, que ya es mucho decir de una ruta milenaria",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/74/64/1/cuando-llamar-el-ultimo-templario-es-simplificar-en-exceso.jpeg",
     "pub": 1793526212,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Historias escritas en los nichos",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/historias-escritas-en-nichos_205685_102.html",
-    "desc": "Hay cementerios de pequeños pueblos, vacíos en muchos casos durante el invierno, que son la mejor enciclopedia del lugar, el único libro que cuenta la historia de sus habitantes, mucho más…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/61/2/historias-escritas-en-los-nichos.jpeg",
-    "pub": 1793525923,
     "fuente": "La Nueva Crónica"
   },
   {
