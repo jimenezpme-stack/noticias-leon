@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Mañueco, \"conmovido\" por la tragedia de Malva: su mensaje tras la muerte de dos adultos y dos menores en Zamora",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261101/manueco-conmovido-tragedia-malva-mensaje-muerte-adultos-menores-zamora/1003744442851_0.html",
+    "desc": "El presidente de la Junta traslada el pésame y la cercanía del Gobierno autonómico a los allegados de los cuatro ocupantes fallecidos en el siniestro de la ZA-P-2314. Más información: Mueren cuatro…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11364226.jpg?p=w:1706/h:960&h=jMKr-Gw2",
+    "pub": 1793550037,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Cuatro fallecidos, entre ellos dos menores, al salirse de la vía un turismo en Malva",
+    "link": "https://www.heraldodeleon.es/castilla-y-leon/cuatro-fallecidos-entre-ellos-dos-menores-salirse-via-turismo-malva/20261101171940115887.html",
+    "desc": "El siniestro mortal se registró a la altura del kilómetro 16,3 en la carretera local ZA-P-2314",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/01/2026110117183734626.jpg",
+    "pub": 1793549980,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Cuatro fallecidos, entre ellos dos menores, al salirse de la vía un turismo en Malva (Zamora)",
+    "link": "https://www.lanuevacronica.com/cyl/cuatro-fallecidos-entre-ellos-dos-menores-salirse-via-turismo-en-malva-zamora_205700_102.html",
+    "desc": "El siniestro mortal se registró este domingo sobre las 13:50 horas a la altura del kilómetro 16,3 en la carretera local ZA-P-2314",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/76/49/3/cuatro-fallecidos-entre-ellos-dos-menores-al-salirse-de-la-via-un-turismo-en-malva-zamora.jpeg",
+    "pub": 1793549813,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Cesarina Capellán y Aixa Wone frenan en seco la racha del BF León (67-84)",
     "link": "https://www.heraldodeleon.es/deportes/baloncesto/cesarina-capellan-aixa-wone-frenan-seco-racha-bf-leon-67-84/20261101164352115885.html",
     "desc": "El Mipelletymas BF León planta cara durante el primer cuarto, pero se ve superado por la superioridad ofensiva del Osés Construcción | Los 30 puntos de Cesarina Capellán y los 20 de Aixa Wone…",
@@ -24,10 +48,10 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "🔴 Directo | Ourense 0-0 Cultural | La Cultural intenta controlar el partido mientras crece el Ourense",
+    "titulo": "🔴 Directo | Ourense 0-0 Cultural | La Cultural no va y el Ourense se aprovehca",
     "link": "https://www.heraldodeleon.es/deportes/cultural/directo-ourense-cultural-solo-vale-ganar/20261101161037115882.html",
     "desc": "La Cultural, obligada a conseguir los tres puntos ante el colista Ourense",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/13/2026091320300469020.jpg",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/01/2026110117285627693.jpg",
     "pub": 1793545837,
     "fuente": "Heraldo de León"
   },
@@ -184,14 +208,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Investigado el alcalde de Congosto por un delito de ordenación del territorio",
-    "link": "https://www.lanuevacronica.com/el-bierzo/vecinos-sector-8-congosto-denuncian-alcalde-por-delito-contra-ordenacion-territorial_205231_102.html",
-    "desc": "Los vecinos del sector 8 le demandaron por paralizar su urbanización y sin embargo permitir a otro realizar una valla en un camino y estudian ampliar las acciones judiciales por prevaricación…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/74/1/valla-2.jpeg",
-    "pub": 1793531898,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Las calaveras de remolacha vuelven a iluminar la noche de Fresno del Camino",
     "link": "https://www.lanuevacronica.com/actualidad/calaveras-remolacha-vuelven-iluminar-noche-fresno-camino_205688_102.html",
     "desc": "La localidad leonesa recupera una tradición que sus vecinos ya practicaban en los años 50 y pretende dar continuidad a la iniciativa con la Güeste de Ánimas el próximo año",
@@ -317,7 +333,7 @@
     "desc": "Miles de familias visitan este domingo los camposantos de la provincia con motivo de Todos los Santos, una tradición que en la capital prevé 15.000 desplazamientos y una importante afluencia de…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/01/2026110112575829405.jpg",
     "pub": 1793522643,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "León arranca noviembre con una mañana de frío y una tarde que rozará los 20 grados",
@@ -536,6 +552,14 @@
     "fuente": "Heraldo de León · León"
   },
   {
+    "titulo": "El pueblo más bonito de España con el mejor lechazo, castillo del siglo XII y puente medieval: es de los preferidos de los viajeros",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261030/pueblo-bonito-espana-mejor-lechazo-castillo-siglo-xii-puente-medieval-preferidos-viajeros-trt/1003744439281_0.html",
+    "desc": "Está situado en Castilla y León, una comunidad que tiene otros tres municipios en la lista oficial. Más información : El pueblo más bonito de España con el mejor embutido, un rollo del s. XVIII y…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10323790.jpg?p=c:1909:1074:nowe:8:99/w:1706/h:960&h=toHRTanf",
+    "pub": 1793451900,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Confirman la muerte de Tamara González, la científica de Bembibre desaparecida tras el accidente ferroviario de Urda",
     "link": "https://www.elbierzodigital.com/confirman-la-muerte-de-tamara-gonzalez-la-cientifica-de-bembibre-desaparecida-tras-el-accidente-ferroviario-de-toledo/",
     "desc": "La búsqueda de Tamara González Costa ha terminado con el peor de los desenlaces. Fuentes próximas a la familia han confirmado a El Bierzo Digital este sábado su fallecimiento en el accidente…",
@@ -616,14 +640,6 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "León despide a Octavio González 'Tavito', \"referente\" de Vegacervera y gran impulsor de la Feria de la Cecina de Chivo",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261031/leon-despide-octavio-gonzalez-tavito-referente-vegacervera-gran-impulsor-feria-cecina-chivo/1003744442196_0.html",
-    "desc": "La Diputación de León traslada su pésame a sus allegados y a su hijo, el diputado Octavio González, destacando la huella imborrable que deja en la promoción de las tradiciones leonesas. Más…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391582.jpg?p=w:1706/h:960&h=Uyz1JDhb",
-    "pub": 1793441744,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Prada A Tope prepara el primer brindis de la nueva añada con su Fiesta del Vino Nuevo",
     "link": "https://www.elbierzodigital.com/prada-a-tope-prepara-primer-brindis-de-la-nueva-anada-con-su-fiesta-del-vino-nuevo/",
     "desc": "El primer vino de la nueva cosecha ya tiene fecha para salir a escena. Prada A Tope celebrará el próximo 14 de noviembre , a partir de las 19 horas, la vigésima segunda edición de su Fiesta del Vino…",
@@ -678,22 +694,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/el-mercado-de-otono-llena-de-sabor-y-artesania-la-avenida-perez-colino-el-bierzo-digital-3.jpeg",
     "pub": 1793429422,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Santiago Auserón, de Radio Futura a adentrarse en la música griega: “Pucela es siempre generosa conmigo”",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261031/santiago-auseron-radio-futura-adentrarse-musica-griega-pucela-siempre-generosa-conmigo/1003744435893_0.html",
-    "desc": "El músico presenta en Valladolid su nuevo trabajo, grabado en Atenas, junto a los músicos griegos Vaggelis Tzeretas y Theodoros Karellas, con la colaboración de Anni B Sweet. Más información:…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11387530.jpg?p=w:1706/h:960&h=PCYFcuXr",
-    "pub": 1793426400,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Mercedes, trabajadora de una residencia: \"Cobro 1.160 euros de salario base después de 25 años, hay que ir a la huelga\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261031/mercedes-trabajadora-residencia-cobro-euros-salario-base-despues-anos-ir-huelga-trt/1003744437844_0.html",
-    "desc": "Esta empleada denuncia que \"no hay nadie para trabajar\" y que \"la patronal no quiere llegar a un acuerdo\". Más información: CC.OO. exige más personal y mejores condiciones laborales en las…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388779.jpg?p=w:1706/h:960&h=FVsnVDvu",
-    "pub": 1793426400,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "El Juzgado abre otra investigación contra el presidente de la Diputación Zamora, esta vez por un proyecto de biorrefinería",
