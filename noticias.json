@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "UPL acusa a Vox de dejar al cereal leonés \"sin respuesta ante la crisis del campo\"",
+    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/upl-denuncia-que-vox-deja-cereal-leones-ayudas-suficientes-crisis-campo/20261101120655115809.html",
+    "desc": "Exigen una partida específica para ayudas extraordinarias que compensen el incremento de precios, una revisión a la alza de la ayuda de 20 euros por hectárea y la inclusión del maíz",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/02/06/2025020608383198348.jpg",
+    "pub": 1793531215,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El Bembibre H.C. suma ante el Palau su primer punto tras un empate sin goles",
+    "link": "https://www.elbierzodigital.com/el-bembibre-h-c-suma-ante-el-palau-su-primer-punto-tras-un-empate-sin-goles/",
+    "desc": "El Bembibre Hockey Club estrenó su casillero de puntos en la OK Liga Iberdrola con un empate sin goles (0-0) frente al Palau i Plegamans , en un encuentro intenso y muy disputado en el Bembibre…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/Bembibre-HC-el-bierzo-digital.jpg",
+    "pub": 1793530898,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Mañueco recuerda a las víctimas del accidente de Urda en un emotivo mensaje por el día de Todos los Santos",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261101/manueco-recuerda-victimas-accidente-urda-emotivo-mensaje-dia-santos/1003744442667_0.html",
+    "desc": "El presidente de la Junta apela al recuerdo familiar en la festividad de los difuntos y manda un afectuoso abrazo a los allegados de los fallecidos en el siniestro. Más información: Mañueco abandera…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391859.jpg?p=c:3999:2250:nowe:0:333/w:1706/h:960&h=e5ICCPMN",
+    "pub": 1793530423,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El PSOE reivindica la mejora del empleo desde 2018 con casi 10.000 personas menos en paro",
+    "link": "https://www.heraldodeleon.es/leon/psoe-reivindica-mejora-empleo-2018-casi-10000-personas-menos-paro/20261101115114115808.html",
+    "desc": "Aboga por seguir trabajando para \"generar oportunidades, mejorar la estabilidad laboral y facilitar que la población joven pueda desarrollar su proyecto de vida en la provincia\"",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/04/02/2026040211021068183.jpg",
+    "pub": 1793530274,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El sol anima a los leoneses a recordar a sus seres queridos en Todos los Santos",
+    "link": "https://www.lanuevacronica.com/actualidad/sol-leoneses-recordar-sus-seres-queridos-en-todos-santos_205687_102.html",
+    "desc": "Las temperaturas agradables y el cielo despejado acompañan este domingo a las numerosas personas que se acercan a los cementerios de la provincia para honrar a sus familiares fallecidos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/75/25/3/el-sol-a-los-leoneses-a-recordar-a-sus-seres-queridos-en-todos-los-santos.jpeg",
+    "pub": 1793530160,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Los controles contra los \"hurtos amorosos\" dejan más de 70 identificados en octubre",
     "link": "https://www.heraldodeleon.es/castilla-y-leon/controles-hurtos-amorosos-dejan-mas-70-identificados-mes/20261101113918115807.html",
     "desc": "La Policía Nacional ha realizado más de 100 controles en Castilla y León, donde ocho personas han sido detenidas por esta modalidad delictiva desde enero",
@@ -126,14 +166,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/consternacion-en-bembibre-por-la-muerte-de-la-joven-cientifica-tamara-gonzalez-el-bierzo-digital.jpg",
     "pub": 1793519749,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Las cucerías de Cantón",
-    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_205636_102.html",
-    "desc": "El humorista gráfico Rubén Cantón responde a la pregunta de este sábado sobre una curiosidad de la provincia de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/51/9/01-11-2026-las-cucerias-de-canton.jpeg",
-    "pub": 1793519257,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El accidente de Urda se cobra también la vida de Marta Shahbazi, científica de raíces leonesas",
@@ -453,7 +485,7 @@
     "desc": "La formación leonesista llevará al pleno de las Cortes los presupuestos de 2027, el camping de Sahagún y la reparación de la carretera SA-212, además de las carencias en infraestructuras de las tres…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/03/2026100314472439858.jpg",
     "pub": 1793450077,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Siete Muertes regresa al Morticia para poner ritmo rockero a la noche de Halloween",
@@ -462,14 +494,6 @@
     "img": null,
     "pub": 1793449503,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Térmica acoge durante noviembre la segunda edición del ciclo 'Del Jazz al Swing'",
-    "link": "https://www.heraldodeleon.es/el-bierzo/termica-cultural-acoge-noviembre-segunda-edicion-ciclo-jazz-swing/20261031132223115723.html",
-    "desc": "Arrancará el día 14 con un taller de 'Rock Jive' impartido por Rock And Roll Xixón, seguido del concierto de The Rhythm Treasures y una sesión de vinilo de DJ Boppin' Jimmy",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/05/20/2025052011102224857.jpg",
-    "pub": 1793449343,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "La ULE abre la puerta a intercambios universitarios con EEUU que incluyen al campus de Ponferrada",
@@ -686,30 +710,6 @@
     "img": "https://static.eldiario.es/clip/6a26de10-611f-4d98-8ec4-bb01788944b8_16-9-discover-aspect-ratio_default_0.jpg",
     "pub": 1793376879,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "El Hospital El Bierzo vuelve a liderar las listas de espera quirúrgica de Castilla y León, con 215 días",
-    "link": "https://www.elbierzodigital.com/el-hospital-el-bierzo-vuelve-a-liderar-las-listas-de-espera-quirurgica-de-castilla-y-leon-con-215-dias-de-demora/",
-    "desc": "El Hospital El Bierzo continúa siendo el centro hospitalario de Castilla y León con mayores tiempos de espera para una intervención quirúrgica. A 30 de septiembre de 2026, la demora media alcanza…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/11/la-gasbi-refuerza-el-servicio-de-onco-hematologia-con-una-enfermera-el-bierzo-digital.jpeg",
-    "pub": 1793376155,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Igea estalla contra Óscar Puente tras su comparecencia: \"Eres lo más repugnante que he encontrado en política\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261030/igea-estalla-oscar-puente-comparecencia-repugnante-encontrado-politica/1003744441628_0.html",
-    "desc": "El exvicepresidente de la Junta carga duramente contra el ministro por hablar de su propio “calvario” tras la tragedia de Urda y asegura que le ha dado un motivo para acudir a votar el 29-N en…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391211.png?p=w:1706/h:960&h=dT98cG43",
-    "pub": 1793375193,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Una nueva fábrica de componentes eléctricos ocupará más de 83.000 metros cuadrados en Salamanca",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261030/nueva-fabrica-componentes-electricos-ocupara-metros-cuadrados-salamanca/1003744441601_0.html",
-    "desc": "Meins construirá en Las Malotas una fábrica de equipos eléctricos para plantas solares y parques eólicos. Más información: Mundo Industria se renueva en Salamanca: un gran equipo para ofrecer…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391179.jpg?p=c:1432:804:nowe:133:39/w:1706/h:960&h=5bLv0xLr",
-    "pub": 1793373228,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Vox se querella contra el subdelegado del Gobierno en Zamora por cinco delitos tras las protestas en su acto",
