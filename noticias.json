@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Consternación en Bembibre por la muerte de la joven científica Tamara González",
+    "link": "https://www.elbierzodigital.com/consternacion-en-bembibre-por-la-muerte-de-la-joven-cientifica-tamara-gonzalez/",
+    "desc": "El Ayuntamiento de Bembibre ha expresado su profundo pesar por el fallecimiento de Tamara González Costa , la joven investigadora berciana que perdió la vida en el accidente ferroviario de Urda…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/consternacion-en-bembibre-por-la-muerte-de-la-joven-cientifica-tamara-gonzalez-el-bierzo-digital.jpg",
+    "pub": 1793527429,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Cuando llamar 'el último Templario' es simplificar en exceso",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/cuando-llamar-el-ultimo-templario-es-simplificar-en-exceso_205686_102.html",
+    "desc": "Tomás Martínez 'el hospitalero de Manjarín' fue uno de los personajes más singulares del Camino de Santiago, que ya es mucho decir de una ruta milenaria",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/64/1/cuando-llamar-el-ultimo-templario-es-simplificar-en-exceso.jpeg",
+    "pub": 1793526212,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Historias escritas en los nichos",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/historias-escritas-en-nichos_205685_102.html",
+    "desc": "Hay cementerios de pequeños pueblos, vacíos en muchos casos durante el invierno, que son la mejor enciclopedia del lugar, el único libro que cuenta la historia de sus habitantes, mucho más…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/61/2/historias-escritas-en-los-nichos.jpeg",
+    "pub": 1793525923,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Confirman la muerte de la científica leonesa Marta Shahbazi en el accidente ferroviario de Urda",
     "link": "https://www.lanuevacronica.com/actualidad/confirman-muerte-cientifica-leonesa-marta-shahbazi-en-accidente-ferroviario-urda_205684_102.html",
     "desc": "Es la segunda víctima mortal de la provincia de León confirmada después de la berciana Tamara González",
@@ -181,22 +205,6 @@
     "desc": "",
     "img": null,
     "pub": 1793503200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "\"No podemos reducir nuestros montes y pueblos a meras colonias energéticas\"",
-    "link": "https://www.lanuevacronica.com/actualidad/no-podemos-reducir-nuestros-montes-pueblos-meras-colonias-energeticas_205664_102.html",
-    "desc": "Entrevista a Manuel Alfonso González, número tres del PSOE de León al Senado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/16/5/entrevista-manuel-alfonso.jpeg",
-    "pub": 1793502000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La memoria de Paulino 'El Manco' renace en su chozo",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/memoria-paulino-manco-renace-en-su-chozo_205666_102.html",
-    "desc": "Paulino es, sin duda, uno de los pastores más recordados y queridos, al margen de ser el gran maestro de la caldereta. Una escultura le recuerda en Sancenas (Genicera) al lado de su chozo, que esta…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/19/0/las-tres-fases-de-la-reconstruccion-del-chozo-de-paulino-el-manco.jpeg",
-    "pub": 1793502000,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -702,14 +710,6 @@
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2019/05/WhatsApp-Image-2019-05-02-at-11.51.15-2.jpeg",
     "pub": 1793369339,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El promotor de la biorrefinería de Barcial del Barco denuncia al presidente y al expresidente de la Diputación de Zamora",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261030/faundez-intereses-particulares-no-van-amedrentar-decisiones-legales-tomemos/1003744441422_0.html",
-    "desc": "Javier Faúndez: \"Los intereses particulares no van a amedrentarnos en las decisiones legales que tomemos”. Más información: El presidente de la Diputación de Zamora, sobre la 'crisis' desatada por…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10979239.jpg?p=c:1440:809:nowe:89:256/w:1706/h:960&h=4KLWsWmo",
-    "pub": 1793368228,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Piden 15 meses de cárcel por casi 400 toneladas de vertidos y fauna protegida muerta en el campo petrolífero de La Lora, en Burgos",
