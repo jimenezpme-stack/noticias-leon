@@ -1,5 +1,61 @@
 [
   {
+    "titulo": "El PSOE destaca los casi 10.000 parados menos en León desde 2018",
+    "link": "https://www.lanuevacronica.com/actualidad/psoe-destaca-casi-10000-parados-menos-en-leon-2018_205691_102.html",
+    "desc": "Los socialistas reivindican también el aumento de más de 15.500 afiliados a la Seguridad Social y la mejora de la contratación indefinida en la provincia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/04/15/3/logistica.jpeg",
+    "pub": 1793532772,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "13:00 | Mipelletymas BF León - Osés Construcción | Las leonesas vuelven al Palacio tras dos victorias consecutivas",
+    "link": "https://www.heraldodeleon.es/deportes/baloncesto/13-00-mipelletymas-bf-leon-oses-construccion-leonesas-vuelven-palacio-dos-victorias-consecutivas/20261101123211115812.html",
+    "desc": "El Mipelletymas BF León afronta este domingo una prueba de máxima exigencia en la LF Challenge. El conjunto leonés recibirá al Osés Construcción Ardoi, segundo clasificado y todavía invicto, en un…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/03/2026100322455814587.jpg",
+    "pub": 1793532731,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La ULE estrecha lazos con la FAO y abre nuevas oportunidades para sus estudiantes",
+    "link": "https://www.lanuevacronica.com/actualidad/ule-estrecha-lazos-con-fao-abre-nuevas-oportunidades-sus-estudiantes_205690_102.html",
+    "desc": "La investigadora Eugenia Rendueles participa en un foro internacional celebrado en Roma y explora nuevas vías de colaboración en alimentación, ganadería y sostenibilidad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/76/30/6/un-instante-del-acto-de-la-fao.jpeg",
+    "pub": 1793532445,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Bembibre H.C. logra empatar ante el Palau en un partido muy serio",
+    "link": "https://www.heraldodeleon.es/deportes/mas-deporte/bembibre-h-c-logra-empatar-palau-partido-muy-serio/20261101122554115811.html",
+    "desc": "Las bercianas suman su primer punto ante el conjunto catalán tras un encuentro muy igualado, con ocasiones para ambos equipos y dos porteras que evitaron que se moviera el marcador",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/01/2026110112253126386.jpg",
+    "pub": 1793532354,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Vuelve la incertidumbre para Lodos",
+    "link": "https://www.lanuevacronica.com/deportes/vuelve-incertidumbre-lodos_205689_102.html",
+    "desc": "Tras comunicar el Ademar que era sólo un golpe e incluso entrenar el lateral el jueves, una segunda opinión médica dictamina que tiene el cruzado roto y se hará una nueva resonancia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/27/13/51/9/lodos8225.jpeg",
+    "pub": 1793532124,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Investigado el alcalde de Congosto por un delito de ordenación del territorio",
+    "link": "https://www.lanuevacronica.com/el-bierzo/vecinos-sector-8-congosto-denuncian-alcalde-por-delito-contra-ordenacion-territorial_205231_102.html",
+    "desc": "Los vecinos del sector 8 le demandaron por paralizar su urbanización y sin embargo permitir a otro realizar una valla en un camino y estudian ampliar las acciones judiciales por prevaricación…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/74/1/valla-2.jpeg",
+    "pub": 1793531898,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las calaveras de remolacha vuelven a iluminar la noche de Fresno del Camino",
+    "link": "https://www.lanuevacronica.com/actualidad/calaveras-remolacha-vuelven-iluminar-noche-fresno-camino_205688_102.html",
+    "desc": "La localidad leonesa recupera una tradición que sus vecinos ya practicaban en los años 50 y pretende dar continuidad a la iniciativa con la Güeste de Ánimas el próximo año",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/76/24/9/las-calaveras-de-remolacha-vuelven-a-iluminar-la-noche-de-fresno-del-camino.jpeg",
+    "pub": 1793531416,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "UPL acusa a Vox de dejar al cereal leonés \"sin respuesta ante la crisis del campo\"",
     "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/upl-denuncia-que-vox-deja-cereal-leones-ayudas-suficientes-crisis-campo/20261101120655115809.html",
     "desc": "Exigen una partida específica para ayudas extraordinarias que compensen el incremento de precios, una revisión a la alza de la ayuda de 20 euros por hectárea y la inclusión del maíz",
@@ -224,14 +280,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Investigado el alcalde de Congosto por un delito de ordenación del territorio",
-    "link": "https://www.lanuevacronica.com/el-bierzo/vecinos-sector-8-congosto-denuncian-alcalde-por-delito-contra-ordenacion-territorial_205231_102.html",
-    "desc": "Los vecinos del sector 8 le demandaron por paralizar su urbanización y sin embargo permitir a otro realizar una valla en un camino y estudian ampliar las acciones judiciales por prevaricación…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/74/1/valla-2.jpeg",
-    "pub": 1793504400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La mano viva",
     "link": "https://www.lanuevacronica.com/opinion/mano-viva_205680_102.html",
     "desc": "",
@@ -245,38 +293,6 @@
     "desc": "Villafranca del Bierzo fue escenario de una de aquellas apuestas por el progreso que marcaron una época: la llegada del agua y la luz eléctrica",
     "img": "https://www.lanuevacronica.com/uploads/s1/35/50/36/7/fabrica-de-luz.jpeg",
     "pub": 1793504100,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Otras muertes",
-    "link": "https://www.lanuevacronica.com/opinion/otras-muertes_205678_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1793503800,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La sucia voz de Vox",
-    "link": "https://www.lanuevacronica.com/opinion/sucia-voz-vox_205679_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1793503500,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Pena de muerte para el ministro de trenes",
-    "link": "https://www.lanuevacronica.com/opinion/pena-muerte-ministro-trenes_205675_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1793503500,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "'Fatherland'",
-    "link": "https://www.lanuevacronica.com/opinion/fatherland_205667_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1793503200,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -454,22 +470,6 @@
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10323790.jpg?p=c:1909:1074:nowe:8:99/w:1706/h:960&h=toHRTanf",
     "pub": 1793451900,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El 32.586 deja parte del primer premio de la Lotería Nacional en Sahagún",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/32586-deja-parte-primer-premio-loteria-nacional-sahagun/20261031135539115727.html",
-    "desc": "La Administración número uno de la localidad vendió décimos del número premiado, dotado con 60.000 euros al décimo",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/02/21/2025022108545873917.jpg",
-    "pub": 1793451339,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Astorga licita las obras para los aparcamientos de Pedro Junco y la Escuela de Música",
-    "link": "https://www.heraldodeleon.es/comarcas/astorga/astorga-licita-obras-acondicionar-mejorar-aparcamientos-pedro-junco-escuela-musica/20261031134535115726.html",
-    "desc": "La actuación, financiada a través del Fondo de Cooperación Local de la Junta de Castilla y León, cuenta con un presupuesto base de licitación de 170.382,44 euros y permitirá mejorar las condiciones…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103113420582513.jpg",
-    "pub": 1793450735,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Confirman la muerte de Tamara González, la científica de Bembibre desaparecida tras el accidente ferroviario de Urda",
