@@ -1,6 +1,30 @@
 [
   {
-    "titulo": "Carracedelo destina 20.000 euros a BioCastanea para impulsar el sector de la castaña",
+    "titulo": "Toral de Merayo pierde la cabeza en su Sanatorio de Ánimas",
+    "link": "https://www.elbierzodigital.com/toral-de-merayo-pierde-la-cabeza-en-su-sanatorio-de-animas/",
+    "desc": "Toral de Merayo vivió ayer, 31 de octubre, una terrorífica Noche de Ánimas con un recorrido por su particular sanatorio, donde los participantes se adentraron desde las 20.00 horas en una…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/toral-de-merayo-pierde-la-cabeza-en-su-sanatorio-de-animas-el-bierzo-digital.jpg",
+    "pub": 1793546271,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "🔴 Directo | Ourense 0-0 Cultural | Solo vale ganar",
+    "link": "https://www.heraldodeleon.es/deportes/cultural/directo-ourense-cultural-solo-vale-ganar/20261101161037115882.html",
+    "desc": "La Cultural, obligada a conseguir los tres puntos ante el colista Ourense",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/13/2026091320300469020.jpg",
+    "pub": 1793545837,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Cataplasma: 'San Andrés o León'",
+    "link": "https://www.lanuevacronica.com/extras/la-cataplasma/cataplasma-san-andres-leon_205695_102.html",
+    "desc": "Fulgencio Fernández se asoma a una ventana en la que tendrán cabida los personajes que nunca llegaron a pensar que sus historias le podían llegar a interesar a alguien",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/76/35/8/frame-1cataplasma.jpeg",
+    "pub": 1793545500,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Carracedelo impulsa con 20.000 euros la organización de BioCastanea",
     "link": "https://www.elbierzodigital.com/carracedelo-destina-20-000-euros-a-biocastanea-para-impulsar-el-sector-de-la-castana/",
     "desc": "El Ayuntamiento de Carracedelo aportará 20.000 euros a la organización de BioCastanea 2026 , la cita que cada año reúne a profesionales, empresas y público en torno al cultivo y aprovechamiento de…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/carracedelo-destina-20-000-euros-a-biocastanea-para-impulsar-el-sector-de-la-castana-el-bierzo-digital.jpg",
@@ -280,14 +304,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Fallece Jesús María 'Curro', apasionado guía de la Cueva de Valporquero",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/fallece-jesus-maria-curro-apasionado-guia-cueva-valporquero/20261101093009115783.html",
-    "desc": "La instalación despide a uno de sus trabajadores, recordado por su pasión por la naturaleza, su compañerismo y su cercanía con los visitantes",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/01/2026110109292510772.jpg",
-    "pub": 1793521809,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Argüello tras el duelo del accidente de Urda: \"Las lágrimas no van a desaparecer, pero la existencia cambia con la fe\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261101/arguello-duelo-accidente-urda-lagrimas-no-van-desaparecer-existencia-cambia-fe/1003744442589_0.html",
     "desc": "El arzobispo de Valladolid y presidente de la CEE reflexiona sobre el dolor de las tragedias colectivas y propone la esperanza y la caridad como refugio para acompañar a las familias golpeadas por…",
@@ -373,14 +389,6 @@
     "desc": "",
     "img": null,
     "pub": 1793505000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Birlibirloque electoral",
-    "link": "https://www.lanuevacronica.com/opinion/birlibirloque-electoral_205677_102.html",
-    "desc": "",
-    "img": null,
-    "pub": 1793504400,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -686,14 +694,6 @@
     "img": "https://static.eldiario.es/clip/800599b9-5af7-4cfe-9dfb-9239ee6daafd_16-9-discover-aspect-ratio_default_1154627.jpg",
     "pub": 1793394977,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Desaparecida en el tren de Urda Marta Shahbazi, científica de origen leonés: vino a España a recoger un premio",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261030/desaparecida-tren-urda-marta-shahbazi-cientifica-origen-leones-vino-espana-recoger-premio/1003744441964_0.html",
-    "desc": "Dirige un grupo en el Laboratorio de Biología Molecular de Cambridge, viajaba a Huelva para recoger un premio a la excelencia científica. Más información: David Jiménez Gil de 49 años, el bioquímico…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391435.avif?p=c:792:445:nowe:202:66/w:1706/h:960&h=yC_B1A8O",
-    "pub": 1793386863,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Valladolid adelanta el sorteo para elegir a los miembros de las mesas electorales para las elecciones generales: consulta si te ha tocado",
