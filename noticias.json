@@ -1,5 +1,77 @@
 [
   {
+    "titulo": "El espejo de Delft",
+    "link": "https://www.lanuevacronica.com/opinion/espejo-delft_205665_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793505000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Birlibirloque electoral",
+    "link": "https://www.lanuevacronica.com/opinion/birlibirloque-electoral_205677_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793504400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Investigado el alcalde de Congosto por un delito de ordenación del territorio",
+    "link": "https://www.lanuevacronica.com/el-bierzo/vecinos-sector-8-congosto-denuncian-alcalde-por-delito-contra-ordenacion-territorial_205231_102.html",
+    "desc": "Los vecinos del sector 8 le demandaron por paralizar su urbanización y sin embargo permitir a otro realizar una valla en un camino y estudian ampliar las acciones judiciales por prevaricación…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/67/74/1/valla-2.jpeg",
+    "pub": 1793504400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La mano viva",
+    "link": "https://www.lanuevacronica.com/opinion/mano-viva_205680_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793504100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La fábrica de la luz",
+    "link": "https://www.lanuevacronica.com/el-bierzo/fabrica-luz_204715_102.html",
+    "desc": "Villafranca del Bierzo fue escenario de una de aquellas apuestas por el progreso que marcaron una época: la llegada del agua y la luz eléctrica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/50/36/7/fabrica-de-luz.jpeg",
+    "pub": 1793504100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Otras muertes",
+    "link": "https://www.lanuevacronica.com/opinion/otras-muertes_205678_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793503800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La sucia voz de Vox",
+    "link": "https://www.lanuevacronica.com/opinion/sucia-voz-vox_205679_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793503500,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Pena de muerte para el ministro de trenes",
+    "link": "https://www.lanuevacronica.com/opinion/pena-muerte-ministro-trenes_205675_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793503500,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "'Fatherland'",
+    "link": "https://www.lanuevacronica.com/opinion/fatherland_205667_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793503200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "\"No podemos reducir nuestros montes y pueblos a meras colonias energéticas\"",
     "link": "https://www.lanuevacronica.com/actualidad/no-podemos-reducir-nuestros-montes-pueblos-meras-colonias-energeticas_205664_102.html",
     "desc": "Entrevista a Manuel Alfonso González, número tres del PSOE de León al Senado",
@@ -48,22 +120,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Ponferrada 78-90 Cáceres: 'Un querer y no poder ante un candidato a todo'",
-    "link": "https://www.lanuevacronica.com/deportes/ponferrada-78-90-caceres-querer-no-poder-candidato-todo_205682_102.html",
-    "desc": "Cayó Ponferrada 78-90 ante Cáceres tras dominar en el inicio y ver como la superioridad ofensiva se imponía, quedándose con la frustración de hacer más daño",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/34/0/el-clinica-ponferrada-no-pudo-con-el-todopoderoso-caceres-en-el-lydia-valentin-cpsdp.jpeg",
-    "pub": 1793484235,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ourense - Cultural: 'Sin margen para otro paso atrás'",
-    "link": "https://www.lanuevacronica.com/deportes/ourense-cultural-sin-margen-otro-paso-atras_205669_102.html",
-    "desc": "La Cultural busca reaccionar este domingo en casa del vicecolista Ourense, que lleva 5 puntos de 27 posibles y viene de caer con un Segunda Federación en Copa pese a jugar con titulares",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/73/7/la-cultural-mostro-su-mejor-y-peor-cara-ante-el-pontevedra-para-perder-su-primer-partido-en-el-reino-saul-aren-9.jpeg",
-    "pub": 1793484199,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ademar 33 - Bidasoa 37: 'Una hora de esperanza, 10 minutos de vacío'",
     "link": "https://www.lanuevacronica.com/deportes/ademar-33-bidasoa-37-hora-esperanza-10-minutos-vacio_205683_102.html",
     "desc": "De la mano de Gonzalo y Castro el Ademar plantó cara durante 47 minutos al líder Bidasoa, pero con 29-29 se atascó y recibió un parcial de 0-8 que sentenció su derrota",
@@ -88,36 +144,12 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Nafti: \"Es un gran punto, esta es nuestra realidad\"",
-    "link": "https://www.lanuevacronica.com/deportes/nafti-es-gran-punto-esta-es-nuestra-realidad_205674_102.html",
-    "desc": "El técnico de la Ponferradina destaca que «me hubiera gustado hacerles más daño» y admite que pudieron encajar «tres o más, venir aquí y respirar tranquilo es muy difícil»",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/31/7/las-dos-plantillas-al-completo-guardaron-un-minuto-de-silencio-por-las-victimas-del-accidente-ferroviario-de-urda-racing-de-ferrol.jpeg",
-    "pub": 1793473618,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Detenido el autor del apuñalamiento mortal entre trabajadores en Tordehumos",
     "link": "https://www.20minutos.es/castilla-y-leon/valladolid/detenido-autor-apunalamiento-mortal-entre-trabajadores-tordehumos_7055870_0.html",
     "desc": "El sospechoso ha sido localizado cerca de un polideportivo de Villabrágima, a unos cuatro kilómetros del lugar del crimen. La Guardia Civil investiga las causas de la agresión, ocurrida en un…",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/19/6ad677840f4876-68346973.jpeg",
     "pub": 1793471966,
     "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "Cultural - Badajoz: 'Del reto a la obligación'",
-    "link": "https://www.lanuevacronica.com/deportes/cultural-badajoz-reto-obligacion_205672_102.html",
-    "desc": "El equipo leonés afrontará por primera vez esta temporada un choque como claro favorito cuando este domingo reciba a un Badajoz que es penúltimo y ha perdido 6 de sus 7 encuentros oficiales",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/58/57/6/cultural-oviedo-1.jpeg",
-    "pub": 1793471589,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Racing de Ferrol 0-0 Ponferradina: 'Otro ejercicio de supervivencia total'",
-    "link": "https://www.lanuevacronica.com/deportes/racing-ferrol-0-0-ponferradina-otro-ejercicio-supervivencia-total_205671_102.html",
-    "desc": "Resistió la Deportiva en Ferrol (0-0), en un partido donde los locales las tuvieron de todos los colores, pero se estrellaron una y otra vez ante Álex Domínguez y con dos largueros",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/26/9/la-deportiva-salvo-un-punto-de-mucho-valor-ante-el-racing-de-ferrol-reportaje-grafico-racing-de-ferrol.jpeg",
-    "pub": 1793470811,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Ponfe resiste y suma un punto ante el Racing de Ferrol",
@@ -152,44 +184,12 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Rescatados en helicóptero dos montañeros atrapados en una cumbre de Picos de Europa",
-    "link": "https://www.lanuevacronica.com/sucesos/rescatados-en-helicoptero-dos-montaneros-atrapados-en-cumbre-picos-europa_205663_102.html",
-    "desc": "Un hombre y una mujer quedaron este sábado por la mañana enriscados en el pico Arenizas, en Posada de Valdeón, y tuvieron que ser evacuados mediante dos maniobras de grúa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/15/5/rescatados-en-helicoptero-dos-montaneros-atrapados-en-una-cumbre-de-picos-de-europa.jpeg",
-    "pub": 1793465766,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Europa premia a León por transformar sus tejados en un pulmón de energía limpia y almacenamiento inteligente",
     "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261031/europa-premia-leon-transformar-tejados-pulmon-energia-limpia-almacenamiento-inteligente/1003744442394_0.html",
     "desc": "La iniciativa 'León Smart City Solar' se impone a más de 300 proyectos de 35 países en Cascais tras desplegar baterías de última generación y una red que alimentará a un centenar de sedes públicas.…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391681.jpg?p=c:962:540:nowe:0:685/w:1706/h:960&h=2wlIXlnd",
     "pub": 1793464689,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Un fallecido y un herido grave por una agresión con arma blanca en Tordehumos (Valladolid)",
-    "link": "https://www.lanuevacronica.com/cyl/fallecido-herido-grave-por-agresion-con-arma-blanca-en-tordehumos-valladolid_205661_102.html",
-    "desc": "Los dos varones fueron trasladados al centro de salud de Villafrechós, donde se solicitó el envío de un helicóptero",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/10/1/un-fallecido-y-un-herido-grave-por-una-agresion-con-arma-blanca-en-tordehumos-valladolid.jpeg",
-    "pub": 1793463397,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Astorga invertirá 170.000 euros en mejorar los aparcamientos de Pedro Junco y la Escuela de Música",
-    "link": "https://www.lanuevacronica.com/actualidad/astorga-invertira-170000-euros-en-mejorar-aparcamientos-pedro-junco-escuela-musica_205657_102.html",
-    "desc": "El Ayuntamiento ha sacado a licitación las obras, que incluyen la pavimentación, mejora del alumbrado y ordenación de las plazas de estacionamiento y fija un plazo de ejecución de tres meses",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/73/97/0/zona-en-la-que-se-van-adecuar-nuevos-aparcamientos.jpeg",
-    "pub": 1793462400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Fallece a los 85 años Mari Rodríguez, histórica profesora del Colegio Leonés",
-    "link": "https://www.lanuevacronica.com/actualidad/fallece-85-anos-mari-rodriguez-historica-profesora-colegio-leones_205660_102.html",
-    "desc": "La docente dedicó más de cuatro décadas a la enseñanza y desempeñó un papel fundamental en la transición del Colegio de las Hermanas Josefinas al actual Colegio Leonés Jesús Maestro",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/74/08/1/fallece-a-los-85-anos-mari-rodriguez-historica-profesora-del-colegio-leones.jpeg",
-    "pub": 1793462126,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Detenida una mujer de un clan especializado en el timo del tocomocho por estafar 54.500 euros",
