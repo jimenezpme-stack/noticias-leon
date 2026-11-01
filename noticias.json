@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Los platos preparados ganan peso en los hogares con un consumo de 16,5 kilos por persona",
+    "link": "https://www.heraldodeleon.es/castilla-y-leon/platos-preparados-ganan-peso-hogares-castilla-leon-consumo-165-kilos-persona/20261101131333115863.html",
+    "desc": "El gasto en comida ya cocinada aumenta un 11,6% en el último año, hasta sumar 144 millones entre enero y julio",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/01/2026110113130358192.jpg",
+    "pub": 1793535213,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "UPL denuncia que la Junta excluye al maíz de las ayudas al cereal",
+    "link": "https://www.lanuevacronica.com/actualidad/upl-denuncia-junta-excluye-maiz-ayudas-cereal_205693_102.html",
+    "desc": "Los leonesistas consideran insuficientes los 20 euros por hectárea planteados por la Consejería de Agricultura y exigen medidas extraordinarias ante las pérdidas del sector",
+    "img": "https://www.lanuevacronica.com/uploads/s1/22/93/24/3/dsc-0145.jpeg",
+    "pub": 1793533989,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Sospechan que un alumno utilizaba la IA para atacar empresas desde el aula",
+    "link": "https://www.heraldodeleon.es/leon/sospechan-que-alumno-lanza-ciberataques-empresas-centro-estudios/20261101125134115825.html",
+    "desc": "Una profesora recurrió al servicio 'Tu ayuda en ciberseguridad' del Incibe tras encontrar indicios de posibles ataques informáticos, mensajes intimidatorios y una búsqueda sobre cómo fabricar una…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/02/15/2025021509474743214.jpg",
+    "pub": 1793533894,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "El PSOE destaca los casi 10.000 parados menos en León desde 2018",
     "link": "https://www.lanuevacronica.com/actualidad/psoe-destaca-casi-10000-parados-menos-en-leon-2018_205691_102.html",
     "desc": "Los socialistas reivindican también el aumento de más de 15.500 afiliados a la Seguridad Social y la mejora de la contratación indefinida en la provincia",
@@ -112,10 +136,10 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Confirmada la muerte de la científica de origen leonés Marta Shahbazi en el siniestro de Urda (Toledo)",
+    "titulo": "Confirmado el fallecimiento de las científicas leonesas Marta Shahbazi y Tamara González en el trágico accidente de Urda",
     "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261101/confirmada-muerte-cientifica-origen-leones-marta-shahbazi-siniestro-urda-toledo/1003744442643_0.html",
-    "desc": "Viajaba en el vagón 8 del tren AVE para recoger un premio en Congreso de la Sociedad Española de Biología del Desarrollo, al igual que la berciana Tamara González, también fallecida en el accidente.…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391435.avif?p=c:1201:675:nowe:0:110/w:1706/h:960&h=E-KC1NCd",
+    "desc": "Ambas investigadoras viajaban en el vagón 8 del AVE siniestrado hacia un congreso en Huelva; Carrizo de la Ribera y Bembibre muestran su dolor ante la irreparable pérdida de dos referentes de la…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391904.jpg?p=c:3996:2249:nowe:1:0/w:1706/h:960&h=ECR1A9cN",
     "pub": 1793528074,
     "fuente": "El Español · CyL"
   },
@@ -171,7 +195,7 @@
     "titulo": "León llena de flores sus cementerios en una jornada de recuerdo a los difuntos",
     "link": "https://www.heraldodeleon.es/leon/leon-llena-flores-cementerios-jornada-recuerdo-difuntos/20261101094403115785.html",
     "desc": "Miles de familias visitan este domingo los camposantos de la provincia con motivo de Todos los Santos, una tradición que en la capital prevé 15.000 desplazamientos y una importante afluencia de…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/01/2026110109430159007.jpg",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/01/2026110112575829405.jpg",
     "pub": 1793522643,
     "fuente": "Heraldo de León"
   },
@@ -288,14 +312,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "La fábrica de la luz",
-    "link": "https://www.lanuevacronica.com/el-bierzo/fabrica-luz_204715_102.html",
-    "desc": "Villafranca del Bierzo fue escenario de una de aquellas apuestas por el progreso que marcaron una época: la llegada del agua y la luz eléctrica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/50/36/7/fabrica-de-luz.jpeg",
-    "pub": 1793504100,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Clínica Ponferrada cede ante el potencial del Cáceres y pierde su imbatibilidad en el Lydia Valentín (78-90)",
     "link": "https://www.elbierzodigital.com/el-clinica-ponferrada-cede-ante-el-potencial-del-caceres-y-pierde-su-imbatibilidad-en-el-lydia-valentin-78-90/",
     "desc": "El Clínica Ponferrada SDP vio frenada su buena trayectoria como local después de caer por 78-90 ante el Cáceres Patrimonio de la Humanidad , en el encuentro correspondiente a la quinta jornada del…",
@@ -392,14 +408,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Un fallecido y un herido grave por una agresión con arma blanca en Valladolid",
-    "link": "https://www.heraldodeleon.es/castilla-y-leon/fallecido-herido-grave-agresion-arma-blanca-valladolid/20261031155423115736.html",
-    "desc": "Los dos varones fueron trasladados al centro de salud de Villafrechós, donde se solicitó el envío de un helicóptero",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103115514441482.jpg",
-    "pub": 1793458463,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Un muerto por arma blanca y otro grave en una agresión en Tordehumos",
     "link": "https://www.20minutos.es/castilla-y-leon/valladolid/un-muerto-por-arma-blanca-otro-grave-una-agresion-tordehumos_7055815_0.html",
     "desc": "Las tres víctimas, trabajadores de origen indio alojados en un albergue de la localidad, han sufrido heridas de distinta gravedad. La Guardia Civil busca al presunto autor del apuñalamiento, que ya…",
@@ -461,7 +469,7 @@
     "desc": "El colectivo, que tenía previsto un corte al tráfico reivindicativo ante la Subdelegación del Gobierno, tan solo realiza cinco minutos de silencio por el accidente ferroviario de Urda (Toledo)",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103113585618829.jpg",
     "pub": 1793452725,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "El pueblo más bonito de España con el mejor lechazo, castillo del siglo XII y puente medieval: es de los preferidos de los viajeros",
@@ -542,14 +550,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/31/2026103111352885063.jpg",
     "pub": 1793443490,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "La Junta avala la llegada de 17 nuevas plazas de jueces a Castilla y León en 2027, pero reclama más en  Palencia y Soria",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261031/junta-avala-llegada-nuevas-plazas-jueces-castilla-leon-reclama-palencia-soria/1003744442207_0.html",
-    "desc": "El informe de Presidencia respalda las nuevas plazas asignadas a la Comunidad pero insiste en extender los juzgados de Violencia sobre la Mujer y cubrir vacantes históricas. Más información:…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391590.jpg?p=w:1706/h:960&h=CL3xtQcX",
-    "pub": 1793443213,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "León espera más de 15.000 visitas al cementerio por Todos los Santos",
