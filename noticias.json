@@ -1,5 +1,101 @@
 [
   {
+    "titulo": "Cuatro personas, entre ellas dos niños, mueren en las carreteras de Castilla y León durante el puente de Todos los Santos",
+    "link": "https://www.elbierzodigital.com/cuatro-personas-entre-ellas-dos-ninos-mueren-en-las-carreteras-de-castilla-y-leon-durante-el-puente-de-todos-los-santos/",
+    "desc": "Las carreteras de Castilla y León dejan un balance trágico durante el puente de Todos los Santos, con cuatro fallecidos , entre ellos dos niños de dos y tres años . Todos perdieron la vida el…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/borrador-automatico-el-bierzo-digital.jpeg",
+    "pub": 1793651599,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Un apoyo al exjugador leonés Luismi Martínez en su lucha contra la ELA",
+    "link": "https://www.lanuevacronica.com/deportes/apoyo-exjugador-leones-luismi-martinez-en-su-lucha-contra-ela_205749_102.html",
+    "desc": "El que fuera mediocentro de la Cultural durante dos temporadas en Segunda B, y que militó cinco años en el Ourense, fue homenajeado por la escuadra culturalista en el partido entre ambos equipos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/87/3/luismicultural.jpeg",
+    "pub": 1793649116,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Madrugar y hacer cola para ver el derbi",
+    "link": "https://www.lanuevacronica.com/deportes/madrugar-hacer-cola-ver-derbi_205739_102.html",
+    "desc": "Los socios de la Ponferradina podrán adquirir las 659 entradas de las que disponen para el choque de este domingo ante la Cultural este martes a partir de las 8:30 horas en las oficinas de El Toralín",
+    "img": "https://www.lanuevacronica.com/uploads/s1/25/94/10/2/sau8685.jpeg",
+    "pub": 1793649081,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Cuatro fallecidos, entre ellos dos menores, en un trágico puente de Todos los Santos",
+    "link": "https://www.heraldodeleon.es/castilla-y-leon/cuatro-fallecidos-entre-ellos-dos-menores-marcan-tragico-puente-todos-santos/20261102205030115952.html",
+    "desc": "La DGT preveía casi 700.000 desplazamientos de largo recorrido en la Comunidad durante una operación especial que comenzó el viernes y concluye este lunes a medianoche",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/02/2026110220501023867.jpg",
+    "pub": 1793649030,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Miguel gana el MVP de la quiniela de Heraldo de León",
+    "link": "https://www.heraldodeleon.es/deportes/cultural/miguel-gana-mvp-quiniela-heraldo-leon/20261102204502115950.html",
+    "desc": "El vencedor de la quiniela de Heraldo de León logra el mejor resultado de la jornada con siete de diez aciertos posibles y consigue el 'premio de la jornada'",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/08/24/2026082417182919587.jpg",
+    "pub": 1793648702,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Grela ya manda en la Cultural",
+    "link": "https://www.lanuevacronica.com/deportes/grela-ya-manda-en-cultural_205740_102.html",
+    "desc": "El base sigue yendo a más y ya es de toda la liga el jugador que más faltas provoca, el tercero con más robos y el noveno máximo asistente, además de ser el tercero en anotación del equipo leonés",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/15/74/4/cultural-ponferrada-9.jpeg",
+    "pub": 1793647352,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Capucheras se lleva 'El Quinteto' de Heraldo de León",
+    "link": "https://www.heraldodeleon.es/deportes/baloncesto/nacheras-lleva-quinteto-heraldo-leon/20261026113446114893.html",
+    "desc": "El ganador de la competición se impone tras elegir su equipo y gestionar los dos cambios disponibles durante la competición del juego ligado al BF León | Capucheras también lidera la clasificación…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/06/2026100608434329518.webp",
+    "pub": 1793647006,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Fundación Eutherpe programa cuatro conciertos de músicos italianos en León",
+    "link": "https://www.heraldodeleon.es/cultura/fundacion-eutherpe-programa-cuatro-conciertos-musicos-italianos-leon/20261102201525115949.html",
+    "desc": "La Sala Eutherpe acogerá del 5 al 8 de noviembre recitales de piano, clarinete y guitarra clásica con cuatro intérpretes procedentes de Italia que ofrecerán un repertorio desde el Barroco hasta la…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/02/2026110220142653300.jpg",
+    "pub": 1793646925,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "'Picopato' conquista al público leonés con una emotiva historia de superación",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/picopato-conquista-publico-leones-con-emotiva-historia-superacion_205737_102.html",
+    "desc": "La compañía Teatro Goradaka logró una gran acogida este lunes en el Auditorio Ciudad de León con una obra de teatro familiar inspirada en la vida del poeta vasco Bilintx",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/83/7/picopato-conquista-al-publico-leones-con-una-emotiva-historia-de-superacion.jpeg",
+    "pub": 1793642706,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Una Cultural en crisis pese al benigno calendario",
+    "link": "https://www.lanuevacronica.com/deportes/cultural-en-crisis-pese-benigno-calendario_205731_102.html",
+    "desc": "Pese a medirse a 5 de los 6 últimos clasificados y sólo a uno de los cuatro primeros, el equipo leonés firma su peor inicio de liga en Primera RFEF y el más negativo en una categoría de Bronce en 13…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/76/83/6/ourense-cultural-8.jpeg",
+    "pub": 1793642197,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Maestre: \"Estamos lejos de ser la mejor versión de cada uno\"",
+    "link": "https://www.lanuevacronica.com/deportes/maestre-estamos-lejos-ser-mejor-version-cada_205738_102.html",
+    "desc": "El mediocentro de la Cultural cree que \"mirar al entrenador es echarle la mierda al de al lado y no fijarse en lo que podemos mejorar. Los jugadores no hemos sido capaces de mostrar el nivel que…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/76/88/0/ourense-cultural-10.jpeg",
+    "pub": 1793642129,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un incendio en Caboalles de Abajo golpea a cinco familias y causa daños en una farmacia",
+    "link": "https://www.elbierzodigital.com/un-incendio-en-caboalles-de-abajo-golpea-a-cinco-familias-y-causa-danos-en-una-farmacia/",
+    "desc": "Un incendio declarado de madrugada en un edificio residencial de Caboalles de Abajo , en el municipio de Villablino , ha dejado i mportantes daños materiales y afectado a cinco familias que residen…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/un-incendio-en-caboalles-de-abajo-golpea-a-cinco-familias-y-causa-danos-en-una-farmacia-el-bierzo-digital.jpeg",
+    "pub": 1793640921,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "La ULE acerca la ciencia al Bierzo con talleres y 54 actividades",
     "link": "https://www.elbierzodigital.com/la-ule-acerca-la-ciencia-al-bierzo-con-talleres-y-54-actividades/",
     "desc": "La ciencia se convertirá durante nueve días en una experiencia práctica y abierta a todos los públicos. La Universidad de León (ULE) ha organizado del 7 al 15 de noviembre una nueva edición de su…",
@@ -40,9 +136,9 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Detenido un joven de 27 años por amenazar y destrozar el coche de madre y la pareja de esta tras una discusión",
+    "titulo": "Detenido un joven por amenazar a su madre y destrozarle el coche durante una discusión",
     "link": "https://www.20minutos.es/castilla-y-leon/valladolid/detenido-un-joven-27-anos-por-amenazar-destrozar-coche-madre-pareja-esta-tras-una-discusion_7056224_0.html",
-    "desc": "El arrestado había residido unos meses con ambos antes de abandonar el domicilio por problemas de convivencia, según han informado las autoridades.",
+    "desc": "El arrestado había residido unos meses con la mujer y la pareja de esta antes de abandonar el domicilio por problemas de convivencia, según han informado las autoridades.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/30/6a43ca92207102-64171611.jpeg",
     "pub": 1793632907,
     "fuente": "20minutos CyL"
@@ -110,14 +206,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/02/2026110213422756523.jpg",
     "pub": 1793623786,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Una Cultural en crisis pese al benigno calendario",
-    "link": "https://www.lanuevacronica.com/deportes/cultural-en-crisis-pese-benigno-calendario_205731_102.html",
-    "desc": "Pese a medirse a 5 de los 6 últimos clasificados y sólo a uno de los cuatro primeros, el equipo leonés firma su peor inicio de liga en Primera RFEF y el más negativo en una categoría de Bronce en 13…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/76/83/6/ourense-cultural-8.jpeg",
-    "pub": 1793623295,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "León celebra una 'Operación Saco' para ayudar a familias con animales sin recursos",
@@ -280,14 +368,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Denuncian vertidos de aguas residuales en plena calle en el barrio de El Ejido",
-    "link": "https://www.lanuevacronica.com/actualidad/denuncian-vertidos-aguas-residuales-en-plena-calle-en-barrio-ejido_205720_102.html",
-    "desc": "Los residentes de Antolín López Peláez reclaman al Ayuntamiento de León una intervención urgente ante una situación de insalubridad que aseguran que se prolonga desde hace años",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/30/0/denuncian-vertidos-de-aguas-residuales-en-plena-calle-en-el-barrio-de-el-ejido.jpeg",
-    "pub": 1793614786,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La supresión de dos trenes AVE de León a Madrid por \"razones técnicas\" complica el desplazamiento a la capital a más de 300 pasajeros este lunes",
     "link": "https://www.heraldodeleon.es/leon/supresion-dos-trenes-ave-leon-madrid-razones-tecnicas-complica-desplazamiento-capital-mas-300-pasajeros-lunes/20261102111014115913.html",
     "desc": "Renfe cancela el servicio de las 15:08 horas desde León y mantiene en el aire la salida de otro tren procedente de Gijón, que podría reanudar su marcha desde la capital leonesa a las 14:54 horas,…",
@@ -304,44 +384,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Lo mocheros comienzan noviembre con una hacendera en el Bernesga con sorpresa y baño incluido",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/mocheros-comienzan-noviembre-con-hacendera-en-bernesga-con-sorpresa-bano-incluido_205719_102.html",
-    "desc": "Los seis voluntarios de los Amigos del Mocho retiraron del río una silla, un edredón, numerosas latas y plásticos durante su hacendera mensual por la zona de León Plaza",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/28/0/lo-mocheros-comienzan-noviembre-con-una-hacendera-en-el-bernesga-con-sorpresa-y-bano-incluido.jpeg",
-    "pub": 1793612778,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Mineras, rostros y miradas que cuentan su historia",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/mineras-rostros-miradas-cuentan-su-historia_205718_102.html",
-    "desc": "Mineras, femenino y plural es una exposición de retratos realizados por Cristina Velasco de mujeres del mundo rural en las comarcas mineras de la zona de Laciana que puede disfrutarse en la plaza…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/26/2/mineras-rostros-y-miradas-que-cuentan-su-historia.jpeg",
-    "pub": 1793612265,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "\"Todos nacíamos pobres y no había ricos a quien mirar\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/todos-naciamos-pobres-no-habia-ricos-quien-mirar_205717_102.html",
-    "desc": "Clemente Fuertes, nacido en Villavente y vinculado a Tendal, presenta este lunes su libro 'La Sobarriba. Demasiado cerca de León', en el que partiendo de su historia familiar cuenta la de su tierra…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/19/6/todos-naciamos-pobres-y-no-habia-ricos-a-quien-mirar.jpeg",
-    "pub": 1793611951,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Plataforma contra la Violencia Machista convoca un nuevo 'Lunes sin sol'",
     "link": "https://www.heraldodeleon.es/leon/plataforma-violencia-machista-leon-convoca-nuevo-lunes-sol/20261102103216115912.html",
     "desc": "Recordará a Nadia, de 37 años, asesinada el miércoles por su pareja en el distrito de Nou Barris de Barcelona",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/02/02/2025020218491069939.jpg",
     "pub": 1793611936,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "León sigue esperando la Base de Mantenimiento de Infraestructuras de Adif proyectada en 2009",
-    "link": "https://www.lanuevacronica.com/actualidad/gobierno-bloquea-126-millones-nueva-base-mantenimiento-infraestructuras-adif-proyectada-en-2009-leon_205716_102.html",
-    "desc": "Corredor Oeste acusa al Gobierno de bloquear una inversión de 12,6 millones que agruparía en Trobajo del Cerecedo viejas instalaciones repartidas actualmente por la capital y San Andrés del Rabanedo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/11/9/mantenimiento-infraestructuras.png",
-    "pub": 1793611817,
-    "fuente": "La Nueva Crónica"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "El PP denuncia la imagen de \"suciedad y abandono\" de León tras Halloween",
@@ -349,7 +397,7 @@
     "desc": "Reclama un refuerzo de los servicios de limpieza, especialmente después de las noches de mayor actividad y afluencia de público",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/02/2026110210205523233.jpg",
     "pub": 1793611477,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Manuel, Ruth y dos pequeños: la tragedia se lleva a tres generaciones de una familia el día de Todos los Santos",
@@ -365,15 +413,7 @@
     "desc": "La capital leonesa disfrutará de una jornada de estabilidad meteorológica, con cielos soleados, una mínima de 1 grado y máximas que rozarán los 20 grados",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/04/17/2026041710065437300.jpg",
     "pub": 1793610802,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "¿Qué se puede hacer con Jandro Castro?",
-    "link": "https://www.heraldodeleon.es/deportes/cultural/que-puede-hacer-jandro-castro/20261102100347115908.html",
-    "desc": "La derrota ante el Ourense, colista de la categoría, vuelve a cuestionar abiertamente al técnico | La Cultural acumula únicamente 12 puntos de 30 posibles, mientras crece el distanciamiento con una…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/19/2026101910541457158.jpg",
-    "pub": 1793610227,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Prisión comunicada y sin fianza para el presunto autor del homicidio de Tordehumos",
@@ -656,22 +696,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La Deportiva sobrevive a una tarde de miedo en A Malata",
-    "link": "https://www.elbierzodigital.com/racing-ferrol-ponferradina-cronica-2627/",
-    "desc": "La Ponferradina encadenó su cuarto partido sin ganar en liga (o el tercero sin perder, para los optimistas) tras un ejercicio de resistencia numantina en A Malata, donde logró mantener el resultado…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/racing-ponferradina-el-bierzo-digital-1.jpg",
-    "pub": 1793467967,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Europa premia a León por transformar sus tejados en un pulmón de energía limpia y almacenamiento inteligente",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261031/europa-premia-leon-transformar-tejados-pulmon-energia-limpia-almacenamiento-inteligente/1003744442394_0.html",
-    "desc": "La iniciativa 'León Smart City Solar' se impone a más de 300 proyectos de 35 países en Cascais tras desplegar baterías de última generación y una red que alimentará a un centenar de sedes públicas.…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391681.jpg?p=c:962:540:nowe:0:685/w:1706/h:960&h=2wlIXlnd",
-    "pub": 1793464689,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Detenida una mujer de un clan especializado en el timo del tocomocho por estafar 54.500 euros",
     "link": "https://www.20minutos.es/castilla-y-leon/valladolid/detenida-una-mujer-un-clan-especializado-timo-tocomocho-por-estafar-54-500-euros_7055824_0.html",
     "desc": "La mujer, con 36 antecedentes policiales, formaba parte de un clan itinerante que engañaba a sus víctimas con falsos cupones premiados de la ONCE. El resto de los implicados continúa en búsqueda.",
@@ -680,36 +704,12 @@
     "fuente": "20minutos CyL"
   },
   {
-    "titulo": "Aplazado el magosto de Corullón",
-    "link": "https://www.elbierzodigital.com/aplazado-el-magosto-de-corullon/",
-    "desc": "La Asociación Cultural San Esteban de Corullón aplaza su magosto por el accidente ferroviario de Urda, en Toledo, como muestra de respeto y solidaridad con las víctimas del accidente ferroviario,…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2013/11/2mbgqe00Magosto2009-14c.jpeg",
-    "pub": 1793459259,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Un muerto por arma blanca y otro grave en una agresión en Tordehumos",
     "link": "https://www.20minutos.es/castilla-y-leon/valladolid/un-muerto-por-arma-blanca-otro-grave-una-agresion-tordehumos_7055815_0.html",
     "desc": "Las tres víctimas, trabajadores de origen indio alojados en un albergue de la localidad, han sufrido heridas de distinta gravedad. La Guardia Civil busca al presunto autor del apuñalamiento, que ya…",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/18/6aad06a9197f96-90143596.jpeg",
     "pub": 1793457769,
     "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "Tres amigos bercianos a la conquista del desierto marroquí a bordo de su Citroën C15",
-    "link": "https://www.elbierzodigital.com/tres-amigos-bercianos-a-la-conquista-del-desierto-marroqui-a-bordo-de-su-citroen-c15/",
-    "desc": "Tres amigos del Bierzo se han propuesto conquistar Marruecos al volante de un vehículo que forma parte de la memoria de varias generaciones: una Citroën C15 . Gonzalo, Marcos y Nico participan en el…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/tres-amigos-bercianos-a-la-conquista-del-desierto-marroqui-a-bordo-de-su-citroen-c15-el-bierzo-digital.jpeg",
-    "pub": 1793457242,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "EN DIRECTO | Racing de Ferrol-Ponferradina",
-    "link": "https://www.elbierzodigital.com/en-directo-racing-de-ferrol-ponferradina/",
-    "desc": "Sigue en directo el Racing de Ferrol-Ponferradina de la décima jornada de liga en el grupo de 1 Primera RFEF. El partido comienza a las 16.30 horas en A Malata. La entrada EN DIRECTO | Racing de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/10/en-directo-racing-de-ferrol-ponferradina-el-bierzo-digital.jpg",
-    "pub": 1793457056,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "El Juzgado abre otra investigación contra el presidente de la Diputación Zamora, esta vez por un proyecto de biorrefinería",
