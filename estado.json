@@ -6,8 +6,8 @@
       "ok": true,
       "items": 15,
       "nuevos": 15,
-      "ts": 1793604865,
-      "con_foto": 10
+      "ts": 1793640251,
+      "con_foto": 15
     },
     {
       "fuente": "El Bierzo Digital",
@@ -15,8 +15,8 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1793604865,
-      "con_foto": 29
+      "ts": 1793640251,
+      "con_foto": 28
     },
     {
       "fuente": "Heraldo de León",
@@ -24,16 +24,16 @@
       "ok": true,
       "items": 20,
       "nuevos": 20,
-      "ts": 1793604865,
-      "con_foto": 19
+      "ts": 1793640251,
+      "con_foto": 20
     },
     {
       "fuente": "Heraldo de León · León",
       "url": "https://www.heraldodeleon.es/rss/leon/",
       "ok": true,
       "items": 20,
-      "nuevos": 16,
-      "ts": 1793604865,
+      "nuevos": 9,
+      "ts": 1793640251,
       "con_foto": 20
     },
     {
@@ -42,7 +42,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 29,
-      "ts": 1793604865,
+      "ts": 1793640251,
       "con_foto": 29
     },
     {
@@ -51,7 +51,7 @@
       "ok": true,
       "items": 28,
       "nuevos": 26,
-      "ts": 1793604865,
+      "ts": 1793640251,
       "con_foto": 26
     },
     {
@@ -60,7 +60,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 1,
-      "ts": 1793604865,
+      "ts": 1793640251,
       "con_foto": 1
     },
     {
@@ -68,68 +68,68 @@
       "url": "https://www.20minutos.es/rss/castilla-y-leon/",
       "ok": true,
       "items": 26,
-      "nuevos": 16,
-      "ts": 1793604865,
-      "con_foto": 17
+      "nuevos": 17,
+      "ts": 1793640251,
+      "con_foto": 18
     },
     {
       "fuente": "León4Sport",
       "url": "https://www.leon4sport.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 1h",
-      "ts": 1793563235
+      "error": "https://www.leon4sport.com/feed/ -> <urlopen error [Errno -2] Name or service not known> | https://www.leon4sport.com/rss/ -> <urlopen error [Errno -2] Name or service not known>",
+      "ts": 1793640251
     },
     {
       "fuente": "Pueblo de León",
       "url": "https://www.puebledeleon.es/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 1h",
-      "ts": 1793563235
+      "error": "https://www.puebledeleon.es/feed/ -> <urlopen error [Errno -2] Name or service not known> | https://puebledeleon.es/feed/ -> <urlopen error [Errno -2] Name or service not known>",
+      "ts": 1793640251
     },
     {
       "fuente": "León14 Actualidad",
       "url": "https://www.leon14actualidad.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 1h",
-      "ts": 1793563235
+      "error": "https://www.leon14actualidad.com/feed/ -> <urlopen error [Errno -2] Name or service not known> | https://leon14actualidad.com/feed/ -> <urlopen error [Errno -2] Name or service not known>",
+      "ts": 1793640251
     },
     {
       "fuente": "Onda Regional",
       "url": "https://www.ondaregional.es/rss/",
       "ok": false,
-      "error": "omitida, se reintenta en 1h",
-      "ts": 1793563235
+      "error": "https://www.ondaregional.es/rss/ -> <urlopen error [Errno -2] Name or service not known> | https://ondaregional.es/feed/ -> <urlopen error [Errno -2] Name or service not known>",
+      "ts": 1793640251
     },
     {
       "fuente": "Televisión CyL",
       "url": "https://www.rtvcyltv.es/rss/",
       "ok": false,
-      "error": "omitida, se reintenta en 1h",
-      "ts": 1793563235
+      "error": "https://www.rtvcyltv.es/rss/ -> <urlopen error [Errno -2] Name or service not known> | https://www.rtvcyltv.es/feed/ -> <urlopen error [Errno -2] Name or service not known>",
+      "ts": 1793640251
     },
     {
       "fuente": "Alfarje",
       "url": "https://alfarje.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 1h",
-      "ts": 1793563235
+      "error": "https://alfarje.com/feed/ -> <urlopen error [Errno -2] Name or service not known> | https://www.alfarje.com/feed/ -> <urlopen error [Errno -2] Name or service not known>",
+      "ts": 1793640251
     },
     {
       "fuente": "León Semanal",
       "url": "https://www.leonsemanal.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 1h",
-      "ts": 1793563235
+      "error": "https://www.leonsemanal.com/feed/ -> <urlopen error [Errno -2] Name or service not known> | https://leonsemanal.com/feed/ -> <urlopen error [Errno -2] Name or service not known>",
+      "ts": 1793640251
     }
   ],
   "publicadas": 100,
   "reparto": {
-    "El Español · CyL": 15,
+    "El Bierzo Digital": 22,
     "La Nueva Crónica": 15,
+    "El Español · CyL": 17,
     "20minutos CyL": 8,
     "Heraldo de León": 20,
-    "El Bierzo Digital": 22,
-    "Heraldo de León · León": 11,
+    "Heraldo de León · León": 9,
     "eldiario.es · CyL": 8,
     "20minutos León": 1
   },
