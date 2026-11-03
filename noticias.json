@@ -1,27 +1,131 @@
 [
   {
+    "titulo": "Cuando el empleo se va de feria",
+    "link": "https://www.lanuevacronica.com/opinion/cuando-empleo-se-va-feria_205744_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793678400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Leer el paisaje: Las huellas que deja el tiempo",
+    "link": "https://www.lanuevacronica.com/opinion/leer-paisaje-huellas-deja-tiempo_205748_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793677200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "No reguemos más el odio",
+    "link": "https://www.lanuevacronica.com/opinion/no-reguemos-mas-odio_205741_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793676600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Fechas de cara y cruz",
+    "link": "https://www.lanuevacronica.com/opinion/fechas-cara-cruz_205747_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793676300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Señor es bueno",
+    "link": "https://www.lanuevacronica.com/opinion/senor-es-bueno_205742_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793676000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Dos meses y medio tras la riada, Carracedo de Compludo sigue pendiente del Gobierno para su reconstrucción",
+    "link": "https://www.lanuevacronica.com/el-bierzo/dos-meses-medio-riada-carracedo-compludo-sigue-pendiente-gobierno-su-reconstruccion_205549_102.html",
+    "desc": "A la espera de la aprobación de la declaración de zona catastrófica, el pueblo continúa con la carretera dañada, la captación de agua todavía sin una solución definitiva y puentes y molinos afectados",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/71/66/7/whatsapp-image-2026-08-21-at-12-36-22.jpeg",
+    "pub": 1793675100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las críticas a la suciedad que se convierten en fieles retrato",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/criticas-suciedad-se-convierten-en-fieles-retrato_205746_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793674800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Desafíos de una tierra cada vez más longeva",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/desafios-tierra-cada-vez-mas-longeva_205745_102.html",
+    "desc": "El aumento de la esperanza de vida en la provincia de León es sin duda una buena noticia, pero al mismo tiempo exige reforzar los servicios asistenciales y garantizar un envejecimiento digno y con…",
+    "img": null,
+    "pub": 1793674800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205743_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/85/5/03-11-2026-la-vineta-de-canton.jpeg",
+    "pub": 1793674800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "¿Cuánto viviremos?: León tendrá en una década el doble de centenarios que en la actualidad",
+    "link": "https://www.lanuevacronica.com/actualidad/cuanto-viviremos-leon-tendra-en-decada-doble-centenarios-en-actualidad_205128_102.html",
+    "desc": "Las proyecciones del INE apuntan a que se consolidará la actual tendencia y en 2036 se habrá duplicado el porcentaje de personas con más de 100 años sobre el conjunto de la población leonesa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/68/6/centenariosleon.jpeg",
+    "pub": 1793674800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Música cofrade contra el frío en las Concepcionistas para pagar una avería en la caldera de 10.000 euros",
+    "link": "https://www.lanuevacronica.com/actualidad/musica-cofrade-contra-frio-en-concepcionistas-pagar-averia-en-caldera-10000-euros_205734_102.html",
+    "desc": "El convento de la capital sufrió una avería en su caldera y el concierto será este sábado, 7 de noviembre, para recaudar fondos. La iglesia también sufre una plaga de carcoma",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/67/1/whatsapp-image-2026-11-02-at-15-40-28.jpeg",
+    "pub": 1793674800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Gumersinda, de 102 años, y la alucinante longevidad de su familia: \"No sé cómo estoy así de bien\"",
+    "link": "https://www.lanuevacronica.com/actualidad/gumersina-102-anos-alucinante-longevidad-su-familia-no-se-como-estoy-bien_205130_102.html",
+    "desc": "Procedente de Pobladura de Pelayo García, es una de las leonesas que supera el siglo de vida",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/59/70/8/centenarialeon.jpeg",
+    "pub": 1793674800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El popular programa de viajes argentino que pone su mirada en León: \"Estamos enamorados de su gente\"",
+    "link": "https://www.lanuevacronica.com/actualidad/popular-programa-viajes-argentino-pone-su-mirada-en-leon-estamos-enamorados-su-gente_205473_102.html",
+    "desc": "La comunicadora Silvia Freire ha recorrido la provincia con un proyecto audiovisual que busca mostrar al público de su país las historias de vida que se esconden en cada rincón",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/70/22/8/la-reconocida-comunicada-y-escritora-silvia-freire-ha-visitado-localidades-como-castrillo-de-los-polvazares-en-la-marageteria.jpeg",
+    "pub": 1793674800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Herencia yacente: qué es, quién la administra y cuánto dura",
+    "link": "https://www.lanuevacronica.com/estilo-vida/herencia-yacente-que-es-quien-administra-plazos_205105_102.html",
+    "desc": "",
+    "img": null,
+    "pub": 1793674800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Carolina Yuste, Cristina Fanjul y Miguel Carbajosa protagonizan noviembre en El Libro Imposible",
+    "link": "https://www.lanuevacronica.com/el-bierzo/carolina-yuste-cristina-fanjul-miguel-carbajosa-protagonizan-noviembre-en-libro-imposible_205572_102.html",
+    "desc": "La librería ponferradina programa seis encuentros literarios, un cuentacuentos y un taller de autocuidado",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/22/19/4/el-libro-imposible.jpeg",
+    "pub": 1793674200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Cuatro personas, entre ellas dos niños, mueren en las carreteras de Castilla y León durante el puente de Todos los Santos",
     "link": "https://www.elbierzodigital.com/cuatro-personas-entre-ellas-dos-ninos-mueren-en-las-carreteras-de-castilla-y-leon-durante-el-puente-de-todos-los-santos/",
     "desc": "Las carreteras de Castilla y León dejan un balance trágico durante el puente de Todos los Santos, con cuatro fallecidos , entre ellos dos niños de dos y tres años . Todos perdieron la vida el…",
     "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/borrador-automatico-el-bierzo-digital.jpeg",
     "pub": 1793651599,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Un apoyo al exjugador leonés Luismi Martínez en su lucha contra la ELA",
-    "link": "https://www.lanuevacronica.com/deportes/apoyo-exjugador-leones-luismi-martinez-en-su-lucha-contra-ela_205749_102.html",
-    "desc": "El que fuera mediocentro de la Cultural durante dos temporadas en Segunda B, y que militó cinco años en el Ourense, fue homenajeado por la escuadra culturalista en el partido entre ambos equipos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/87/3/luismicultural.jpeg",
-    "pub": 1793649116,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Madrugar y hacer cola para ver el derbi",
-    "link": "https://www.lanuevacronica.com/deportes/madrugar-hacer-cola-ver-derbi_205739_102.html",
-    "desc": "Los socios de la Ponferradina podrán adquirir las 659 entradas de las que disponen para el choque de este domingo ante la Cultural este martes a partir de las 8:30 horas en las oficinas de El Toralín",
-    "img": "https://www.lanuevacronica.com/uploads/s1/25/94/10/2/sau8685.jpeg",
-    "pub": 1793649081,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Cuatro fallecidos, entre ellos dos menores, en un trágico puente de Todos los Santos",
@@ -40,14 +144,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Grela ya manda en la Cultural",
-    "link": "https://www.lanuevacronica.com/deportes/grela-ya-manda-en-cultural_205740_102.html",
-    "desc": "El base sigue yendo a más y ya es de toda la liga el jugador que más faltas provoca, el tercero con más robos y el noveno máximo asistente, además de ser el tercero en anotación del equipo leonés",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/15/74/4/cultural-ponferrada-9.jpeg",
-    "pub": 1793647352,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Capucheras se lleva 'El Quinteto' de Heraldo de León",
     "link": "https://www.heraldodeleon.es/deportes/baloncesto/nacheras-lleva-quinteto-heraldo-leon/20261026113446114893.html",
     "desc": "El ganador de la competición se impone tras elegir su equipo y gestionar los dos cambios disponibles durante la competición del juego ligado al BF León | Capucheras también lidera la clasificación…",
@@ -62,30 +158,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/02/2026110220142653300.jpg",
     "pub": 1793646925,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "'Picopato' conquista al público leonés con una emotiva historia de superación",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/picopato-conquista-publico-leones-con-emotiva-historia-superacion_205737_102.html",
-    "desc": "La compañía Teatro Goradaka logró una gran acogida este lunes en el Auditorio Ciudad de León con una obra de teatro familiar inspirada en la vida del poeta vasco Bilintx",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/83/7/picopato-conquista-al-publico-leones-con-una-emotiva-historia-de-superacion.jpeg",
-    "pub": 1793642706,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Una Cultural en crisis pese al benigno calendario",
-    "link": "https://www.lanuevacronica.com/deportes/cultural-en-crisis-pese-benigno-calendario_205731_102.html",
-    "desc": "Pese a medirse a 5 de los 6 últimos clasificados y sólo a uno de los cuatro primeros, el equipo leonés firma su peor inicio de liga en Primera RFEF y el más negativo en una categoría de Bronce en 13…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/76/83/6/ourense-cultural-8.jpeg",
-    "pub": 1793642197,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Maestre: \"Estamos lejos de ser la mejor versión de cada uno\"",
-    "link": "https://www.lanuevacronica.com/deportes/maestre-estamos-lejos-ser-mejor-version-cada_205738_102.html",
-    "desc": "El mediocentro de la Cultural cree que \"mirar al entrenador es echarle la mierda al de al lado y no fijarse en lo que podemos mejorar. Los jugadores no hemos sido capaces de mostrar el nivel que…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/76/88/0/ourense-cultural-10.jpeg",
-    "pub": 1793642129,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Un incendio en Caboalles de Abajo golpea a cinco familias y causa daños en una farmacia",
@@ -112,14 +184,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "En el recuerdo para siempre",
-    "link": "https://www.lanuevacronica.com/el-bierzo/en-recuerdo-siempre_205735_102.html",
-    "desc": "Vecinos de Villamartín del Sil, en el municipio de Páramo del Sil, colocan en el cementerio del pueblo una placa para recordar a 19 personas víctimas del franquismo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/70/8/en-el-recuerdo-para-siempre.jpeg",
-    "pub": 1793636870,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Sale a la venta el local de los Cines Casablanca en Valladolid por 950.000 euros",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261102/sale-venta-local-cines-casablanca-valladolid-euros/1003744443438_0.html",
     "desc": "Arturo Dueñas, gerente de las salas, confía en “convertirse en el comprador” del espacio y recuerda que “existe un contrato de alquiler en vigor”. Más información: La lucha de un histórico cine…",
@@ -128,28 +192,12 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Una de las cantantes del momento de la música urbana, primera confirmación del Monoloco",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/cantantes-momento-musica-urbana-primera-confirmacion-monoloco_205736_102.html",
-    "desc": "L0rna se convierte en la primer artista del cartel del festival, que se celebrará los días 11 y 12 de junio de 2027 y abrirá una nueva fase de venta de entradas este martes",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/72/4/883558823-18080163311727291-4963144446830455928-n.jpeg",
-    "pub": 1793633280,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Detenido un joven por amenazar a su madre y destrozarle el coche durante una discusión",
     "link": "https://www.20minutos.es/castilla-y-leon/valladolid/detenido-un-joven-27-anos-por-amenazar-destrozar-coche-madre-pareja-esta-tras-una-discusion_7056224_0.html",
     "desc": "El arrestado había residido unos meses con la mujer y la pareja de esta antes de abandonar el domicilio por problemas de convivencia, según han informado las autoridades.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/30/6a43ca92207102-64171611.jpeg",
     "pub": 1793632907,
     "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "Incendio en un edificio de cinco plantas en Caboalles de Abajo",
-    "link": "https://www.lanuevacronica.com/actualidad/incendio-en-edificio-cinco-plantas-en-caboalles-abajo_205733_102.html",
-    "desc": "Efectivos del Sepeis de la Diputación y de los Bomberos de Ponferrada trabajan para sofocar las llamas y garantizar la seguridad en la zona",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/53/2/incencio-caboalles-2.jpeg",
-    "pub": 1793629986,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Un incendio afecta a varias plantas de un edificio de cinco alturas en Caboalles",
@@ -224,28 +272,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Las madreñas volverán a tomar el centro de León el 12 de diciembre",
-    "link": "https://www.lanuevacronica.com/actualidad/madrenas-volveran-tomar-centro-leon-12-diciembre_205730_102.html",
-    "desc": "La asociación Calechos de Babia y Luna celebrará una nueva edición de su tradicional madreñada, una cita que reunirá música, bailes y costumbres populares",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/49/5/madrenada-babia-y-luna.jpeg",
-    "pub": 1793622907,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El PP exige a Diez que \"se ocupe\" de la limpieza, la basura y la desratización de la ciudad",
     "link": "https://www.heraldodeleon.es/leon/pp-exige-diez-que-ocupe-limpieza-recogida-basuras-desratizacion-ciudad/20261102131811115926.html",
     "desc": "Consideran que negar la presencia de ratas en las calles es \"una forma de intentar ocultar la realidad en lugar de buscar soluciones\"",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/07/09/2026070913473462323.jpg",
     "pub": 1793621891,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La nieta de La Pasionaria compartirá en León sus recuerdos y su legado familiar",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/nieta-pasionaria-compartira-en-leon-sus-recuerdos-su-legado-familiar_205722_102.html",
-    "desc": "Lola Ruiz-Ibárruri protagonizará este jueves el último 'Café Diágolo' del año que orgniza la Fundación Jesús Pereda y este periódico, en una conversación con la secretaria general de CCOO León,…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/33/6/la-nieta-de-la-pasionaria-compartira-en-leon-sus-recuerdos-y-su-legado-familiar.jpeg",
-    "pub": 1793621592,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Feijóo elige Valladolid para protagonizar un gran acto de campaña del PP el próximo 7 de noviembre",
@@ -262,14 +294,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/02/2026110213022531646.jpg",
     "pub": 1793620962,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El PP acusa al Ayuntamiento de negar la presencia de ratas en las calles de León",
-    "link": "https://www.lanuevacronica.com/actualidad/pp-acusa-ayuntamiento-negar-presencia-ratas-en-calles-leon_205729_102.html",
-    "desc": "Los populares critican la respuesta del equipo de gobierno del PSOE a las denuncias vecinales y reclaman actuaciones urgentes de limpieza y desratización en la ciudad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/95/48/2/whatsapp-image-2026-07-09-at-13-37-02.jpeg",
-    "pub": 1793620722,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "León recupera sus filandones para saborear la historia de su gastronomía",
@@ -296,14 +320,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Los incendios ponen a prueba la conservación de la minería romana de León",
-    "link": "https://www.lanuevacronica.com/actualidad/incendios-ponen-prueba-conservacion-mineria-romana-leon_205725_102.html",
-    "desc": "Investigadores de la Universidad de León y geólogos expertos recorren Las Médulas, La Cabrera y el entorno del Teleno para evaluar el estado de sus explotaciones auríferas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/42/6/visitageosen-mineriaoro-ule-5.jpeg",
-    "pub": 1793618104,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Geólogos analizan los daños de los incendios en Las Médulas y las antiguas minas romanas de oro",
     "link": "https://www.elbierzodigital.com/geologos-analizan-los-danos-de-los-incendios-en-las-medulas-y-las-antiguas-minas-romanas-de-oro/",
     "desc": "Los incendios forestales del verano de 2025 y las lluvias posteriores dejaron su huella en uno de los patrimonios históricos y geológicos más importantes de León. Conocer el alcance de esos efectos…",
@@ -312,28 +328,12 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "¿Tanganica o Taranilla?",
-    "link": "https://www.lanuevacronica.com/extras/a-la-contra/tanganica-taranilla_205724_102.html",
-    "desc": "La última de La Nueva Crónica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/38/8/tanganica-o-taranilla.jpeg",
-    "pub": 1793617691,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Héroes de Cavite celebra el sábado la IV Jornada de Hispanidad de León",
     "link": "https://www.heraldodeleon.es/sociedad/asociacion-cultural-heroes-cavite-celebra-sabado-iv-jornada-hispanidad-leon/20261102120623115919.html",
     "desc": "Será inaugurada por el vicepresidente primero de la Junta, Carlos Pollán, y el alcalde de León, José Antonio Diez",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/06/10/2025061012204998623.jpg",
     "pub": 1793617583,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Segunda jornada de huelga de autobuses interurbanos en León sin acuerdo para el convenio",
-    "link": "https://www.lanuevacronica.com/actualidad/segunda-jornada-huelga-autobuses-interurbanos-en-leon-sin-acuerdo-convenio_205723_102.html",
-    "desc": "Los trabajadores mantienen este lunes 2 de noviembre las movilizaciones para exigir mejoras salariales y laborales tras un primer paro marcado por la polémica con Alsa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/77/37/0/segunda-jornada-de-huelga-de-autobuses-interurbanos-en-leon-sin-acuerdo-para-el-convenio.jpeg",
-    "pub": 1793617147,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Lola Ruiz-Ibárruri protagoniza el último café diálogo del año de la Fundación Jesús Pereda",
