@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "León presume del comercio que perdura en un tiempo en que \"todo es caduco\"",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-presume-comercio-perdura-en-tiempo-en-todo-es-caduco_205895_102.html",
+    "desc": "La Cámara de Comercio reconoce en una gala celebrada en el Palacio de Exposiciones a los establecimientos con más de 50, 70 y 100 años de trayectoria en la ciudad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/81/12/1/whatsapp-image-2026-11-04-at-22-41-48-6.jpeg",
+    "tipo": "noticia",
+    "pub": 1793828750,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Orgullo del comercio leonés",
+    "link": "https://www.heraldodeleon.es/economia/comercio-leones-rinde-homenaje-trayectoria-contribucion-establecimientos-mas-veteranos/20261104221953116348.html",
+    "desc": "“Hay recambio generacional\" afirma el presidente de la Cámara en el acto de reconocimiento a casi una treintena de negocios, tres de ellos centenarios",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/04/2026110422142989624.jpg",
+    "tipo": "noticia",
+    "pub": 1793827193,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "37 años de matrimonio, siete hijos y una vida",
     "link": "https://www.heraldodeleon.es/cultura/enrique-mendoza-37-anos-matrimonio-siete-hijos-vida-contar/20261104220113116331.html",
     "desc": "El escritor y articulista&nbsp;presenta en los Juzgados de León 'Padre de siete, marido de una', un libro de anécdotas y reflexiones sobre la familia y la vida en pareja",
@@ -171,7 +189,7 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Detenidos tres hombres y una mujer por el secuestro de un hombre en Briviesca",
+    "titulo": "Cuatro detenidos por el secuestro de un hombre en Briviesca",
     "link": "https://www.20minutos.es/castilla-y-leon/burgos/detenidos-tres-hombres-una-mujer-por-secuestro-un-hombre-briviesca_7057330_0.html",
     "desc": "La Guardia Civil ha indicado que la hipótesis que más fuerza toma es que el suceso responda a un ajuste de cuentas.",
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/28/6abad1fd6f72c5-27134948.jpeg",
@@ -286,15 +304,6 @@
     "tipo": "noticia",
     "pub": 1793804717,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Herido grave un interno tras ser apuñalado por la espalda en la prisión de Mansilla",
-    "link": "https://www.lanuevacronica.com/actualidad/interno-resulta-herido-grave-ser-apunalado-por-espalda-en-prision-mansilla_205865_102.html",
-    "desc": "El sindicato TAMPM denuncia que la víctima fue atacada en el cuello mientras cenaba en el comedor del módulo 14 y tuvo que ser trasladada al Hospital",
-    "img": "https://www.lanuevacronica.com/uploads/s1/24/99/49/7/prisionmansilla-23-9-22-3-4-1000x563.jpeg",
-    "tipo": "noticia",
-    "pub": 1793804623,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Cinco vecinos y un minuto de fama",
@@ -465,7 +474,7 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/03/19/2025031908312735872.jpg",
     "tipo": "noticia",
     "pub": 1793798058,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "CSIF denuncia que los cursos que Sacyl exige para opositar no cuentan para entrar en sus bolsas de empleo",
@@ -538,15 +547,6 @@
     "tipo": "noticia",
     "pub": 1793795640,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Las Cortes exigen al Gobierno más medios policiales frente a los grupos juveniles violentos en Castilla y León",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261104/cortes-exigen-gobierno-medios-policiales-frente-grupos-juveniles-violentos-castilla-leon/1003744445585_0.html",
-    "desc": "Vox logra sacar adelante una PNL que reclama el refuerzo de la Policía Nacional y la Guardia Civil en la Comunidad. Más información: Vox logra el respaldo de todos los grupos de las Cortes para…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11393658.jpg?p=c:4002:2250:nowe:0:136/w:1706/h:960&h=oMdvyqQf",
-    "tipo": "noticia",
-    "pub": 1793795182,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "La plantilla de Transcom lamenta el cambio de turnos y las jornadas de fin de semana",
@@ -630,15 +630,6 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "León 'estrena' la Navidad",
-    "link": "https://www.heraldodeleon.es/leon/leon-estrena-navidad/20261104084905116147.html",
-    "desc": "La capital leonesa ha despertado este miércoles con el árbol gigante de 18 metros ya instalado en el corazón de la ciudad y las primeras luces ornamentales colocadas en Ordoño II, a semanas del…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/04/2026110409152975563.jpg",
-    "tipo": "noticia",
-    "pub": 1793778545,
-    "fuente": "Heraldo de León · León"
-  },
-  {
     "titulo": "El adiós del ministro Puente",
     "link": "https://www.elespanol.com/castilla-y-leon/opinion/20261104/adios-ministro-puente/1003744444664_12.html",
     "desc": "Lo más terrible es que la dimisión del ministro no tiene los beneficios de la marcha atrás como en la “máquina del tiempo”. Se va el ministro, pero nada enmendará ya la tragedia.",
@@ -694,6 +685,17 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/22/13/52/4/imagen-juan-maria-garcia-campal.jpeg"
   },
   {
+    "titulo": "Luz de la Sobarriba",
+    "link": "https://www.lanuevacronica.com/opinion/luz-sobarriba_205855_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1793761200,
+    "fuente": "La Nueva Crónica · Opinión",
+    "autor": "José Luis Puerto",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/98/98/1/03max201310242741.jpeg"
+  },
+  {
     "titulo": "La movilidad exige decisiones, no más excusas",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/movilidad-exige-decisiones-no-mas-excusas_205822_102.html",
     "desc": "",
@@ -720,17 +722,6 @@
     "tipo": "opinion",
     "pub": 1793761200,
     "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "Luz de la Sobarriba",
-    "link": "https://www.lanuevacronica.com/opinion/luz-sobarriba_205855_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793761200,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "José Luis Puerto",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/98/98/1/03max201310242741.jpeg"
   },
   {
     "titulo": "Hacienda subasta 20 fincas rústicas en ocho pueblos: cuestan entre 19 y 20.000 euros y hay terrenos de hasta seis hectáreas",
@@ -797,14 +788,13 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/59/4/maximob.jpeg"
   },
   {
-    "titulo": "Las críticas a la suciedad que se convierten en fieles retratos",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/criticas-suciedad-se-convierten-en-fieles-retrato_205746_102.html",
+    "titulo": "Desafíos de una tierra cada vez más longeva",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/desafios-tierra-cada-vez-mas-longeva_205745_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
     "pub": 1793674800,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "La Negrilla"
+    "fuente": "La Nueva Crónica · Opinión"
   },
   {
     "titulo": "La viñeta de Cantón",
@@ -814,6 +804,16 @@
     "tipo": "opinion",
     "pub": 1793674800,
     "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
+    "titulo": "Las críticas a la suciedad que se convierten en fieles retratos",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/criticas-suciedad-se-convierten-en-fieles-retrato_205746_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1793674800,
+    "fuente": "La Nueva Crónica · Opinión",
+    "autor": "La Negrilla"
   },
   {
     "titulo": "Detenido un joven por amenazar a su madre y destrozarle el coche durante una discusión",
