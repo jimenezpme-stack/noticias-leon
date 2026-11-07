@@ -584,16 +584,6 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/06/54/5/foto-turrado-cronica-nueva.jpeg"
   },
   {
-    "titulo": "Todo muy bien en el metal",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/todo-muy-bien-en-metal_205971_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793934000,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "La Negrilla"
-  },
-  {
     "titulo": "La solidaridad cuestiona el optimismo económico",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/solidaridad-cuestiona-optimismo-economico_205972_102.html",
     "desc": "",
@@ -610,6 +600,16 @@
     "tipo": "opinion",
     "pub": 1793934000,
     "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
+    "titulo": "Todo muy bien en el metal",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/todo-muy-bien-en-metal_205971_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1793934000,
+    "fuente": "La Nueva Crónica · Opinión",
+    "autor": "La Negrilla"
   },
   {
     "titulo": "Sanidad presume de un presupuesto de 6.882 millones en Castilla y León mientras la oposición alerta del aumento de las listas de espera",
@@ -676,15 +676,6 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/26/12/19/2/imagen-alvaro-alonso-copia.jpeg"
   },
   {
-    "titulo": "La educación, mucho más que empleo",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/educacion-mucho-mas-empleo_205891_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793847600,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
     "titulo": "Hipotecando la hemeroteca",
     "link": "https://www.lanuevacronica.com/opinion/la-negrilla/hipotecando-hemeroteca_205892_102.html",
     "desc": "",
@@ -697,6 +688,15 @@
   {
     "titulo": "La viñeta de Cantón",
     "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205889_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1793847600,
+    "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
+    "titulo": "La educación, mucho más que empleo",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/educacion-mucho-mas-empleo_205891_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
