@@ -1,5 +1,329 @@
 [
   {
+    "titulo": "Una milonga con La Porteña en el Teatro San Francisco",
+    "link": "https://www.heraldodeleon.es/leon/portena-tango-lleva-milonga-teatro-san-francisco/20261107141651116729.html",
+    "desc": "La compañía presentará&nbsp;en León este domingo el espectáculo ‘Así se baila tango’, a las 19.30 horas&nbsp;",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110714163612494.jpg",
+    "tipo": "noticia",
+    "pub": 1794057411,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "San Andrés lanza un curso gratuito de marketing digital para emprendedoras",
+    "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/san-andres-lanza-curso-gratuito-marketing-digital-emprendedoras/20261107140957116727.html",
+    "desc": "La formación, que se impartirá los días 17 y 19 de noviembre, permitirá mejorar la promoción de los negocios, su presencia en redes sociales y su posicionamiento en internet",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110714085269566.jpg",
+    "tipo": "noticia",
+    "pub": 1794056997,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Mañueco carga contra el PSOE por sustituir trenes averiados por pulseras antimaltrato \"que no funcionan\" en Valladolid",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261107/manueco-carga-psoe-sustituir-trenes-averiados-pulseras-antimaltrato-no-funcionan-valladolid/1003744449980_0.html",
+    "desc": "El presidente del PP de Castilla y León arremete contra la \"irresponsabilidad, negligencia y desvergüenza\" de los socialistas. Más información: Feijóo, contra el \"Gobierno de las orgías\": \"Toca…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11396319.jpg?p=c:3999:2250:nowe:0:274/w:1706/h:960&h=FSmbC1If",
+    "tipo": "noticia",
+    "pub": 1794056794,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Las protestas por Feve no aflojan y vuelven a cortar el tráfico en la Inmaculada",
+    "link": "https://www.heraldodeleon.es/leon/protestas-feve-aflojan-vuelven-cortar-trafico-inmaculada/20261107135655116725.html",
+    "desc": "Varias decenas de personas volvieron a protestar por la situación del tren convocados por la Plataforma en Defensa de Feve.",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110713452636366.jpg",
+    "tipo": "noticia",
+    "pub": 1794056215,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El sorteo de la Bonoloto deja un premio en León de 65.000 euros",
+    "link": "https://www.lanuevacronica.com/actualidad/sorteo-bonoloto-deja-premio-en-leon-64990-euros_206048_102.html",
+    "desc": "El boleto fue validado en la Administración de Loterías número 23, en el centro comercial León Plaza",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/99/2/bonoloto-leon-plaza.jpeg",
+    "tipo": "noticia",
+    "pub": 1794056063,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El PP de León denuncia \"la falta de inversión y el abandono\" de los talleres de Renfe",
+    "link": "https://www.lanuevacronica.com/actualidad/pp-leon-denuncia-la-falta-inversion-abandono-talleres-renfe_206061_102.html",
+    "desc": "Miembros de las candidaturas al Congreso y al Senado mantuvieron un encuentro con el comité de empresa de Renfe para analizar la situación del sector ferroviario en la provincia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/97/0/pp-renfe-leon.jpeg",
+    "tipo": "noticia",
+    "pub": 1794055595,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Feijóo, contra el \"Gobierno de las orgías\": \"Toca mirar a Ceuta, a los jóvenes sin vivienda y a los mayores que tienen miedo\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261107/feijoo-gobierno-orgias-toca-mirar-ceuta-jovenes-sin-vivienda-mayores-miedo/1003744449968_0.html",
+    "desc": "El presidente del PP asegura que \"se acabaron el espectáculo, las redes y la desvergüenza\" y que \"ahora toca trabajar\". Más información: Juanma Moreno, 'número 2' de Feijóo en campaña: mítines fuera…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11396309.jpg?p=c:3999:2250:nowe:0:0/w:1706/h:960&h=3irxJjVY",
+    "tipo": "noticia",
+    "pub": 1794055347,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El alcalde de León aparece junto a Pollán en un acto sobe el Imperio Español",
+    "link": "https://www.lanuevacronica.com/actualidad/alcalde-leon-aparece-junto-pollan-en-acto-sobe-imperio-espanol_206060_102.html",
+    "desc": "El vicepresidente de la Junta y José Antonio Diez acudieron a la inauguración de una jornada de la asociación Héroes de Cavite sobre la hispanidad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/93/4/diez-pollan-hispanidad-leon-1.jpeg",
+    "tipo": "noticia",
+    "pub": 1794054991,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La estafa de WhatsApp llega a León: así roban las cuentas para pedirte dinero",
+    "link": "https://www.lanuevacronica.com/sucesos/estafa-whatsapp-llega-leon-roban-cuentas-pedirte-dinero_206050_102.html",
+    "desc": "La Policía Nacional acumula 600 denuncias en la comunidad autónoma en lo que va de año por una estafa en la que los delincuentes suplantan a las víctimas para pedir un Bizum a sus contactos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/93/05/0/whatsapp-estafas-23-09-19.jpeg",
+    "tipo": "noticia",
+    "pub": 1794054377,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Calvo (Vox) apuesta desde Riaño por \"garantizar el relevo generacional\" en el campo",
+    "link": "https://www.heraldodeleon.es/comarcas/calvo-vox-apuesta-riano-garantizar-relevo-generacional-campo/20261107132156116711.html",
+    "desc": "El candidato al Congreso por León visitó&nbsp;la Feria de Noviembre para trasladar a los ganaderos las propuestas de VOX para \"proteger sus explotaciones, garantizar el relevo generacional y…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110713183741009.jpg",
+    "tipo": "noticia",
+    "pub": 1794054116,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Aparece un zorro muerto en plena avenida de Antibióticos de León",
+    "link": "https://www.lanuevacronica.com/actualidad/aparece-zorro-muerto-en-plena-avenida-antibioticos-leon_206059_102.html",
+    "desc": "El animal fue localizado sin vida por los conductores de la vía en la cuneta en esta arteria de la capital leonesa, en un suceso que apunta a un atropello",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/84/3/zorro-muerto-leon.jpeg",
+    "tipo": "noticia",
+    "pub": 1794053808,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un pequeño gesto para decir 'gracias': Pastorinas celebra el Día del Docente",
+    "link": "https://www.heraldodeleon.es/leon/pequeno-gesto-decir-gracias-pastorinas-celebra-dia-docente/20261107130224116707.html",
+    "desc": "Los alumnos de 4º ESO del centro educativo leonés entregaron un detalle al profesorado y PAS para agradecer su dedicación diaria",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110713013329263.jpg",
+    "tipo": "noticia",
+    "pub": 1794052944,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Carnero pide \"diálogo\" a Feijóo para llevar a cabo el soterramiento en Valladolid: \"Es totalmente irrenunciable\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261107/carnero-pide-dialogo-feijoo-llevar-cabo-soterramiento-valladolid-totalmente-irrenunciable/1003744449978_0.html",
+    "desc": "El alcalde de Valladolid carga contra la \"incompetencia y la desidia\" del Gobierno de Pedro Sánchez. Más información: Carnero acusa al Gobierno de frenar el soterramiento y presume de gestión frente…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11396300.jpg?p=c:4000:2250:nowe:0:434/w:1706/h:960&h=iuB1Hvk4",
+    "tipo": "noticia",
+    "pub": 1794052651,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El HC Bembibre busca su primera victoria en Manlleu",
+    "link": "https://www.heraldodeleon.es/deportes/mas-deporte/hc-bembibre-busca-primera-victoria-manlleu/20261107124709116700.html",
+    "desc": "Las Águilas visitan este sábado, a las 19:00 horas, una pista exigente con el objetivo de llevarse los tres puntos al Bierzo",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110712463981172.jpg",
+    "tipo": "noticia",
+    "pub": 1794052029,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Un derbi de \"alto riesgo\"",
+    "link": "https://www.heraldodeleon.es/deportes/cultural/derbi-alto-riesgo/20261107123807116698.html",
+    "desc": "La Subdelegación del Gobierno coordina un dispositivo especial de seguridad para el choque entre la Cultural y la Ponferradina, que incluirá vigilancia de desplazamientos y corteos por las calles de…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/04/20/2025042021134451681.jpg",
+    "tipo": "noticia",
+    "pub": 1794051487,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "18 años de la última victoria deportivista en el Reino",
+    "link": "https://www.lanuevacronica.com/deportes/18-anos-ultima-victoria-deportivista-en-reino_206052_102.html",
+    "desc": "La Deportiva no saborea tres puntos a domicilio en un derbi desde 2008 con el recordado gol de Óscar De Paula a los segundos de entrar, desde entonces, tres empates, tres derrotas y 12 temporadas…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/70/4/oscar-de-paula-junto-ernesto-gomez-y-ruben-vega-celebrando-el-gol-del-delantero-que-supondria-la-ultima-victoria-de-la-ponferradina-en-un-derbi-en-el-reino-destileriabar.jpeg",
+    "tipo": "noticia",
+    "pub": 1794051000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Tres meses de obras paradas y socavones abiertos en la avenida Antibióticos",
+    "link": "https://www.heraldodeleon.es/leon/upl-exige-finalizacion-obras-avenida-antibioticos-paradas-hace-tres-meses/20261107122209116697.html",
+    "desc": "Los leonesistas consideraron la situación, con grades socavones abiertos dificultando el paso hace semanas, \"inadmisible\" y exigen al alcalde la culminación \"inmediata\" de los trabajos",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110712105885445.jpg",
+    "tipo": "noticia",
+    "pub": 1794050529,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Fin de semana de tapas de setas en Almanza: pateando por el monte, papeando por los bares",
+    "link": "https://www.lanuevacronica.com/actualidad/fin-semana-tapas-setas-en-almanza-pateando-por-monte-papeando-por-bares_206056_102.html",
+    "desc": "Nuevo éxito de 'MicoAlmanza', que celebra hasta este domingo su undécima edición",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/80/7/micoalmanza.jpeg",
+    "tipo": "noticia",
+    "pub": 1794050305,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Herida una mujer de unos 60 años en una salida de vía en Ponferrada",
+    "link": "https://www.lanuevacronica.com/sucesos/herida-mujer-60-anos-en-salida-via-en-ponferrada_206057_102.html",
+    "desc": "El accidente se produjo en la LE-5228 y obligó a movilizar a los servicios sanitarios y a Tráfico de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/79/7/112-la-nueva-cronica-4-1000x563-4-1000x563-4-1000x563.jpeg",
+    "tipo": "noticia",
+    "pub": 1794050272,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Una mujer de unos 60 años resulta herida en una salida de vía en Ponferrada",
+    "link": "https://www.heraldodeleon.es/el-bierzo/mujer-60-anos-resulta-herida-salida-via-ponferrada/20261107120347116689.html",
+    "desc": "El accidente ha tenido lugar en la mañana de este sábado en la carretera LE-5228",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/27/2026092713574865921.jpg",
+    "tipo": "noticia",
+    "pub": 1794049427,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Planea la huelga en la industria cárnica berciana para reclamar mejoras salariales",
+    "link": "https://www.lanuevacronica.com/el-bierzo/planea-huelga-en-industria-carnica-berciana-pra-reclamar-mejoras-salariales_206054_102.html",
+    "desc": "Una subida salarial del 4% anual, la reducción de jornada y mejoras en salud laboral son algunos de los aspectos que CCOO advierte que deben cambiar",
+    "img": "https://www.lanuevacronica.com/uploads/s1/12/62/14/navepajarielarchivo280821.jpeg",
+    "tipo": "noticia",
+    "pub": 1794049191,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Ponferradina viajará a León bajo un dispositivo especial de seguridad para un derbi declarado de alto riesgo",
+    "link": "https://www.elbierzodigital.com/la-ponferradina-viajara-a-leon-bajo-un-dispositivo-especial-de-seguridad-para-un-derbi-declarado-de-alto-riesgo/",
+    "desc": "La Subdelegación del Gobierno en León ha coordinado un dispositivo especial de seguridad para el derbi de este domingo, 8 de noviembre, entre la Cultural y Deportiva Leonesa y la SD Ponferradina,…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2024/10/cultural-ponferradina-24-25-el-bierzo-digital-149.jpg",
+    "tipo": "noticia",
+    "pub": 1794048905,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Hacienda hace caja en León: los ingresos tributarios se disparan un 23% en un año",
+    "link": "https://www.heraldodeleon.es/economia/hacienda-hace-caja-leon-ingresos-tributarios-disparan-23-ano/20261107112343116688.html",
+    "desc": "La provincia leonesa fue la que experimentó el mayor crecimiento recaudatorio&nbsp;(142 millones de euros hasta rozar los&nbsp;750) de toda la Comunidad en el último año",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110711185382539.jpg",
+    "tipo": "noticia",
+    "pub": 1794047023,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Denuncian el \"vertedero\" en la base de mantenimiento nunca construida de Adif en León",
+    "link": "https://www.lanuevacronica.com/actualidad/denuncian-vertedero-en-base-mantenimiento-nunca-construida-adif-en-leon_206051_102.html",
+    "desc": "Corredor Oeste lamenta las toneladas de tierra en el solar de Trobajo del Cerecedo donde deberían ubicarse estas instalaciones todavía pendientes",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/68/9/terreno-destinado-a-nueva-base-mant-infra-adif-vertidos-tierras-2.jpeg",
+    "tipo": "noticia",
+    "pub": 1794046683,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Alex O'Dogherty sigue haciendo el 'Imbécil' con sus 'Palabras mayores'",
+    "link": "https://www.heraldodeleon.es/cultura/alex-odogherty-sigue-haciendo-imbecil-palabras-mayores/20261107111112116686.html",
+    "desc": "El cómico rozó el lleno en la platea del Auditorio con su nuevo espectáculo lleno de juegos de palabras, tecnologías y participación de un público fiel y entregado a la causa de las risas",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110710575184987.jpg",
+    "tipo": "noticia",
+    "pub": 1794046272,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "María Rubio Ochoa lleva los 'Relatos de mi zurrona' a la Casa de León en Madrid",
+    "link": "https://www.heraldodeleon.es/cultura/maria-rubio-ochoa-lleva-reatos-zurrona-casa-leon-madrid/20261107105234116677.html",
+    "desc": "La escritora omañesa será la protagonista de una nueva velada literaria este viernes 13 de noviembre",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110710521341004.webp",
+    "tipo": "noticia",
+    "pub": 1794045154,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Patrimonio y estrellas: la Diputación de Valladolid une monumentos y cielo nocturno en siete pueblos de la provincia",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261107/patrimonio-estrellas-diputacion-valladolid-une-monumentos-cielo-nocturno-pueblos-provincia/1003744449923_0.html",
+    "desc": "El ciclo, desarrollado en colaboración con Astroval, comienza este sábado en Portillo. Más información: La Diputación de Valladolid tendrá el mayor presupuesto de su historia con 193,6 M€ para 2027:…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11396276.jpg?p=c:1601:900:nowe:0:381/w:1706/h:960&h=yPXttJ0O",
+    "tipo": "noticia",
+    "pub": 1794044677,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "La leonesa Nerea Fernández se despide de 'La Voz' tras una emocionante batalla",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/leonesa-nerea-fernandez-se-despide-la-voz-emocionante-batalla_206049_102.html",
+    "desc": "La cantante cayó con dignidad en su duelo contra Teresa del equipo de Mika, que destacó la evolución de ambas concursantes antes de decantarse por su rival",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/32/83/4/nerea-leonesa-la-voz.jpeg",
+    "tipo": "noticia",
+    "pub": 1794044525,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El PP denuncia el \"abandono\" de los talleres de Renfe en León por parte del Gobierno de Sánchez",
+    "link": "https://www.heraldodeleon.es/leon/pp-denuncia-abandono-talleres-renfe-leon-parte-gobierno/20261107103757116675.html",
+    "desc": "Miembros de las candidaturas 'populares' al Congreso y al Senado se reunieron con el comité de empresa de Renfe en León para analizar la situación del sector ferroviario en la provincia: \"Son…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110710332866073.jpg",
+    "tipo": "noticia",
+    "pub": 1794044277,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El Eneicat leonés recupera a la ciclista griega Barbara Fasoi",
+    "link": "https://www.heraldodeleon.es/deportes/eneicat-leones-recupera-ciclista-griega-barbara-fasoi/20261107102138116671.html",
+    "desc": "La corredora vuelve al equipo con un palmarés nacional y experiencia en competiciones internacionales",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110710184281316.jpg",
+    "tipo": "noticia",
+    "pub": 1794043298,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Un municipio de Soria marca la temperatura más fría de España con -4 ºC",
+    "link": "https://www.elespanol.com/castilla-y-leon/sociedad/medio-ambiente/20261107/municipio-soria-marca-temperatura-fria-espana-oc/1003744449900_0.html",
+    "desc": "Las máximas en las capitales de provincia oscilarán hoy entre los 19 grados de Zamora y los 15 de Burgos y León. Más información: Un municipio de Castilla y León marca la temperatura más fría de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10824350.jpg?p=c:799:450:nowe:0:43/w:1706/h:960&h=PQVQUZw7",
+    "tipo": "noticia",
+    "pub": 1794042011,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "5.000 trabajadores del sector cárnico en León, llamados a la huelga del 9 al 13 de noviembre",
+    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/5000-trabajadores-sector-carnico-leon-llamados-huelga-9-13/20261107095540116669.html",
+    "desc": "Los sindicatos mayoritarios UGT Fica y CCOO de León se unen a las protestas estatales y anuncian protestas \"tras numerosas reuniones con una patronal que sin ningún tipo de escrúpulo tiene…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2024/11/20/2024112015112894582.jpg",
+    "tipo": "noticia",
+    "pub": 1794041740,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Alberto Pugilato, detenido en la operación contra la cúpula neonazi de Núcleo Nacional",
+    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/alberto-pugilato-detenido-operacion-cupula-neonazi-nucleo-nacional/20261107094205116668.html",
+    "desc": "El vallisoletano, que este verano protagonizó un grave incidente en la localidad leonesa de Villamuñío, figura entre los 14 arrestados en una intervención policial desarrollada en distintos puntos…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/06/24/2026062419290378400.jpg",
+    "tipo": "noticia",
+    "pub": 1794040925,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El español en tiempos de la inteligencia artificial: Salamanca participa en unas jornadas de ELE en Suiza",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261107/espanol-tiempos-inteligencia-artificial-salamanca-participa-jornadas-ele-suiza/1003744449891_0.html",
+    "desc": "La ciudad está representada por cinco prestigiosos centros de enseñanza del español de los seis que conforman el programa: DICE, Colegio Ibérico, Estudio Sampere, Mester y Tía Tula. Más información:…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10923980.jpg?p=c:2999:1688:nowe:0:154/w:1706/h:960&h=qLT_ww85",
+    "tipo": "noticia",
+    "pub": 1794040204,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Ligera subida de temperatura este sábado con amenaza de lluvias por la mañana",
+    "link": "https://www.heraldodeleon.es/leon/ligera-subida-temperatura-sabado-amenaza-lluvias/20261107085217116667.html",
+    "desc": "Según la Agencia Estatal de Meteorología (Aemet), se esperan temperaturas que oscilarán entre 4 y 15 grados centígrados",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/11/05/2025110508475573849.webp",
+    "tipo": "noticia",
+    "pub": 1794037937,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Bonoloto deja un premio de 65.000 euros en el centro comercial León Plaza",
+    "link": "https://www.heraldodeleon.es/leon/bonoloto-deja-premio-65000-euros-leon-plaza/20261107084016116666.html",
+    "desc": "El boleto fue validado en la Administración de Loterías número 23, en el centro comercial León Plaza",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110710275027722.jpg",
+    "tipo": "noticia",
+    "pub": 1794037216,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "Obdulia, 99 años de historia, esfuerzo y amor por Fornela: «La tierra la llevo en el corazón»",
     "link": "https://www.elbierzodigital.com/obdulia-99-anos-de-historia-esfuerzo-y-amor-por-fornela-la-tierra-la-llevo-en-el-corazon/",
     "desc": "Hay historias que merecen ser contadas porque, a través de una sola persona, permiten conocer la vida de toda una generación. La de Obdulia es una de ellas. A sus 99 años , esta mujer nacida en…",
@@ -9,37 +333,10 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Ismael Serrano: \"Jóvenes y mujeres están escribiendo el relato de la nueva generación\"",
-    "link": "https://www.heraldodeleon.es/cultura/ismael-serrano/20261107082507116634.html",
-    "desc": "En cantautor regresa esta noche al Auditorio de León para ofrecer un concierto íntimo (voz y guitarra) antes de lanzarse a celebrar sus 30 años en los escenarios: \"Me apetece retomar esa vieja…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110617452882869.jpg",
-    "tipo": "noticia",
-    "pub": 1794036307,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Estación Biológica Cantábrica de Sabero avanza y suma una nueva residencia para investigadores que permitirá recuperar otra zona de Herrera I",
-    "link": "https://www.heraldodeleon.es/comarcas/estacion-biologica-cantabrico-comienza-tomar-forma/20261107081811116638.html",
-    "desc": "El futuro centro científico que impulsa el ex director de Doñana con un presupuesto de 2,3 millones se plantea abrir una \"oficina lanzadera\" para comenzar proyectos y promoción antes del fin de las…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110620134360515.jpg",
-    "tipo": "noticia",
-    "pub": 1794035891,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "Laura (42), dueña de una tienda online con más de 10 años de historia: “Esperamos facturar 500.000 euros este año”",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261107/laura-duena-tienda-online-anos-historia-esperamos-facturar-euros-ano-trt/1003744446966_0.html",
     "desc": "La reconocida marca, especializada en la organización de bodas y papelería de diseño, ha recibido un premio muy especial por su buen trabajo. Más información: Dos hermanas y una mítica tienda en…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11394428.jpg?p=w:1706/h:960&h=igDbVbXX",
-    "tipo": "noticia",
-    "pub": 1794031200,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Gregorio y Rocío, dueños de un bar donde resucitan los años de la EGB: “En los 90 éramos más ingenuos, pero más libres”",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261107/gregorio-rocio-duenos-bar-resucitan-anos-egb-ingenuos-libres-trt/1003744447594_0.html",
-    "desc": "Han decidido abrir en un pequeño pueblo cerca de Astorga el paraíso para los nostálgicos de los años 80 y 90. Más información: Estas son las inolvidables discotecas de Valladolid que han cerrado sus…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11394817.jpg?p=c:1031:580:nowe:23:61/w:1706/h:960&h=xoWFQlrK",
     "tipo": "noticia",
     "pub": 1794031200,
     "fuente": "El Español · CyL"
@@ -95,99 +392,9 @@
     "img": null,
     "tipo": "opinion",
     "pub": 1794021000,
-    "fuente": "La Nueva Crónica",
+    "fuente": "La Nueva Crónica · Opinión",
     "autor": "Ángel Suárez Corrons",
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/22/43/58/0/angel-suarez-2024.jpeg"
-  },
-  {
-    "titulo": "Los personajes del tío Ful: Sergio Valledor, chef internacional",
-    "link": "https://www.lanuevacronica.com/extras/los-personajes-de-ful/personajes-tio-ful-sergio-valledor-chef-internacional_206030_102.html",
-    "desc": "De la cocina de su abuela en el Casino de Santa Lucía saltó a los grandes restaurantes, con los más afamados chefs, y desde hace unos años es chef privado... \"Y de Santa Lucía, a muerte\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/00/8/frame-07personaje.jpeg",
-    "tipo": "noticia",
-    "pub": 1794020400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Café Bar Oporto: cocina casera y sabor de toda la vida",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/cafe-bar-oporto-cocina-casera-sabor-toda-vida_206033_102.html",
-    "desc": "Desayunos, tapas tradicionales y especialidades como el arroz con bogavante distinguen a este bar familiar frente al Colegio de la Granja",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/12/1/el-cafe-bar-oporto-esta-ubicado-frente-al-colegio-la-granja.jpeg",
-    "tipo": "noticia",
-    "pub": 1794020400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Preguntas que me hago \"puntualmente\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/preguntas-me-hago-puntualmente_206032_102.html",
-    "desc": "El crítico literario escribe sobre la novela 'Herida y ventana' de Fernando Parra Nogueras",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/05/8/fernando-parra-nogueras-es-el-autor-de-herida-y-ventana.jpeg",
-    "tipo": "noticia",
-    "pub": 1794020400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Una 'Carmen' eléctrica en Londres",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/carmen-electrica-en-londres_206025_102.html",
-    "desc": "Cines Van Gogh retransmite en directo el martes 10 de noviembre la obra maestra de Bizet, con la mezzo italoamericana Ginger Costa-Jackson y la aplaudida dirección de Damiano Michieletto",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/83/94/4/un-instante-de-la-opera-que-sera-retransmitida-en-los-cines-van-gogh.webp",
-    "tipo": "noticia",
-    "pub": 1794020400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Incibe ayuda desde León a frenar nuevos fraudes mediante pagos de Bizum",
-    "link": "https://www.lanuevacronica.com/actualidad/incibe-ayuda-leon-frenar-nuevos-fraudes-mediante-pagos-por-bizum_205991_102.html",
-    "desc": "En una de las situaciones se pidieron ingresos de 1.300 euros y en otra se engañó a un menor con inversions en criptomonedas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/55/92/0/incibeleon.jpeg",
-    "tipo": "noticia",
-    "pub": 1794020400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Las cucerías de Cantón",
-    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_206012_102.html",
-    "desc": "El humorista gráfico Rubén Cantón lanza una nueva pregunta sobre curiosidades de la provincia de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/83/70/9/07-11-2026-las-cucerias-de-canton.jpeg",
-    "tipo": "noticia",
-    "pub": 1794020400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La progresiva bajada de tasas en la ULE deja el curso 550 euros más barato que hace una década",
-    "link": "https://www.lanuevacronica.com/actualidad/progresiva-bajada-tasas-en-ule-deja-curso-550-euros-mas-barato-hace-decada_206006_102.html",
-    "desc": "El promedio actual se sitúa en los 853,88 euros por cada año académico, aunque existen diferencias significativas en el precio por crédito de las distintas titulaciones de Grado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/83/59/9/tasasule.jpeg",
-    "tipo": "noticia",
-    "pub": 1794020400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Robots, ciberseguridad o póker como muestra del talento innovador de los jóvenes de León",
-    "link": "https://www.lanuevacronica.com/actualidad/robots-ciberseguridad-poker-como-muestra-talento-innovador-jovenes-leon_205990_102.html",
-    "desc": "Aletic y la ULE fomentan el emprendimiento tecnológico y la innovación entre la juventud leonesa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/83/09/0/talentotic.jpeg",
-    "tipo": "noticia",
-    "pub": 1794020400,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Llega el XXIII Curso para Pianistas y la Joven Orquesta Leonesa",
-    "link": "https://www.heraldodeleon.es/cultura/llega-xxiii-curso-pianistas-joven-orquesta-leonesa/20261106224329116664.html",
-    "desc": "León acogerá este prestigioso encuentro musical organizado por la Fundación Eutherpe del 29 de agosto al 5 de septiembre de 2027",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110622403651654.jpg",
-    "tipo": "noticia",
-    "pub": 1794001409,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "IU denuncia a una empresa de desokupación por su actividad en San Andrés",
-    "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/iu-denuncia-empresa-desokupacion-actividad-san-andres/20261106221310116662.html",
-    "desc": "La formación pide a la Subdelegación del Gobierno y a la Junta que investiguen a Desokupa CYL y advierte de posibles prácticas de intimidación y coacciones a residentes",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110622123182644.jpg",
-    "tipo": "noticia",
-    "pub": 1793999590,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Un conservatorio con 19 años de espera y un instituto pendiente desde hace 26: los presupuestos en Educación de Castilla y León para 2027",
@@ -205,7 +412,7 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/03/06/2026030609520520620.jpg",
     "tipo": "noticia",
     "pub": 1793998909,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "La Fundación Isadora Duncan ofrece yoga gratuito a mujeres migrantes en León",
@@ -214,7 +421,7 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110621535035772.jpg",
     "tipo": "noticia",
     "pub": 1793998465,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "León y Ponferrada celebran el 12 de noviembre las pruebas libres de la ESO para adultos",
@@ -223,43 +430,7 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/07/11/2026071111445290411.jpg",
     "tipo": "noticia",
     "pub": 1793998162,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Carmen Arteaga y las cosas del amor",
-    "link": "https://www.heraldodeleon.es/cultura/escritora-leonesa-carmen-arteaga-regresa-novela-amor-segundas-oportunidades/20261106214132116656.html",
-    "desc": "La autora publica con Fandom Books una nueva edición de 'Todas las veces que se te acelera el corazón', obra finalista del Premio Literario Amazon Storyteller que incorpora un relato extra y una…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110621402355700.jpg",
-    "tipo": "noticia",
-    "pub": 1793997692,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El Mipelletymas BFL firma una remontada de carácter y suma su tercera victoria",
-    "link": "https://www.heraldodeleon.es/deportes/baloncesto/mipelletymas-bfl-firma-remontada-caracter-valencia-suma-tercera-victoria/20261106212935116654.html",
-    "desc": "El conjunto leonés llegó a verse 16 puntos por debajo en el marcador, pero supo reaccionar para darle la vuelta al encuentro y conquistar un triunfo de enorme valor en la Fuente de San Luis | Paula…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/03/2026100322455814587.jpg",
-    "tipo": "noticia",
-    "pub": 1793996975,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La ULE gradúa a 227 nuevos profesionales de Economía y Empresa",
-    "link": "https://www.heraldodeleon.es/universidad/ule-gradua-227-nuevos-profesionales-economia-empresa/20261106212327116653.html",
-    "desc": "La Facultad de Ciencias Económicas y Empresariales celebra en San Isidoro una ceremonia que reivindica el talento universitario como motor del desarrollo de León | El acto reconoce los mejores…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110621195711672.jpg",
-    "tipo": "noticia",
-    "pub": 1793996607,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La ULE busca mejorar la absorción del hierro presente en los alimentos",
-    "link": "https://www.heraldodeleon.es/universidad/ule-busca-mejorar-absorcion-hierro-presente-alimentos/20261106211157116646.html",
-    "desc": "El investigador Isidro Abreu presenta en el foro de Vitartis métodos para medir la biodisponibilidad de este mineral y facilitar su aprovechamiento nutricional | El encuentro reúne en Valladolid a…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110621102011933.jpg",
-    "tipo": "noticia",
-    "pub": 1793995917,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "La ciencia vuelve al Café Silver con la última sesión de Con Ciencia, Té 2026",
@@ -268,52 +439,7 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110621002855071.jpg",
     "tipo": "noticia",
     "pub": 1793995393,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Tellado señala el \"combo de negligencia y delincuencia\" en el Ministerio de Puente y Ábalos: \"El museo de los horrores\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20261106/tellado-considera-obligatorio-pp-avila-mantenga-diputados-congreso-reconstruir-espana/1003744449799_0.html",
-    "desc": "El secretario general del PP ha denunciado en Ávila que es en este departamento donde \"han proliferado todas las miserias del sanchismo\". Más información : Tellado llama a \"derogar el sanchismo, de…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11396200.jpg?p=w:1706/h:960&h=BKLC8CFu",
-    "tipo": "noticia",
-    "pub": 1793995287,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La Facultad de Económicas de León gradúa a 227 nuevos profesionales",
-    "link": "https://www.lanuevacronica.com/actualidad/facultad-economicas-leon-gradua-227-nuevos-profesionales_206042_102.html",
-    "desc": "El Aula Magna de San Isidoro acoge la ceremonia de graduación de los estudiantes de los grados en Economía, ADE, Comercio Internacional, Finanzas, Marketing, Turismo y del máster en Ciencias…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/34/5/graduacion-de-economicas-de-la-universidad-de-leon-1.jpeg",
-    "tipo": "noticia",
-    "pub": 1793994710,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Reino de León agota las entradas para el derbi ante la Ponferradina",
-    "link": "https://www.heraldodeleon.es/deportes/cultural/reino-leon-agota-entradas-derbi-ponferradina/20261106205009116640.html",
-    "desc": "El estadio registrará un lleno este domingo a las 18.15 horas en un partido declarado de alto riesgo que contará con un dispositivo especial de seguridad y un recibimiento organizado por las peñas…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/06/2026090615172870468.jpg",
-    "tipo": "noticia",
-    "pub": 1793994609,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El Corte Inglés activa la Gran Recogida de Alimentos con un 10% más de aportación",
-    "link": "https://www.heraldodeleon.es/sociedad/corte-ingles-activa-gran-recogida-alimentos-10-mas-aportacion/20261106203642116639.html",
-    "desc": "El grupo comercial y FESBAL impulsan del 6 al 15 de noviembre una campaña de donaciones económicas en supermercados, web y aplicación móvil para ayudar a las personas más vulnerables",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/11/19/2025111915145674904.jpg",
-    "tipo": "noticia",
-    "pub": 1793993802,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El Aula en el Cine de Ponferrada proyecta 'Romería', con Manuel Cuenya",
-    "link": "https://www.lanuevacronica.com/el-bierzo/aula-en-cine-ponferrada-proyecta-romeria-con-manuel-cuenya_206035_102.html",
-    "desc": "La sesión del próximo 10 de noviembre incluirá una presentación de la película, un análisis posterior y un coloquio con el público sobre la memoria familiar y la construcción de la identidad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/15/9/fuerademenu-romeria-carlasimon-240x300.jpeg",
-    "tipo": "noticia",
-    "pub": 1793991049,
-    "fuente": "La Nueva Crónica"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "El PSOE acusa a Morala de utilizar la ZBE para generar alarma entre vecinos y comerciantes de Ponferrada",
@@ -334,15 +460,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Valencia Basket 71-78 Mipelletymas BFL | Victoria del BFL ante un Valencia que dominó el partido",
-    "link": "https://www.heraldodeleon.es/deportes/baloncesto/19-00-valencia-basket-mipelletymas-bfl-tercera-victoria-fuente-san-luis/20261106190123116632.html",
-    "desc": "Una primera mitad muy irregular del equipo de León y que, a pesar de llegar a ceder hasta 16 puntos a las valencianas, sigue muy abierto. Paula Vaquera y Angélica Martín son, por el momento las…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/03/2026100322455637366.jpg",
-    "tipo": "noticia",
-    "pub": 1793988083,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "El alcalde de Valladolid pasa del “si no soy capaz de soterrar, me iré” a asumir que tendrá que esperar por el mantenimiento ferroviario",
     "link": "https://www.eldiario.es/castilla-y-leon/provincias/valladolid/alcalde-valladolid-pasa-si-no-capaz-soterrar-ire-asumir-tendra-esperar-mantenimiento-ferroviario_1_13645273.html",
     "desc": "Jesús Julio Carnero, que llegó a comprometer su continuidad política si no realizaba el proyecto, reconoce ahora que la prioridad de un hipotético Gobierno del PP debe ser garantizar la seguridad de…",
@@ -352,33 +469,6 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "La Consejería de Educación desplegará 2.724 millones de euros en 2027, el presupuesto más alto de su historia",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261106/consejeria-educacion-desplegara-millones-euros-presupuesto-alto-historia/1003744449594_0.html",
-    "desc": "Esta cifra implica un crecimiento del 22,15% con respecto a las últimas cuentas aprobadas. Más información: Castilla y León presenta el mayor presupuesto de la historia con 16.472 millones y un…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11396087.jpg?p=c:3600:2024:nowe:217:164/w:1706/h:960&h=4J9yh7s0",
-    "tipo": "noticia",
-    "pub": 1793985611,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "De la Hoz (PP) pide a Europa que investigue el destino de los fondos para la línea Madrid-Sevilla tras la tragedia de Urda",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261106/hoz-pp-pide-europa-investigue-destino-fondos-linea-madrid-sevilla-tragedia-urda/1003744449463_0.html",
-    "desc": "El eurodiputado castellano y leonés ha registrado dos preguntas parlamentarias para averiguar el grado de ejecución de las inversiones ferroviarias. Más información : Viajeros de AVE exigen una…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10898899.jpg?p=c:2009:1131:nowe:39:193/w:1706/h:960&h=MxfVn90E",
-    "tipo": "noticia",
-    "pub": 1793981698,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Del trauma adulto a la depresión juvenil: Zamora analiza los retos de la salud mental el 9 y 10 de noviembre",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261106/trauma-adulto-depresion-juvenil-zamora-analiza-retos-salud-mental-noviembre/1003744449441_0.html",
-    "desc": "El Paraninfo del Colegio Universitario acoge dos ponencias gratuitas a cargo de los especialistas José Antonio Gallastegui y Gustavo Rodríguez sobre el trauma psicológico y el bienestar emocional en…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10205509.jpg?p=w:1706/h:960&h=j_DV7n0Z",
-    "tipo": "noticia",
-    "pub": 1793981076,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Alberto Pugilato, uno de los 14 detenidos en la operación contra Núcleo Nacional",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/alberto-pugilato-segundo-detenido-valladolid-operacion-nucleo-nacional_1_13644819.html",
     "desc": "El conocido neonazi ya fue condenado por difundir mensajes de odio a través de su música, agredió a un cómico y ha sido denunciado recientemente por la Fiscalía de Valladolid por instigar al acoso a…",
@@ -386,51 +476,6 @@
     "tipo": "noticia",
     "pub": 1793980428,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "León reúne a especialistas para reivindicar el valor educativo de los cuentos",
-    "link": "https://www.heraldodeleon.es/cultura/leon-reune-especialistas-reivindicar-valor-educativo-cuentos/20261106163240116631.html",
-    "desc": "La segunda edición de ‘El poder del cuento’ se celebrará el 14 de noviembre en la Fundación Sierra Pambley con talleres y ponencias sobre autonomía infantil, conducta y narración signada. León…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110616323118631.jpg",
-    "tipo": "noticia",
-    "pub": 1793979160,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Javier Pérez Fernández presenta en Villablino su thriller 'Lo que late bajo el hielo'",
-    "link": "https://www.heraldodeleon.es/cultura/javier-perez-fernandez-presenta-villablino-thriller-que-late-hielo/20261106162225116629.html",
-    "desc": "El escritor leonés regresa a su Laciana natal este viernes 6 de noviembre para dar a conocer su última novela en la Casa de la Cultura, acompañado por el también autor Alfonso Zález",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110616215386849.jpg",
-    "tipo": "noticia",
-    "pub": 1793978545,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El presupuesto de la Diputación de Palencia crece un 6,27% en 2027 y aumenta un 7% las inversiones con fondos propios",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/palencia/20261106/presupuesto-diputacion-palencia-crece-aumenta-inversiones-fondos-propios/1003744449333_0.html",
-    "desc": "Asimismo, el anteproyecto contempla el mantenimiento de la deuda cero y nuevos servicios en el medio rural. Más información: La Diputación de Palencia llevará cinco puntos limpios móviles a los…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11395926.jpg?p=c:2000:1125:nowe:0:270/w:1706/h:960&h=uCw-qV4O",
-    "tipo": "noticia",
-    "pub": 1793978098,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Gadis distribuye más de 73.400 kilos de ayuda a protectoras de animales",
-    "link": "https://www.heraldodeleon.es/sociedad/gadis-distribuye-mas-73400-kilos-ayuda-protectoras-animales-entre-ellas-leon/20261106160421116625.html",
-    "desc": "La octava edición de la campaña ‘Alimenta la Amistad’ destina donaciones de alimentos e higiene a 85 asociaciones de Galicia y Castilla y León, entre ellas entidades de las nueve provincias de la…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110616035083426.jpg",
-    "tipo": "noticia",
-    "pub": 1793977461,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Mansilla de las Mulas celebra San Martín con bacalao, mastines, maquinaria y música",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/mansilla-mulas-celebra-san-martin-bacalao-mastines-maquinaria-musica/20261106153418116622.html",
-    "desc": "La feria se desarrollará los días 7, 8, 11, 14 y 15 de noviembre con una programación que combina las VII Jornadas Gastronómicas del Bacalao, una muestra multisectorial, exposiciones, teatro,…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110615332755277.jpg",
-    "tipo": "noticia",
-    "pub": 1793975658,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "El ciclo ‘Aula en el Cine’ proyecta ‘Romería’, de Carla Simón, en Ponferrada",
@@ -514,15 +559,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Una concentración ciudadana reclama en Ponferrada la presencia de intérpretes de lengua de signos en las aulas",
-    "link": "https://www.elbierzodigital.com/una-concentracion-ciudadana-reclama-en-ponferrada-la-presencia-de-interpretes-de-lengua-de-signos-en-las-aulas/",
-    "desc": "‘Aprender en silencio no es una opción, es vuestra imposición. ‘Ilses en las aulas ya!’. Bajo ese lema se celebró hoy en Ponferrada una concentración ciudadana impulsada por la Asociación de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/una-concentracion-ciudadana-reclama-en-ponferrada-la-presencia-de-interpretes-de-lengua-de-signos-en-las-aulas-el-bierzo-digital.jpg",
-    "tipo": "noticia",
-    "pub": 1793966452,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "El PP de León planteará a Aena la terminal de mercancías y el ILS para el Aeropuerto",
     "link": "https://www.heraldodeleon.es/leon/pp-leon-compromete-nueva-terminal-mercancias-aeropuerto/20261106122520116548.html",
     "desc": "Miembros de las candidaturas al Congreso y al Senado mantuvieron ayer un encuentro con la asociación Más Vuelos para impulsar el desarrollo del aeródromo",
@@ -541,33 +577,6 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "Los leoneses podrá usar el DNI digital para identificarse y votar el próximo 29 de noviembre",
-    "link": "https://www.heraldodeleon.es/leon/leoneses-podra-usar-dni-digital-votar-proximo-29-noviembre/20261106114034116542.html",
-    "desc": "La Junta Electoral Central (JEC) ha autorizado el uso de la aplicación MiDNI, de Policía Nacional, en el proceso electoral&nbsp;",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110611383077129.jpg",
-    "tipo": "noticia",
-    "pub": 1793961634,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Arturo García Aragón acerca el origen de la Tierra y la vida a León",
-    "link": "https://www.heraldodeleon.es/leon/arturo-garcia-aragon-acerca-origen-tierra-vida-leon/20261106113109116540.html",
-    "desc": "El físico, astrofísico y escritor ofrecerá una conferencia organizada por Promonumenta el lunes 9 de noviembre, a las 19:30 horas, en el Salón de Actos del Ayuntamiento de León, donde abordará…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110611302253064.jpg",
-    "tipo": "noticia",
-    "pub": 1793961069,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Estévez (FA) defiende el 'tax the rich' como vía para \"reforzar servicios públicos\" en León",
-    "link": "https://www.heraldodeleon.es/leon/estevez-frente-amplio-plantea-leon-tax-the-rich/20261106112824116538.html",
-    "desc": "El candidato de Frente Amplio al Congreso presenta una propuesta de tres nuevos impuestos que permitiría recaudar 17.200 millones de euros adicionales al año y que afectaría principalmente a los…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110611275112127.jpg",
-    "tipo": "noticia",
-    "pub": 1793960904,
-    "fuente": "Heraldo de León · León"
-  },
-  {
     "titulo": "La Policía esclarece una falsificación documental en una bolsa de empleo de celadores del servicio de salud de Castilla y León",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/policia-esclarece-falsificacion-documental-bolsa-empleo-celadores-servicio-salud-castilla-leon_1_13643350.html",
     "desc": "El investigado, que realizó las comunicaciones fraudulentas desde un domicilio de Motril (Granada) llegó a presionar a la Junta de Castilla y León con supuestos correos de un abogado de Plasencia La…",
@@ -575,15 +584,6 @@
     "tipo": "noticia",
     "pub": 1793960333,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "León crece por el sur: luz verde a la construcción de 29 nuevas viviendas en La Lastra",
-    "link": "https://www.heraldodeleon.es/leon/luz-verde-construccion-29-nuevas-viviendas-lastra/20261106104743116526.html",
-    "desc": "La Junta de Gobierno Local aprueba también la prórroga del convenio de colaboración entre el Ayuntamiento de León y el Imserso para reforzar la autonomía personal y la atención a personas mayores en…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/08/29/2025082913351411576.jpg",
-    "tipo": "noticia",
-    "pub": 1793958463,
-    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Almodóvar critica el veto de la Junta de Castilla y León al cine \"ideologizado\": \"Es censura pura y dura\"",
@@ -639,15 +639,6 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/06/54/5/foto-turrado-cronica-nueva.jpeg"
   },
   {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205973_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793934000,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
     "titulo": "Todo muy bien en el metal",
     "link": "https://www.lanuevacronica.com/opinion/la-negrilla/todo-muy-bien-en-metal_205971_102.html",
     "desc": "",
@@ -660,6 +651,15 @@
   {
     "titulo": "La solidaridad cuestiona el optimismo económico",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/solidaridad-cuestiona-optimismo-economico_205972_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1793934000,
+    "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205973_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
