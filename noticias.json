@@ -1,5 +1,77 @@
 [
   {
+    "titulo": "Cáceres 83 - Cultural 81: 'La Cultural muere en la orilla'",
+    "link": "https://www.lanuevacronica.com/deportes/caceres-83-cultural-81-cultural-muere-en-orilla_206083_102.html",
+    "desc": "El equipo leonés, que perdía de 16 en el último minuto del tercer cuarto, se rehízo y tuvo ataque para ganar con uno abajo a 15 segundos, pero acabó cayendo ante uno de los grandes favoritos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/59/3/simmonsculturalcaceres.jpeg",
+    "tipo": "noticia",
+    "pub": 1794086893,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El drama se repite para Lodos: rotura del ligamento cruzado",
+    "link": "https://www.lanuevacronica.com/deportes/drama-se-repite-lodos-rotura-ligamento-cruzado_206078_102.html",
+    "desc": "La segunda resonancia realizada al lateral del Ademar, que llegó a entrenar tras estimarse con la primera que sólo tenía un golpe, confirma su adiós a la temporada al tener que pasar por quirófano",
+    "img": "https://www.lanuevacronica.com/uploads/s1/26/85/01/8/lodos15125.jpeg",
+    "tipo": "noticia",
+    "pub": 1794082914,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Horquetas y tambores para guiar el camino a las ánimas de León",
+    "link": "https://www.lanuevacronica.com/actualidad/horquetas-tambores-guiar-camino-animas-leon_206077_102.html",
+    "desc": "La Cofradía del Santo Malvar celebra un sobrio cortejo, recuperado en 2022, desde Santa Marina hasta el antiguo cementerio de la ciudad que se ubicaba en el entorno de San Marcelo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/50/5/procesion-animas-2.jpeg",
+    "tipo": "noticia",
+    "pub": 1794082048,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Del gol de ascenso de Escobar, a los cabezazos de Santi Santos y Paixao o los dobletes de Bicho y Gallar",
+    "link": "https://www.lanuevacronica.com/deportes/gol-ascenso-escobar-cabezazos-santi-santos-paixao-dobletes-bicho-y-gallar_206075_102.html",
+    "desc": "Los últimos cinco triunfos de la Cultural en los derbis, que son los logrados en las dos últimas décadas, han tenido siempre claros protagonistas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/39/22/2/gallarweb-1.jpeg",
+    "tipo": "noticia",
+    "pub": 1794080441,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "18 años de la última victoria deportivista en el Reino",
+    "link": "https://www.lanuevacronica.com/deportes/18-anos-ultima-victoria-deportivista-en-reino_206052_102.html",
+    "desc": "La Deportiva no saborea tres puntos a domicilio en un derbi desde 2008 con el recordado gol de Óscar De Paula a los segundos de entrar, desde entonces, tres empates, tres derrotas y 12 temporadas…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/70/4/oscar-de-paula-junto-ernesto-gomez-y-ruben-vega-celebrando-el-gol-del-delantero-que-supondria-la-ultima-victoria-de-la-ponferradina-en-un-derbi-en-el-reino-destileriabar.jpeg",
+    "tipo": "noticia",
+    "pub": 1794079873,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Júpiter no remata al líder y el Mansillés no levanta cabeza",
+    "link": "https://www.lanuevacronica.com/deportes/jupiter-no-remata-lider-mansilles-no-levanta-cabeza_206071_102.html",
+    "desc": "El filial empata (0-0) con el Cristo pese a jugar contra 10 los últimos 25 minutos y los de Mansilla se van a los cinco partidos sin ganar tras desperdiciar un 0-2 e igualar (2-2) con el Diocesanos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/30/4/jupiter.jpeg",
+    "tipo": "noticia",
+    "pub": 1794079866,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Dos heridos en un atropello y un accidente de tráfico en Ponferrada este sábado",
+    "link": "https://www.heraldodeleon.es/el-bierzo/dos-heridos-atropello-accidente-trafico-ponferrada-sabado/20261107202753116753.html",
+    "desc": "La capital berciana ha registrado dos accidentes en la tarde del sábado, un atropello en la calle Camino de Santiago y una salida de vía en la carretera LE-5228",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/12/21/2025122123191981783.jpg",
+    "tipo": "noticia",
+    "pub": 1794079673,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "¿Ya es Navidad en León?: Santo Domingo enciende sus luces (por unos segundos)",
+    "link": "https://www.lanuevacronica.com/actualidad/ya-es-navidad-en-leon-santo-domingo-enciende-sus-luces-por-segundos_206076_102.html",
+    "desc": "Los operarios avanzan en la instalación de las guirnaldas luminosas del gran árbol navideño, que ha sorprendido a los viandantes con sus primeras pruebas de iluminación",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/41/4/arbol-navidad-leon-luces-pruebas.jpeg",
+    "tipo": "noticia",
+    "pub": 1794079031,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Cinco heridos tras una pelea multitudinaria con arma blanca en La Bañeza",
     "link": "https://www.lanuevacronica.com/sucesos/tres-heridos-pelea-con-arma-blanca-en-baneza_206064_102.html",
     "desc": "Los hechos ocurrieron en la calle La Harinera y requirieron el envío de un helicóptero medicalizado y dos ambulancias, que evacuaron a los heridos más graves al Hospital de León",
@@ -16,33 +88,6 @@
     "tipo": "noticia",
     "pub": 1794076928,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El Júpiter no remata al líder y el Mansillés no levanta cabeza",
-    "link": "https://www.lanuevacronica.com/deportes/jupiter-no-remata-lider-mansilles-no-levanta-cabeza_206071_102.html",
-    "desc": "El filial empata (0-0) con el Cristo pese a jugar contra 10 los últimos 25 minutos y los de Mansilla se van a los cinco partidos sin ganar tras desperdiciar un 0-2 e igualar (2-2) con el Diocesanos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/30/4/jupiter.jpeg",
-    "tipo": "noticia",
-    "pub": 1794076203,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Eibar B 4-1 Astorga: 'El Astorga recibe un correctivo ante el Eibar B'",
-    "link": "https://www.lanuevacronica.com/deportes/eibar-4-1-astorga-astorga-recibe-correctivo-eibar_206072_102.html",
-    "desc": "Los maragatos cayeron 4-1 ante uno de los mejores locales, pero llegando ya al descanso con 3-0 y aunque hubo reacción, no fue suficiente",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/32/4/el-astorga-acabo-con-otro-duro-partido-lejos-de-casa-astorga.gif",
-    "tipo": "noticia",
-    "pub": 1794075731,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "18 años de la última victoria deportivista en el Reino",
-    "link": "https://www.lanuevacronica.com/deportes/18-anos-ultima-victoria-deportivista-en-reino_206052_102.html",
-    "desc": "La Deportiva no saborea tres puntos a domicilio en un derbi desde 2008 con el recordado gol de Óscar De Paula a los segundos de entrar, desde entonces, tres empates, tres derrotas y 12 temporadas…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/70/4/oscar-de-paula-junto-ernesto-gomez-y-ruben-vega-celebrando-el-gol-del-delantero-que-supondria-la-ultima-victoria-de-la-ponferradina-en-un-derbi-en-el-reino-destileriabar.jpeg",
-    "tipo": "noticia",
-    "pub": 1794075723,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Medio centenar de expertos debaten en León sobre la ética profesional de la Enfermería",
@@ -254,15 +299,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "El PP de León denuncia \"la falta de inversión y el abandono\" de los talleres de Renfe",
-    "link": "https://www.lanuevacronica.com/actualidad/pp-leon-denuncia-la-falta-inversion-abandono-talleres-renfe_206061_102.html",
-    "desc": "Miembros de las candidaturas al Congreso y al Senado mantuvieron un encuentro con el comité de empresa de Renfe para analizar la situación del sector ferroviario en la provincia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/97/0/pp-renfe-leon.jpeg",
-    "tipo": "noticia",
-    "pub": 1794055595,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Feijóo, contra el \"Gobierno de las orgías\": \"Toca mirar a Ceuta, a los jóvenes sin vivienda y a los mayores que tienen miedo\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261107/feijoo-gobierno-orgias-toca-mirar-ceuta-jovenes-sin-vivienda-mayores-miedo/1003744449968_0.html",
     "desc": "El presidente del PP asegura que \"se acabaron el espectáculo, las redes y la desvergüenza\" y que \"ahora toca trabajar\". Más información: Juanma Moreno, 'número 2' de Feijóo en campaña: mítines fuera…",
@@ -272,15 +308,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "El alcalde de León aparece junto a Pollán en un acto sobe el Imperio Español",
-    "link": "https://www.lanuevacronica.com/actualidad/alcalde-leon-aparece-junto-pollan-en-acto-sobe-imperio-espanol_206060_102.html",
-    "desc": "El vicepresidente de la Junta y José Antonio Diez acudieron a la inauguración de una jornada de la asociación Héroes de Cavite sobre la hispanidad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/93/4/diez-pollan-hispanidad-leon-1.jpeg",
-    "tipo": "noticia",
-    "pub": 1794054991,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Calvo (Vox) apuesta desde Riaño por \"garantizar el relevo generacional\" en el campo",
     "link": "https://www.heraldodeleon.es/comarcas/calvo-vox-apuesta-riano-garantizar-relevo-generacional-campo/20261107132156116711.html",
     "desc": "El candidato al Congreso por León visitó&nbsp;la Feria de Noviembre para trasladar a los ganaderos las propuestas de VOX para \"proteger sus explotaciones, garantizar el relevo generacional y…",
@@ -288,15 +315,6 @@
     "tipo": "noticia",
     "pub": 1794054116,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Aparece un zorro muerto en plena avenida de Antibióticos de León",
-    "link": "https://www.lanuevacronica.com/actualidad/aparece-zorro-muerto-en-plena-avenida-antibioticos-leon_206059_102.html",
-    "desc": "El animal fue localizado sin vida por los conductores de la vía en la cuneta en esta arteria de la capital leonesa, en un suceso que apunta a un atropello",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/84/3/zorro-muerto-leon.jpeg",
-    "tipo": "noticia",
-    "pub": 1794053808,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Un pequeño gesto para decir 'gracias': Pastorinas celebra el Día del Docente",
@@ -335,24 +353,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Tres meses de obras paradas y socavones abiertos en la avenida Antibióticos",
-    "link": "https://www.heraldodeleon.es/leon/upl-exige-finalizacion-obras-avenida-antibioticos-paradas-hace-tres-meses/20261107122209116697.html",
-    "desc": "Los leonesistas consideraron la situación, con grades socavones abiertos dificultando el paso hace semanas, \"inadmisible\" y exigen al alcalde la culminación \"inmediata\" de los trabajos",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110712105885445.jpg",
-    "tipo": "noticia",
-    "pub": 1794050529,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Herida una mujer de unos 60 años en una salida de vía en Ponferrada",
-    "link": "https://www.lanuevacronica.com/sucesos/herida-mujer-60-anos-en-salida-via-en-ponferrada_206057_102.html",
-    "desc": "El accidente se produjo en la LE-5228 y obligó a movilizar a los servicios sanitarios y a Tráfico de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/72/79/7/112-la-nueva-cronica-4-1000x563-4-1000x563-4-1000x563.jpeg",
-    "tipo": "noticia",
-    "pub": 1794050272,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Ponferradina viajará a León bajo un dispositivo especial de seguridad para un derbi declarado de alto riesgo",
     "link": "https://www.elbierzodigital.com/la-ponferradina-viajara-a-leon-bajo-un-dispositivo-especial-de-seguridad-para-un-derbi-declarado-de-alto-riesgo/",
     "desc": "La Subdelegación del Gobierno en León ha coordinado un dispositivo especial de seguridad para el derbi de este domingo, 8 de noviembre, entre la Cultural y Deportiva Leonesa y la SD Ponferradina,…",
@@ -369,6 +369,15 @@
     "tipo": "noticia",
     "pub": 1794044677,
     "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El PP denuncia el \"abandono\" de los talleres de Renfe en León por parte del Gobierno de Sánchez",
+    "link": "https://www.heraldodeleon.es/leon/pp-denuncia-abandono-talleres-renfe-leon-parte-gobierno/20261107103757116675.html",
+    "desc": "Miembros de las candidaturas 'populares' al Congreso y al Senado se reunieron con el comité de empresa de Renfe en León para analizar la situación del sector ferroviario en la provincia: \"Son…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110710332866073.jpg",
+    "tipo": "noticia",
+    "pub": 1794044277,
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Ligera subida de temperatura este sábado con amenaza de lluvias por la mañana",
@@ -549,15 +558,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110614221623041.jpg",
     "tipo": "noticia",
     "pub": 1793972100,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "HM Hospitales debate en León el futuro de la medicina con IA y cirugía robótica",
-    "link": "https://www.heraldodeleon.es/leon/hm-hospitales-debate-leon-futuro-medicina-ia-cirugia-robotica/20261106142500116592.html",
-    "desc": "Casa Botines acoge el encuentro anual de los especialistas de HM San Francisco y HM Regla, que analiza el impacto de las nuevas tecnologías en la asistencia sanitaria y la atención al paciente;…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/06/2026110614243918433.jpg",
-    "tipo": "noticia",
-    "pub": 1793971500,
     "fuente": "Heraldo de León · León"
   },
   {
