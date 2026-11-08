@@ -1,5 +1,183 @@
 [
   {
+    "titulo": "Guillermo, del Sindicato de Vivienda: “El precio del alquiler se ha disparado un 36% desde 2021; hay que ir a la huelga”",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261108/guillermo-sindicato-vivienda-precio-alquiler-disparado-ir-huelga-trt/1003744446227_0.html",
+    "desc": "El portavoz anima a participar de la huelga general del próximo 11 de noviembre. Más información : Sindicato de Vivienda, CGT y CNT llaman a la huelga general: “Esperamos una respuesta masiva entre…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11393970.jpg?p=c:1919:1080:nowe:49:247/w:1706/h:960&h=rOo4fZfu",
+    "tipo": "noticia",
+    "pub": 1794117600,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Rubo (27), el DJ que revoluciona las noches de Nueva York: \"Cuando voy estoy orgulloso de decir que soy español\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261108/rubo-dj-revoluciona-noches-nueva-york-voy-orgulloso-decir-espanol-trt/1003744447703_0.html",
+    "desc": "La última experiencia en Estados Unidos le ha valido para cerrar fechas en San Diego y Los Ángeles, asentándose así en el mercado americano. Más información : Rubo (27), de DJ en su terraza en el…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11396137.jpg?p=w:1706/h:960&h=eMi-xXuF",
+    "tipo": "noticia",
+    "pub": 1794117600,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Víctor y Silvia, educadores caninos de Mayuka: “Ayudamos a comprender al perro para una convivencia más respetuosa”",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261108/victor-silvia-educadores-caninos-mayuka-ayudamos-comprender-perro-convivencia-respetuosa/1003744441664_0.html",
+    "desc": "Los dos profesionales se juntaron para crear, en el año 2023, la Cooperativa Mayuka, que recibirá, el 9 de noviembre, un gran premio por su labor. Más información: Elena compagina su trabajo de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391249.jpg?p=w:1706/h:960&h=2Ifq_L10",
+    "tipo": "noticia",
+    "pub": 1794117600,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Enfado libre",
+    "link": "https://www.lanuevacronica.com/opinion/enfado-libre_206084_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794110400,
+    "fuente": "La Nueva Crónica",
+    "autor": "David Rubio",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/34/51/71/5/david-rubio.png"
+  },
+  {
+    "titulo": "Rasgos de personalidad",
+    "link": "https://www.lanuevacronica.com/opinion/rasgos-personalidad_206082_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794110100,
+    "fuente": "La Nueva Crónica",
+    "autor": "Luis Grau Lobo",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/7/web-luis-gray.jpeg"
+  },
+  {
+    "titulo": "Los ciegos que ven por la noche",
+    "link": "https://www.lanuevacronica.com/opinion/ciegos-ven-por-noche_206087_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794109800,
+    "fuente": "La Nueva Crónica",
+    "autor": "Fulgencio Fernández",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/44/fulgencio-web-1.jpeg"
+  },
+  {
+    "titulo": "Vamos 'pa dentro'",
+    "link": "https://www.lanuevacronica.com/opinion/vamos-pa-dentro_206090_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794109500,
+    "fuente": "La Nueva Crónica",
+    "autor": "Laly del Blanco Tejerina",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/84/41/3/imagen-159544846.jpeg"
+  },
+  {
+    "titulo": "El peaje",
+    "link": "https://www.lanuevacronica.com/opinion/peaje_206089_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794109200,
+    "fuente": "La Nueva Crónica",
+    "autor": "Julio Cayón",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/80/1/julio-cayon-webb.jpeg"
+  },
+  {
+    "titulo": "Ángela Bernardo: \"Los servicios públicos tienen que llegar a quienes más los necesitan y me preocupa mucho la sanidad en El Bierzo\"",
+    "link": "https://www.lanuevacronica.com/el-bierzo/servicios-publicos-tienen-llegar-quienes-mas-necesitan-me-preocupa-mucho-sanidad-en-bierzo_205812_102.html",
+    "desc": "Ángela Bernardo, premio Aletic a la Mejor Divulgación de las TIC, berciana, profesora, biotecnóloga y periodista científica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/80/57/1/angela-bernardo.jpeg",
+    "tipo": "noticia",
+    "pub": 1794108900,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Papel de sobra",
+    "link": "https://www.lanuevacronica.com/opinion/papel-sobra_206088_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794108600,
+    "fuente": "La Nueva Crónica",
+    "autor": "Javier Cuesta",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/27/34/92/4/imagen-javier-cuesta.jpeg"
+  },
+  {
+    "titulo": "No mires para adentro",
+    "link": "https://www.lanuevacronica.com/opinion/no-mires-adentro_206086_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794108000,
+    "fuente": "La Nueva Crónica",
+    "autor": "Darío Prieto",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/11/22/35/dario-prieto.jpeg"
+  },
+  {
+    "titulo": "Pensiones",
+    "link": "https://www.lanuevacronica.com/opinion/pensiones_206085_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794107400,
+    "fuente": "La Nueva Crónica",
+    "autor": "Ignacio Fernández Herrero",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/33/98/63/4/ignacio-fernandez-herrero-2026.jpeg"
+  },
+  {
+    "titulo": "El Archivo Histórico Municipal de Castropodame",
+    "link": "https://www.lanuevacronica.com/el-bierzo/archivo-historico-municipal-castropodame_205878_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/80/41/0/nave-10-vale.jpeg",
+    "tipo": "noticia",
+    "pub": 1794107400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El cura más joven de la Diócesis de León: 22 pueblos en el Torío y jefe de Pastoral del Deporte",
+    "link": "https://www.lanuevacronica.com/actualidad/cura-28-anos-con-22-pueblos-mision-evangelizar-traves-deporte_206073_102.html",
+    "desc": "José Ramón Gago, de Cistierna y el sacerdote de 28 años, compagina su labor como párroco de Garrafe con la puesta en marcha de un nuevo proyecto de la Iglesia que busca evangelizar a través del…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/34/7/cura-diocesis-de-leon-joven-garrafe-deporte-pastoral.jpeg",
+    "tipo": "noticia",
+    "pub": 1794106800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Parque de Santos Ovejero: conglomerado de edades",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/parque-santos-ovejero-conglomerado-edades_206036_102.html",
+    "desc": "Inaugurado en 1997, es uno de los numerosos espacios verdes de Eras de Renueva y, posiblemente, el más equipado gracias a la inversión realizada por el Ayuntamiento de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/18/2/el-parque-de-santos-ovejero-debe-su-nombre-a-uno-de-los-impulsores-de-la-ule.jpeg",
+    "tipo": "noticia",
+    "pub": 1794106800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_206013_102.html",
+    "desc": "El humorista gráfico Rubén Cantón lanza una nueva pregunta sobre curiosidades de la provincia de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/83/73/1/08-11-2026-las-cucerias-de-canton.jpeg",
+    "tipo": "noticia",
+    "pub": 1794106800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Una Iglesia que acompaña a más de 50.000 personas y mantiene vivos cientos de pueblos",
+    "link": "https://www.lanuevacronica.com/actualidad/iglesia-acompana-mas-50000-personas-mantiene-vivos-cientos-pueblos_205928_102.html",
+    "desc": "La Diócesis de Astorga celebra este domingo el Día de la Iglesia Diocesana, una jornada para visibilizar su labor social, pastoral y cultural y recordar la importancia de la solidaridad entre…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/90/34/4/catedral-astorga-1819.jpeg",
+    "tipo": "noticia",
+    "pub": 1794106800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Campo, tradición e innovación se dan de nuevo la mano por San Martín en Mansilla de las Mulas",
+    "link": "https://www.lanuevacronica.com/actualidad/campo-tradicion-innovacion-se-dan-nuevo-mano-por-san-martin-en-mansilla-mulas_205925_102.html",
+    "desc": "La localidad leonesa celebrará el miércoles 11 de noviembre su tradicional feria multisectorial, acompañada de una exposición de maquinaria agrícola, degustaciones gastronómicas y numerosas…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/81/66/4/campo-tradicion-e-innovacion-se-dan-de-nuevo-la-mano-por-san-martin-en-mansilla-de-las-mulas.jpeg",
+    "tipo": "noticia",
+    "pub": 1794106800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Matías Recio, el exjuez con 2.500 sentencias en las listas de Vox que \"acorrala al PSOE para llevar a Sánchez al banquillo\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/palencia/20261108/matias-recio-exjuez-sentencias-listas-vox-acorrala-psoe-llevar-sanchez-banquillo-dl/1003744447836_0.html",
     "desc": "Trabajó en Galicia en plena lucha contra el narcotráfico, ahora es el número 1 al Congreso por Palencia. “Mi ambición es poder cambiar las cosas y usarlas al servicio de España\". Más información:…",
@@ -9,60 +187,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Lucha Leonesa: Jesús el de La Braña, que hizo doblete; Chesco y la base de Valle del Curueño, triunfadores de la Gala",
-    "link": "https://www.lanuevacronica.com/deportes/lucha-leonesa-jesus-brana-hizo-doblete-chesco-base-valle-curueno-triunfadores-gala_206091_102.html",
-    "desc": "Jesusín ganó uno de los Trofeos al Luchador Veterano y también el de la Deportividad; Chesco fue el Luchador Revelación y Valle del Curueño dominó los dos galardones dedicados a la lucha de base",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/67/1/jesus.jpeg",
-    "tipo": "noticia",
-    "pub": 1794095773,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cáceres 83 - Cultural 81: 'La Cultural muere en la orilla'",
-    "link": "https://www.lanuevacronica.com/deportes/caceres-83-cultural-81-cultural-muere-en-orilla_206083_102.html",
-    "desc": "El equipo leonés, que perdía de 16 en el último minuto del tercer cuarto, se rehízo y tuvo ataque para ganar con uno abajo a 15 segundos, pero acabó cayendo ante uno de los grandes favoritos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/59/3/simmonsculturalcaceres.jpeg",
-    "tipo": "noticia",
-    "pub": 1794086893,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El drama se repite para Lodos: rotura del ligamento cruzado",
-    "link": "https://www.lanuevacronica.com/deportes/drama-se-repite-lodos-rotura-ligamento-cruzado_206078_102.html",
-    "desc": "La segunda resonancia realizada al lateral del Ademar, que llegó a entrenar tras estimarse con la primera que sólo tenía un golpe, confirma su adiós a la temporada al tener que pasar por quirófano",
-    "img": "https://www.lanuevacronica.com/uploads/s1/26/85/01/8/lodos15125.jpeg",
-    "tipo": "noticia",
-    "pub": 1794082914,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Horquetas y tambores para guiar el camino a las ánimas de León",
-    "link": "https://www.lanuevacronica.com/actualidad/horquetas-tambores-guiar-camino-animas-leon_206077_102.html",
-    "desc": "La Cofradía del Santo Malvar celebra un sobrio cortejo, recuperado en 2022, desde Santa Marina hasta el antiguo cementerio de la ciudad que se ubicaba en el entorno de San Marcelo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/50/5/procesion-animas-2.jpeg",
-    "tipo": "noticia",
-    "pub": 1794082048,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Del gol de ascenso de Escobar, a los cabezazos de Santi Santos y Paixao o los dobletes de Bicho y Gallar",
-    "link": "https://www.lanuevacronica.com/deportes/gol-ascenso-escobar-cabezazos-santi-santos-paixao-dobletes-bicho-y-gallar_206075_102.html",
-    "desc": "Los últimos cinco triunfos de la Cultural en los derbis, que son los logrados en las dos últimas décadas, han tenido siempre claros protagonistas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/39/22/2/gallarweb-1.jpeg",
-    "tipo": "noticia",
-    "pub": 1794080441,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "18 años de la última victoria deportivista en el Reino",
-    "link": "https://www.lanuevacronica.com/deportes/18-anos-ultima-victoria-deportivista-en-reino_206052_102.html",
-    "desc": "La Deportiva no saborea tres puntos a domicilio en un derbi desde 2008 con el recordado gol de Óscar De Paula a los segundos de entrar, desde entonces, tres empates, tres derrotas y 12 temporadas…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/70/4/oscar-de-paula-junto-ernesto-gomez-y-ruben-vega-celebrando-el-gol-del-delantero-que-supondria-la-ultima-victoria-de-la-ponferradina-en-un-derbi-en-el-reino-destileriabar.jpeg",
-    "tipo": "noticia",
-    "pub": 1794079873,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Dos heridos en un atropello y un accidente de tráfico en Ponferrada este sábado",
     "link": "https://www.heraldodeleon.es/el-bierzo/dos-heridos-atropello-accidente-trafico-ponferrada-sabado/20261107202753116753.html",
     "desc": "La capital berciana ha registrado dos accidentes en la tarde del sábado, un atropello en la calle Camino de Santiago y una salida de vía en la carretera LE-5228",
@@ -70,24 +194,6 @@
     "tipo": "noticia",
     "pub": 1794079673,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "¿Ya es Navidad en León?: Santo Domingo enciende sus luces (por unos segundos)",
-    "link": "https://www.lanuevacronica.com/actualidad/ya-es-navidad-en-leon-santo-domingo-enciende-sus-luces-por-segundos_206076_102.html",
-    "desc": "Los operarios avanzan en la instalación de las guirnaldas luminosas del gran árbol navideño, que ha sorprendido a los viandantes con sus primeras pruebas de iluminación",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/41/4/arbol-navidad-leon-luces-pruebas.jpeg",
-    "tipo": "noticia",
-    "pub": 1794079031,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cinco heridos tras una pelea multitudinaria con arma blanca en La Bañeza",
-    "link": "https://www.lanuevacronica.com/sucesos/tres-heridos-pelea-con-arma-blanca-en-baneza_206064_102.html",
-    "desc": "Los hechos ocurrieron en la calle La Harinera y requirieron el envío de un helicóptero medicalizado y dos ambulancias, que evacuaron a los heridos más graves al Hospital de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/09/4/labaneza.jpeg",
-    "tipo": "noticia",
-    "pub": 1794077102,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Un ciclista herido en una colisión con un turismo en Santovenia de la Valdoncina",
@@ -108,15 +214,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Los Amigos en el Camino homenajean al coronel Julio Andrés Gutiérrez en Molinaferrera",
-    "link": "https://www.lanuevacronica.com/actualidad/amigos-en-camino-homenajean-coronel-julio-andres-gutierrez-en-molinaferrera_206062_102.html",
-    "desc": "Unas 30 personas participaron este sábado en el encuentro anual celebrado en el refugio La Mata, donde se rindió un emotivo reconocimiento al militar con motivo de su pase a la reserva",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/24/3/foto-amigos.jpeg",
-    "tipo": "noticia",
-    "pub": 1794074935,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Astorga se estrella en Eibar",
     "link": "https://www.heraldodeleon.es/deportes/futbol/astorga-estrella-eibar/20261107190806116749.html",
     "desc": "El filial armero fue muy superior al conjunto maragato al que sometió en la primera parte con un parcial de 3-0 que dejó el partido sentenciado. Hoyos marcó para los de Lago en la segunda parte",
@@ -126,33 +223,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Vox hace campaña en la Feria de Riaño con el sector primario",
-    "link": "https://www.lanuevacronica.com/actualidad/vox-hace-campana-en-feria-riano-con-sector-primario_206067_102.html",
-    "desc": "Pablo Calvo, número uno de la ultraderecha al Congreso, visita la Feria de Noviembre de la localidad leonesa y traslada a los ganaderos las propuestas de la formación",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/18/9/vox-riano-pablo-calvo.jpeg",
-    "tipo": "noticia",
-    "pub": 1794073390,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cultural - Ponferradina: 'El derbi de las urgencias y la necesidad'",
-    "link": "https://www.lanuevacronica.com/deportes/cultural-ponferradina-derbi-urgencias-necesidad_206069_102.html",
-    "desc": "En plena dinámica negativa, Cultural y Deportiva se miden este domingo en el Reino en un duelo de máxima rivalidad que puede impulsar a uno y hacer explotar la crisis del otro",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/37/83/8/whatsapp-image-2026-01-16-at-18-27-02.jpeg",
-    "tipo": "noticia",
-    "pub": 1794073357,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Frente Amplio reclama la terminal de carga y un nuevo ILS para el aeropuerto de León",
-    "link": "https://www.lanuevacronica.com/actualidad/frente-amplio-reclama-terminal-carga-nuevo-ils-aeropuerto-leon_206068_102.html",
-    "desc": "Los candidatos el 29-N por León, de Izquierda Unida, se reúnen con la plataforma Más Vuelos y piden a Aena inversiones para convertir las instalaciones en un referente logístico del noroeste",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/22/3/reunio-n-mas-vuelos-frente-amplio.jpeg",
-    "tipo": "noticia",
-    "pub": 1794073173,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Frente Amplio apuesta por convertir el Aeropuerto en \"eje logístico del noroeste\"",
     "link": "https://www.heraldodeleon.es/leon/frente-amplio/20261107183642116746.html",
     "desc": "Los candidatos a Congreso y Senado se reúnen con Más Vuelos y reclaman \"visión de conjunto\" para que León no siga perdiendo oportunidades:&nbsp;\"Aeropuerto, conexiones viarias, ferrocarril y suelo…",
@@ -160,15 +230,6 @@
     "tipo": "noticia",
     "pub": 1794073002,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Octavio Cordero reivindica la ganadería y reclama un matadero comarcal en el pregón del Magosto de Páramo del Sil",
-    "link": "https://www.lanuevacronica.com/el-bierzo/octavio-cordero-reivindica-ganaderia-reclama-matadero-comarcal-en-pregon-magosto-paramo-sil_206066_102.html",
-    "desc": "El ganadero fornelo ejerció como mantenedor de la XIX edición de la fiesta, que abrió este sábado sus puertas junto al Mercado Tradicional con una llamada a preservar las raíces",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/17/6/magosto-paramo.jpeg",
-    "tipo": "noticia",
-    "pub": 1794071671,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Junta plantea reducir un 15% las emisiones de metano en Castilla y León para 2030",
@@ -189,15 +250,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La Plataforma en Defensa de Feve de León retoma las movilizaciones de los sábados",
-    "link": "https://www.lanuevacronica.com/actualidad/plataforma-en-defensa-feve-leon-retoma-movilizaciones-sabados_206065_102.html",
-    "desc": "La concentración de protesta se celebra ahora frente a la Subdelegación del Gobierno",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/15/8/feve-protesta.jpeg",
-    "tipo": "noticia",
-    "pub": 1794071033,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "León lidera el crecimiento de la recaudación fiscal en Castilla y León con un aumento del 23,5%",
     "link": "https://www.elbierzodigital.com/leon-lidera-el-crecimiento-de-la-recaudacion-fiscal-en-castilla-y-leon-con-un-aumento-del-235/",
     "desc": "La provincia de León registró el mayor incremento de la recaudación tributaria de Castilla y León durante los nueve primeros meses de 2026. La Agencia Tributaria ingresó 748,38 millones de euros en…",
@@ -205,15 +257,6 @@
     "tipo": "noticia",
     "pub": 1794070750,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Vegacervera 'coge el chivo' por los cuernos",
-    "link": "https://www.lanuevacronica.com/actualidad/vegacervera-coge-chivo-por-cuernos_206063_102.html",
-    "desc": "La localidad celebró este sábado la primera jornada de la 35 Feria de la Cecina de Chivo gastronomía, artesanía, tradición pastoril y el recuerdo de Tavito",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/02/4/pastores-ataviados-dos-chivos-musica-popular-bollos-y-vino-de-la-bota-durante-el-popular-pasacalles-este-sabado-estefania-nino.jpeg",
-    "tipo": "noticia",
-    "pub": 1794070408,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Dos heridos en sendos accidentes de tráfico en Ponferrada",
@@ -362,6 +405,24 @@
     "fuente": "Heraldo de León"
   },
   {
+    "titulo": "Tres meses de obras paradas y socavones abiertos en la avenida Antibióticos",
+    "link": "https://www.heraldodeleon.es/leon/upl-exige-finalizacion-obras-avenida-antibioticos-paradas-hace-tres-meses/20261107122209116697.html",
+    "desc": "Los leonesistas consideraron la situación, con grades socavones abiertos dificultando el paso hace semanas, \"inadmisible\" y exigen al alcalde la culminación \"inmediata\" de los trabajos",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110712105885445.jpg",
+    "tipo": "noticia",
+    "pub": 1794050529,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Una mujer de unos 60 años resulta herida en una salida de vía en Ponferrada",
+    "link": "https://www.heraldodeleon.es/el-bierzo/mujer-60-anos-resulta-herida-salida-via-ponferrada/20261107120347116689.html",
+    "desc": "El accidente ha tenido lugar en la mañana de este sábado en la carretera LE-5228",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/27/2026092713574865921.jpg",
+    "tipo": "noticia",
+    "pub": 1794049427,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "La Ponferradina viajará a León bajo un dispositivo especial de seguridad para un derbi declarado de alto riesgo",
     "link": "https://www.elbierzodigital.com/la-ponferradina-viajara-a-leon-bajo-un-dispositivo-especial-de-seguridad-para-un-derbi-declarado-de-alto-riesgo/",
     "desc": "La Subdelegación del Gobierno en León ha coordinado un dispositivo especial de seguridad para el derbi de este domingo, 8 de noviembre, entre la Cultural y Deportiva Leonesa y la SD Ponferradina,…",
@@ -369,6 +430,33 @@
     "tipo": "noticia",
     "pub": 1794048905,
     "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Hacienda hace caja en León: los ingresos tributarios se disparan un 23% en un año",
+    "link": "https://www.heraldodeleon.es/economia/hacienda-hace-caja-leon-ingresos-tributarios-disparan-23-ano/20261107112343116688.html",
+    "desc": "La provincia leonesa fue la que experimentó el mayor crecimiento recaudatorio&nbsp;(142 millones de euros hasta rozar los&nbsp;750) de toda la Comunidad en el último año",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110711185382539.jpg",
+    "tipo": "noticia",
+    "pub": 1794047023,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Alex O'Dogherty sigue haciendo el 'Imbécil' con sus 'Palabras mayores'",
+    "link": "https://www.heraldodeleon.es/cultura/alex-odogherty-sigue-haciendo-imbecil-palabras-mayores/20261107111112116686.html",
+    "desc": "El cómico rozó el lleno en la platea del Auditorio con su nuevo espectáculo lleno de juegos de palabras, tecnologías y participación de un público fiel y entregado a la causa de las risas",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110710575184987.jpg",
+    "tipo": "noticia",
+    "pub": 1794046272,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "María Rubio Ochoa lleva los 'Relatos de mi zurrona' a la Casa de León en Madrid",
+    "link": "https://www.heraldodeleon.es/cultura/maria-rubio-ochoa-lleva-reatos-zurrona-casa-leon-madrid/20261107105234116677.html",
+    "desc": "La escritora omañesa será la protagonista de una nueva velada literaria este viernes 13 de noviembre",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110710521341004.webp",
+    "tipo": "noticia",
+    "pub": 1794045154,
+    "fuente": "Heraldo de León"
   },
   {
     "titulo": "El PP denuncia el \"abandono\" de los talleres de Renfe en León por parte del Gobierno de Sánchez",
@@ -806,89 +894,6 @@
     "fuente": "El Español · CyL",
     "autor": "José Antonio Lobato",
     "autorImg": "https://s3.elespanol.com/k/imgp/cms/elespanol/10806892.png?h=WADchMmD"
-  },
-  {
-    "titulo": "Monumento al ‘sindivago’",
-    "link": "https://www.lanuevacronica.com/opinion/monumento-sindivago_205821_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793764800,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Víctor S. Vélez",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/81/83/4/victor-velez.jpeg"
-  },
-  {
-    "titulo": "El Magosto de Santa Marina",
-    "link": "https://www.lanuevacronica.com/opinion/magosto_205818_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793763900,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Xuasús González",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/48/xuasusb.jpeg"
-  },
-  {
-    "titulo": "El puto Jefe, con perdón",
-    "link": "https://www.lanuevacronica.com/opinion/puto-jefe-con-perdon_205824_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793763600,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Eduardo Bajo A.",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/69/eduardo-bajob.jpeg"
-  },
-  {
-    "titulo": "Entreverado de versos",
-    "link": "https://www.lanuevacronica.com/opinion/entreverado-versos_205819_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793763300,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Juanmaría G. Campal",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/22/13/52/4/imagen-juan-maria-garcia-campal.jpeg"
-  },
-  {
-    "titulo": "La movilidad exige decisiones, no más excusas",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/movilidad-exige-decisiones-no-mas-excusas_205822_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793761200,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "El ridículo sin fin de Podemos",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/ridiculo-sin-fin-podemos_205823_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793761200,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "La Negrilla"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205820_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793761200,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "Luz de la Sobarriba",
-    "link": "https://www.lanuevacronica.com/opinion/luz-sobarriba_205855_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793761200,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "José Luis Puerto",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/98/98/1/03max201310242741.jpeg"
   },
   {
     "titulo": "Hacienda subasta 20 fincas rústicas en ocho pueblos: cuestan entre 19 y 20.000 euros y hay terrenos de hasta seis hectáreas",
