@@ -1,5 +1,104 @@
 [
   {
+    "titulo": "El PSOE reivindica los derechos LGTBI en un acto de precampaña en Ponferrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-reivindica-derechos-lgtbi-en-acto-precampana-en-ponferrada_206118_102.html",
+    "desc": "Lorena Valle, número dos al Congreso, participa en el encuentro '¿Derechas o derechos? Lo que nos jugamos el 29-N', en el que defienden que no se dé \"ni un paso atrás\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/87/37/6/derechas-o-derechos-psoe.jpeg",
+    "tipo": "noticia",
+    "pub": 1794163785,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Denuncian el \"riesgo\" de inundación por el \"abandono\" de los canales en el Órbigo",
+    "link": "https://www.lanuevacronica.com/actualidad/denuncian-riesgo-inundacion-por-abandono-canales-en-orbigo_206116_102.html",
+    "desc": "El PP de Benavides responsabilidades al Gobierno de España a través de la Confederación Hidrográfica del Duero y lleva el asunto ante el Defensor del Pueblo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/87/33/6/benavides-chd-canales-mal-estado-3.jpeg",
+    "tipo": "noticia",
+    "pub": 1794162970,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Atlético Bembibre cae en Palencia tras encajar dos goles en el primer cuarto de hora",
+    "link": "https://www.elbierzodigital.com/el-atletico-bembibre-cae-en-palencia-tras-encajar-dos-goles-en-el-primer-cuarto-de-hora/",
+    "desc": "El Atlético Bembibre sufrió una derrota por 2-0 ante el Palencia en el encuentro correspondiente a la décima jornada del grupo VIII de Tercera Federación, disputado este domingo en La Nueva…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/el-atletico-bembibre-cae-en-palencia-tras-encajar-dos-goles-en-el-primer-cuarto-de-hora-el-bierzo-digital.jpeg",
+    "tipo": "noticia",
+    "pub": 1794162522,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "El Reino de León estalla contra la Cultural: un equipo sin alma, un entrenador cuestionado y una directiva señalada",
+    "link": "https://www.heraldodeleon.es/deportes/cultural/reino-leon-estalla-cultural-equipo-alma-entrenador-cuestionado-directiva-senalada/20261108192553116872.html",
+    "desc": "La Ponferradina se marcha al descanso con ventaja gracias al gol de Faye (0-1), mientras más de 10.000 aficionados culturalistas claman contra el palco al grito de \"¡Directiva dimisión!\" | La…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/08/2026110819464910942.jpg",
+    "tipo": "noticia",
+    "pub": 1794162353,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El PSOE reclama en Ponferrada una ley LGTBI para Castilla y León",
+    "link": "https://www.elbierzodigital.com/el-psoe-reclama-en-ponferrada-una-ley-lgtbi-para-castilla-y-leon/",
+    "desc": "El PSOE reivindicó este domingo en Ponferrada la aprobación de una ley autonómica LGTBI en Castilla y León y reclamó al presidente de la Junta, Alfonso Fernández Mañueco, que impulse una normativa…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/el-psoe-reclama-en-ponferrada-una-ley-lgtbi-para-castilla-y-leon-el-bierzo-digital.jpeg",
+    "tipo": "noticia",
+    "pub": 1794157844,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Recuerdo a Tavito en una feria con sabor a tradición y legado",
+    "link": "https://www.lanuevacronica.com/actualidad/recuerdo-tavito-en-feria-con-sabor-tradicion-legado_206110_102.html",
+    "desc": "La primera Feria de la Cecina de Chivo sin uno de sus grandes impulsores estuvo marcada por el reconocimiento a su trayectoria y el reconocimiento a su trabajo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/86/86/9/nines-hermano-de-tavito-durante-el-homenaje-a-este-en-el-ayuntamiento-e-nino.jpeg",
+    "tipo": "noticia",
+    "pub": 1794156309,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "EN DIRECTO | Cultural Leonesa-Ponferradina",
+    "link": "https://www.elbierzodigital.com/directo-cultural-leonesa-ponferradina-2627/",
+    "desc": "Sigue en directo el Cultural Leonesa-Ponferradina de la undécima jornada de liga en el grupo 1 de Primera RFEF que comienza a las 18.15 horas en el estadio Reino de León. La entrada EN DIRECTO |…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/en-directo-cultural-leonesa-ponferradina-el-bierzo-digital.jpg",
+    "tipo": "noticia",
+    "pub": 1794154554,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Basurco: \"Con 14 años tuve que pedir 80.000 pesetas para enterrar a mi padre\"",
+    "link": "https://www.lanuevacronica.com/el-bierzo/basurco-14-anos-tuve-pedir-80000-pesetas-enterrar-mi-padre_206096_102.html",
+    "desc": "Miguel Martínez Basurco es el hombre de los retos solidarios por Oncobierzo, pero detrás de él hay una historia humana que sobrecoge",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/74/9/imagen-basurco-bierzo.jpeg",
+    "tipo": "noticia",
+    "pub": 1794153922,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Más de 600 personas marchan por el Síndrome de Dravet en el barrio de La Victoria de Valladolid",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261108/personas-marchan-sindrome-dravet-barrio-victoria-valladolid/1003744450660_0.html",
+    "desc": "La iniciativa ha sido organizada por la Asociación de Comercios y Empresas de La Victoria, integrada en Fecosva. Más información: Fecosva y Cajamar unen fuerzas para impulsar el comercio local y…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11396746.jpg?p=c:1640:922:nowe:68:0/w:1706/h:960&h=R9QTqAxZ",
+    "tipo": "noticia",
+    "pub": 1794152618,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "La Cataplasma: ¿Dónde están las llaves?",
+    "link": "https://www.lanuevacronica.com/extras/la-cataplasma/cataplasma-donde-estan-llaves_206038_102.html",
+    "desc": "Fulgencio Fernández se asoma a una ventana en la que tendrán cabida los personajes que nunca llegaron a pensar que sus historias le podían llegar a interesar a alguien",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/84/26/2/frame-08cataplasma.jpeg",
+    "tipo": "noticia",
+    "pub": 1794150000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "🔴 DIRECTO | CULTURAL 1-1 PONFERRADINA | Rober Pier empata para la Cultural",
+    "link": "https://www.heraldodeleon.es/deportes/cultural/%F0%9F%94%B4-directo-cultural-ponferradina-derbi-ano-leon/20261108155219116850.html",
+    "desc": "La fiesta del fútbol provincial mide el domingo desde las 18:15 horas a dos equipos que no han empezado con buen pie | La Cultural busca redimirse tras sumar solo 12 puntos de 30 posibles y la…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/08/2026110819131430961.jpg",
+    "tipo": "noticia",
+    "pub": 1794149539,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "El Clínica Ponferrada SDP cae en Algeciras tras un tercer cuarto para olvidar",
     "link": "https://www.elbierzodigital.com/el-clinica-ponferrada-sdp-cae-en-algeciras-tras-un-tercer-cuarto-para-olvidar/",
     "desc": "El Clínica Ponferrada SDP sufrió su segunda derrota consecutiva tras caer con contundencia (92-68) en la pista del Algeciras , un equipo que fue claramente superior a partir del segundo cuarto. El…",
@@ -60,15 +159,6 @@
     "img": "https://www.lanuevacronica.com/uploads/s1/35/85/83/6/imagen-jimenez.jpeg",
     "tipo": "noticia",
     "pub": 1794143178,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Basurco: \"Con 14 años tuve que pedir 80.000 pesetas para enterrar a mi padre\"",
-    "link": "https://www.lanuevacronica.com/el-bierzo/basurco-14-anos-tuve-pedir-80000-pesetas-enterrar-mi-padre_206096_102.html",
-    "desc": "Miguel Martínez Basurco es el hombre de los retos solidarios por Oncobierzo, pero detrás de él hay una historia humana que sobrecoge",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/74/9/imagen-basurco-bierzo.jpeg",
-    "tipo": "noticia",
-    "pub": 1794142919,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -216,17 +306,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Enfado libre",
-    "link": "https://www.lanuevacronica.com/opinion/enfado-libre_206084_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794135771,
-    "fuente": "La Nueva Crónica",
-    "autor": "David Rubio",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/34/51/71/5/david-rubio.png"
-  },
-  {
     "titulo": "Detenidas tres personas tras la reyerta de este sábado en La Bañeza",
     "link": "https://www.lanuevacronica.com/sucesos/detenidas-dos-personas-reyerta-este-sabado-en-baneza_206092_102.html",
     "desc": "Se trata de una mujer y un hombre que tenía en su casa un hacha presuntamente utilizada en las agresiones y una tercera persona, detenida tras ser dada de alta en el Hospital",
@@ -290,51 +369,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Rodrigo Cuevas, el 'güelito Salvador' y Rodiezmo",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/rodrigo-cuevas-guelito-salvador-rodiezmo_206094_102.html",
-    "desc": "\"Todo lo que hago en la vida nació en Rodiezmo\", dice Rodrigo Cuevas en el capítulo de 'Cuánta guerra' de RTVE de esta semana en la que el cantante descubre la historia familiar de su bisabuelo…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/71/1/rodiezmo-rodrigo-cuevas.jpeg",
-    "tipo": "noticia",
-    "pub": 1794132044,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Muere un militar durante unas maniobras de instrucción en Zaragoza",
-    "link": "https://www.heraldodeleon.es/actualidad/nacional/muere-militar-maniobras-instruccion-zaragoza/20261108104646116772.html",
-    "desc": "El soldado, destinado en el Grupo de Artillería de Campaña X de la Brigada 'Guzmán el Bueno' X, perdió la vida en el Centro de Adiestramiento de San Gregorio por causas que se investigan",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2024/11/30/2024113011571125399.jpg",
-    "tipo": "noticia",
-    "pub": 1794131206,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Dos heridos tras volcar un coche en León cuyo conductor triplicaba la tasa de alcohol",
-    "link": "https://www.lanuevacronica.com/sucesos/dos-heridos-volcar-coche-en-leon-cuyo-conductor-triplicaba-tasa-alcohol_206093_102.html",
-    "desc": "El vehículo se salió de la vía en la carretera de Asturias, junto a la ronda L-20, y su conductor dio positivo con 0,91 miligramos por litro de aire espirado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/69/3/carretera-asturias-ronda-leon-accidente.jpeg",
-    "tipo": "noticia",
-    "pub": 1794130983,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Se elevan a tres los detenidos por la violenta reyerta con navajas de La Bañeza",
-    "link": "https://www.heraldodeleon.es/comarcas/la-baneza/tres-detenidos-reyerta-baneza/20261108103652116771.html",
-    "desc": "Actualización | La Guardia Civil confirmó la detención de una&nbsp;de las personas que resultaron heridas en la pelea del sábado tras recibir el alta médica | Ya habían sido apresados dos…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/08/2026110809124175490.jpg",
-    "tipo": "noticia",
-    "pub": 1794130612,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Un derbi de máxima tensión",
-    "link": "https://www.heraldodeleon.es/deportes/cultural/derbi-maxima-tension-cultural-ponferradina/20261108102718116770.html",
-    "desc": "La Cultural y la Ponferradina afrontan en un Reino de León lleno el duelo provincial número 103, marcado por las urgencias, las dudas en ambos proyectos y la necesidad de encontrar una victoria que…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/08/2026110810555219637.jpg",
-    "tipo": "noticia",
-    "pub": 1794130038,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "El Bembibre Hockey cae en Manlleu tras encajar el gol decisivo en los últimos minutos",
     "link": "https://www.elbierzodigital.com/el-bembibre-hockey-cae-en-manlleu-tras-encajar-el-gol-decisivo-en-los-ultimos-minutos/",
     "desc": "El Bembibre Hockey sufrió su primera derrota de la temporada en la OK Liga Iberdrola tras perder por 4-3 en su visita al Manlleu. Las bercianas llegaron a ponerse por delante en dos ocasiones, pero…",
@@ -342,15 +376,6 @@
     "tipo": "noticia",
     "pub": 1794129319,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Los pequeños bibliotecarios de Pinilla",
-    "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/pequenos-bibliotecarios-pinilla/20261108101249116767.html",
-    "desc": "La Biblioteca Municipal de Pinilla convierte a 190 escolares en pequeños bibliotecarios&nbsp;con motivo del Día de las Bibliotecas, lo que permite a los alumnos conocer desde dentro el…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/08/2026110810120391241.jpg",
-    "tipo": "noticia",
-    "pub": 1794129169,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Una delicia de lechazo guisado al ribera con chocolate y regaliz negro conquista el Valladolid Tapas Walk 2026",
@@ -362,6 +387,24 @@
     "fuente": "El Español · CyL"
   },
   {
+    "titulo": "Ángel, el castañero que da calor a los leoneses cada otoño",
+    "link": "https://www.heraldodeleon.es/leon/angel-castanero-que-da-calor-leon/20261108094412116757.html",
+    "desc": "El castañero de Santo Domingo regresa, como cada otoño desde 1980, con su locomotora Changai y el aroma de las brasas en una temporada marcada por una cosecha menos favorable, pero con la voluntad…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/08/2026110809470532036.jpg",
+    "tipo": "noticia",
+    "pub": 1794127452,
+    "fuente": "Heraldo de León · León"
+  },
+  {
+    "titulo": "León suma un nuevo examinador de Tráfico para frenar las 'listas de espera', pero las autoescuelas lo ven insuficiente y piden tener más recursos",
+    "link": "https://www.heraldodeleon.es/leon/leon-suma-examinador-trafico-listas-espera-autoescuelas-consideran-insuficiente-refuerzo/20261108092054116756.html",
+    "desc": "La incorporación, publicada en el BOE, llega con más de 3.500 aspirantes pendientes de la prueba práctica y demoras que rebasan los cuatro meses, mientras el sector insiste en reclamar más personal…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/07/30/2026073013080418922.jpg",
+    "tipo": "noticia",
+    "pub": 1794126054,
+    "fuente": "Heraldo de León · León"
+  },
+  {
     "titulo": "Guillermo, del Sindicato de Vivienda: “El precio del alquiler se ha disparado un 36% desde 2021; hay que ir a la huelga”",
     "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261108/guillermo-sindicato-vivienda-precio-alquiler-disparado-ir-huelga-trt/1003744446227_0.html",
     "desc": "El portavoz anima a participar de la huelga general del próximo 11 de noviembre. Más información : Sindicato de Vivienda, CGT y CNT llaman a la huelga general: “Esperamos una respuesta masiva entre…",
@@ -371,13 +414,15 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Víctor y Silvia, educadores caninos de Mayuka: “Ayudamos a comprender al perro para una convivencia más respetuosa”",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261108/victor-silvia-educadores-caninos-mayuka-ayudamos-comprender-perro-convivencia-respetuosa/1003744441664_0.html",
-    "desc": "Los dos profesionales se juntaron para crear, en el año 2023, la Cooperativa Mayuka, que recibirá, el 9 de noviembre, un gran premio por su labor. Más información: Elena compagina su trabajo de…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391249.jpg?p=w:1706/h:960&h=2Ifq_L10",
-    "tipo": "noticia",
-    "pub": 1794117600,
-    "fuente": "El Español · CyL"
+    "titulo": "Enfado libre",
+    "link": "https://www.lanuevacronica.com/opinion/enfado-libre_206084_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794110400,
+    "fuente": "La Nueva Crónica · Opinión",
+    "autor": "David Rubio",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/34/51/71/5/david-rubio.png"
   },
   {
     "titulo": "Rasgos de personalidad",
@@ -386,7 +431,7 @@
     "img": null,
     "tipo": "opinion",
     "pub": 1794110100,
-    "fuente": "La Nueva Crónica",
+    "fuente": "La Nueva Crónica · Opinión",
     "autor": "Luis Grau Lobo",
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/7/web-luis-gray.jpeg"
   },
@@ -397,18 +442,18 @@
     "img": null,
     "tipo": "opinion",
     "pub": 1794109800,
-    "fuente": "La Nueva Crónica",
+    "fuente": "La Nueva Crónica · Opinión",
     "autor": "Fulgencio Fernández",
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/44/fulgencio-web-1.jpeg"
   },
   {
-    "titulo": "Vamos 'pa dentro'",
+    "titulo": "Vamos ‘pa dentro’",
     "link": "https://www.lanuevacronica.com/opinion/vamos-pa-dentro_206090_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
     "pub": 1794109500,
-    "fuente": "La Nueva Crónica",
+    "fuente": "La Nueva Crónica · Opinión",
     "autor": "Laly del Blanco Tejerina",
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/84/41/3/imagen-159544846.jpeg"
   },
@@ -486,15 +531,6 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "La Junta plantea reducir un 15% las emisiones de metano en Castilla y León para 2030",
-    "link": "https://www.elbierzodigital.com/la-junta-plantea-reducir-un-15-las-emisiones-de-metano-en-castilla-y-leon-para-2030/",
-    "desc": "La Junta de Castilla y León plantea reducir un 15% las emisiones de metano procedentes de la ganadería y la gestión de residuos industriales en 2030, tomando como referencia los niveles de 2005. La…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/la-junta-plantea-reducir-un-15-las-emisiones-de-metano-en-castilla-y-leon-para-2030-el-bierzo-digital-1.jpg",
-    "tipo": "noticia",
-    "pub": 1794071461,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "Pollán y Diez acuden a las jornadas sobre hispanidad de los Héroes de Cavite",
     "link": "https://www.heraldodeleon.es/leon/pollan-diez-acuden-jornadas-hispanas-heroes-cavite/20261107180511116744.html",
     "desc": "La IV Jornada de la Hispanidad 'El Imperio de la Ciencia y de las Letras'&nbsp;ha puesto&nbsp;el foco en el legado cultural, científico y literario del mundo hispano",
@@ -502,24 +538,6 @@
     "tipo": "noticia",
     "pub": 1794071111,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "León lidera el crecimiento de la recaudación fiscal en Castilla y León con un aumento del 23,5%",
-    "link": "https://www.elbierzodigital.com/leon-lidera-el-crecimiento-de-la-recaudacion-fiscal-en-castilla-y-leon-con-un-aumento-del-235/",
-    "desc": "La provincia de León registró el mayor incremento de la recaudación tributaria de Castilla y León durante los nueve primeros meses de 2026. La Agencia Tributaria ingresó 748,38 millones de euros en…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2022/04/Agencia-Tributaria-Castilla-y-Leon.jpg",
-    "tipo": "noticia",
-    "pub": 1794070750,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Dos heridos en sendos accidentes de tráfico en Ponferrada",
-    "link": "https://www.elbierzodigital.com/dos-heridos-en-sendos-accidentes-de-trafico-en-ponferrada/",
-    "desc": "Dos personas resultaron heridas este sábado a consecuencia de sendos accidentes de tráfico en el término municipal de Ponferrada, según informó la oficina de Emergencias del 112. El primero de los…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/06/ambulancia.jpg",
-    "tipo": "noticia",
-    "pub": 1794070107,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "La Raya sobre dos ruedas: de Fermoselle al corazón de Portugal",
@@ -557,24 +575,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110713013329263.jpg",
     "tipo": "noticia",
     "pub": 1794052944,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Tres meses de obras paradas y socavones abiertos en la avenida Antibióticos",
-    "link": "https://www.heraldodeleon.es/leon/upl-exige-finalizacion-obras-avenida-antibioticos-paradas-hace-tres-meses/20261107122209116697.html",
-    "desc": "Los leonesistas consideraron la situación, con grades socavones abiertos dificultando el paso hace semanas, \"inadmisible\" y exigen al alcalde la culminación \"inmediata\" de los trabajos",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110712105885445.jpg",
-    "tipo": "noticia",
-    "pub": 1794050529,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "El PP denuncia el \"abandono\" de los talleres de Renfe en León por parte del Gobierno de Sánchez",
-    "link": "https://www.heraldodeleon.es/leon/pp-denuncia-abandono-talleres-renfe-leon-parte-gobierno/20261107103757116675.html",
-    "desc": "Miembros de las candidaturas 'populares' al Congreso y al Senado se reunieron con el comité de empresa de Renfe en León para analizar la situación del sector ferroviario en la provincia: \"Son…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/07/2026110710332866073.jpg",
-    "tipo": "noticia",
-    "pub": 1794044277,
     "fuente": "Heraldo de León · León"
   },
   {
