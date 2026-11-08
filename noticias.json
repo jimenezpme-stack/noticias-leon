@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Matías Recio, el exjuez con 2.500 sentencias en las listas de Vox que \"acorrala al PSOE para llevar a Sánchez al banquillo\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/palencia/20261108/matias-recio-exjuez-sentencias-listas-vox-acorrala-psoe-llevar-sanchez-banquillo-dl/1003744447836_0.html",
+    "desc": "Trabajó en Galicia en plena lucha contra el narcotráfico, ahora es el número 1 al Congreso por Palencia. “Mi ambición es poder cambiar las cosas y usarlas al servicio de España\". Más información:…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11394978.jpg?p=w:1706/h:960&h=Oc_5q79X",
+    "tipo": "noticia",
+    "pub": 1794098841,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Lucha Leonesa: Jesús el de La Braña, que hizo doblete; Chesco y la base de Valle del Curueño, triunfadores de la Gala",
+    "link": "https://www.lanuevacronica.com/deportes/lucha-leonesa-jesus-brana-hizo-doblete-chesco-base-valle-curueno-triunfadores-gala_206091_102.html",
+    "desc": "Jesusín ganó uno de los Trofeos al Luchador Veterano y también el de la Deportividad; Chesco fue el Luchador Revelación y Valle del Curueño dominó los dos galardones dedicados a la lucha de base",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/67/1/jesus.jpeg",
+    "tipo": "noticia",
+    "pub": 1794095773,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Cáceres 83 - Cultural 81: 'La Cultural muere en la orilla'",
     "link": "https://www.lanuevacronica.com/deportes/caceres-83-cultural-81-cultural-muere-en-orilla_206083_102.html",
     "desc": "El equipo leonés, que perdía de 16 en el último minuto del tercer cuarto, se rehízo y tuvo ataque para ganar con uno abajo a 15 segundos, pero acabó cayendo ante uno de los grandes favoritos",
@@ -42,15 +60,6 @@
     "img": "https://www.lanuevacronica.com/uploads/s1/35/84/70/4/oscar-de-paula-junto-ernesto-gomez-y-ruben-vega-celebrando-el-gol-del-delantero-que-supondria-la-ultima-victoria-de-la-ponferradina-en-un-derbi-en-el-reino-destileriabar.jpeg",
     "tipo": "noticia",
     "pub": 1794079873,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El Júpiter no remata al líder y el Mansillés no levanta cabeza",
-    "link": "https://www.lanuevacronica.com/deportes/jupiter-no-remata-lider-mansilles-no-levanta-cabeza_206071_102.html",
-    "desc": "El filial empata (0-0) con el Cristo pese a jugar contra 10 los últimos 25 minutos y los de Mansilla se van a los cinco partidos sin ganar tras desperdiciar un 0-2 e igualar (2-2) con el Diocesanos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/30/4/jupiter.jpeg",
-    "tipo": "noticia",
-    "pub": 1794079866,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -362,15 +371,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Patrimonio y estrellas: la Diputación de Valladolid une monumentos y cielo nocturno en siete pueblos de la provincia",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261107/patrimonio-estrellas-diputacion-valladolid-une-monumentos-cielo-nocturno-pueblos-provincia/1003744449923_0.html",
-    "desc": "El ciclo, desarrollado en colaboración con Astroval, comienza este sábado en Portillo. Más información: La Diputación de Valladolid tendrá el mayor presupuesto de su historia con 193,6 M€ para 2027:…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11396276.jpg?p=c:1601:900:nowe:0:381/w:1706/h:960&h=yPXttJ0O",
-    "tipo": "noticia",
-    "pub": 1794044677,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "El PP denuncia el \"abandono\" de los talleres de Renfe en León por parte del Gobierno de Sánchez",
     "link": "https://www.heraldodeleon.es/leon/pp-denuncia-abandono-talleres-renfe-leon-parte-gobierno/20261107103757116675.html",
     "desc": "Miembros de las candidaturas 'populares' al Congreso y al Senado se reunieron con el comité de empresa de Renfe en León para analizar la situación del sector ferroviario en la provincia: \"Son…",
@@ -650,15 +650,6 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/06/54/5/foto-turrado-cronica-nueva.jpeg"
   },
   {
-    "titulo": "La solidaridad cuestiona el optimismo económico",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/solidaridad-cuestiona-optimismo-economico_205972_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793934000,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
     "titulo": "La viñeta de Cantón",
     "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205973_102.html",
     "desc": "",
@@ -676,6 +667,15 @@
     "pub": 1793934000,
     "fuente": "La Nueva Crónica · Opinión",
     "autor": "La Negrilla"
+  },
+  {
+    "titulo": "La solidaridad cuestiona el optimismo económico",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/solidaridad-cuestiona-optimismo-economico_205972_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1793934000,
+    "fuente": "La Nueva Crónica · Opinión"
   },
   {
     "titulo": "Sanidad presume de un presupuesto de 6.882 millones en Castilla y León mientras la oposición alerta del aumento de las listas de espera",
