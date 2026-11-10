@@ -1,5 +1,68 @@
 [
   {
+    "titulo": "Suspenden las clases en 32 municipios del sur de Ávila este martes y declaran la situación 2 por riesgo de inundaciones en la provincia",
+    "link": "https://www.20minutos.es/castilla-y-leon/avila/cyl-suspende-las-clases-32-municipios-sur-avila-este-martes-declara-situacion-2-por-riesgo-inundaciones_7059039_0.html",
+    "desc": "El Cecopi mantendrá un seguimiento permanente de la evolución meteorológica e hidrológica en el territorio afectado por las intensas lluvias.",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/09/6af233d0270673-25700346.jpeg",
+    "tipo": "noticia",
+    "pub": 1794258998,
+    "fuente": "20minutos CyL"
+  },
+  {
+    "titulo": "Acuerdo en el ERTE de Coated en León para complementar los salarios de los trabajadores afectados",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261109/acuerdo-erte-coated-leon-complementar-salarios-trabajadores-afectados/1003744451866_0.html",
+    "desc": "El pacto pretende reducir el impacto económico de la suspensión temporal de empleo o la reducción de jornada sobre la plantilla. Más información: UGT y CC.OO. defienden que la huelga del 11N \"sí…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11397476.png?p=c:1273:716:nowe:143:0/w:1706/h:960&h=QlkOzzXN",
+    "tipo": "noticia",
+    "pub": 1794258090,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Soria ¡Ya! exige al futuro Gobierno la aplicación de las ayudas al funcionamiento en su máximo",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/soria/20261109/soria-exige-futuro-gobierno-aplicacion-ayudas-funcionamiento-maximo/1003744451853_0.html",
+    "desc": "La formación reclama finalizar las autovías A-11 y A-15 y propone una tarifa plana indefinida para autónomos de provincias despobladas. Más información: Cientos de personas en una cacerolada en la…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11397469.jpg?p=c:3407:1917:nowe:0:48/w:1706/h:960&h=lvpNOKaq",
+    "tipo": "noticia",
+    "pub": 1794257030,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Coated pacta mejoras salariales para los afectados por el ERTE y la plantilla recela ante la situación preconcursal que presenta la empresa",
+    "link": "https://www.heraldodeleon.es/economia/coated-pacta-mejoras-salariales-afectados-erte-plantilla-recela-situacion-preconcursal-que-presenta-empresa/20261109212926117128.html",
+    "desc": "UGT FICA León alcanza un acuerdo con la empresa para complementar los ingresos de la plantilla y garantizar el mantenimiento de las vacaciones y las pagas extraordinarias durante el expediente",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/03/03/2025030309283094863.jpg",
+    "tipo": "noticia",
+    "pub": 1794256166,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La CGT de LM insta a la movilización el próximo 11 de noviembre",
+    "link": "https://www.elbierzodigital.com/la-cgt-de-lm-insta-a-la-movilizacion-el-proximo-11-de-noviembre/",
+    "desc": "La Sección Sindical de CGT en LM (GE Vernova), en Ponferrada, ha llamado a la plantilla de la empresa y al conjunto de la sociedad berciana a secundar activamente la huelga general del próximo 11 de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/08/trabajo-declara-nulas-las-votaciones-sindicales-en-ge-vernova-el-bierzo-digital.jpg",
+    "tipo": "noticia",
+    "pub": 1794255999,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Herida una mujer de 85 años tras ser atropellada en un paso de cebra en San Miguel del Camino",
+    "link": "https://www.heraldodeleon.es/alfoz/valverde-virgen/herida-mujer-85-anos-ser-atropellada-paso-cebra-san-miguel-camino/20261109211834117127.html",
+    "desc": "La víctima sufrió lesiones en una pierna al ser arrollada por una furgoneta en la N-120, a la altura del kilómetro 316, y tuvo que ser atendida por una ambulancia de Sacyl",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/02/05/2026020508363429349.jpg",
+    "tipo": "noticia",
+    "pub": 1794255514,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Junta declara el nivel 2 de Inuncyl en Ávila ante el riesgo de inundaciones y se suspenden las clases en 32 pueblos",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20261109/junta-declara-nivel-inuncyl-avila-riesgo-inundaciones-suspenden-clases-pueblos/1003744451840_0.html",
+    "desc": "La medida se adopta ante el aviso rojo previsto para este martes en el sur de la provincia abulense. Más información: La borrasca Bruna pone en alerta a Castilla y León: lluvias intensas durante…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11397463.jpg?p=c:4000:2250:nowe:0:415/w:1706/h:960&h=JsYgcDXe",
+    "tipo": "noticia",
+    "pub": 1794255501,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Acuerdo para reducir el impacto del Erte en los 215 trabajadores de Coated",
     "link": "https://www.lanuevacronica.com/actualidad/acuerdo-reducir-impacto-erte-en-215-trabajadores-coated_206186_102.html",
     "desc": "El pacto con la empresa garantiza un complemento salarial, el mantenimiento de las vacaciones y las pagas extraordinarias durante la aplicación del expediente",
@@ -9,7 +72,7 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Alerta roja en el sur de Ávila para 49.000 personas de 32 municipios y clases suspendidas",
+    "titulo": "Castilla y León suspende las clases en 32 municipios de Ávila y activa el aviso rojo por el temporal",
     "link": "https://www.eldiario.es/castilla-y-leon/provincias/avila/alerta-roja-sur-avila-49-000-personas-32-municipios-clases-suspendidas_1_13650824.html",
     "desc": "No se descarta la emisión esta noche se emita de un ES-Alert en la zona afectada La borrasca Bruna pone en aviso este lunes a diez comunidades por fuertes lluvias y viento La Junta de Castilla y…",
     "img": "https://static.eldiario.es/clip/6214d6c0-7079-4688-8fa5-1ea6c2991c3d_16-9-discover-aspect-ratio_default_0.jpg",
@@ -342,51 +405,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Preocupación por la caída \"drástica\" del turismo en Ponferrada este año",
-    "link": "https://www.heraldodeleon.es/el-bierzo/preocupacion-drastica-caida-turismo-ponferrada-ano/20261109144748117082.html",
-    "desc": "El PSOE reitera&nbsp;sus&nbsp;críticas a&nbsp;los cambios que se hicieron en el Plan de Sostenibilidad Turística en Destino tras constatar el INE un descenso de más del 16% en el número de turistas…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/08/12/2026081221455262982.jpg",
-    "tipo": "noticia",
-    "pub": 1794232068,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El leonés José Luis Rodríguez García, Premio de Periodismo Francisco de Cossío a la trayectoria profesional",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261109/leones-jose-luis-rodriguez-garcia-premio-periodismo-francisco-cossio-trayectoria-profesional/1003744451423_0.html",
-    "desc": "La gala de entrega de premios se va a celebrar el próximo 2 de diciembre, a las 19:00 horas, en el Centro Cultural Miguel Delibes de Valladolid. Más información: Mañueco defiende en los Premios…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11397191.jpg?p=c:750:422:nowe:0:34/w:1706/h:960&h=KCYQJ4oz",
-    "tipo": "noticia",
-    "pub": 1794231682,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Pasado de España & sus mitos, en la disputa del relato",
-    "link": "https://www.heraldodeleon.es/cartas-al-director/pasado-espana-mitos-disputa-relato/20261109143646117081.html",
-    "desc": "Pasado de España &amp; sus mitos, en la disputa del relato &nbsp; &nbsp; &nbsp; &nbsp; Parece que teníamos poco sobre el presente, y en aquello de la posibilidad de alumbrar, como posibilidad…",
-    "img": null,
-    "tipo": "noticia",
-    "pub": 1794231406,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Rearme, servicios públicos y democracia educativa centran las jornadas de CGT en León",
-    "link": "https://www.heraldodeleon.es/leon/rearme-servicios-publicos-democracia-educativa-centran-jornadas-cgt-leon/20261109143218117080.html",
-    "desc": "El sindicato celebra este lunes y martes dos encuentros en el Espacio Vías, a las 19.00 horas, con la participación del abogado y activista por la paz Juan Carlos Rois Alonso y la profesora Silvia…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/09/2026110914310883335.jpg",
-    "tipo": "noticia",
-    "pub": 1794231138,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Cistierna moderniza su edificio de usos múltiples con una inversión de 50.000 euros",
-    "link": "https://www.heraldodeleon.es/comarcas/cistierna-moderniza-edificio-usos-multiples-inversion-50000-euros/20261109143208117079.html",
-    "desc": "El Consistorio renueva la caldera e incorpora nuevo equipamiento de iluminación y sonido gracias a la colaboración del Fondo de Cohesión Territorial de la Junta y del Instituto Leonés de Cultura",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/01/23/2026012310290713094.jpg",
-    "tipo": "noticia",
-    "pub": 1794231128,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "El berciano Pepe Gómez presenta su primera novela ‘Cuando el camino mata’",
     "link": "https://www.elbierzodigital.com/el-escritor-berciano-pepe-gomez-presenta-su-primera-novela-cuando-el-camino-mata/",
     "desc": "El Museo de la Radio acogerá el sábado 14 de noviembre la presentación de un thriller ambientado entre El Bierzo y Galicia La entrada El berciano Pepe Gómez presenta su primera novela &#8216;Cuando…",
@@ -403,15 +421,6 @@
     "tipo": "noticia",
     "pub": 1794228473,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Asprona Bierzo celebrará su comida solidaria bajo el lema ‘Tú eres nuestra mayor suerte’",
-    "link": "https://www.elbierzodigital.com/asprona-bierzo-celebrara-su-comida-solidaria-bajo-el-lema-tu-eres-nuestra-mayor-suerte/",
-    "desc": "Asprona Bierzo volverá a reunir a familias, personas con discapacidad, profesionales, colaboradores y amigos de la entidad en una nueva edición de su Comida Solidaria , que se celebrará el próximo…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/asprona-bierzo-celebrara-su-comida-solidaria-bajo-el-lema-tu-eres-nuestra-mayor-suerte-el-bierzo-digital.jpg",
-    "tipo": "noticia",
-    "pub": 1794228456,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "Llueve sobre mojado: goteras y falta de personal en la Escuela Infantil Parque de los Reyes",
@@ -434,7 +443,7 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/45/julio-llamazares-webb.jpeg"
   },
   {
-    "titulo": "El Ayuntamiento de León pone en marcha una gran campaña para posicionar la ciudad como referente a nivel gastronómico",
+    "titulo": "El Ayuntamiento activa una campaña para hacer de León un referente gastronómico",
     "link": "https://www.heraldodeleon.es/leon/ayuntamiento-leon-pone-marcha-gran-campana-posicionar-ciudad-como-referente-gastronomico/20261109121411117030.html",
     "desc": "La iniciativa busca incentivar el turismo gastronómico | Diez remarca que la capital aprueba en todos los criterios vinculados a la satisfacción del visitante",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/09/2026110912104769697.jpg",
@@ -928,15 +937,6 @@
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/20/6a5deaca68c291-56458361.jpeg",
     "tipo": "noticia",
     "pub": 1793562948,
-    "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "Trágico accidente en Zamora: cuatro miembros de una familia mueren al salirse de la carretera el vehículo en el que viajaban",
-    "link": "https://www.20minutos.es/castilla-y-leon/zamora/tragico-accidente-zamora-cuatro-muertos-salirse-carretera-vehiculo-que-viajaban_7056013_0.html",
-    "desc": "Los fallecidos son un hombre de 59 años, su hija de 29 y los dos hijos de esta, de dos y tres años.",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/01/6ae77cffb16c62-43555600.jpeg",
-    "tipo": "noticia",
-    "pub": 1793546630,
     "fuente": "20minutos CyL"
   },
   {
