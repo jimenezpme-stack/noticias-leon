@@ -1,5 +1,160 @@
 [
   {
+    "titulo": "Al encuentro de los papones",
+    "link": "https://www.lanuevacronica.com/opinion/encuentro-papones_206367_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794456000,
+    "fuente": "La Nueva Crónica",
+    "autor": "David Iglesias",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/09/83/3/david-iglesias-03-08-23.jpeg"
+  },
+  {
+    "titulo": "Agua para regar, retos para seguir creciendo",
+    "link": "https://www.lanuevacronica.com/especiales/agua-regar-retos-seguir-creciendo_206333_102.html",
+    "desc": "Sindicato Central del Embalse de los Barrios de Luna hace balance en una campaña con buena disponibilidad hídrica, pero marcada por las dificultades climatológicas y los sobrecostes",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/95/82/8/imagen-de-la-celebracion-del-75-aniversario-del-primer-desembalse-de-los-barrios-de-luna-ical.jpeg",
+    "tipo": "noticia",
+    "pub": 1794455400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Grupo Maryan, el valor de crecer sin perder el origen",
+    "link": "https://www.lanuevacronica.com/especiales/grupo-maryan-valor-crecer-sin-perder-origen_206329_102.html",
+    "desc": "Desde León, ha tejido durante más de medio siglo una estructura empresarial que actualmente reúne cinco marcas y distintas áreas de actividad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/95/63/9/maryan-decoracion-distribucion-de-suelos-y-revestimientos-grupo-maryan.png",
+    "tipo": "noticia",
+    "pub": 1794455400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Mitin",
+    "link": "https://www.lanuevacronica.com/opinion/mitin_206366_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794454800,
+    "fuente": "La Nueva Crónica",
+    "autor": "Vicente de Barrio",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/77/vicente-barriob.jpeg"
+  },
+  {
+    "titulo": "Huelga de educación en la Comunidad de Madrid",
+    "link": "https://www.lanuevacronica.com/opinion/huelga-educacion-en-comunidad-madrid_206365_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794454200,
+    "fuente": "La Nueva Crónica",
+    "autor": "Secundino Llorente",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/33/07/37/3/secundino.jpeg"
+  },
+  {
+    "titulo": "Pilar Marqués: \"Los campus periféricos no son una parte de la universidad, son la universidad\"",
+    "link": "https://www.lanuevacronica.com/el-bierzo/pilar-marques-campus-perifericos-no-son-parte-universidad-son-universidad_205953_102.html",
+    "desc": "La vicerrectora del Campus de Ponferrada se sienta Entre Nosotras para hablar sobre el pasado y futuro de una entidad que no quiere quedarse solo en duplicar alumnos",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/82/41/1/entre-nosotras-pilar.jpeg",
+    "tipo": "noticia",
+    "pub": 1794454200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El empleo en León",
+    "link": "https://www.lanuevacronica.com/opinion/empleo-en-leon_206364_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794453600,
+    "fuente": "La Nueva Crónica",
+    "autor": "Javier Callado",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/26/49/50/9/javier-callado-2025.jpeg"
+  },
+  {
+    "titulo": "Lactiber, una industria que crea oportunidades en León",
+    "link": "https://www.lanuevacronica.com/especiales/lactiber-industria-crea-oportunidades-en-leon_206319_102.html",
+    "desc": "La modernización de sus instalaciones y la innovación en producto marcan el rumbo de su proyecto industrial",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/95/32/9/lactiber-es-una-industria-arraigada-al-territorio-y-conectada-con-su-tejido-productivo-l-n-c.jpeg",
+    "tipo": "noticia",
+    "pub": 1794453600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Algasa, más soluciones para un León que avanza",
+    "link": "https://www.lanuevacronica.com/especiales/algasa-mas-soluciones-leon-avanza_206318_102.html",
+    "desc": "Experiencia en calefacción y fontanería y nuevos servicios de eficiencia energética",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/95/31/6/experiencia-evolucion-y-cercania-al-servicio-de-los-hogares-leoneses-algasa.jpeg",
+    "tipo": "noticia",
+    "pub": 1794453300,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El habitus de los caballos lentos",
+    "link": "https://www.lanuevacronica.com/opinion/habitus-caballos-lentos_206363_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794453000,
+    "fuente": "La Nueva Crónica",
+    "autor": "Álvaro Alonso",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/26/12/19/2/imagen-alvaro-alonso-copia.jpeg"
+  },
+  {
+    "titulo": "TECOI: Innovación industrial con sello leonés y alcance internacional",
+    "link": "https://www.lanuevacronica.com/especiales/tecoi-innovacion-industrial-con-sello-leones-alcance-internacional_206317_102.html",
+    "desc": "Impulsa desde Sahelices de Sabero soluciones tecnológicas de vanguardia y genera empleo cualificado en la provincia de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/95/29/4/formacion-practicas-e-incorporacion-de-nuevos-profesionales-forman-parte-de-la-apuesta-de-esta-empresa-tecoi.jpeg",
+    "tipo": "noticia",
+    "pub": 1794453000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "APEPIL impulsa un modelo de colaboración público-privada para el Polígono Industrial de León",
+    "link": "https://www.lanuevacronica.com/especiales/apepil-impulsa-modelo-colaboracion-publico-privada-poligono-industrial-leon_206316_102.html",
+    "desc": "Propone al Consorcio gestor una nueva etapa de diálogo institucional orientada a modernizar infraestructuras, mejorar servicios y dinamizar la venta de suelo industrial",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/95/27/2/en-la-imagen-vista-aerea-del-poligono-industrial-de-leon-apepil.jpeg",
+    "tipo": "noticia",
+    "pub": 1794452700,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Construir, rehabilitar y cuidar: nuestra apuesta por León",
+    "link": "https://www.lanuevacronica.com/especiales/construir-rehabilitar-cuidar-nuestra-apuesta-por-leon_206315_102.html",
+    "desc": "El presidente del Colegio Oficial de la Arquitectura Técnica de León, Miguel Ángel Velasco Emperador, reivindica el papel de estos profesionales en el desarrollo de la provincia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/95/25/7/miguel-angel-velasco-emperador-saul-aren.jpeg",
+    "tipo": "noticia",
+    "pub": 1794452700,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206370_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/96/74/4/12-11-2026-canton.jpeg",
+    "tipo": "opinion",
+    "pub": 1794452400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Motivos compartidos, un momento mal elegido",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/motivos-compartidos-momento-mal-elegido_206369_102.html",
+    "desc": "El escaso seguimiento de la huelga en León refleja la distancia entre el malestar por la vivienda y el respaldo a una convocatoria que es más una declaración de intenciones porque no hay gobierno al…",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794452400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El café a precio de huelga",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/cafe-precio-huelga_206368_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794452400,
+    "fuente": "La Nueva Crónica · Opinión",
+    "autor": "La Negrilla"
+  },
+  {
     "titulo": "Ester Muñoz y la cúpula del PP leonés hacen parada electoral en Ponferrada",
     "link": "https://www.elbierzodigital.com/ester-munoz-y-la-cupula-del-pp-leones-hacen-parada-electoral-en-ponferrada/",
     "desc": "El Partido Popular celebrará este viernes, 13 de noviembre, un acto de campaña en Ponferrada , que contará con la participación de Ester Muñoz, cabeza de lista de los populares al Congreso de los…",
@@ -45,33 +200,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "La lluvia no frena la manifestación del 11-N en León",
-    "link": "https://www.lanuevacronica.com/actualidad/lluvia-no-frena-manifestacion-11-n-en-leon_206360_102.html",
-    "desc": "La movilización ha reunido este miércoles a miles de leoneses, que recorrieron el centro de la ciudad para reclamar mejores condiciones laborales y medidas que faciliten el acceso a una vivienda",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/96/63/6/frame-11manifa.jpeg",
-    "tipo": "noticia",
-    "pub": 1794425830,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Desconvocada la huelga del sector cárnico en toda España después de tres días de paros",
-    "link": "https://www.lanuevacronica.com/actualidad/desconvocada-huelga-sector-carnico-en-toda-espana-despues-tres-dias-paros_206357_102.html",
-    "desc": "UGT y CCOO suspenden los paros previstos para el 12 y 13 de noviembre ante la posibilidad de firmar este jueves un preacuerdo que contempla subidas salariales y una reducción de la jornada laboral",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/90/55/8/huelga-sector-carnico.jpeg",
-    "tipo": "noticia",
-    "pub": 1794425472,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los embalses bercianos almacenan 221 hectómetros cúbicos de agua, la mitad de su capacidad",
-    "link": "https://www.lanuevacronica.com/el-bierzo/embalses-bercianos-almacenan-221-hectometros-cubicos-agua-la-mitad-su-capacidad_206263_102.html",
-    "desc": "Bárcena, Matalavilla, Campañana y Peñarrubia reúnen algo más de la mitad de su capacidad conjunta, pero la cuenca pierde 66 hectómetros cúbicos en una semana y se sitúa por debajo de los registros…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/25/06/25/4/barcena1062019.jpeg",
-    "tipo": "noticia",
-    "pub": 1794425128,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Sergio Martín se incorpora al Technosylva Rower Bembibre para dar el salto a sub-23",
     "link": "https://www.heraldodeleon.es/deportes/mas-deporte/sergio-martin-incorpora-technosylva-rower-bembibre-dar-salto-sub-23/20261111202446117445.html",
     "desc": "El ciclista extremeño, procedente del Electromercantil GR-100, firma por el conjunto leonés tras destacar en la Copa de España júnior, donde logró el segundo puesto en el Trofeo de Moixent y…",
@@ -79,15 +207,6 @@
     "tipo": "noticia",
     "pub": 1794425086,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Vecinos de Trobajo del Camino alertan de una oleada de robos en furgonetas",
-    "link": "https://www.lanuevacronica.com/sucesos/vecinos-trobajo-camino-alertan-oleada-robos-en-furgonetas_206362_102.html",
-    "desc": "Denuncian que en apenas mes y medio se han producido media docena de sustracciones con daños a los vehículos en la zona del parque de La Era",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/96/69/4/robos-furgonetas-trobajo-leon-3.jpeg",
-    "tipo": "noticia",
-    "pub": 1794424862,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Éxito de participación en la manifestación del 11N frente al fracaso de la huelga",
@@ -126,51 +245,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Tres décadas de Escarcha en la Muestra Coral de Valdepolo",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/tres-decadas-escarcha-en-muestra-coral-valdepolo_206326_102.html",
-    "desc": "Quintana de Rueda será escenario este fin de semana para la vigésimo cuarta edición de la iniciativa, que contará con numerosas propuestas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/95/52/9/el-coro-escarcha-en-una-imagen-de-archivo-facebook-de-la-agrupacion.jpeg",
-    "tipo": "noticia",
-    "pub": 1794423972,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "San Isidoro reúne arte floral y artesanía en 'Manos con oficio'",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/san-isidoro-reune-arte-floral-artesania-en-manos-con-oficio_206323_102.html",
-    "desc": "La exposición, organizada por Devento podrá visitarse únicamente este viernes, de 10:00 a 19:00 horas, con entrada libre y gratuita",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/80/70/3/el-pintor-leones-juan-rafael-junto-a-una-de-sus-creaciones-fernando-otero.jpeg",
-    "tipo": "noticia",
-    "pub": 1794423925,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Las lluvias llegan a León con el 90% del maíz cosechado y una calidad \"excepcional\"",
-    "link": "https://www.lanuevacronica.com/actualidad/lluvias-llegan-leon-con-90-maiz-cosechado-calidad-excepcional_206321_102.html",
-    "desc": "La Lonja destaca los beneficios de las precipitaciones para el campo leonés, mientras los forrajes suben de precio y el maíz continúa sin cotización por tercera semana consecutiva",
-    "img": "https://www.lanuevacronica.com/uploads/s1/14/37/53/asaja-campo-leon-lluvia-25102022.jpeg",
-    "tipo": "noticia",
-    "pub": 1794423772,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El ministro Albares, siguiente figura del PSOE en protagonizar un acto en Ponferrada",
-    "link": "https://www.lanuevacronica.com/el-bierzo/ministro-albares-siguiente-figura-psoe-en-protagonizar-acto-en-ponferrada_206355_102.html",
-    "desc": "El titular de la cartera de Asuntos Exteriores, Unión Europea y Cooperación participará este domingo, 15 de noviembre, en un \"magosto con música en directo\" en la Plaza Fernando Miranda",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/96/15/9/albares.jpeg",
-    "tipo": "noticia",
-    "pub": 1794423646,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Huelga general en El Bierzo: \"Nos hemos mojado por todos\"",
-    "link": "https://www.lanuevacronica.com/el-bierzo/huelga-general-en-bierzo-nos-hemos-mojado-por-todos_206348_102.html",
-    "desc": "Los sindicatos consideran que la respuesta ha sido «excelente» con cerca de 8.000 participantes, casi 6.000 según fuentes policiales",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/96/08/4/manifa-huelga-1.jpeg",
-    "tipo": "noticia",
-    "pub": 1794423507,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Dos mujeres intoxicadas por humo en el incendio de un edificio de viviendas en León capital",
     "link": "https://www.heraldodeleon.es/leon/dos-mujeres-intoxicadas-humo-incendio-edificio-viviendas-leon-capital/20261111195719117440.html",
     "desc": "El fuego se declaró a las 19.23 horas en un inmueble de la calle Diecinueve de Octubre, donde fue necesaria la intervención de los bomberos y de los servicios sanitarios para atender a las…",
@@ -196,24 +270,6 @@
     "tipo": "noticia",
     "pub": 1794422779,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Una colisión contra un animal deja una mujer herida en Bembibre",
-    "link": "https://www.lanuevacronica.com/el-bierzo/colision-contra-animal-deja-mujer-herida-en-bembibre_206342_102.html",
-    "desc": "El accidente se produjo a las 18:37 horas en la carretera LE-463 y la víctima, de unos 60 años, presentaba dolor en el tórax a la llegada de las asistencias",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/96/01/5/ambulancia-soporte-vital-basico-sacyl-4-1000x563.jpeg",
-    "tipo": "noticia",
-    "pub": 1794421969,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Una golosina leonesa conquista Dubái y pronto tendrá su propia tienda física",
-    "link": "https://www.lanuevacronica.com/actualidad/golosina-leonesa-conquista-dubai-pronto-tendra-su-propia-tienda-fisica_206343_102.html",
-    "desc": "Marshys, de la empresa Innovaciones Dulces, gana el premio a la mejor golosina de su categoría en una de las principales ferias internacionales del sector y prepara la apertura de su primer…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/95/93/6/frezzyks-golosinas-leon-premio-1.jpeg",
-    "tipo": "noticia",
-    "pub": 1794421943,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Una mujer de 60 años resulta herida tras chocar su coche contra un animal en Bembibre",
@@ -270,15 +326,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La leonesa Samantha Hudson denuncia haber sido rociada con gas pimienta por la policía durante la huelga general",
-    "link": "https://www.lanuevacronica.com/actualidad/leonesa-samantha-hudson-denuncia-haber-sido-rociada-con-gas-pimienta-por-policia-durante-huelga-general_206330_102.html",
-    "desc": "La cantante y actriz tuvo que ser atendida por el Samur tras los disturbios vividos en la Gran Vía madrileña",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/95/78/2/la-leonesa-samantha-hudson-tuvo-que-ser-atendida-tras-ser-rociada-con-gas-pimienta.jpeg",
-    "tipo": "noticia",
-    "pub": 1794418939,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Un asesinato y muchos secretos fiscales en la nueva novela de Javier Castaño",
     "link": "https://www.heraldodeleon.es/cultura/asesinato-muchos-secretos-fiscales-nueva-novela-javier-castano/20261111184206117414.html",
     "desc": "El profesor de la Universidad de León publica 'La víctima (Intriga fiscal)', una novela negra de 407 páginas que combina una investigación criminal con conocimientos sobre tributación, dinero negro…",
@@ -297,15 +344,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "El 'Tiempo entre olivos' de Fany de la Chica se proyecta en el Musac",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/tiempo-entre-olivos-fany-chica-se-proyecta-en-musac_206325_102.html",
-    "desc": "El Grupo de Diálogo sobre Cine Contemporáneo celebra este jueves un encuentro con la cineasta",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/95/49/9/un-fotograma-de-la-pelicula-tiempo-entre-olivos-de-fany-de-la-chica-que-este-jueves-recala-en-el-musac.jpeg",
-    "tipo": "noticia",
-    "pub": 1794417107,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "UPL acusa al PP de bloquear información y retrasar la limpieza de la presa de Valdefuentes",
     "link": "https://www.heraldodeleon.es/comarcas/paramo/upl-acusa-pp-bloquear-informacion-retrasar-limpieza-presa-valdefuentes/20261111181138117407.html",
     "desc": "La formación leonesista reclama al alcalde, José Luis Martínez Valderrey, el expediente de una subvención vinculada a la Junta Vecinal de Azares del Páramo y advierte del riesgo de inundaciones para…",
@@ -322,15 +360,6 @@
     "tipo": "noticia",
     "pub": 1794416623,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Ni la lluvia puede con San Martín en Mansilla de las Mulas",
-    "link": "https://www.lanuevacronica.com/actualidad/ni-lluvia-puede-con-san-martin-en-mansilla-mulas_206289_102.html",
-    "desc": "La localidad leonesa celebró este miércoles 11 de noviembre su tradicional feria multisectorial, que volvió a reunir productos de la tierra, maquinaria agrícola y gastronomía",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/94/93/7/frame-11feriamansilla.jpeg",
-    "tipo": "noticia",
-    "pub": 1794415186,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "'Jota': historia de un suceso terrible",
@@ -405,6 +434,15 @@
     "fuente": "El Español · CyL"
   },
   {
+    "titulo": "Nuria Rubio pide al PP que rectifique los insultos vertidos ayer contra los sindicatos",
+    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/nuria-rubio-pide-pp-que-rectifique-insultos-vertidos-ayer-sindicatos/20261111151806117393.html",
+    "desc": "La vicesecretaria general del PSOECyL pone en valor la labor de las organizaciones sindicales, a los que considera que “no se les puede calificar de mafia”",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/11/2026111115170387323.jpg",
+    "tipo": "noticia",
+    "pub": 1794406686,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "Los clientes de Caja Rural de Zamora tendrán descuentos del 10% en sus compras en Valladolid: estas son las fechas",
     "link": "https://www.elespanol.com/castilla-y-leon/economia/empresas/20261111/clientes-caja-rural-zamora-descuentos-compras-valladolid-fechas/1003744454327_0.html",
     "desc": "El descuento tendrá un límite máximo de 30 euros por operación, para compras de hasta 300 euros y un importe máximo acumulado de 300 euros. Más información: Cipriano García: \"La unidad de la…",
@@ -412,6 +450,51 @@
     "tipo": "noticia",
     "pub": 1794406452,
     "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Figaredo sitúa a Mansilla de las Mulas como el mejor ejemplo del potencial económico rural",
+    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/figaredo-situa-mansilla-mulas-como-ejemplo-potencial-economico-medio-rural/20261111151031117391.html",
+    "desc": "El portavoz nacional de Economía de Vox visita el mercado de la localidad leonesa y centra su discurso en la reducción de trabas administrativas, las ayudas públicas y las críticas a UGT y CCOO por…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/11/2026111115272428558.jpg",
+    "tipo": "noticia",
+    "pub": 1794406231,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Salamanca extiende su red inalámbrica municipal a más de 33.000 vecinos con  14 nuevas zonas wifi de acceso libre",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261111/salamanca-extiende-red-inalambrica-municipal-vecinos-nuevas-zonas-wifi-acceso-libre/1003744454276_0.html",
+    "desc": "La actuación cuenta con 300.000 euros financiada por fondos FEDER para llevar internet inalámbrico a plazas, parques y centros municipales del distrito norte de la ciudad. Más información: Salamanca…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/9150135.jpg?p=c:736:414:nowe:0:0/w:1706/h:960&h=92-0E8jj",
+    "tipo": "noticia",
+    "pub": 1794405632,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Un camión derriba un poste eléctrico y deja varias viviendas sin luz en Trobajo",
+    "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/camion-derriba-poste-electrico-deja-varias-viviendas-luz-trobajo/20261111145844117389.html",
+    "desc": "El accidente también provoca daños en un coche que se encontraba estacionado en las inmediaciones | La Policía Local investiga las circunstancias del impacto en la calle La Serna",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/11/2026111114570880066.jpg",
+    "tipo": "noticia",
+    "pub": 1794405524,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Ya es oficial: la Junta dará 5.500 euros a las granjas avícolas afectadas por la enfermedad de Newcastle",
+    "link": "https://www.elespanol.com/castilla-y-leon/economia/el-campo/20261111/oficial-junta-dara-euros-granjas-avicolas-afectadas-enfermedad-newcastle/1003744454120_0.html",
+    "desc": "Las 176 explotaciones perjudicadas en Castilla y León recibirán un total de 968.000 euros para recuperar su actividad. Más información: Los ganaderos de Castilla y León recibirán 1,1 millones de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/9811694.jpg?p=c:3460:1948:nowe:0:257/w:1706/h:960&h=seVie7Xp",
+    "tipo": "noticia",
+    "pub": 1794403376,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Herida una mujer de 85 años tras ser atropellada en un paso de peatones en San Miguel",
+    "link": "https://www.heraldodeleon.es/alfoz/valverde-virgen/herida-mujer-85-anos-ser-atropellada-paso-peatones-san-miguel/20261111142032117386.html",
+    "desc": "La víctima fue alcanzada por una furgoneta en la N-120, a la altura del kilómetro 316 | Otros dos accidentes en Trobajo del Camino y Ponferrada dejaron sendos conductores con lesiones",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/08/20/2025082011572616125.jpg",
+    "tipo": "noticia",
+    "pub": 1794403232,
+    "fuente": "Heraldo de León"
   },
   {
     "titulo": "La ausencia de Sánchez en el funeral de Toledo",
@@ -608,16 +691,6 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/48/xuasusb.jpeg"
   },
   {
-    "titulo": "El mejor día para ser sindicalista... o el peor",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/mejor-dia-ser-sindicalista-peor_206276_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794366000,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "La Negrilla"
-  },
-  {
     "titulo": "La vivienda ante las urnas del 29-N",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/vivienda-urnas-29-n_206277_102.html",
     "desc": "",
@@ -634,6 +707,16 @@
     "tipo": "opinion",
     "pub": 1794366000,
     "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
+    "titulo": "El mejor día para ser sindicalista... o el peor",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/mejor-dia-ser-sindicalista-peor_206276_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794366000,
+    "fuente": "La Nueva Crónica · Opinión",
+    "autor": "La Negrilla"
   },
   {
     "titulo": "El temporal provoca el desbordamiento de la Garganta de Santa María en La Adrada y el Cecopi no descarta nuevos desalojos en Ávila",
@@ -832,66 +915,6 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/31/29/88/3/angeles.jpeg"
   },
   {
-    "titulo": "La caída de Trump señala el camino a Europa",
-    "link": "https://www.lanuevacronica.com/opinion/caida-trump-senala-camino-europa_206125_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794195000,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "José Miguel Giráldez",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/45/41/jose-miguel-giraldezb.jpeg"
-  },
-  {
-    "titulo": "No talaremos tu sombra",
-    "link": "https://www.lanuevacronica.com/opinion/no-talaremos-tu-sombra_206121_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794194400,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "José Antonio Llamas",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/56/7/jose-antonio-llamasb.jpeg"
-  },
-  {
-    "titulo": "Economía doméstica",
-    "link": "https://www.lanuevacronica.com/opinion/economia-domestica_206120_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794193800,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Alfredo E. Fuertes",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/00/33/2/alfredo-fuertes-3.jpeg"
-  },
-  {
-    "titulo": "¿Quién sabe?",
-    "link": "https://www.lanuevacronica.com/opinion/tribuna-de-opinion/quien-sabe_206119_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794193500,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "La Diputación debe pisar ya el acelerado",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/diputacion-debe-pisar-ya-acelerado_206127_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794193200,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206122_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794193200,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
     "titulo": "La Policía alerta del robo de cuentas de Whatsapp en Castilla y León: 600 en 2026",
     "link": "https://www.20minutos.es/castilla-y-leon/policia-alerta-robo-cuentas-whatsapp-castilla-leon-600-2026_7058746_0.html",
     "desc": "Una vez tienen el control de las cuentas, los criminales piden dinero a los contactos habituales de la víctima con cualquier pretexto urgente y con la peculiaridad de no poder atender llamadas.",
@@ -899,28 +922,6 @@
     "tipo": "noticia",
     "pub": 1794167558,
     "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "Enfado libre",
-    "link": "https://www.lanuevacronica.com/opinion/enfado-libre_206084_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794110400,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "David Rubio",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/34/51/71/5/david-rubio.png"
-  },
-  {
-    "titulo": "Rasgos de personalidad",
-    "link": "https://www.lanuevacronica.com/opinion/rasgos-personalidad_206082_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794110100,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Luis Grau Lobo",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/7/web-luis-gray.jpeg"
   },
   {
     "titulo": "Dos años de cárcel por enviar fotos de su hija desnuda a un perfil de Instagram que creía que era de Cristiano Ronaldo",
