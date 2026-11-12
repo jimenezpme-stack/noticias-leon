@@ -1,21 +1,516 @@
 [
   {
-    "titulo": "Los trabajadores de la limpieza de Ponferrada celebran su patrón con el servicio \"hecho un desastre\"",
-    "link": "https://www.lanuevacronica.com/el-bierzo/trabajadores-limpieza-ponferrada-celebran-su-patron-con-servicio-hecho-desastre_206401_102.html",
-    "desc": "El presidente del comité de empresa de FCC reclama unificar la limpieza viaria y la recogida de basuras para acabar con los problemas de coordinación y las diferencias salariales",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/37/5/limpieza-ponferrada.jpeg",
+    "titulo": "Ana Redondo culpa al ministerio de Irene Montero y se desvincula del contrato de las pulseras investigado por la UCO",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261112/ana-redondo-culpa-ministerio-irene-montero-desvincula-contrato-pulseras-investigado-uco/1003744456557_0.html",
+    "desc": "“Este es un contrato de 2023, es un contrato del equipo anterior”, ha afirmado la ministra de Igualdad. Más información. Mañueco apunta a Ana Redondo: \"El PSOE tendrá que borrar también su nombre de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11400506.jpg?p=w:1706/h:960&h=DErsuFGA",
     "tipo": "noticia",
-    "pub": 1794487084,
+    "pub": 1794514609,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Una \"apuesta por la ciencia\" en un entorno de cambios por la IA",
+    "link": "https://www.lanuevacronica.com/actualidad/apuesta-por-ciencia-en-entorno-cambios-por-ia_206441_102.html",
+    "desc": "Los participantes han remarcado \"la proyección global de la investigación en un entorno marcado por la Inteligencia Artificial\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/98/35/5/ule-ciencia.jpeg",
+    "tipo": "noticia",
+    "pub": 1794513428,
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "CCD acusa a San Andrés de falta de previsión ante el cierre de las piscinas de Trobajo",
-    "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/ccd-acusa-san-andres-falta-prevision-cierre-piscinas-trobajo/20261112133448117575.html",
-    "desc": "El portavoz de la formación, Juan Carlos Fernández, exigió&nbsp;\"explicaciones, responsabilidades y un calendario de reapertura\" para unas instalaciones \"esenciales\" para los vecinos del municipio…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/06/13/2025061312515481305.jpg",
+    "titulo": "La Bañeza inicia la renovación del alumbrado de toda la ciudad por 700.000 euros",
+    "link": "https://www.lanuevacronica.com/actualidad/baneza-inicia-renovacion-alumbrado-toda-ciudad-por-700000-euros_206428_102.html",
+    "desc": "Las obras estarán terminadas a finales de febrero y permitirán reducir el consumo energético, modernizar las luminarias y disminuir la contaminación lumínica",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/92/3/la-baneza-inicia-la-renovacion-del-alumbrado-de-toda-la-ciudad-por-700-000-euros.jpeg",
     "tipo": "noticia",
-    "pub": 1794486888,
+    "pub": 1794511084,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Herido un hombre tras ser atropellado por un autobús urbano en León",
+    "link": "https://www.lanuevacronica.com/actualidad/herido-hombre-ser-atropellado-por-autobus-urbano-en-leon_206439_102.html",
+    "desc": "El suceso se ha producido a la altura del número 12 de la avenida Ramón y Cajal y ha movilizado a una ambulancia de soporte vital básico",
+    "img": "https://www.lanuevacronica.com/uploads/s1/20/22/62/4/03max201306235694.jpeg",
+    "tipo": "noticia",
+    "pub": 1794509973,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Un autobús urbano atropella a un hombre de 70 años en León capital",
+    "link": "https://www.heraldodeleon.es/leon/autobus-urbano-atropella-hombre-70-anos-leon-capital/20261112195100117662.html",
+    "desc": "El accidente se ha producido a las 19.22 horas a la altura del número 12 de la avenida Ramón y Cajal y ha requerido la movilización de una ambulancia de soporte vital básico de Sacyl",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/12/21/2025122123191741858.jpg",
+    "tipo": "noticia",
+    "pub": 1794509460,
     "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El PSOE de León advierte de que el 29-N \"también están en juego los derechos LGTBI+\"",
+    "link": "https://www.lanuevacronica.com/actualidad/psoe-leon-advierte-29-n-tambien-estan-en-juego-derechos-lgtbi_206429_102.html",
+    "desc": "La candidatura socialista se reúne con León con Orgullo para conocer sus reivindicaciones y reafirmar su compromiso con la defensa y el avance de los derechos LGTBI+",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/94/5/reunion-del-psoe-con-la-asociacion-leon-con-orgullo.jpeg",
+    "tipo": "noticia",
+    "pub": 1794509309,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Salamanca invierte 800.000€ en reformar el Julián Sánchez 'El Charro': una \"segunda piel\" para frenar el calor extremo",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261112/salamanca-invierte-reformar-julian-sanchez-charro-segunda-piel-frenar-calor-extremo/1003744456460_0.html",
+    "desc": "Las obras, adjudicadas por 798.655 euros dentro del plan 'CoNEcta Salamanca' y con un plazo de cuatro meses, incluyen toldos automatizados, lamas en el pabellón deportivo para evitar reflejos,…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11400462.jpg?p=w:1706/h:960&h=VnHgr2go",
+    "tipo": "noticia",
+    "pub": 1794509288,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "UxSA lleva al Pleno tres mociones sobre seguridad, censo y subvenciones",
+    "link": "https://www.heraldodeleon.es/alfoz/san-andres-rabanedo/uxsa-lleva-pleno-tres-mociones-seguridad-censo-subvenciones/20261112194801117661.html",
+    "desc": "El partido local reclama soluciones para la visibilidad escolar, el derecho a voto en Ferral y la renovación de las ayudas municipales",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111219465755128.jpg",
+    "tipo": "noticia",
+    "pub": 1794509281,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La 'Intolerancia' de una 'Europa convulsa' se expone en Sierra Pambley",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/intolerancia-europa-convulsa-se-expone-en-sierra-pambley_206431_102.html",
+    "desc": "La muestra comisariada por Miguel Martorell fue inaugurada este jueves de la mano de una conferencia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/98/04/6/miguel-martorell-se-encargo-de-inaugurar-la-muestra-intolerancia-en-sierra-pambley-uned.jpeg",
+    "tipo": "noticia",
+    "pub": 1794508800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "CESM logra una mesa propia para negociar mejoras laborales y salariales de los médicos",
+    "link": "https://www.heraldodeleon.es/leon/cesm-logra-mesa-propia-negociar-mejoras-laborales-salariales-medicos/20261112193900117659.html",
+    "desc": "El acuerdo firmado con la Consejería de Sanidad contempla una subida anual de las guardias hasta alcanzar la media de las siete comunidades que mejor pagan, el descanso tras las guardias de los…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111219375315176.jpg",
+    "tipo": "noticia",
+    "pub": 1794508740,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Mañueco apunta a Ana Redondo: \"El PSOE tendrá que borrar también su nombre de la papeleta\" por Valladolid",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261112/manueco-apunta-ana-redondo-psoe-borrar-nombre-papeleta-valladolid/1003744456454_0.html",
+    "desc": "El presidente del PPCyL pide a sus militantes que Castilla y León sea un \"pilar esencial\" para la victoria de Feijóo. Más información: Mañueco ironiza sobre el cambio entre Puente y Redondo el 29-N:…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11400456.jpg?p=w:1706/h:960&h=cD7rlCib",
+    "tipo": "noticia",
+    "pub": 1794508415,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El Corte Inglés eleva un 11,5% su beneficio hasta los 249 millones de euros",
+    "link": "https://www.heraldodeleon.es/economia/corte-ingles-eleva-115-beneficio-249-millones-euros/20261112193232117657.html",
+    "desc": "El grupo alcanza unos ingresos de 8.404 millones de euros en el primer semestre de 2026-2027, con el negocio de moda, belleza y hogar como principales motores y 294 millones destinados a inversiones…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111219310148623.jpg",
+    "tipo": "noticia",
+    "pub": 1794508352,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Caja Rural apuesta por el 'Green Friday' en León y bonifica con un 10% las compras en el comercio local",
+    "link": "https://www.elespanol.com/castilla-y-leon/economia/empresas/20261112/caja-rural-apuesta-green-friday-leon-bonifica-compras-comercio-local/1003744456444_0.html",
+    "desc": "La campaña estará activa del 13 al 24 de noviembre en los establecimientos adheridos de la provincia, con un límite de ahorro de 30 euros por operación pagando con tarjetas de la entidad. Más…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10796469.jpg?p=c:1433:807:nowe:329:513/w:1706/h:960&h=yoeOJ5iH",
+    "tipo": "noticia",
+    "pub": 1794507874,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "UPL rechaza las cuentas de 2027 y denuncia el abandono de León",
+    "link": "https://www.heraldodeleon.es/castilla-y-leon/upl-rechaza-cuentas-2027-denuncia-abandono-leon/20261112191818117655.html",
+    "desc": "Alicia Gallego reclama la devolución del proyecto presupuestario de la Junta por la reducción de las inversiones en la provincia, los retrasos en infraestructuras sanitarias y educativas y la…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/03/2026110317561444029.jpg",
+    "tipo": "noticia",
+    "pub": 1794507498,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Ya hay fecha: Almanza agranda su Navidad con 150.000 luces y un cascanueces gigante",
+    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/almanza-agranda-navidad-150000-luces-cascanueces-gigante/20261112191248117654.html",
+    "desc": "El municipio leonés inaugurará el 21 de noviembre su nueva ambientación festiva, protagonizada por una figura luminosa de más de siete metros diseñada por Fernando Ortiz y tres nuevos escenarios…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111219114237522.jpg",
+    "tipo": "noticia",
+    "pub": 1794507168,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Honor a las Hijas de la Caridad",
+    "link": "https://www.heraldodeleon.es/comarcas/astorga/honor-hijas-caridad/20261112190108117652.html",
+    "desc": "Las Hijas de la Caridad cierran una etapa de 160 años en la ciudad tras una trayectoria marcada por la asistencia sanitaria, la educación y la protección de menores y personas vulnerables",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111218570969887.jpg",
+    "tipo": "noticia",
+    "pub": 1794506468,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Insólita imagen en el Castillo de Ponferrada: un jabalí escarba la ladera a plena luz del día",
+    "link": "https://www.lanuevacronica.com/sucesos/jabali-arana-ladera-castillo-ponferrada-plena-luz-dia_206432_102.html",
+    "desc": "El animal sorprendió a los paseantes a las seis de la tarde junto al río, en una nueva muestra de la creciente presencia de estos animales en distintos puntos de la ciudad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/98/06/3/jabali-castillo.jpeg",
+    "tipo": "noticia",
+    "pub": 1794506248,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Aplazada la charla sobre el Ponfeblino",
+    "link": "https://www.elbierzodigital.com/aplazada-la-charla-sobre-el-ponfeblino/",
+    "desc": "La conferencia sobre el ferrocarril Ponferrada-Villablino, prevista inicialmente para este viernes 13 de noviembre en el centro cívico de Campo, se traslada una semana y tendrá lugar finalmente el…",
+    "img": null,
+    "tipo": "noticia",
+    "pub": 1794505845,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Ingeniería para alimentar el futuro",
+    "link": "https://www.heraldodeleon.es/universidad/ingenieria-alimentar-futuro/20261112184543117637.html",
+    "desc": "La Universidad de León reivindica el papel de los ingenieros agrónomos en la seguridad alimentaria y el desarrollo de las comunidades rurales",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111218400036197.jpg",
+    "tipo": "noticia",
+    "pub": 1794505543,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Ponferrada acondiciona dos caminos rurales en el pueblo de San Lorenzo",
+    "link": "https://www.elbierzodigital.com/ponferrada-acondiciona-dos-caminos-rurales-en-el-pueblo-de-san-lorenzo/",
+    "desc": "El Ayuntamiento de Ponferrada ha finalizado los trabajos de mejora del camino del Potro y del camino de Concambril , conocido también como camino viejo de Escaril, en la localidad de San Lorenzo .…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/ponferrada-acondiciona-dos-caminos-rurales-en-el-pueblo-de-san-lorenzo-el-bierzo-digital.jpeg",
+    "tipo": "noticia",
+    "pub": 1794505373,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Un incendio destruye la cocina en una vivienda de la avenida de Portugal de Ponferrada",
+    "link": "https://www.elbierzodigital.com/un-incendio-destruye-una-cocina-en-una-vivienda-de-la-avenida-de-portugal-de-ponferrada/",
+    "desc": "Un incendio declarado este jueves, alrededor de las 15:50 horas, en una vivienda de la avenida de Portugal de Ponferrada movilizó a los bomberos y a efectivos de la Policía Nacional y la Policía…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/un-incendio-destruye-una-cocina-en-una-vivienda-de-la-avenida-de-portugal-de-ponferrada-el-bierzo-digital.jpg",
+    "tipo": "noticia",
+    "pub": 1794504693,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La Unión de Editoriales Universitarias apuesta por \"la ciencia\" frente a la IA",
+    "link": "https://www.heraldodeleon.es/universidad/union-editoriales-universitarias-espanolas-apuesta-posicionar-ciencia-entorno-cambiante-llegada-ia/20261112182643117623.html",
+    "desc": "La asamblea anual de la UNE cita en León a editoriales y servicios de publicaciones de 73 universidades y centros de investigación y a representantes de organizaciones europeas",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111218245446769.jpg",
+    "tipo": "noticia",
+    "pub": 1794504403,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El PSOE sitúa los derechos LGTBI+ entre las cuestiones clave del 29N",
+    "link": "https://www.heraldodeleon.es/leon/psoe-situa-derechos-lgtbi-entre-cuestiones-clave-29n/20261112181457117622.html",
+    "desc": "La candidatura socialista de León se reúne con la asociación León con Orgullo para recoger sus demandas y defender nuevas medidas de protección | Lorena Valle denuncia que Castilla y León sigue sin…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111218114598305.jpg",
+    "tipo": "noticia",
+    "pub": 1794503697,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Unicaja capta 300 millones con su primer bono verde subordinado",
+    "link": "https://www.elbierzodigital.com/unicaja-capta-300-millones-con-su-primer-bono-verde-subordinado/",
+    "desc": "Unicaja ha completado este jueves, 12 de noviembre, su primera emisión de deuda subordinada Tier 2 con etiqueta verde, por un importe de 300 millones de euros . Con esta operación, la entidad amplía…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/unicaja-capta-300-millones-con-su-primer-bono-verde-subordinado-el-bierzo-digital.jpg",
+    "tipo": "noticia",
+    "pub": 1794503309,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La Junta Electoral Central corrige a la de Valladolid y declara nulos los votos al PSOE con el nombre de Óscar Puente tachado",
+    "link": "https://www.eldiario.es/castilla-y-leon/politica/junta-electoral-central-corrige-valladolid-declara-nulos-votos-psoe-nombre-oscar-puente-tachado_1_13659364.html",
+    "desc": "Tanto PP como PSOE recurrieron el acuerdo de la JEP: el primero para que no se consideren válidos los votos en papeletas con tachaduras y el segundo para que se pudiesen modificar y eliminar el…",
+    "img": "https://static.eldiario.es/clip/19804467-00a0-4b1d-85f5-5e1a385b8d14_16-9-discover-aspect-ratio_default_0.jpg",
+    "tipo": "noticia",
+    "pub": 1794503187,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "Ponferradina - Cacereño: 'Que la urgencia se traduzca en puntos'",
+    "link": "https://www.lanuevacronica.com/deportes/ponferradina-cacereno-urgencia-se-traduzca-en-puntos_206430_102.html",
+    "desc": "La Ponferradina recibe al Cacereño este viernes desde las 19 horas con cinco bajas; Calderón y Jelbat por sanción y Quicala, Roig y De León por lesiones",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/27/3/ponferradina-y-barakaldo-empatan-en-el-toralin-36.jpeg",
+    "tipo": "noticia",
+    "pub": 1794502996,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El CIS sitúa al PSOE ocho puntos por delante del PP en las elecciones del 29N",
+    "link": "https://www.heraldodeleon.es/actualidad/nacional/cis-situa-psoe-ocho-puntos-delante-pp-elecciones-29n/20261112180244117619.html",
+    "desc": "La macroencuesta concede a los socialistas un 33,3% de los votos y entre 134 y 143 escaños, mientras que PP y Vox sumarían como máximo 171 diputados | El estudio recoge 45.074 entrevistas realizadas…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111218004216065.jpg",
+    "tipo": "noticia",
+    "pub": 1794502964,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Cuatro escolares del Bierzo, premiados por sus ideas para proteger el agua",
+    "link": "https://www.elbierzodigital.com/cuatro-escolares-del-bierzo-premiados-por-sus-ideas-para-proteger-el-agua/",
+    "desc": "La creatividad y la conciencia ambiental de cuatro escolares del Bierzo han encontrado reconocimiento en el concurso nacional de dibujo y diseño de Aqualia , centrado en el cuidado del agua y la…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/cuatro-escolares-del-bierzo-premiados-por-sus-ideas-para-proteger-el-agua-el-bierzo-digital.jpg",
+    "tipo": "noticia",
+    "pub": 1794502383,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Las 150.000 luces de la espectacular Navidad de Almanza ya tienen fecha de encendido",
+    "link": "https://www.lanuevacronica.com/actualidad/150000-luces-espectacular-navidad-almanza-ya-tienen-fecha-encendido_206424_102.html",
+    "desc": "El municipio leonés sorprenderá con un espectacular cascanueces diseñado por Fernando Ortiz, que aspira a convertirse en el más grande del mundo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/89/2/pueblo-de-navidad-almanza.png",
+    "tipo": "noticia",
+    "pub": 1794502176,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Raúl Martín refuerza el Technosylva Rower Bembibre para 2027",
+    "link": "https://www.heraldodeleon.es/deportes/mas-deporte/raul-martin-refuerza-technosylva-rower-bembibre-2027/20261112174703117617.html",
+    "desc": "El ciclista extremeño llega procedente del Equipo Finisher tras terminar quinto en la Vuelta a Extremadura y lograr varios puestos destacados en el calendario nacional | Compartirá vestuario con su…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111217452016578.jpg",
+    "tipo": "noticia",
+    "pub": 1794502023,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "León contará con dos nuevas subestaciones eléctricas y ampliará otras cuatro para potenciar su industria",
+    "link": "https://www.lanuevacronica.com/actualidad/leon-contara-con-dos-nuevas-subestaciones-electricas-ampliara-otras-cuatro-potenciar-su-industria_206427_102.html",
+    "desc": "El Gobierno acepta parte de las alegaciones de la Junta e incorpora las ampliaciones de La Robla, Compostilla, Villablino y La Lomba, así como dos nuevas en Villadangos y en el entorno de la capital",
+    "img": "https://www.lanuevacronica.com/uploads/s1/37/49/1/lomba14122016.jpeg",
+    "tipo": "noticia",
+    "pub": 1794501901,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "León supera los 8.000 pasajeros en octubre y mantiene el pulso aeroportuario",
+    "link": "https://www.heraldodeleon.es/leon/leon-supera-8000-pasajeros-octubre-mantiene-pulso-aeroportuario/20261112173529117615.html",
+    "desc": "El aeropuerto leonés contabiliza 8.197 viajeros, un 1% más que hace un año, y alcanza los 64.878 usuarios entre enero y octubre | Valladolid lidera el crecimiento regional, mientras Salamanca pierde…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/02/12/2025021213444955082.jpg",
+    "tipo": "noticia",
+    "pub": 1794501329,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "CSIF denuncia el “desprecio” de la Consejería de Sanidad al negociar con CESM al margen del resto de sindicatos",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261112/csif-denuncia-desprecio-consejeria-sanidad-negociar-cesm-margen-resto-sindicatos/1003744456233_0.html",
+    "desc": "El sindicato denuncia un acuerdo bilateral sobre las condiciones laborales y retributivas de los médicos de Sacyl y exige que se debata en la Mesa Sectorial Más información: CSIF califica de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10859709.jpg?p=w:1706/h:960&h=7wikLxD9",
+    "tipo": "noticia",
+    "pub": 1794500872,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El PP recoge las quejas de los transportistas del Bierzo sobre la A-6 y la falta de conductores",
+    "link": "https://www.elbierzodigital.com/el-pp-recoge-las-quejas-de-los-transportistas-del-bierzo-sobre-la-a-6-y-la-falta-de-conductores/",
+    "desc": "El estado de conservación de la A-6 , la falta de conductores profesionales y los problemas de seguridad en las zonas de estacionamiento centran las principales preocupaciones del transporte de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/el-pp-recoge-las-quejas-de-los-transportistas-del-bierzo-sobre-la-n-6-y-la-falta-de-conductores-el-bierzo-digital.jpeg",
+    "tipo": "noticia",
+    "pub": 1794500502,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Villablino muestra en INTUR sus recursos naturales y culturales",
+    "link": "https://www.lanuevacronica.com/actualidad/villablino-muestra-en-intur-sus-recursos-naturales-culturales_206419_102.html",
+    "desc": "El Ayuntamiento y la Reserva de la Biosfera promocionarán los recursos del valle del 13 al 15 de noviembre en Valladolid",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/80/1/brana-buenverde290822-4-1000x563.jpeg",
+    "tipo": "noticia",
+    "pub": 1794500100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los vecinos de Piedralaves vuelven a sus casas tras dos días desalojados por el riesgo de desbordamiento de la presa de El Horcajo",
+    "link": "https://www.20minutos.es/castilla-y-leon/avila/los-vecinos-piedralaves-vuelven-sus-casas-tras-dos-dias-desalojados-por-riesgo-desbordamiento-presa-horcajo_7060388_0.html",
+    "desc": "Esta decisión hace que los estudiantes del municipio puedan retomar sus clases tras las borrascas que han azotado con dureza la provincia de Ávila.",
+    "img": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/10/6af39c3f6ca531-45422662.jpeg",
+    "tipo": "noticia",
+    "pub": 1794500032,
+    "fuente": "20minutos CyL"
+  },
+  {
+    "titulo": "ColproLeón y el Colegio de la Abogacía reclaman \"seguridad jurídica\" para invertir y emprender en León",
+    "link": "https://www.lanuevacronica.com/actualidad/colproleon-colegio-abogacia-reclaman-seguridad-juridica-invertir-emprender-en-leon_206425_102.html",
+    "desc": "Piden que León aproveche su atractivo y no pierda la baza del teletrabajo, que permite deslocalizar el talento joven lejos de las grandes ciudades",
+    "img": "https://www.lanuevacronica.com/uploads/s1/33/16/75/1/abogados-leon-justicia.jpeg",
+    "tipo": "noticia",
+    "pub": 1794499733,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Gasbi reconoce el compromiso con la higiene de cinco centros de salud",
+    "link": "https://www.elbierzodigital.com/la-gasbi-reconoce-el-compromiso-con-la-higiene-de-cinco-centros-de-salud/",
+    "desc": "La Gerencia de Asistencia Sanitaria del Bierzo ( Gasbi ) ha renovado los reconocimientos de compromiso con la higiene de manos a cinco centros de salud del Bierzo y Laciana : Fabero, Ponferrada III,…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/la-gasbi-reconoce-el-compromiso-con-la-higiene-de-cinco-centros-de-salud-el-bierzo-digital.jpg",
+    "tipo": "noticia",
+    "pub": 1794499070,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Caja Rural impulsa una nueva edición de 'Green Friday' para dinamizar el comercio de León",
+    "link": "https://www.lanuevacronica.com/actualidad/caja-rural-impulsa-nueva-edicion-green-friday-dinamizar-comercio-leon_206423_102.html",
+    "desc": "Del 13 al 24 de noviembre, los clientes de Caja Rural podrán disfrutar de un 10% de descuento en sus compras en los comercios adheridos de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/11/76/45/caja-rural-ordono-191213.jpeg",
+    "tipo": "noticia",
+    "pub": 1794498894,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Gobierno de PP y Vox en Castilla y León obliga a firmar un compromiso 'antiideológico' a los cineastas que piden una subvención para cortometrajes",
+    "link": "https://www.eldiario.es/castilla-y-leon/politica/junta-castilla-leon-obliga-firmar-compromiso-anti-ideologico-cineastas-piden-subvencion-cortometrajes_1_13659056.html",
+    "desc": "La Consejería de Cultura ha remitido a los solicitantes el documento que deben firmar si quieren acceder a las ayudas La compañía de 'Federico' denuncia a la Consejería de Cultura de Castilla y León…",
+    "img": "https://static.eldiario.es/clip/5c74dff6-13c8-48cb-a4e3-795ce211109d_16-9-discover-aspect-ratio_default_1155288.jpg",
+    "tipo": "noticia",
+    "pub": 1794498813,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "Unicaja completa su primer bono verde subordinado Tier 2 por 300 millones de euros",
+    "link": "https://www.lanuevacronica.com/panorama/unicaja-completa-su-primer-bono-verde-subordinado-tier-2-por-300-millones-euros_206422_102.html",
+    "desc": "Se trata de la primera emisión de deuda subordinada Tier 2 con etiqueta verde de Unicaja, que amplía así su actividad en los mercados de financiación sostenible, hasta ahora centrada en instrumentos…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/83/1/image.jpeg",
+    "tipo": "noticia",
+    "pub": 1794498241,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Qué se sabe de las oposiciones docentes de 2027 en Castilla y León",
+    "link": "https://www.lanuevacronica.com/estilo-vida/se-sabe-oposiciones-docentes-2027-en-castilla-leon_206421_102.html",
+    "desc": "Todavía no hay fecha ni plazas oficiales, pero sí un dato importante: por el sistema de alternancia que aplica la Junta, en 2027 corresponde al Cuerpo de Maestros convocar.",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/81/6/image.jpeg",
+    "tipo": "noticia",
+    "pub": 1794497957,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Castilla y León recibirá 667 millones para reforzar su red eléctrica: habrá seis nuevas subestaciones",
+    "link": "https://www.elespanol.com/castilla-y-leon/economia/20261112/castilla-leon-recibira-millones-reforzar-red-electrica-nuevas-subestaciones/1003744456037_0.html",
+    "desc": "La cifra representa el 3,9% del presupuesto nacional, según los datos del Ministerio. Más información: Aagesen defiende un 'megaplan' de 17.142 millones en redes para impulsar más de 47 GW de nueva…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10996044.jpg?p=c:3373:1897:nowe:627:19/w:1706/h:960&h=BG2mYzEC",
+    "tipo": "noticia",
+    "pub": 1794496863,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "La Junta libera 80.000 € para la reparación del voladizo de la Ruta del Cares",
+    "link": "https://www.lanuevacronica.com/actualidad/junta-libera-80000-reparacion-voladizo-ruta-cares_206418_102.html",
+    "desc": "Los trabajos de emergencia tras un desprendimiento en el Puente de los Rebecos permitieron reabrir la senda el pasado 30 de octubre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/78/1/imagen-de-la-pasarela-reparada-en-la-ruta-del-cares.jpeg",
+    "tipo": "noticia",
+    "pub": 1794496240,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El campo en Castilla y León genera más de 10.100 millones: líder nacional en producción de cereales y ganado bovino",
+    "link": "https://www.elespanol.com/castilla-y-leon/economia/el-campo/20261112/campo-castilla-leon-genera-millones-lider-nacional-produccion-cereales-ganado-bovino/1003744455959_0.html",
+    "desc": "La Comunidad cuenta con el tercer mayor tejido empresarial del país, según el informe elaborado por Cajamar. Más información: El sector agroalimentario de Castilla y León es ya el quinto más…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11400122.jpg?p=w:1706/h:960&h=8PBtuhAD",
+    "tipo": "noticia",
+    "pub": 1794493736,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El Hospital El Bierzo recibe un premio nacional por su proyecto de humanización ‘Hogar Dulce Hogar’",
+    "link": "https://www.elbierzodigital.com/el-hospital-el-bierzo-recibe-un-premio-nacional-por-su-proyecto-de-humanizacion-hogar-dulce-hogar/",
+    "desc": "El proyecto ‘Hogar Dulce Hogar ’, impulsado por la Gerencia de Asistencia Sanitaria del Bierzo (Gasbi), ha recibido el Premio Best in Class (BIC) de Gaceta Médica al Mejor Proyecto de Humanización…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/el-hospital-el-bierzo-recibe-un-premio-nacional-por-su-proyecto-de-humanizacion-hogar-dulce-hogar-el-bierzo-digital.jpeg",
+    "tipo": "noticia",
+    "pub": 1794493399,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "León reúne a organizaciones en el II Simposio Global de Familias Monoparentales",
+    "link": "https://www.heraldodeleon.es/sociedad/leon-reune-organizaciones-seis-paises-ii-simposio-global-familias-monoparentales/20261112151633117614.html",
+    "desc": "El encuentro, organizado por la Fundación Isadora Duncan del 18 al 20 de noviembre, abordará los retos de la monoparentalidad y entregará el I Premio \"Familias que inspiran\", dotado con 1.000 euros",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111215140178928.jpg",
+    "tipo": "noticia",
+    "pub": 1794492993,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Maragatería reúne tres días de literatura, memoria y cultura con el Otoño Literario",
+    "link": "https://www.heraldodeleon.es/cultura/maragateria-reune-tres-dias-literatura-memoria-cultura-popular-otono-literario/20261112151538117613.html",
+    "desc": "La Fundación Club 45 programa del viernes 13 al domingo 15 tres encuentros con la escritora Myeongzhi Song Lim, el autor leonés Ignacio Fernández Herrero y Jesús Gil, responsable de la librería…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111215133283363.jpg",
+    "tipo": "noticia",
+    "pub": 1794492938,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "CCOO cifra en un 70% el seguimiento de la huelga en Castilla y León y la patronal lo rebaja al 1,5%",
+    "link": "https://www.eldiario.es/castilla-y-leon/economia/ccoo-cifra-70-seguimiento-huelga-castilla-leon-patronal-rebaja-1-5_1_13658667.html",
+    "desc": "El sindicato estima en 100.000 los manifestantes y califica la jornada de \"éxito rotundo\", mientras la CEOE tacha el paro de \"irresponsable\" por su componente político y su cercanía a la campaña…",
+    "img": "https://static.eldiario.es/clip/21ef64c8-a9bd-4033-9660-a1a94f827ae2_16-9-discover-aspect-ratio_default_0.jpg",
+    "tipo": "noticia",
+    "pub": 1794490950,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "El Coal analiza cómo las rehabilitaciones transforman la identidad de los edificios",
+    "link": "https://www.heraldodeleon.es/leon/coal-analiza-como-rehabilitaciones-transforman-identidad-edificios/20261112143159117596.html",
+    "desc": "El Colegio Oficial de Arquitectos de León organiza para el próximo lunes un encuentro por el Día del Patrimonio para abordar alternativas que compatibilicen la eficiencia energética y la…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/05/26/2026052612071949880.jpg",
+    "tipo": "noticia",
+    "pub": 1794490319,
+    "fuente": "Heraldo de León · León"
+  },
+  {
+    "titulo": "Honores para el policía leonés Juan José Rodríguez 'Jota'",
+    "link": "https://www.heraldodeleon.es/leon/honores-policia-leones-juan-jose-rodriguez-jota-que-recibe-medalla-oro-cuerpo/20261112142807117595.html",
+    "desc": "El subinspector, natural de Santa Olaja de la Varga (Cistierna), recibe a título póstumo la máxima condecoración de la Policía Nacional tras morir junto a su perro 'Deny' en la explosión de…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111214242553754.webp",
+    "tipo": "noticia",
+    "pub": 1794490087,
+    "fuente": "Heraldo de León · León"
+  },
+  {
+    "titulo": "Los 2.200 vecinos de Piedralaves, en Ávila, vuelven a sus casas tras mejorar el tiempo",
+    "link": "https://www.eldiario.es/castilla-y-leon/provincias/avila/2-200-vecinos-piedralaves-avila-vuelven-casas-mejorar-tiempo_1_13658514.html",
+    "desc": "El descenso del nivel del agua en la presa de El Horcajo permite levantar la evacuación decretada el martes por el riesgo de desbordamiento tras las intensas lluvias Protección Civil envía un…",
+    "img": "https://static.eldiario.es/clip/8578306f-66a4-4684-8839-7ce6faa97a52_16-9-discover-aspect-ratio_default_0.jpg",
+    "tipo": "noticia",
+    "pub": 1794489714,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "Cendón defiende el nuevo decreto de vivienda y acusa a la especulación inmobiliaria",
+    "link": "https://www.heraldodeleon.es/leon/cendon-defiende-nuevo-decreto-vivienda-carga-especulacion-inmobiliaria/20261112141522117588.html",
+    "desc": "El secretario general del PSOE de León respalda en el Congreso las medidas para prorrogar dos años los alquileres, limitar las subidas de las rentas y proteger el parque público | El dirigente…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111214135469426.jpg",
+    "tipo": "noticia",
+    "pub": 1794489322,
+    "fuente": "Heraldo de León · León"
+  },
+  {
+    "titulo": "La Seminci busca un nuevo director del festival para los próximos cuatro años",
+    "link": "https://www.eldiario.es/castilla-y-leon/cultura/seminci-busca-nuevo-director-festival-proximos-cuatro-anos_1_13658150.html",
+    "desc": "El Ayuntamiento de Valladolid da treinta días a los interesados para presentar sus candidaturas y proyectos para el festival de cine El cine español responde al ataque de Vox en la Seminci: “Es…",
+    "img": "https://static.eldiario.es/clip/57387b7a-b8a3-4ce3-abc4-dac52e428ae4_16-9-discover-aspect-ratio_default_0.jpg",
+    "tipo": "noticia",
+    "pub": 1794489207,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "ColproLeón y el Colegio de la Abogacía reclaman \"seguridad jurídica\" para emprender",
+    "link": "https://www.heraldodeleon.es/leon/colproleon-colegio-abogacia-reclaman-seguridad-juridica-invertir-emprender-leon/20261112141017117585.html",
+    "desc": "Piden que la provincia \"aproveche su atractivo y no pierda la baza del teletrabajo\", que permite deslocalizar el talento joven lejos de las grandes ciudades",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111214034814850.jpg",
+    "tipo": "noticia",
+    "pub": 1794489017,
+    "fuente": "Heraldo de León · León"
+  },
+  {
+    "titulo": "Upta León afirma que todos los partidos 'dan la espalda' a los autónomos: \"No tendrán foto\"",
+    "link": "https://www.heraldodeleon.es/leon/upta-leon-afirma-que-todos-partidos-dan-espalda-autonomos/20261112135816117581.html",
+    "desc": "A horas del inicio de la campaña electoral, la patronal de los autónomos denuncia que ningún partido político se ha reunido con la organización para escuchar sus propuestas y advierte: \"En campaña…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/14/2026091413273740760.jpg",
+    "tipo": "noticia",
+    "pub": 1794488296,
+    "fuente": "Heraldo de León · León"
+  },
+  {
+    "titulo": "Carteles a medianoche o actos virtuales: así arranca la campaña del 29N en Castilla y León",
+    "link": "https://www.eldiario.es/castilla-y-leon/politica/carteles-medianoche-actos-virtuales-arranca-campana-29n-castilla-leon_1_13657391.html",
+    "desc": "Los partidos tiran de sus líderes autonómicos: Alfonso Fernández Mañueco acudirá a Valladolid y Salamanca, mientras Carlos Martínez abrirá la campaña en Soria y Carlos Pollán protagonizará el acto…",
+    "img": "https://static.eldiario.es/clip/dd97a6d0-1d60-4980-9314-a1f7ce2bcbb5_16-9-discover-aspect-ratio_default_0.jpg",
+    "tipo": "noticia",
+    "pub": 1794487389,
+    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "La gran cita del vehículo de ocasión",
@@ -24,178 +519,16 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111213291743326.jpg",
     "tipo": "noticia",
     "pub": 1794486824,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La patronal destaca el bajo seguimiento de la huelga en León y apuesta por dialogar con los sindicatos",
-    "link": "https://www.lanuevacronica.com/actualidad/patronal-destaca-bajo-seguimiento-huelga-en-leon-apuesta-por-dialogar-con-sindicatos_206393_102.html",
-    "desc": "Desde la Fele han rechazado los actos vandálicos registrados en varias ciudades y aseguran que la huelga no afectará a las negociaciones pendientes en sectores claves para la economía leonesa",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/57/7/frame-12fele.jpeg",
-    "tipo": "noticia",
-    "pub": 1794486630,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cuatro escolares de Ponferrada, premiados por sus propuestas para proteger el agua",
-    "link": "https://www.lanuevacronica.com/el-bierzo/cuatro-escolares-ponferrada-premiados-por-sus-propuestas-proteger-agua_206406_102.html",
-    "desc": "Los concejales Carlos Fernández y David Pacios entregaron los galardones a los finalistas locales de la 24ª edición del certamen educativo, que este año amplió su participación",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/53/8/entrega-premios-2.jpeg",
-    "tipo": "noticia",
-    "pub": 1794486627,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los compañeros del policía leonés fallecido en Oviedo le recuerdan con un sentido minuto de silencio",
-    "link": "https://www.lanuevacronica.com/actualidad/companeros-policia-leones-fallecido-en-oviedo-recuerdan-con-sentido-minuto-silencio_206405_102.html",
-    "desc": "El comisario provincial asegura que todavía no se ha dado todavía con el paradero del presunto autor, para quien se mantiene activa \"una búsqueda intensa por todas partes\" para que \"no cause más daño\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/51/6/un-instante-del-minuto-de-silencio-en-la-comisaria-de-leon.jpeg",
-    "tipo": "noticia",
-    "pub": 1794486492,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Salón del Vehículo de Ocasión, Cocido Gordonés y la Feria de Esquí, este fin de semana en León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/salon-vehiculo-ocasion-cocido-gordones-feria-esqui-este-fin-semana-en-leon_206392_102.html",
-    "desc": "Todos los planes de los que disfrutar este fin de semana a lo largo de la provincia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/24/4/whatsapp-image-2026-11-12-at-12-53-14.jpeg",
-    "tipo": "noticia",
-    "pub": 1794486404,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Santa María del Páramo homenajea a \"Loly\" Rojo por su labor docente",
-    "link": "https://www.heraldodeleon.es/comarcas/paramo/santa-maria-paramo-homenajea-loly-rojo-labor-docente/20261112132624117553.html",
-    "desc": "El Ayuntamiento acoge esta tarde un acto institucional y participativo con intervenciones del alumnado, música y poesía para agradecer su dedicación y despedir a la docente",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111213194816647.jpg",
-    "tipo": "noticia",
-    "pub": 1794486384,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Abierta la convocatoria de ayudas a la creación audiovisual relacionada con León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/abierta-convocatoria-ayudas-creacion-audiovisual-relacionada-con-leon_206403_102.html",
-    "desc": "El ILC mantiene el presupuesto de 100.000 euros para una línea de subvención cuyo objetivo es colaborar con proyectos que narren la realidad leonesa o se graben en la provincia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/48/2/un-instante-del-rodaje-de-los-rapaces-de-julu-martinez-que-accedio-a-la-ayuda-del-ilc-l-n-c.jpeg",
-    "tipo": "noticia",
-    "pub": 1794486320,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El misterio del \"no\"",
-    "link": "https://www.lanuevacronica.com/a-la-contra-2/el-misterio-del-no_206402_102.html",
-    "desc": "La última de La Nueva Cronica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/46/2/el-misterio-del-no.jpeg",
-    "tipo": "noticia",
-    "pub": 1794486250,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Noche Templaria conquista Las Vegas y Atenas con dos embajadores bercianos",
-    "link": "https://www.elbierzodigital.com/la-noche-templaria-conquista-las-vegas-y-atenas-con-dos-embajadores-bercianos/",
-    "desc": "La Noche Templaria de Ponferrada ha encontrado dos embajadores internacionales en el deporte berciano. Las Vegas y Atenas han sido los escenarios elegidos para llevar la imagen de esta celebración…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/la-noche-templaria-conquista-las-vegas-y-atenas-con-dos-embajadores-bercianos-el-bierzo-digital.jpeg",
-    "tipo": "noticia",
-    "pub": 1794486238,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Paralizar las obras de la estación y abordar el \"irrenunciable\" soterramiento: los deberes de la plataforma al futuro Gobierno",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261112/paralizar-obras-estacion-abordar-irrenunciable-soterramiento-deberes-plataforma-futuro-gobierno/1003744455631_0.html",
-    "desc": "La organización lanza una propuesta al próximo Ejecutivo que salga de las urnas del 29-N. Más información: Carnero pide \"diálogo\" a Feijóo para llevar a cabo el soterramiento en Valladolid: \"Es…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11399950.jpg?p=w:1706/h:960&h=JWfuVlvh",
-    "tipo": "noticia",
-    "pub": 1794485915,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Detenido por amenazar de muerte a los vecinos con un machete: deambulaba por la calle y creó gran alarma social",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20261112/detenido-amenazar-muerte-vecinos-machete-deambulaba-calle-creo-gran-alarma-social/1003744455634_0.html",
-    "desc": "Los hechos ocurrieron en la madrugada del domingo 8 de noviembre en una localidad del Valle de Mena Más noticias : Cae un grupo criminal itinerante con 7 detenidos tras 15 robos en viviendas de…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11399921.jpg?p=w:1706/h:960&h=gwG5zWtS",
-    "tipo": "noticia",
-    "pub": 1794485794,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El realismo mágico sube a las tablas del Auditorio de León",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/realismo-magico-sube-tablas-auditorio-leon_206400_102.html",
-    "desc": "La obra familiar de la compañía Escena Miriñaque que podrá verse este domingo ha sido galardonada con el Premio Nacional de Artes Escénicas para la Infancia y la Juventud 2024",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/39/7/una-escena-de-la-obra-ta-que-podra-verse-este-domingo-en-el-auditorio-de-leon-escena-mirinaque.webp",
-    "tipo": "noticia",
-    "pub": 1794485786,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El PSOE dice que su demanda judicial ha obligado al Gobierno de Ponferrada a iniciar el cambio de la tasa del mercado",
-    "link": "https://www.lanuevacronica.com/el-bierzo/psoe-dice-su-demanda-judicial-ha-obligado-gobierno-ponferrada-iniciar-cambio-tasa-mercado_206389_102.html",
-    "desc": "Mantiene la demanda, cuya vista está señalada para el 3 de febrero, por si no hubiera cambios y dice que no descarta seguir vía penal por prevaricación",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/11/6/psoe-vale.jpeg",
-    "tipo": "noticia",
-    "pub": 1794485770,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Carriedo pide el apoyo para \"un buen presupuesto\" que genera \"estabilidad, seguridad y confianza\"",
-    "link": "https://www.heraldodeleon.es/castilla-y-leon/carriedo-pide-apoyo-buen-presupuesto-que-genera-estabilidad-seguridad-confianza/20261112131552117551.html",
-    "desc": "El portavoz ensalza las cuentas porque promueven “actividad económica y empleo” en Castilla y León ante un contexto de “quiebra de confianza en la gestión” del Gobierno nacional",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111213134964126.jpg",
-    "tipo": "noticia",
-    "pub": 1794485752,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Un octogenario herido en una colisión entre dos turismos en Fabero",
-    "link": "https://www.lanuevacronica.com/sucesos/octogenario-herido-en-colision-entre-dos-turismos-en-fabero_206399_102.html",
-    "desc": "El herido sufrió un corte y fue trasladado en ambulancia a un centro sanitario",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/72/46/7/ambulancia-4-1000x563-4-1000x563-4-1000x563.jpeg",
-    "tipo": "noticia",
-    "pub": 1794485369,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Noche Templaria conquista Las Vegas y Atenas de la mano de dos deportistas bercianos",
-    "link": "https://www.heraldodeleon.es/el-bierzo/noche-templaria-conquista-vegas-atenas-mano-dos-deportistas-bercianos/20261112130813117535.html",
-    "desc": "Wilson Do Rosario y María de la Puente lucen la capa templaria en sus competiciones internacionales de culturismo y halterofilia para promocionar la fiesta ponferradina, que llegará este viernes a…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111213073555318.jpg",
-    "tipo": "noticia",
-    "pub": 1794485293,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "El PSOE reprocha al PP que asuma el \"antimodelo\" de \"motosierra\" de Vox en los Presupuestos de Castilla y León",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/psoe-reprocha-pp-asuma-antimodelo-motosierra-vox-presupuestos-castilla-leon_1_13657418.html",
-    "desc": "Los 'populares' defiende unas cuentas “históricas” y “sólidas\", mientras Vox presume de introducir la “prioridad nacional” en las ayudas para acceder a vivienda protegida Los presupuestos de…",
+    "desc": "Las Cortes de Castilla y León rechazan las enmiendas a la totalidad del Presupuesto de PP y Vox, que sigue con su tramitación parlamentaria Los presupuestos de Castilla y León para 2027: 28,7…",
     "img": "https://static.eldiario.es/clip/7450b90b-9a9d-4d01-9005-cf254bf3c8de_16-9-discover-aspect-ratio_default_0.jpg",
     "tipo": "noticia",
     "pub": 1794485247,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Doce formas de vivir el camino",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/doce-formas-vivir-camino/20261112130625117548.html",
-    "desc": "Turisleón presentará en INTUR 2026 una nueva oferta que combina patrimonio, gastronomía, historia y enoturismo desde Sahagún hasta Villafranca del Bierzo | La iniciativa de la Diputación y el…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/10/01/2026100115225128036.jpg",
-    "tipo": "noticia",
-    "pub": 1794485185,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Acole defiende una \"transición lógica\" del parque automovilístico de León en su Salón del Vehículo de Ocasión",
-    "link": "https://www.lanuevacronica.com/actualidad/acole-defiende-transicion-logica-parque-automovilistico-leon-en-su-salon-vehiculo-ocasion_206394_102.html",
-    "desc": "La asociación de concesionarios recuerda que León tiene uno anticuado parque automovilístico y presenta una feria con más de 400 coches en el Palacio de Congresos disponibles hasta este domingo, 15…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/34/0/frame-12acole.jpeg",
-    "tipo": "noticia",
-    "pub": 1794485125,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El concierto cofrade benéfico para las Concepcionistas de León recauda casi 5.000 euros",
-    "link": "https://www.lanuevacronica.com/actualidad/concierto-cofrade-benefico-concepcionistas-leon-recauda-casi-5000-euros_206397_102.html",
-    "desc": "La organización hace pública la recaudación en favor de una \"total transparencia\", agradece la disposición de las tres formaciones musicales y recuerda que el dinero será destinado \"íntegramente\" a…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/30/2/whatsapp-image-2026-11-07-at-21-09-46.jpeg",
-    "tipo": "noticia",
-    "pub": 1794484958,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Silencio y aplausos en homenaje a 'Jota', el subinspector leonés fallecido en Oviedo",
@@ -204,7 +537,7 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111212503364083.jpg",
     "tipo": "noticia",
     "pub": 1794484824,
-    "fuente": "Heraldo de León"
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "CEOE considera que los sindicatos \"están arrepentidos\" por su \"irresponsabilidad\"",
@@ -213,321 +546,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111212515919148.jpg",
     "tipo": "noticia",
     "pub": 1794484739,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El transporte berciano traslada al PP sus demandas sobre carreteras, conductores y seguridad",
-    "link": "https://www.lanuevacronica.com/el-bierzo/transporte-berciano-traslada-pp-sus-demandas-sobre-carreteras-conductores-seguridad_206395_102.html",
-    "desc": "UPA-Trans Bierzo y León, que agrupa a 234 empresas de la provincia, cifra en más de 800 los camiones que operan en la comarca y reclama mejoras en las infraestructuras, medidas fiscales y más…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/26/0/reunion-upa-trans.jpeg",
-    "tipo": "noticia",
-    "pub": 1794484533,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Un hombre de unos 80 años resulta herido en una colisión entre dos turismos en Fabero",
-    "link": "https://www.elbierzodigital.com/un-hombre-de-unos-80-anos-resulta-herido-en-una-colision-entre-dos-turismos-en-fabero/",
-    "desc": "Un hombre de unos 80 años ha resultado herido este jueves en un accidente de tráfico entre dos turismos ocurrido en la avenida Doctores Terrón , a la altura del número 55, en Fabero . El servicio de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/04/herido-por-arma-blanca-un-joven-de-20-anos-en-el-centro-de-ponferrada-el-bierzo-digital-e1759590558928.jpg",
-    "tipo": "noticia",
-    "pub": 1794484413,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "León sigue recuperando habitantes: 2026 es ya el mejor año demográfico en casi dos décadas",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-sigue-recuperando-habitantes-2026-es-ya-mejor-ano-demografico-en-casi-dos-decadas_206390_102.html",
-    "desc": "El cambio de tendencia se acelera en la provincia gracias a la llegada de diez personas extranjeras al día",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/61/15/5/leon-registro-por-quinto-mes-consecutivo-un-descenso-en-viajeros.jpeg",
-    "tipo": "noticia",
-    "pub": 1794483884,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León reúne a cerca de 300 niños y familias en una jornada de deporte y convivencia",
-    "link": "https://www.heraldodeleon.es/deportes/mas-deporte/leon-reune-cerca-300-ninos-familias-jornada-deporte-convivencia/20261112122535117527.html",
-    "desc": "Las Escuelas Deportivas Municipales organizan este sábado cuatro actividades de voleibol, baloncesto, gimnasia artística y natación adaptada para fomentar la participación familiar y los valores del…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111212205382034.jpg",
-    "tipo": "noticia",
-    "pub": 1794482735,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Detenida una banda criminal alojada en una casa rural de Molinaseca, relacionada con robos en viviendas",
-    "link": "https://www.elbierzodigital.com/detenida-una-banda-criminal-alojada-en-una-casa-rural-de-molinaseca-relacionada-con-robos-en-viviendas/",
-    "desc": "La Guardia Civil desarticuló recientemente un grupo criminal integrado por siete personas , cinco hombres y dos mujeres, al que atribuye 15 robos con fuerza en viviendas de distintas localidades de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/detenida-una-banda-criminal-alojada-en-una-casa-rural-de-molinaseca-relacionada-con-robos-en-viviendas-el-bierzo-digital.jpg",
-    "tipo": "noticia",
-    "pub": 1794482209,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La Junta insta a Azucarera a \"facilitar las mejores condiciones\" para vender la planta de La Bañeza",
-    "link": "https://www.lanuevacronica.com/actualidad/junta-insta-azucarera-facilitar-mejores-condiciones-vender-planta-baneza_206391_102.html",
-    "desc": "El consejero de Economía y Hacienda señala que \"hasta ahora hay falta de acuerdo\" con un promotor privado que ha expuesto su interés sobre una instalación cuyo cierre se anunció en mayo de 2025",
-    "img": "https://www.lanuevacronica.com/uploads/s1/28/83/94/4/llamada-a-la-unidad-sindical-e-institucional-frente-al-cierre-de-la-azucarera-de-la-baneza.jpeg",
-    "tipo": "noticia",
-    "pub": 1794482095,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Las candidatas bercianas del PP recogen las demandas del sector del transporte",
-    "link": "https://www.heraldodeleon.es/el-bierzo/candidatas-bercianas-pp-recogen-demandas-sector-transporte/20261112121215117524.html",
-    "desc": "Los profesionales reclaman mejoras en el mantenimiento de la A-6, más seguridad en los aparcamientos y medidas para hacer frente a la falta de conductores en un sector que genera 1.000 empleos en la…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111212175722194.jpg",
-    "tipo": "noticia",
-    "pub": 1794481935,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Carriedo insta a Azucarera a \"facilitar las mejores condiciones\" para acordar la venta de la planta de La Bañeza",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261112/carriedo-insta-azucarera-facilitar-mejores-condiciones-acordar-venta-planta-baneza/1003744455500_0.html",
-    "desc": "El portavoz de la Junta señala que \"hasta ahora hay falta de acuerdo\" con un promotor privado que ha expuesto su interés en la instalación. Más información: La dueña de Primark inyectó 165 M€ a…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10971868.jpg?p=c:3999:2250:nowe:0:308/w:1706/h:960&h=9hm60J6O",
-    "tipo": "noticia",
-    "pub": 1794481280,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El Ejecutivo de PP y Vox en Castilla y León elimina las ayudas a la cooperación al desarrollo y se justifica: \"Gobernar es elegir\"",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/ejecutivo-pp-vox-elimina-ayudas-cooperacion-desarrollo-justifica-gobernar-elegir_1_13657675.html",
-    "desc": "El portavoz del Ejecutivo autonómico defiende que han optado por destinar los recursos a las personas que viven en la comunidad Las ONG denuncian que PP y Vox dejan “a cero” el presupuesto de…",
-    "img": "https://static.eldiario.es/clip/7c84f2b5-a762-48c3-878c-8f878769ba6b_16-9-discover-aspect-ratio_default_0_x978y354.jpg",
-    "tipo": "noticia",
-    "pub": 1794480495,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "El sector de la castañicultura reclama soluciones para el riego y combatir las plagas",
-    "link": "https://www.heraldodeleon.es/el-bierzo/sector-castanicultura-reclama-soluciones-garantizar-riego-combatir-plagas/20261112114744117522.html",
-    "desc": "Biocastanea reúne en Ponferrada a expertos e investigadores para abordar los retos del castaño, marcados por la sequía, las enfermedades y la necesidad de trasladar los avances científicos a los…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111211363548092.jpg",
-    "tipo": "noticia",
-    "pub": 1794480464,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Junta pide 'facilidades' a Azucarera para vender la planta de La Bañeza",
-    "link": "https://www.heraldodeleon.es/comarcas/la-baneza/ano-avances-junta-pide-azucarera/20261112114417117520.html",
-    "desc": "El consejero de Economía y Hacienda señala que una entidad privada ha mostrado interés en hacerse con fábrica leonesa cerrada desde mayo de 2025 pero que&nbsp;\"hasta ahora hay falta de…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/06/04/2025060411261584764.jpg",
-    "tipo": "noticia",
-    "pub": 1794480257,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Ya están abiertas las inscripciones para participar en la San Silvestre de León 2026",
-    "link": "https://www.heraldodeleon.es/deportes/atletismo/estan-abiertas-inscripciones-participar-san-silvestre-leon-2026/20261112114134117519.html",
-    "desc": "La carrera se celebrará el próximo 27 de diciembre y habrá tres modalidades: Peque, Mini y la XXIX San Silvestre de 7 kilómetros",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/12/28/2025122819073663579.jpg",
-    "tipo": "noticia",
-    "pub": 1794480094,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Ávila respira con cautela y los vecinos de Piedralaves vuelven a casa: 75 incidencias y clases de vuelta en 31 pueblos",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20261112/avila-respira-cautela-incidencias-borrascas-clases-vuelta-pueblos-piedralaves-evacuado/1003744455175_0.html",
-    "desc": "La Junta de Castilla y León asegura que la situación de riesgo persiste, aunque las previsiones meteorológicas son \"algo mejores\". Más información: Evacuan a 3.000 vecinos de Piedralaves (Ávila) por…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11399805.jpg?p=c:2048:1152:nowe:0:212/w:1706/h:960&h=BxZ_5jwx",
-    "tipo": "noticia",
-    "pub": 1794480021,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La Junta de Castilla y León se escuda en el inicio de la campaña para no desacreditar los ataques de Ayuso y el PP a los sindicatos",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/junta-castilla-leon-escuda-inicio-campana-no-desacreditar-ataques-ayuso-pp-sindicatos_1_13657516.html",
-    "desc": "El portavoz Carriedo evita censurar las palabras de los líderes 'populares', ya que no hacen \"valoraciones políticas\" y reivindica el diálogo social en la Comunidad PP y Vox acusan a los sindicatos…",
-    "img": "https://static.eldiario.es/clip/802e1635-57b6-4d90-aea5-89f7c3095c88_16-9-discover-aspect-ratio_default_0.jpg",
-    "tipo": "noticia",
-    "pub": 1794479687,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Tres décadas dando vida a la cultura en Valdefuentes del Páramo",
-    "link": "https://www.heraldodeleon.es/comarcas/paramo/tres-decadas-dando-vida-cultura-valdefuentes-paramo/20261112113324117510.html",
-    "desc": "La Asociación Cultural y Recreativa conmemora su 30 aniversario este sábado con una conferencia sobre desarrollo rural y un concierto de música tradicional a cargo de 'Luna Folk'",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111211320631712.jpg",
-    "tipo": "noticia",
-    "pub": 1794479604,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Carbayo llama a la \"auténtica reconstrucción nacional\" y pide un Gobierno \"que cumpla con Salamanca y nos escuche\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261112/carbayo-llama-autentica-reconstruccion-nacional-pide-gobierno-cumpla-salamanca-escuche/1003744455314_0.html",
-    "desc": "El presidente provincial del PP ha reivindicado la gestión de los gobiernos populares como \"aval\" de Feijóo y ha destacado las propuestas sobre ferrocarril, vivienda y desarrollo tecnológico y…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11399789.jpg?p=c:1710:962:nowe:79:12/w:1706/h:960&h=KKNhQ8pK",
-    "tipo": "noticia",
-    "pub": 1794479547,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Periferia y Liosnway, un 20N de punk rock en Espacio Vías",
-    "link": "https://www.heraldodeleon.es/cultura/periferia-liosnway-20n-punk-rock-espacio-vias/20261112112900117508.html",
-    "desc": "La banda catalana Periferia llega a León dentro de su gira 'Lo que queda por sentir', acompañada por los leoneses Lionsway, que vuelven a casa dispuestos a dar un último gran empujón a 'Malo Será'",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111211260399507.jpg",
-    "tipo": "noticia",
-    "pub": 1794479340,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Junta asegura que la huelga general del 11-N se celebró \"sin incidencias reseñables\" en Castilla y León",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261112/huelga-general-celebro-sin-incidencias-castilla-leon-seguimiento-servicios-prestados-junta/1003744455320_0.html",
-    "desc": "Carriedo señala que la valoración política o la reflexión sobre el alcance de la convocatoria debe corresponder a los propios convocantes. Más información: Los sindicatos evitan hablar de fracaso en…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11399786.jpg?p=c:3997:2250:nowe:0:474/w:1706/h:960&h=bqbQyzQH",
-    "tipo": "noticia",
-    "pub": 1794479246,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Caen los siete miembros de una banda de ladrones que operaba desde una casa rural de León",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/siete-detenidos-oleada-robos-viviendas-que-afecto-leon/20261112112603117505.html",
-    "desc": "La Guardia Civil atribuye al grupo criminal 15 asaltos cometidos en Madrid, Burgos, Valladolid, León y Asturias | Los sospechosos utilizaron una casa rural leonesa como base durante una campaña…",
-    "img": "https://i.ytimg.com/vi/_AektbLFE4I/hqdefault.jpg",
-    "tipo": "noticia",
-    "pub": 1794479163,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Una colisión entre dos vehículos en la LE-20 deja dos personas heridas",
-    "link": "https://www.heraldodeleon.es/leon/colision-entre-dos-vehiculos-20-deja-dos-personas-heridas/20261112105414117497.html",
-    "desc": "El accidente ha tenido lugar este jueves a la altura del kilómetro 147 de la ronda y ambos heridos han sido atendidos en el lugar por las emergencias sanitarias",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/09/27/2026092713574865921.jpg",
-    "tipo": "noticia",
-    "pub": 1794477254,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "A la caza de 'El Ruso'",
-    "link": "https://www.heraldodeleon.es/leon/caza-ruso-hombre-que-acabo-vida-policia-leones-jota/20261112104823117496.html",
-    "desc": "La búsqueda del fugitivo de Oviedo sigue sin resultados tras varios avisos policiales | El dispositivo continúa centrado en localizar a Manuel F. Á., conocido como 'El Ruso', sospechoso del tiroteo…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111210420451858.jpg",
-    "tipo": "noticia",
-    "pub": 1794476903,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "El Hospital El Bierzo contará con una nueva sala de radiología digital robotizada",
-    "link": "https://www.elbierzodigital.com/el-hospital-el-bierzo-contara-con-una-nueva-sala-de-radiologia-digital-robotizada/",
-    "desc": "El Hospital El Bierzo, en Ponferrada, incorporará una nueva sala de radiología digital robotizada gracias a una inversión de 235.950 euros aprobada por el Consejo de Gobierno de Castilla y León. El…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2025/09/Hospital-El-Bierzo-1-el-bierzo-digital-scaled.jpg",
-    "tipo": "noticia",
-    "pub": 1794476870,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Los sindicatos suspenden dos jornadas la huelga del sector cárnico ante el avance de las negociaciones",
-    "link": "https://www.elbierzodigital.com/los-sindicatos-suspenden-dos-jornadas-la-huelga-del-sector-carnico-ante-el-avance-de-las-negociaciones/",
-    "desc": "Los trabajadores del sector cárnico no secundarán la huelga durante este jueves y viernes, 12 y 13 de noviembre , después de que CCOO y UGT hayan decidido suspender temporalmente los paros…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/los-sindicatos-suspenden-dos-jornadas-la-huelga-del-sector-carnico-ante-el-avance-de-las-negociaciones-el-bierzo-digital.jpg",
-    "tipo": "noticia",
-    "pub": 1794476453,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Muere a los 78 años Helena Bianco, la cantante de 'Los Mismos'",
-    "link": "https://www.eldiario.es/castilla-y-leon/cultura/fallece-78-anos-helena-bianco-cantante_1_13657279.html",
-    "desc": "Bianco será despedida este jueves en el tanatorio Memora Majadahonda a partir de las 12:00 horas de este jueves La cantante Elena V&aacute;zquez Minguela, conocida art&iacute;sticamente como Helena…",
-    "img": "https://static.eldiario.es/clip/17453101-aa18-489a-9c8b-0a71ec622ff6_16-9-discover-aspect-ratio_default_0.jpg",
-    "tipo": "noticia",
-    "pub": 1794476027,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "León crea 44 empresas en septiembre, la segunda mayor cifra de la Comunidad",
-    "link": "https://www.heraldodeleon.es/leon/leon-sumo-44-nuevas-empresas-septiembre-segunda-mayor-cifra-comunidad/20261112102023117488.html",
-    "desc": "El capital suscrito por las nuevas sociedades alcanzó los 444.000 euros, mientras que otras diez empresas se disolvieron en la provincia",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/12/16/2025121612355246448.jpg",
-    "tipo": "noticia",
-    "pub": 1794475223,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "\"Cazurronics me ha abierto muchas puertas, no solo en lo personal, sino en lo profesional\"",
-    "link": "https://www.heraldodeleon.es/leon/cazurronics-ha-abierto-muchas-puertas-solo-personal-profesional/20261112095554117476.html",
-    "desc": "Alejandro Amable Pascual López, de 22 años, compagina sus estudios de Ingeniería de Telecomunicaciones y su trabajo en una consultora tecnológica con el desarrollo de una plataforma que busca…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111209190086188.jpg",
-    "tipo": "noticia",
-    "pub": 1794473754,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "La Guardia Civil investiga a un cazador por abatir un lince ibérico y un gato en Tordehumos, Valladolid",
-    "link": "https://www.eldiario.es/castilla-y-leon/sucesos/guardia-civil-investiga-cazador-abatir-lince-iberico-gato-tordehumos-valladolid_1_13657082.html",
-    "desc": "Las diligencias instruidas han sido remitidas al Juzgado de Medina de Rioseco y a la Fiscalía Delegada de Medio Ambiente y Urbanismo La población de linces llega a otro récord, a pesar de morir más…",
-    "img": "https://static.eldiario.es/clip/401f9c33-73a8-4758-9da0-1d7ef0b12884_16-9-discover-aspect-ratio_default_0_x200y292.jpg",
-    "tipo": "noticia",
-    "pub": 1794472330,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Archivada una querella por prevaricación contra el presidente de la Diputación de Zamora",
-    "link": "https://www.eldiario.es/castilla-y-leon/tribunales/archivada-querella-prevaricacion-presidente-diputacion-zamora_1_13657023.html",
-    "desc": "El empresario promotor del proyecto de biorrefinería que no llegó a materializarse, presentó una querella en la que responsabilizaba a Faúndez de que la iniciativa no saliera adelante La Audiencia…",
-    "img": "https://static.eldiario.es/clip/800599b9-5af7-4cfe-9dfb-9239ee6daafd_16-9-discover-aspect-ratio_default_1154627.jpg",
-    "tipo": "noticia",
-    "pub": 1794471467,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "La lluvia no se va pero caerá con menor intensidad sobre León este jueves",
-    "link": "https://www.heraldodeleon.es/leon/lluvia-va-caera-menor-intensidad-leon-jueves/20261112091222117467.html",
-    "desc": "Las temperaturas máximas ascenderán hasta los 16 grados mientras que las mínimas caerán a los 7 grados",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2024/10/09/2024100923382150392.jpg",
-    "tipo": "noticia",
-    "pub": 1794471142,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Consulta los puntos de donación de sangre en la provincia la próxima semana",
-    "link": "https://www.heraldodeleon.es/leon/consulta-puntos-donacion-sangre-leon-provincia-13-20-noviembre/20261112090216117466.html",
-    "desc": "La Hermandad de Donantes de Sangre organizará jornadas de donación en León, Astorga, Trobajo del Camino, La Bañeza y Valderas, además de mantener activo el punto fijo del Centro de Salud José Aguado",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/10/30/2025103010355641197.jpg",
-    "tipo": "noticia",
-    "pub": 1794470536,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Elena Álvarez, testigo del cambio del medio rural desde el súper de Almázcara",
-    "link": "https://www.elbierzodigital.com/elena-alvarez-testigo-del-dia-a-dia-desde-el-super-de-almazcara/",
-    "desc": "La historia de Elena Álvarez es, en buena parte, la del medio rural berciano. Nacida y criada en Almázcara , siempre se dedicó al comercio y durante muchos años regentó el supermercado local, pero…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/elena-alvarez-testigo-del-dia-a-dia-desde-el-super-de-almazcara-el-bierzo-digital-4.jpeg",
-    "tipo": "noticia",
-    "pub": 1794470411,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La presión asistencial en el Hospital de León aumenta mientras siguen cerradas camas del Monte San Isidro",
-    "link": "https://www.heraldodeleon.es/leon/presion-asistencial-hospital-leon-aumenta-mientras-siguen-cerradas-camas-monte-san-isidro/20261112085239117465.html",
-    "desc": "El cierre del ala izquierda de la tercera planta del centro hospitalario obliga a trasladar pacientes a unidades que no corresponden a su especialidad en el edificio Princesa Sofía, una situación…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/03/31/2026033111452567742.jpg",
-    "tipo": "noticia",
-    "pub": 1794469959,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "El sector de la castaña reclama pequeños embalses para garantizar el riego de los sotos",
-    "link": "https://www.elbierzodigital.com/el-sector-de-la-castana-reclama-pequenos-embalses-para-garantizar-el-riego-de-los-sotos-y-evitar-perdidas-de-produccion/",
-    "desc": "La falta de agua para regar los sotos durante los meses de verano se ha convertido en uno de los principales problemas para garantizar el futuro de la castañicultura en el Bierzo. Los expertos…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/el-sector-de-la-castana-reclama-pequenos-embalses-para-garantizar-el-riego-de-los-sotos-y-evitar-perdidas-de-produccion-el-bierzo-digital.jpg",
-    "tipo": "noticia",
-    "pub": 1794469839,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El PSOE mantiene la demanda contra el Ayuntamiento por no modificar la tasa de los puestos exteriores del mercado",
-    "link": "https://www.elbierzodigital.com/el-psoe-mantiene-la-demanda-contra-el-ayuntamiento-por-no-modificar-la-tasa-de-los-puestos-exteriores-del-mercado/",
-    "desc": "El Grupo Municipal Socialista de Ponferrada mantendrá, de momento, la demanda presentada contra el Ayuntamiento por el incumplimiento del acuerdo plenario que ordenaba modificar la ordenanza fiscal…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/el-psoe-mantiene-la-demanda-contra-el-ayuntamiento-por-no-modificar-la-tasa-de-los-puestos-exteriores-del-mercado-el-bierzo-digital.jpeg",
-    "tipo": "noticia",
-    "pub": 1794468641,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Del fracaso de la huelga general, con el 1,4% de seguimiento, al éxito de la manifestación",
-    "link": "https://www.heraldodeleon.es/leon/fracaso-huelga-general-leon-apenas-14-seguimiento-exito-manifestacion-final/20261112082452117464.html",
-    "desc": "La jornada transcurrió con escasas alteraciones en la actividad económica y laboral de la provincia, mientras miles de personas salieron a las calles: unas 8.000 en la capital leonesa, 20.000 según…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/11/2026111120314314168.jpg",
-    "tipo": "noticia",
-    "pub": 1794468292,
     "fuente": "Heraldo de León · León"
   },
   {
@@ -586,6 +604,16 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/26/12/19/2/imagen-alvaro-alonso-copia.jpeg"
   },
   {
+    "titulo": "El café a precio de huelga",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/cafe-precio-huelga_206368_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794452400,
+    "fuente": "La Nueva Crónica · Opinión",
+    "autor": "La Negrilla"
+  },
+  {
     "titulo": "Motivos compartidos, un momento mal elegido",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/motivos-compartidos-momento-mal-elegido_206369_102.html",
     "desc": "",
@@ -602,25 +630,6 @@
     "tipo": "opinion",
     "pub": 1794452400,
     "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "El café a precio de huelga",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/cafe-precio-huelga_206368_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794452400,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "La Negrilla"
-  },
-  {
-    "titulo": "La intensa lluvia no desanima a los los cerca de 30.000 vallisoletanos que se manifiestan por la vivienda",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/intensa-lluvia-no-desanima-miles-vallisoletanos-manifiestan-vivienda_1_13656465.html",
-    "desc": "En Burgos han acudido unas 10.000 personas, 2.000 en Palencia, Salamanca, Zamora y Segovia, en León no se han dado cifras y en Ávila y Soria unas 1.000 La intensa lluvia que ha ca&iacute;do durante…",
-    "img": "https://static.eldiario.es/clip/cb66774c-59bc-4162-a5e3-143578a1bd88_16-9-discover-aspect-ratio_default_0.jpg",
-    "tipo": "noticia",
-    "pub": 1794420977,
-    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "La ausencia de Sánchez en el funeral de Toledo",
@@ -718,13 +727,14 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/48/xuasusb.jpeg"
   },
   {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206278_102.html",
+    "titulo": "El mejor día para ser sindicalista... o el peor",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/mejor-dia-ser-sindicalista-peor_206276_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
     "pub": 1794366000,
-    "fuente": "La Nueva Crónica · Opinión"
+    "fuente": "La Nueva Crónica · Opinión",
+    "autor": "La Negrilla"
   },
   {
     "titulo": "La vivienda ante las urnas del 29-N",
@@ -736,14 +746,13 @@
     "fuente": "La Nueva Crónica · Opinión"
   },
   {
-    "titulo": "El mejor día para ser sindicalista... o el peor",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/mejor-dia-ser-sindicalista-peor_206276_102.html",
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206278_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
     "pub": 1794366000,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "La Negrilla"
+    "fuente": "La Nueva Crónica · Opinión"
   },
   {
     "titulo": "El temporal provoca el desbordamiento de la Garganta de Santa María en La Adrada y el Cecopi no descarta nuevos desalojos en Ávila",
@@ -921,15 +930,6 @@
     "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/09/07/6a9ec3f8d626a7-41567193.r_d.421-122.jpeg",
     "tipo": "noticia",
     "pub": 1794167558,
-    "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "Dos años de cárcel por enviar fotos de su hija desnuda a un perfil de Instagram que creía que era de Cristiano Ronaldo",
-    "link": "https://www.20minutos.es/castilla-y-leon/salamanca/dos-anos-carcel-por-enviar-fotos-su-hija-desnuda-un-perfil-instagram-que-creia-que-era-cristiano-ronaldo_7058226_0.html",
-    "desc": "La madre tomó varias imágenes de la menor, algunas de ellas mostrando sus genitales, y grabó un vídeo en el que aparecía sin ropa interior.",
-    "img": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/06/6ac541a62787b1-84832619.r_d.955-362.jpeg",
-    "tipo": "noticia",
-    "pub": 1793970749,
     "fuente": "20minutos CyL"
   },
   {
