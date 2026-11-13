@@ -1,5 +1,200 @@
 [
   {
+    "titulo": "La inestabilidad se instala en León este viernes con lluvias durante toda la jornada",
+    "link": "https://www.heraldodeleon.es/leon/leon-espera-viernes-pasado-agua-chubascos-riesgo-tormentas/20261113090954117709.html",
+    "desc": "La jornada estará protagonizada por los cielos cubiertos, los chubascos y la posibilidad de tormentas, mientras que el domingo los termómetros bajarán hasta los 11 grados de máxima",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/01/16/2025011608290717235.jpg",
+    "tipo": "noticia",
+    "pub": 1794557394,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La hierbabuena de mi padre",
+    "link": "https://www.elespanol.com/castilla-y-leon/opinion/20261113/hierbabuena-padre/1003744456549_12.html",
+    "desc": "Hay recuerdos que no necesitan fotografías para permanecer intactos. A mí me basta cerrar los ojos para volver a los caminos de mi infancia, a las calles de mi pueblo en la Raya y a la figura de mi…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11400503.jpg?p=c:1998:1125:nowe:0:0/w:1706/h:960&h=wlm1-FRf",
+    "tipo": "opinion",
+    "pub": 1794549600,
+    "fuente": "El Español · CyL",
+    "autor": "Luis Falcón",
+    "autorImg": "https://s3.elespanol.com/k/imgp/cms/elespanol/10020901.png?h=Cf7FEQ4u"
+  },
+  {
+    "titulo": "Raquel, logopeda, sobre las burlas a David Broncano: “Tartamudear no puede volver a ser motivo de humillación”",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261113/raquel-logopeda-burlas-david-broncano-tartamudear-no-puede-volver-motivo-humillacion-trt/1003744454222_0.html",
+    "desc": "El Grupo de Investigación y Trabajo sobre la Tartamudez denuncia una oleada de mofas en redes sociales: “Es un peligroso retroceso social”. Más información : Tartamudez, un problema social que no es…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11399843.jpg?p=c:608:342:nowe:68:14/w:1706/h:960&h=G77mhRHf",
+    "tipo": "noticia",
+    "pub": 1794549600,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Gran fiesta de la seta el 13, 14 y 15 de noviembre con feria de artesanía, comida popular y música para los más pequeños",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261113/gran-fiesta-seta-noviembre-feria-artesania-comida-popular-musica-pequenos-trt/1003744456033_0.html",
+    "desc": "También habrá una chocolatada, una ruta micológica y concursos. Más información : El mejor pueblo de Castilla y León para recoger setas este otoño: un paraíso micológico con rutas, cursos y talleres",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11077237.jpg?p=c:800:450:nowe:0:75/w:1706/h:960&h=enNXG9aU",
+    "tipo": "noticia",
+    "pub": 1794549600,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Castillos, bodegas centenarias y el eco de Felipe II: la provincia de Valladolid revive su esplendor histórico en Intur",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261113/castillos-bodegas-centenarias-eco-felipe-ii-provincia-valladolid-revive-esplendor-historico-intur/1003744454436_0.html",
+    "desc": "La Diputación Provincial despliega una importante oferta para ensalzar los atractivos turísticos del territorio. Más información: La Diputación de Valladolid anuncia 18 conferencias en 16 municipios…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11400326.jpg?p=w:1706/h:960&h=Z6vjNJyK",
+    "tipo": "noticia",
+    "pub": 1794549600,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Oro parece",
+    "link": "https://www.lanuevacronica.com/opinion/oro-parece_206449_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794542400,
+    "fuente": "La Nueva Crónica",
+    "autor": "Jorge Alonso Macía",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/16/97/3/jorge-b-w.jpeg"
+  },
+  {
+    "titulo": "De un negocio de glamping en Navarra a las fragancias árabes en Ponferrada",
+    "link": "https://www.lanuevacronica.com/el-bierzo/negocio-glamping-en-navarra-fragancias-arabes-en-ponferrada_206434_102.html",
+    "desc": "David Abárzuza abre una perfumería buscando un nicho de mercado diferente, con perfumes procedentes de Dubái que combinan calidad y precios asequibles",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/98/19/6/aromas-2.jpeg",
+    "tipo": "noticia",
+    "pub": 1794542100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El ruso, los machetes y la gasolina",
+    "link": "https://www.lanuevacronica.com/opinion/ruso-machetes-gasolina_206448_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794541800,
+    "fuente": "La Nueva Crónica",
+    "autor": "Marta del Riego Anta",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/33/84/91/8/marta-del-riego-anta-2026.gif"
+  },
+  {
+    "titulo": "Encargos a Tragsa",
+    "link": "https://www.lanuevacronica.com/opinion/encargos-tragsa_206447_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794541200,
+    "fuente": "La Nueva Crónica",
+    "autor": "José Antonio Turrado",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/06/54/5/foto-turrado-cronica-nueva.jpeg"
+  },
+  {
+    "titulo": "Valverde de la Virgen, un municipio con raíces y vocación de futuro",
+    "link": "https://www.lanuevacronica.com/especiales/valverde-virgen-municipio-con-raices-vocacion-futuro_206416_102.html",
+    "desc": "Su posición en el noroeste, la Basílica y sus servicios hacen que sea un territorio de oportunidades",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/72/6/imagen-en-la-imagen-el-aeropuerto-en-la-virgen-del-camino-saul-aren.jpeg",
+    "tipo": "noticia",
+    "pub": 1794541200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El aceite y el precio de esperar",
+    "link": "https://www.lanuevacronica.com/opinion/aceite-precio-esperar_206446_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794540600,
+    "fuente": "La Nueva Crónica",
+    "autor": "Juan Pablo García Valadés",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/84/05/5/juan-pablo-garcia-valades-3.jpeg"
+  },
+  {
+    "titulo": "Votar",
+    "link": "https://www.lanuevacronica.com/opinion/votar_206445_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794540000,
+    "fuente": "La Nueva Crónica",
+    "autor": "Sol Gómez Arteaga",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/30/63/39/9/sol-gomez-arteaga.jpeg"
+  },
+  {
+    "titulo": "Astorga: Una ciudad con alma que sigue apostando fuerte",
+    "link": "https://www.lanuevacronica.com/especiales/astorga-ciudad-con-alma-sigue-apostando-fuerte_206415_102.html",
+    "desc": "Industria, turismo, innovación y calidad de vida marcan la hoja de ruta para construir nuevas oportunidades",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/70/4/detalle-del-interior-del-palacio-episcopal-de-astorga-ayto-astorga.jpeg",
+    "tipo": "noticia",
+    "pub": 1794540000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "No vaya a ser",
+    "link": "https://www.lanuevacronica.com/opinion/no-vaya-ser_206444_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794539400,
+    "fuente": "La Nueva Crónica",
+    "autor": "Nacho Barrio",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/32/11/06/3/nacho-barrio.jpeg"
+  },
+  {
+    "titulo": "Vidanes, un motor económico con vocación de crecimiento",
+    "link": "https://www.lanuevacronica.com/especiales/vidanes-motor-economico-con-vocacion-crecimiento_206414_102.html",
+    "desc": "La esperada ampliación dará sus primeros pasos con 300.000 euros previstos para 2027 por la Junta de Castilla y León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/68/6/diversidad-empresarial-buenas-comunicaciones-y-nuevas-perspectivas-de-crecimiento-fernando-otero.jpeg",
+    "tipo": "noticia",
+    "pub": 1794539400,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Puebla de Lillo, donde la montaña se vive de mil maneras",
+    "link": "https://www.lanuevacronica.com/especiales/puebla-lillo-donde-montana-se-vive-mil-maneras_206413_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/67/0/imagen-espectacular-vista-del-alto-porma-desde-el-pico-el-lago-hector-cofi.jpeg",
+    "tipo": "noticia",
+    "pub": 1794539100,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206452_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/98/54/7/13-11-2026-canton.jpeg",
+    "tipo": "opinion",
+    "pub": 1794538800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La inmigración devuelve la esperanza a León",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/inmigracion-devuelve-esperanza-leon_206451_102.html",
+    "desc": "La provincia leonesa registra su mejor balance demográfico en casi dos décadas, pero necesita convertir la llegada de nuevos habitantes en una recuperación duradera para que las buenas noticias no…",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794538800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El lápiz del carpintero, a juicio",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/lapiz-carpintero-juicio_206450_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794538800,
+    "fuente": "La Nueva Crónica",
+    "autor": "La Negrilla"
+  },
+  {
+    "titulo": "Mirador del balcón de Pilatos y Hayedo de Cotoluengo",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/mirador-balcon-pilatos-hayedo-cotoluengo_206443_102.html",
+    "desc": "Recorrido circular por un mirador y un hayedo con salida de Ciguera",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/98/42/0/mirador-del-balcon-de-pilatos-vicente-garcia.jpeg",
+    "tipo": "noticia",
+    "pub": 1794538800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "León abre la batalla electoral del 29N",
     "link": "https://www.heraldodeleon.es/leon/leon-abre-batalla-electoral-29n/20261113013720117708.html",
     "desc": "PSOE, PP, Vox y Frente Amplio protagonizan el arranque de una campaña marcada por la confrontación entre modelos políticos, las reivindicaciones provinciales y la disputa por el voto | Alantre y…",
@@ -81,15 +276,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Una jueza ordena el cese de la actividad de Núcleo Nacional: precinta sus sedes en Burgos, Valladolid y Madrid",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261112/jueza-ordena-cese-actividad-nucleo-nacional-precinta-sedes-burgos-valladolid-madrid/1003744456566_0.html",
-    "desc": "El operativo se saldó con 14 arrestos en siete provincias y 12 registros, entre ellos, la sede central de la formación en Madrid. Más información: La jueza deja en libertad restringida a diez…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11400510.png?p=w:1706/h:960&h=tLs0eKQt",
-    "tipo": "noticia",
-    "pub": 1794515322,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Ana Redondo culpa al ministerio de Irene Montero y se desvincula del contrato de las pulseras investigado por la UCO",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261112/ana-redondo-culpa-ministerio-irene-montero-desvincula-contrato-pulseras-investigado-uco/1003744456557_0.html",
     "desc": "“Este es un contrato de 2023, es un contrato del equipo anterior”, ha afirmado la ministra de Igualdad. Más información. Mañueco apunta a Ana Redondo: \"El PSOE tendrá que borrar también su nombre de…",
@@ -97,15 +283,6 @@
     "tipo": "noticia",
     "pub": 1794514609,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Una \"apuesta por la ciencia\" en un entorno de cambios por la IA",
-    "link": "https://www.lanuevacronica.com/actualidad/apuesta-por-ciencia-en-entorno-cambios-por-ia_206441_102.html",
-    "desc": "Los participantes han remarcado \"la proyección global de la investigación en un entorno marcado por la Inteligencia Artificial\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/98/35/5/ule-ciencia.jpeg",
-    "tipo": "noticia",
-    "pub": 1794513428,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Tezanos cocina una mayoría de Sánchez en Castilla y León: el CIS da al PSOE hasta 18 escaños y deja al PP entre 10-15",
@@ -117,15 +294,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "La Bañeza inicia la renovación del alumbrado de toda la ciudad por 700.000 euros",
-    "link": "https://www.lanuevacronica.com/actualidad/baneza-inicia-renovacion-alumbrado-toda-ciudad-por-700000-euros_206428_102.html",
-    "desc": "Las obras estarán terminadas a finales de febrero y permitirán reducir el consumo energético, modernizar las luminarias y disminuir la contaminación lumínica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/92/3/la-baneza-inicia-la-renovacion-del-alumbrado-de-toda-la-ciudad-por-700-000-euros.jpeg",
-    "tipo": "noticia",
-    "pub": 1794511084,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Tachar a Óscar Puente en la papeleta del PSOE anulará el voto: la Junta Electoral Central corrige a la de Valladolid",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261112/tachar-oscar-puente-papeleta-psoe-anulara-voto-junta-electoral-central-corrige-valladolid/1003744456497_0.html",
     "desc": "El organismo estima parcialmente el recurso del PP y corrige el criterio de la Junta Electoral Provincial de Valladolid. Más información: PP y Vox ironizan con \"tachar\" a Ana Redondo de la papeleta…",
@@ -135,15 +303,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Herido un hombre tras ser atropellado por un autobús urbano en León",
-    "link": "https://www.lanuevacronica.com/actualidad/herido-hombre-ser-atropellado-por-autobus-urbano-en-leon_206439_102.html",
-    "desc": "El suceso se ha producido a la altura del número 12 de la avenida Ramón y Cajal y ha movilizado a una ambulancia de soporte vital básico",
-    "img": "https://www.lanuevacronica.com/uploads/s1/20/22/62/4/03max201306235694.jpeg",
-    "tipo": "noticia",
-    "pub": 1794509973,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Un autobús urbano atropella a un hombre de 70 años en León capital",
     "link": "https://www.heraldodeleon.es/leon/autobus-urbano-atropella-hombre-70-anos-leon-capital/20261112195100117662.html",
     "desc": "El accidente se ha producido a las 19.22 horas a la altura del número 12 de la avenida Ramón y Cajal y ha requerido la movilización de una ambulancia de soporte vital básico de Sacyl",
@@ -151,15 +310,6 @@
     "tipo": "noticia",
     "pub": 1794509460,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El PSOE de León advierte de que el 29-N \"también están en juego los derechos LGTBI+\"",
-    "link": "https://www.lanuevacronica.com/actualidad/psoe-leon-advierte-29-n-tambien-estan-en-juego-derechos-lgtbi_206429_102.html",
-    "desc": "La candidatura socialista se reúne con León con Orgullo para conocer sus reivindicaciones y reafirmar su compromiso con la defensa y el avance de los derechos LGTBI+",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/94/5/reunion-del-psoe-con-la-asociacion-leon-con-orgullo.jpeg",
-    "tipo": "noticia",
-    "pub": 1794509309,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Salamanca invierte 800.000€ en reformar el Julián Sánchez 'El Charro': una \"segunda piel\" para frenar el calor extremo",
@@ -178,15 +328,6 @@
     "tipo": "noticia",
     "pub": 1794509281,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La 'Intolerancia' de una 'Europa convulsa' se expone en Sierra Pambley",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/intolerancia-europa-convulsa-se-expone-en-sierra-pambley_206431_102.html",
-    "desc": "La muestra comisariada por Miguel Martorell fue inaugurada este jueves de la mano de una conferencia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/98/04/6/miguel-martorell-se-encargo-de-inaugurar-la-muestra-intolerancia-en-sierra-pambley-uned.jpeg",
-    "tipo": "noticia",
-    "pub": 1794508800,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "CESM logra una mesa propia para negociar mejoras laborales y salariales de los médicos",
@@ -250,15 +391,6 @@
     "tipo": "noticia",
     "pub": 1794506468,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Insólita imagen en el Castillo de Ponferrada: un jabalí escarba la ladera a plena luz del día",
-    "link": "https://www.lanuevacronica.com/sucesos/jabali-arana-ladera-castillo-ponferrada-plena-luz-dia_206432_102.html",
-    "desc": "El animal sorprendió a los paseantes a las seis de la tarde junto al río, en una nueva muestra de la creciente presencia de estos animales en distintos puntos de la ciudad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/98/06/3/jabali-castillo.jpeg",
-    "tipo": "noticia",
-    "pub": 1794506248,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Aplazada la charla sobre el Ponfeblino",
@@ -333,15 +465,6 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "Ponferradina - Cacereño: 'Que la urgencia se traduzca en puntos'",
-    "link": "https://www.lanuevacronica.com/deportes/ponferradina-cacereno-urgencia-se-traduzca-en-puntos_206430_102.html",
-    "desc": "La Ponferradina recibe al Cacereño este viernes desde las 19 horas con cinco bajas; Calderón y Jelbat por sanción y Quicala, Roig y De León por lesiones",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/64/27/3/ponferradina-y-barakaldo-empatan-en-el-toralin-36.jpeg",
-    "tipo": "noticia",
-    "pub": 1794502996,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El CIS sitúa al PSOE ocho puntos por delante del PP en las elecciones del 29N",
     "link": "https://www.heraldodeleon.es/actualidad/nacional/cis-situa-psoe-ocho-puntos-delante-pp-elecciones-29n/20261112180244117619.html",
     "desc": "La macroencuesta concede a los socialistas un 33,3% de los votos y entre 134 y 143 escaños, mientras que PP y Vox sumarían como máximo 171 diputados | El estudio recoge 45.074 entrevistas realizadas…",
@@ -360,15 +483,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Las 150.000 luces de la espectacular Navidad de Almanza ya tienen fecha de encendido",
-    "link": "https://www.lanuevacronica.com/actualidad/150000-luces-espectacular-navidad-almanza-ya-tienen-fecha-encendido_206424_102.html",
-    "desc": "El municipio leonés sorprenderá con un espectacular cascanueces diseñado por Fernando Ortiz, que aspira a convertirse en el más grande del mundo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/89/2/pueblo-de-navidad-almanza.png",
-    "tipo": "noticia",
-    "pub": 1794502176,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Raúl Martín refuerza el Technosylva Rower Bembibre para 2027",
     "link": "https://www.heraldodeleon.es/deportes/mas-deporte/raul-martin-refuerza-technosylva-rower-bembibre-2027/20261112174703117617.html",
     "desc": "El ciclista extremeño llega procedente del Equipo Finisher tras terminar quinto en la Vuelta a Extremadura y lograr varios puestos destacados en el calendario nacional | Compartirá vestuario con su…",
@@ -376,15 +490,6 @@
     "tipo": "noticia",
     "pub": 1794502023,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "León contará con dos nuevas subestaciones eléctricas y ampliará otras cuatro para potenciar su industria",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-contara-con-dos-nuevas-subestaciones-electricas-ampliara-otras-cuatro-potenciar-su-industria_206427_102.html",
-    "desc": "El Gobierno acepta parte de las alegaciones de la Junta e incorpora las ampliaciones de La Robla, Compostilla, Villablino y La Lomba, así como dos nuevas en Villadangos y en el entorno de la capital",
-    "img": "https://www.lanuevacronica.com/uploads/s1/37/49/1/lomba14122016.jpeg",
-    "tipo": "noticia",
-    "pub": 1794501901,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "León supera los 8.000 pasajeros en octubre y mantiene el pulso aeroportuario",
@@ -604,6 +709,15 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/26/12/19/2/imagen-alvaro-alonso-copia.jpeg"
   },
   {
+    "titulo": "Motivos compartidos, un momento mal elegido",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/motivos-compartidos-momento-mal-elegido_206369_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794452400,
+    "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
     "titulo": "La viñeta de Cantón",
     "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206370_102.html",
     "desc": "",
@@ -621,15 +735,6 @@
     "pub": 1794452400,
     "fuente": "La Nueva Crónica · Opinión",
     "autor": "La Negrilla"
-  },
-  {
-    "titulo": "Motivos compartidos, un momento mal elegido",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/motivos-compartidos-momento-mal-elegido_206369_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794452400,
-    "fuente": "La Nueva Crónica · Opinión"
   },
   {
     "titulo": "La ausencia de Sánchez en el funeral de Toledo",
@@ -812,87 +917,6 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/09/75/4/mar-iglesias03-08-23.jpeg"
   },
   {
-    "titulo": "El Valle del Silicio",
-    "link": "https://www.lanuevacronica.com/opinion/valle-silicio_206192_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794282000,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Máximo Álvarez Rodríguez",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/59/4/maximob.jpeg"
-  },
-  {
-    "titulo": "Craso error",
-    "link": "https://www.lanuevacronica.com/opinion/craso-error_206191_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794281400,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Cristina Vega",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/13/84/8/cristina-vega-2.jpeg"
-  },
-  {
-    "titulo": "11-N, sobran motivos: Vivienda, salarios y precios",
-    "link": "https://www.lanuevacronica.com/opinion/11-n-sobran-motivos-vivienda-salarios-precios_206189_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794280800,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Roberto Echegaray",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/31/38/14/0/roberto-echegaray.jpeg"
-  },
-  {
-    "titulo": "A quien madruga...",
-    "link": "https://www.lanuevacronica.com/opinion/quien-madruga_206190_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794280200,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Maximino Cañón",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/24/26/86/4/imagen-maximino-canon-png.png"
-  },
-  {
-    "titulo": "Pasado de España & sus mitos, en la disputa del relato",
-    "link": "https://www.lanuevacronica.com/opinion/tribuna-de-opinion/pasado-espana-sus-mitos-en-disputa-relato_206188_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794279900,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "Una vergüenza que amenaza nuestra seguridad",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/verguenza-amenaza-nuestra-seguridad_206195_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794279600,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206196_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794279600,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "El valor de los muertos",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/valor-muertos_206194_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794279600,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "La Negrilla"
-  },
-  {
     "titulo": "Suspenden las clases en 32 municipios del sur de Ávila este martes y declaran la situación 2 por riesgo de inundaciones en la provincia",
     "link": "https://www.20minutos.es/castilla-y-leon/avila/cyl-suspende-las-clases-32-municipios-sur-avila-este-martes-declara-situacion-2-por-riesgo-inundaciones_7059039_0.html",
     "desc": "El Cecopi mantendrá un seguimiento permanente de la evolución meteorológica e hidrológica en el territorio afectado por las intensas lluvias.",
@@ -900,28 +924,6 @@
     "tipo": "noticia",
     "pub": 1794258998,
     "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "El alma de los brutos",
-    "link": "https://www.lanuevacronica.com/opinion/tribuna-de-opinion/alma-brutos_206145_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794223249,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Julio Llamazares",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/45/julio-llamazares-webb.jpeg"
-  },
-  {
-    "titulo": "Elecciones",
-    "link": "https://www.lanuevacronica.com/opinion/elecciones_206126_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794195600,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "María de los Ángeles Diez",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/31/29/88/3/angeles.jpeg"
   },
   {
     "titulo": "La Policía alerta del robo de cuentas de Whatsapp en Castilla y León: 600 en 2026",
