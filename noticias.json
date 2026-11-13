@@ -1,5 +1,95 @@
 [
   {
+    "titulo": "León abre la batalla electoral del 29N",
+    "link": "https://www.heraldodeleon.es/leon/leon-abre-batalla-electoral-29n/20261113013720117708.html",
+    "desc": "PSOE, PP, Vox y Frente Amplio protagonizan el arranque de una campaña marcada por la confrontación entre modelos políticos, las reivindicaciones provinciales y la disputa por el voto | Alantre y…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111301371367707.jpg",
+    "tipo": "noticia",
+    "pub": 1794530240,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Cendón llama a frenar la involución y concentrar el voto progresista en el PSOE",
+    "link": "https://www.heraldodeleon.es/leon/cendon-llama-frenar-involucion-concentrar-voto-progresista-psoe/20261113011924117706.html",
+    "desc": "Los socialistas abren la campaña del 29N con una pegada de carteles en la plaza de la Catedral de León y en Ponferrada para reivindicar los derechos sociales y la continuidad de las políticas de…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111301154456371.jpg",
+    "tipo": "noticia",
+    "pub": 1794529164,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La tradicional pegada de carteles da inicio a la carrera electoral del 29N",
+    "link": "https://www.elbierzodigital.com/la-tradicional-pegada-de-carteles-da-inicio-a-la-carrera-electoral-del-29n/",
+    "desc": "La avenida Pérez Colino de Ponferrada fue escenario a medianoche del arranque de la campaña electoral del 29 de noviembre . Los representantes de las principales candidaturas por León aprovecharon…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/la-tradicional-pegada-de-carteles-da-inicio-a-la-carrera-electoral-del-29n-el-bierzo-digital-1.jpg",
+    "tipo": "noticia",
+    "pub": 1794528688,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "Ester Muñoz pide el voto \"en defensa propia\" para acabar con el abandono de León",
+    "link": "https://www.heraldodeleon.es/leon/ester-munoz-pide-voto-defensa-propia-acabar-abandono-leon/20261113010618117693.html",
+    "desc": "La cabeza de lista del PP al Congreso abre la campaña del 29N con una pegada simbólica de carteles en la plaza de las Cortes Leonesas y reivindica a Feijóo como alternativa para recuperar la gestión…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111301014543314.jpg",
+    "tipo": "noticia",
+    "pub": 1794528378,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Calvo Liste llama a movilizarse para lograr un Vox fuerte que desaloje a Sánchez",
+    "link": "https://www.heraldodeleon.es/leon/calvo-liste-llama-movilizarse-lograr-vox-fuerte-que-desaloje-sanchez/20261113005144117679.html",
+    "desc": "El candidato al Congreso por León abre la campaña con una pegada simbólica de carteles en la plaza de Guzmán junto a Carlos Pollán, que augura quince días «sucios» y \"con violencia\" y reclama…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111300475275293.jpg",
+    "tipo": "noticia",
+    "pub": 1794527504,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Frente Amplio arranca en León la campaña del 29N con una pegada simbólica de carteles",
+    "link": "https://www.heraldodeleon.es/leon/frente-amplio-arranca-leon-campana-29n-pegada-simbolica-carteles/20261113004043117672.html",
+    "desc": "El candidato Rubén Estévez encabeza una lista que reivindica los servicios públicos, los derechos sociales y la igualdad de oportunidades para el conjunto de la provincia",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111300342269586.jpg",
+    "tipo": "noticia",
+    "pub": 1794526843,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El CIS sitúa al PSOE por delante del PP en Castilla y León de cara a las elecciones del 29N",
+    "link": "https://www.elbierzodigital.com/el-cis-situa-al-psoe-por-delante-del-pp-en-castilla-y-leon-de-cara-a-las-elecciones-del-29n/",
+    "desc": "El PSOE sería la fuerza política más votada en Castilla y León en las elecciones generales previstas para el próximo 29 de noviembre , según el último barómetro del Centro de Investigaciones…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-23-at-10.46.45.jpeg",
+    "tipo": "noticia",
+    "pub": 1794520230,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La Lotería Nacional deja una alegría en Valladolid: parte del segundo premio cae en un conocido polígono de la capital",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261112/loteria-nacional-deja-alegria-valladolid-parte-segundo-premio-cae-conocido-poligono-capital/1003744456588_0.html",
+    "desc": "El número agraciado, dotado con 60.000 euros al número, se ha vendido en un despacho receptor del Polígono de San Cristóbal. Más información: Doble alegría con la Lotería Nacional en la provincia de…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11400527.jpg?p=c:1199:675:nowe:0:125/w:1706/h:960&h=No19xFA4",
+    "tipo": "noticia",
+    "pub": 1794517453,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Ya hay fechas para la esperada Cabalgaza 2026 en cinco ciudades de Castilla y León",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261112/fechas-esperada-cabalgaza-ciudades-castilla-leon/1003744456585_0.html",
+    "desc": "Gaza lo ha desvelado a través de sus briks de leche. Más información: La Cabalgaza de Papá Noel llega este sábado a Valladolid: recorrido y horario",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10825158.jpg?p=w:1706/h:960&h=ixdlRiGZ",
+    "tipo": "noticia",
+    "pub": 1794516667,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Una jueza ordena el cese de la actividad de Núcleo Nacional: precinta sus sedes en Burgos, Valladolid y Madrid",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261112/jueza-ordena-cese-actividad-nucleo-nacional-precinta-sedes-burgos-valladolid-madrid/1003744456566_0.html",
+    "desc": "El operativo se saldó con 14 arrestos en siete provincias y 12 registros, entre ellos, la sede central de la formación en Madrid. Más información: La jueza deja en libertad restringida a diez…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11400510.png?p=w:1706/h:960&h=tLs0eKQt",
+    "tipo": "noticia",
+    "pub": 1794515322,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Ana Redondo culpa al ministerio de Irene Montero y se desvincula del contrato de las pulseras investigado por la UCO",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261112/ana-redondo-culpa-ministerio-irene-montero-desvincula-contrato-pulseras-investigado-uco/1003744456557_0.html",
     "desc": "“Este es un contrato de 2023, es un contrato del equipo anterior”, ha afirmado la ministra de Igualdad. Más información. Mañueco apunta a Ana Redondo: \"El PSOE tendrá que borrar también su nombre de…",
@@ -18,6 +108,15 @@
     "fuente": "La Nueva Crónica"
   },
   {
+    "titulo": "Tezanos cocina una mayoría de Sánchez en Castilla y León: el CIS da al PSOE hasta 18 escaños y deja al PP entre 10-15",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261112/tezanos-cocina-mayoria-sanchez-castilla-leon-cis-da-psoe-escanos-deja-pp/1003744456529_0.html",
+    "desc": "El organismo público otorga a los socialistas un 37,4% de los votos frente al 25,5% de los populares. Más información : La última estafa del CIS: publica un sondeo al inicio de campaña con una…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/9826357.jpg?p=w:1706/h:960&h=0VK-lgOf",
+    "tipo": "noticia",
+    "pub": 1794513025,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "La Bañeza inicia la renovación del alumbrado de toda la ciudad por 700.000 euros",
     "link": "https://www.lanuevacronica.com/actualidad/baneza-inicia-renovacion-alumbrado-toda-ciudad-por-700000-euros_206428_102.html",
     "desc": "Las obras estarán terminadas a finales de febrero y permitirán reducir el consumo energético, modernizar las luminarias y disminuir la contaminación lumínica",
@@ -25,6 +124,15 @@
     "tipo": "noticia",
     "pub": 1794511084,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Tachar a Óscar Puente en la papeleta del PSOE anulará el voto: la Junta Electoral Central corrige a la de Valladolid",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261112/tachar-oscar-puente-papeleta-psoe-anulara-voto-junta-electoral-central-corrige-valladolid/1003744456497_0.html",
+    "desc": "El organismo estima parcialmente el recurso del PP y corrige el criterio de la Junta Electoral Provincial de Valladolid. Más información: PP y Vox ironizan con \"tachar\" a Ana Redondo de la papeleta…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11391474.avif?p=w:1706/h:960&h=9KsyLO2n",
+    "tipo": "noticia",
+    "pub": 1794510201,
+    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Herido un hombre tras ser atropellado por un autobús urbano en León",
@@ -306,15 +414,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Villablino muestra en INTUR sus recursos naturales y culturales",
-    "link": "https://www.lanuevacronica.com/actualidad/villablino-muestra-en-intur-sus-recursos-naturales-culturales_206419_102.html",
-    "desc": "El Ayuntamiento y la Reserva de la Biosfera promocionarán los recursos del valle del 13 al 15 de noviembre en Valladolid",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/80/1/brana-buenverde290822-4-1000x563.jpeg",
-    "tipo": "noticia",
-    "pub": 1794500100,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Los vecinos de Piedralaves vuelven a sus casas tras dos días desalojados por el riesgo de desbordamiento de la presa de El Horcajo",
     "link": "https://www.20minutos.es/castilla-y-leon/avila/los-vecinos-piedralaves-vuelven-sus-casas-tras-dos-dias-desalojados-por-riesgo-desbordamiento-presa-horcajo_7060388_0.html",
     "desc": "Esta decisión hace que los estudiantes del municipio puedan retomar sus clases tras las borrascas que han azotado con dureza la provincia de Ávila.",
@@ -322,33 +421,6 @@
     "tipo": "noticia",
     "pub": 1794500032,
     "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "ColproLeón y el Colegio de la Abogacía reclaman \"seguridad jurídica\" para invertir y emprender en León",
-    "link": "https://www.lanuevacronica.com/actualidad/colproleon-colegio-abogacia-reclaman-seguridad-juridica-invertir-emprender-en-leon_206425_102.html",
-    "desc": "Piden que León aproveche su atractivo y no pierda la baza del teletrabajo, que permite deslocalizar el talento joven lejos de las grandes ciudades",
-    "img": "https://www.lanuevacronica.com/uploads/s1/33/16/75/1/abogados-leon-justicia.jpeg",
-    "tipo": "noticia",
-    "pub": 1794499733,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La Gasbi reconoce el compromiso con la higiene de cinco centros de salud",
-    "link": "https://www.elbierzodigital.com/la-gasbi-reconoce-el-compromiso-con-la-higiene-de-cinco-centros-de-salud/",
-    "desc": "La Gerencia de Asistencia Sanitaria del Bierzo ( Gasbi ) ha renovado los reconocimientos de compromiso con la higiene de manos a cinco centros de salud del Bierzo y Laciana : Fabero, Ponferrada III,…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/la-gasbi-reconoce-el-compromiso-con-la-higiene-de-cinco-centros-de-salud-el-bierzo-digital.jpg",
-    "tipo": "noticia",
-    "pub": 1794499070,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Caja Rural impulsa una nueva edición de 'Green Friday' para dinamizar el comercio de León",
-    "link": "https://www.lanuevacronica.com/actualidad/caja-rural-impulsa-nueva-edicion-green-friday-dinamizar-comercio-leon_206423_102.html",
-    "desc": "Del 13 al 24 de noviembre, los clientes de Caja Rural podrán disfrutar de un 10% de descuento en sus compras en los comercios adheridos de León",
-    "img": "https://www.lanuevacronica.com/uploads/s1/11/76/45/caja-rural-ordono-191213.jpeg",
-    "tipo": "noticia",
-    "pub": 1794498894,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El Gobierno de PP y Vox en Castilla y León obliga a firmar un compromiso 'antiideológico' a los cineastas que piden una subvención para cortometrajes",
@@ -360,76 +432,13 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "Unicaja completa su primer bono verde subordinado Tier 2 por 300 millones de euros",
-    "link": "https://www.lanuevacronica.com/panorama/unicaja-completa-su-primer-bono-verde-subordinado-tier-2-por-300-millones-euros_206422_102.html",
-    "desc": "Se trata de la primera emisión de deuda subordinada Tier 2 con etiqueta verde de Unicaja, que amplía así su actividad en los mercados de financiación sostenible, hasta ahora centrada en instrumentos…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/83/1/image.jpeg",
+    "titulo": "UPL: \"La segunda fase de San Marcos va a acabar siendo memoria histórica\"",
+    "link": "https://www.heraldodeleon.es/leon/upl-segunda-fase-san-marcos-va-acabar-siendo-tambien-memoria-historica/20261112145042117601.html",
+    "desc": "La Unión del Pueblo Leonés aplaude que el gobierno avance en la declaración de Lugar de Memoria pero considera una \"tomadura de pelo\" los retrasos en su ampliación",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/02/20/2025022014161472252.jpg",
     "tipo": "noticia",
-    "pub": 1794498241,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Qué se sabe de las oposiciones docentes de 2027 en Castilla y León",
-    "link": "https://www.lanuevacronica.com/estilo-vida/se-sabe-oposiciones-docentes-2027-en-castilla-leon_206421_102.html",
-    "desc": "Todavía no hay fecha ni plazas oficiales, pero sí un dato importante: por el sistema de alternancia que aplica la Junta, en 2027 corresponde al Cuerpo de Maestros convocar.",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/81/6/image.jpeg",
-    "tipo": "noticia",
-    "pub": 1794497957,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Castilla y León recibirá 667 millones para reforzar su red eléctrica: habrá seis nuevas subestaciones",
-    "link": "https://www.elespanol.com/castilla-y-leon/economia/20261112/castilla-leon-recibira-millones-reforzar-red-electrica-nuevas-subestaciones/1003744456037_0.html",
-    "desc": "La cifra representa el 3,9% del presupuesto nacional, según los datos del Ministerio. Más información: Aagesen defiende un 'megaplan' de 17.142 millones en redes para impulsar más de 47 GW de nueva…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10996044.jpg?p=c:3373:1897:nowe:627:19/w:1706/h:960&h=BG2mYzEC",
-    "tipo": "noticia",
-    "pub": 1794496863,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La Junta libera 80.000 € para la reparación del voladizo de la Ruta del Cares",
-    "link": "https://www.lanuevacronica.com/actualidad/junta-libera-80000-reparacion-voladizo-ruta-cares_206418_102.html",
-    "desc": "Los trabajos de emergencia tras un desprendimiento en el Puente de los Rebecos permitieron reabrir la senda el pasado 30 de octubre",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/78/1/imagen-de-la-pasarela-reparada-en-la-ruta-del-cares.jpeg",
-    "tipo": "noticia",
-    "pub": 1794496240,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "El campo en Castilla y León genera más de 10.100 millones: líder nacional en producción de cereales y ganado bovino",
-    "link": "https://www.elespanol.com/castilla-y-leon/economia/el-campo/20261112/campo-castilla-leon-genera-millones-lider-nacional-produccion-cereales-ganado-bovino/1003744455959_0.html",
-    "desc": "La Comunidad cuenta con el tercer mayor tejido empresarial del país, según el informe elaborado por Cajamar. Más información: El sector agroalimentario de Castilla y León es ya el quinto más…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11400122.jpg?p=w:1706/h:960&h=8PBtuhAD",
-    "tipo": "noticia",
-    "pub": 1794493736,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "El Hospital El Bierzo recibe un premio nacional por su proyecto de humanización ‘Hogar Dulce Hogar’",
-    "link": "https://www.elbierzodigital.com/el-hospital-el-bierzo-recibe-un-premio-nacional-por-su-proyecto-de-humanizacion-hogar-dulce-hogar/",
-    "desc": "El proyecto ‘Hogar Dulce Hogar ’, impulsado por la Gerencia de Asistencia Sanitaria del Bierzo (Gasbi), ha recibido el Premio Best in Class (BIC) de Gaceta Médica al Mejor Proyecto de Humanización…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/el-hospital-el-bierzo-recibe-un-premio-nacional-por-su-proyecto-de-humanizacion-hogar-dulce-hogar-el-bierzo-digital.jpeg",
-    "tipo": "noticia",
-    "pub": 1794493399,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "León reúne a organizaciones en el II Simposio Global de Familias Monoparentales",
-    "link": "https://www.heraldodeleon.es/sociedad/leon-reune-organizaciones-seis-paises-ii-simposio-global-familias-monoparentales/20261112151633117614.html",
-    "desc": "El encuentro, organizado por la Fundación Isadora Duncan del 18 al 20 de noviembre, abordará los retos de la monoparentalidad y entregará el I Premio \"Familias que inspiran\", dotado con 1.000 euros",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111215140178928.jpg",
-    "tipo": "noticia",
-    "pub": 1794492993,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "La Maragatería reúne tres días de literatura, memoria y cultura con el Otoño Literario",
-    "link": "https://www.heraldodeleon.es/cultura/maragateria-reune-tres-dias-literatura-memoria-cultura-popular-otono-literario/20261112151538117613.html",
-    "desc": "La Fundación Club 45 programa del viernes 13 al domingo 15 tres encuentros con la escritora Myeongzhi Song Lim, el autor leonés Ignacio Fernández Herrero y Jesús Gil, responsable de la librería…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111215133283363.jpg",
-    "tipo": "noticia",
-    "pub": 1794492938,
-    "fuente": "Heraldo de León"
+    "pub": 1794491442,
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "CCOO cifra en un 70% el seguimiento de la huelga en Castilla y León y la patronal lo rebaja al 1,5%",
@@ -540,15 +549,6 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "CEOE considera que los sindicatos \"están arrepentidos\" por su \"irresponsabilidad\"",
-    "link": "https://www.heraldodeleon.es/leon/santiago-aparicio-considera-que-sindicatos-estan-arrepentidos-irresponsabilidad/20261112125859117545.html",
-    "desc": "\"La actividad empresarial se impuso a la huelga\", afirma el presidente de la CEOE Castilla y León durante la celebración de la Junta Directiva en León, en la que se rinde homenaje a Fátima Báñez",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/12/2026111212515919148.jpg",
-    "tipo": "noticia",
-    "pub": 1794484739,
-    "fuente": "Heraldo de León · León"
-  },
-  {
     "titulo": "Al encuentro de los papones",
     "link": "https://www.lanuevacronica.com/opinion/encuentro-papones_206367_102.html",
     "desc": "",
@@ -604,6 +604,15 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/26/12/19/2/imagen-alvaro-alonso-copia.jpeg"
   },
   {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206370_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794452400,
+    "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
     "titulo": "El café a precio de huelga",
     "link": "https://www.lanuevacronica.com/opinion/la-negrilla/cafe-precio-huelga_206368_102.html",
     "desc": "",
@@ -616,15 +625,6 @@
   {
     "titulo": "Motivos compartidos, un momento mal elegido",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/motivos-compartidos-momento-mal-elegido_206369_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794452400,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206370_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
@@ -737,8 +737,8 @@
     "autor": "La Negrilla"
   },
   {
-    "titulo": "La vivienda ante las urnas del 29-N",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/vivienda-urnas-29-n_206277_102.html",
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206278_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
@@ -746,8 +746,8 @@
     "fuente": "La Nueva Crónica · Opinión"
   },
   {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206278_102.html",
+    "titulo": "La vivienda ante las urnas del 29-N",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/vivienda-urnas-29-n_206277_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
