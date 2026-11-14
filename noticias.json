@@ -635,15 +635,6 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/32/11/06/3/nacho-barrio.jpeg"
   },
   {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206452_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794538800,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
     "titulo": "El lápiz del carpintero, a juicio",
     "link": "https://www.lanuevacronica.com/opinion/la-negrilla/lapiz-carpintero-juicio_206450_102.html",
     "desc": "",
@@ -656,6 +647,15 @@
   {
     "titulo": "La inmigración devuelve la esperanza a León",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/inmigracion-devuelve-esperanza-leon_206451_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794538800,
+    "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206452_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
