@@ -1,5 +1,186 @@
 [
   {
+    "titulo": "Pinhel brinda por su tierra y convierte el vino en memoria compartida",
+    "link": "https://www.elespanol.com/castilla-y-leon/portugal/20261114/pinhel-brinda-tierra-convierte-vino-memoria-compartida/1003744458328_0.html",
+    "desc": "La inauguración de la feria Beira Interior – Vinhos & Sabores reúne al ministro de Economía y Cohesión Territorial, al presidente de Turismo Centro y a la presidenta de la Cámara Municipal de Pinhel…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11401668.jpg?p=w:1706/h:960&h=TUd7VWNY",
+    "tipo": "noticia",
+    "pub": 1794646036,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El disputado diputado de León: provincia decisiva el 29N ante el avance de Vox",
+    "link": "https://www.heraldodeleon.es/leon/disputado-diputado-leon-provincia-decisiva-29n-avance-vox/20261114094539117854.html",
+    "desc": "El PSOE y el PP sitúan a la provincia entre sus 18 circunscripciones prioritarias para las generales, con cuatro diputados en juego y un reparto histórico de dos representantes socialistas y dos…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/14/2026111409445713711.jpg",
+    "tipo": "noticia",
+    "pub": 1794645939,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El Euromillones deja un buen saco de billetes en un municipio de Salamanca y el bote crece hasta los 26 millones",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261114/euromillones-deja-buen-saco-billetes-municipio-salamanca-bote-crece-millones/1003744458306_0.html",
+    "desc": "Gracias a un premio de tercera categoría con más de 20.000 euros. Más información: Un pueblo de Valladolid se lleva un buen saco de billetes con el EuroMillones y mira a un bote histórico de 150…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11401649.jpg?p=w:1706/h:960&h=ftokYkg9",
+    "tipo": "noticia",
+    "pub": 1794644844,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "León lidera la subida del precio de la vivienda en España con un alza del 25,5%: \"Se compró en 2023 en 220.000 euros; lo acabo de vender en 310.000 este año\"",
+    "link": "https://www.heraldodeleon.es/leon/leon-lidera-subida-precio-vivienda-espana-alza-255-compro-2023-220000-euros-acabo-vender-310000/20261114091251117852.html",
+    "desc": "El metro cuadrado de los pisos de segunda mano se encarece un 24,7% en la capital leonesa, que registra el segundo mayor incremento entre las capitales de provincia, solo por detrás de Zamora",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/03/23/2026032307595928664.jpg",
+    "tipo": "noticia",
+    "pub": 1794643971,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Lucía Domínguez, creando en su trastero de Turienzo para el mundo",
+    "link": "https://www.elbierzodigital.com/lucia-dominguez-creando-en-su-trastero-de-turienzo-para-el-mundo/",
+    "desc": "La historia de El Trastero de Luli comienza en plena pandemia, cuando Lucía Domínguez empezó a coser mascarillas para proteger a su marido porque \"tenía pánico\", como nos confiesa en su terrazada de…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/Lucia-Dominguez-5-el-bierzo-digital.jpeg",
+    "tipo": "noticia",
+    "pub": 1794643213,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "De granero prioritario a territorio secundario: el cambio de foco de los candidatos en Castilla y León ante el 29-N",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261114/granero-prioritario-territorio-secundario-cambio-foco-candidatos-castilla-leon/1003744457239_0.html",
+    "desc": "Los líderes nacionales, omnipresentes en la Comunidad en precampaña, se centrarán en territorios más poblados en la recta final. Más información: La campaña del 29-N en Castilla y León arranca tensa…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11401031.jpg?p=w:1706/h:960&h=wKeC96NZ",
+    "tipo": "noticia",
+    "pub": 1794636000,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Cuatro museos, cuatro viajes: otra forma de descubrir Castilla y León",
+    "link": "https://www.elespanol.com/castilla-y-leon/vivir/20261114/museos-viajes-forma-descubrir-castilla-leon/1003744453572_0.html",
+    "desc": "La Junta presenta este sábado en Intur espacios desde los que se enhebran patrimonio, paisaje y gastronomía en la Comunidad. Más información: Yoko Ono mira al pasado en León con su mayor…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11400171.jpg?p=w:1706/h:960&h=5lcijjjv",
+    "tipo": "noticia",
+    "pub": 1794636000,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El Chef Bosquet lleva su cocina saludable a Vallsur: \"La gente verá una forma muy divertida de hacer piña en familia\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261114/chef-bosquet-lleva-cocina-saludable-vallsur-gente-vera-forma-divertida-hacer-pina-familia/1003744457848_0.html",
+    "desc": "El conocido creador de contenido dirigirá el concurso familiar de 'Una Aventura con Sabrosura'. Más información : Chef Bosquet, protagonista en Vallsur de un gran concurso de cocina saludable: 10…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11401408.jpg?p=c:1440:810:nowe:78:75/w:1706/h:960&h=TnrMM3I7",
+    "tipo": "noticia",
+    "pub": 1794636000,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Yolanda, alcaldesa de un pueblo de 85 habitantes: \"Tenemos varias casas para comprar y un bar en alquiler por 10 euros\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261114/yolanda-alcaldesa-pueblo-habitantes-varias-casas-comprar-bar-alquiler-euros-trt/1003744452900_0.html",
+    "desc": "En Villacid (Valladolid) hay atención sanitaria semanal, los servicios básicos y la posibilidad de encontrar vivienda y trabajo. Más información : Paco, alcalde de un pueblo de 290 habitantes:…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11398607.jpg?p=w:1706/h:960&h=yk45mErj",
+    "tipo": "noticia",
+    "pub": 1794636000,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Mateo y Sergio abren un nuevo bar con genuinos aperitivos a la italiana: \"Queremos que la gente disfrute su propia serata\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261114/mateo-sergio-abren-nuevo-bar-genuinos-aperitivos-italiana-queremos-gente-disfrute-propia-serata-trt/1003744455873_0.html",
+    "desc": "La propuesta, en Parquesol, combina el legado familiar de Mateo en el Pinchín y la experiencia en hostelería de Sergio. Más información : David, barista, vuelve a su barrio para convertir un local…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11400756.jpg?p=c:4000:2252:nowe:0:306/w:1706/h:960&h=TtWdhQQp",
+    "tipo": "noticia",
+    "pub": 1794636000,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "La casa encantadora",
+    "link": "https://www.lanuevacronica.com/opinion/casa-encantadora_206509_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794628200,
+    "fuente": "La Nueva Crónica",
+    "autor": "Marta Redondo",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/82/58/1/marfte-redondo-2.jpeg"
+  },
+  {
+    "titulo": "La adolescencia frente a un espejo imposible",
+    "link": "https://www.lanuevacronica.com/opinion/adolescencia-frente-espejo-imposible_206508_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794627600,
+    "fuente": "La Nueva Crónica",
+    "autor": "Marina Diez",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/29/72/00/2/imagen-marina-diez.gif"
+  },
+  {
+    "titulo": "Mucho ruido y poca entrevista",
+    "link": "https://www.lanuevacronica.com/opinion/mucho-ruido-poca-entrevista_206507_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794627000,
+    "fuente": "La Nueva Crónica",
+    "autor": "Pedro Lechuga Mallo",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/54/81/0/pedro-lechuga-mallo2.jpeg"
+  },
+  {
+    "titulo": "Huelga a la carta",
+    "link": "https://www.lanuevacronica.com/opinion/huelga-carta_206506_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794626400,
+    "fuente": "La Nueva Crónica",
+    "autor": "Marta Muñiz Rueda",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/32/98/30/2/marta-muniz.gif"
+  },
+  {
+    "titulo": "Parte de campaña",
+    "link": "https://www.lanuevacronica.com/opinion/parte-campana_206505_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794625800,
+    "fuente": "La Nueva Crónica",
+    "autor": "Ángel Suárez Corrons",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/22/43/58/0/angel-suarez-2024.jpeg"
+  },
+  {
+    "titulo": "Casi 80.000 votos se quedaron sin diputado en León en las últimas elecciones generales",
+    "link": "https://www.lanuevacronica.com/actualidad/casi-80000-votos-se-quedaron-sin-diputado-en-leon-en-ultimas-elecciones-generales_206438_102.html",
+    "desc": "La provincia repartirá de nuevo cuatro escaños para el Congreso el 29 de noviembre, dos menos que al comienzo de la democracia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/98/32/0/imagen-de-archivo-de-una-mujer-introduciendo-su-voto-dentro-de-la-urna-electoral-en-las-elecciones-generales-de-2019.jpeg",
+    "tipo": "noticia",
+    "pub": 1794625200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_206492_102.html",
+    "desc": "El humorista gráfico Rubén Cantón lanza una nueva pregunta sobre curiosidades de la provincia de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/99/23/5/14-11-2026-las-cucerias-de-canton.jpeg",
+    "tipo": "noticia",
+    "pub": 1794625200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Horno de Choni: donde todo el año huele a empanada y al dulce de cada estación",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/horno-choni-donde-todo-ano-huele-empanada-dulce-cada-estacion_206386_102.html",
+    "desc": "El Horno de Choni lleva afincado en el mismo local de San Claudio desde el año 2006, aunque su historia se remonta a 1989",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/01/5/el-horno-de-choni-esta-ubicado-en-la-esquina-de-la-calle-san-claudio-con-parroco-don-carmelo-rodriguez-l-n-c.jpeg",
+    "tipo": "noticia",
+    "pub": 1794625200,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Destriana estrena un nuevo rincón para poner en valor su patrimonio",
+    "link": "https://www.lanuevacronica.com/actualidad/destriana-estrena-nuevo-rincon-poner-en-valor-su-patrimonio_206499_102.html",
+    "desc": "El Ayuntamiento instala un panel informativo de la Ruta de los Pozos y un banco de madera con el nombre de la localidad",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/99/34/7/destriana-estrena-un-nuevo-rincon-para-poner-en-valor-su-patrimonio.jpeg",
+    "tipo": "noticia",
+    "pub": 1794624900,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Nafti: \"Estoy más orgulloso que fastidiado\"",
     "link": "https://www.lanuevacronica.com/deportes/nafti_206512_102.html",
     "desc": "El técnico de la Deportiva era muy claro tras la derrota ante el Cacereño \"es una derrota y cero puntos, pero estoy mejor que la semana pasada\" y resalta que \"se puede dormir tranquilo con esta…",
@@ -153,15 +334,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Biocastanea abre en Carracedelo su escaparate de la castaña con 45 expositores, Quiñones y Muñoz",
-    "link": "https://www.lanuevacronica.com/el-bierzo/biocastanea-abre-en-carracedelo-su-escaparate-castana-con-45-expositores-ester-munoz_206501_102.html",
-    "desc": "La número uno al Congreso y Juan Carlos Suárez-Quiñones participaron en la apertura de la feria, que reivindica el potencial de la agroalimentación berciana pese a una cosecha que no alcanzará la…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/99/40/6/biocastanea.jpeg",
-    "tipo": "noticia",
-    "pub": 1794595437,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Ester Muñoz pide en Ponferrada el voto para el PP: «Es ahora o nunca»",
     "link": "https://www.lanuevacronica.com/el-bierzo/ester-munoz-pide-en-ponferrada-voto-pp-es-ahora-nunca_206502_102.html",
     "desc": "La cabeza de lista al Congreso por León abrió la campaña berciana en la sala Río Selmo, donde reivindicó la fuerza del municipalismo y reclamó la implicación de todos para propiciar un cambio de…",
@@ -207,15 +379,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Ocho rutas para ver el otoño en León: hayedos centenarios, castaños y el bosque mejor cuidado de España",
-    "link": "https://www.lanuevacronica.com/actualidad/ocho-rutas-ver-otono-en-leon-hayedos-centenarios-castanos-bosque-mejor-cuidado-espana_206477_102.html",
-    "desc": "Del Faedo de Ciñera a los castaños de Las Médulas, ocho paseos de dificultad baja o media para disfrutar de los colores de la estación antes de que llegue el invierno",
-    "img": "https://www.lanuevacronica.com/uploads/s1/11/71/02/hayedo-camino-06-01-21-web.jpeg",
-    "tipo": "noticia",
-    "pub": 1794592816,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El PACMA convertirá este sábado a Medinaceli en el \"nuevo Tordesillas\" para erradicar también el Toro Jubilo",
     "link": "https://www.20minutos.es/castilla-y-leon/soria/pacma-convertira-este-sabado-medinaceli-nuevo-tordesillas-para-erradicar-tambien-toro-jubilo_7060961_0.html",
     "desc": "El partido animalista ha convocado una protesta este sábado en Medinaceli para exigir el fin del festejo, el último de su modalidad en Castilla y León.",
@@ -234,15 +397,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Para cumplir el trámite",
-    "link": "https://www.lanuevacronica.com/a-la-contra-2/cumplir-tramite_206500_102.html",
-    "desc": "La última de La Nueva Cronica",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/99/38/6/imagen-img-0157.jpeg",
-    "tipo": "noticia",
-    "pub": 1794591532,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Los conductores urbanos denuncian la falta de visibilidad en los autobuses eléctricos",
     "link": "https://www.heraldodeleon.es/leon/conductores-urbanos-denuncian-falta-visibilidad-autobuses-electricos-leon/20261113183030117833.html",
     "desc": "El Comité de Empresa vincula el reciente atropello de un peatón con los ángulos muertos de los Irizar ie tram y recuerda que ya alertó a la Inspección de Trabajo en mayo de 2024 | Los representantes…",
@@ -250,15 +404,6 @@
     "tipo": "noticia",
     "pub": 1794591030,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Real Unión - Cultural: 'Un partido que puede marcar el futuro'",
-    "link": "https://www.lanuevacronica.com/deportes/real-union-cultural-partido-puede-marcar-futuro_206471_102.html",
-    "desc": "La Cultural busca este sábado un triunfo que haga duradera la 'era Portillo' ante un Real Unión que sólo ha perdido un partido en casa pero únicamente ganó uno de sus 9 últimos encuentros",
-    "img": "https://www.lanuevacronica.com/uploads/s1/27/72/55/9/cultural-real-union-pibe.jpeg",
-    "tipo": "noticia",
-    "pub": 1794590875,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "León convierte el Camino de Santiago en una invitación a quedarse y disfrutar",
@@ -306,24 +451,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "UPL La Robla cuestiona el coste del restaurante del polideportivo",
-    "link": "https://www.lanuevacronica.com/actualidad/upl-robla-cuestiona-coste-restaurante-polideportivo_206496_102.html",
-    "desc": "Advierten de que la primera fase, presupuestada en medio millón, no incluye la cocina ni el equipamiento necesario para abrirlo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/99/27/9/detalle-del-estado-del-inmueble-objeto-del-proyecto-de-renovacion-tal-y-como-aparece-en-el-proyecto-quiros-presa.jpeg",
-    "tipo": "noticia",
-    "pub": 1794589200,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Felipe VI guarda un minuto de silencio por el policía leonés fallecido en Oviedo",
-    "link": "https://www.lanuevacronica.com/actualidad/felipe-vi-guarda-minuto-silencio-por-policia-leones-fallecido-en-oviedo_206498_102.html",
-    "desc": "El homenaje ha tenido lugar durante el acto del 50º aniversario de la Unidad Aérea de la Policía Nacional, celebrado en la Base Aérea de Cuatro Vientos, en recuerdo del subinspector natural de Santa…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/99/33/4/whatsapp-image-2026-11-13-at-17-58-22.jpeg",
-    "tipo": "noticia",
-    "pub": 1794589195,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Ademar visita Torrelavega ante cuatro viejos conocidos de la familia marista",
     "link": "https://www.heraldodeleon.es/deportes/ademar/ademar-visita-torrelavega-cuatro-viejos-conocidos-familia-marista/20261113175633117822.html",
     "desc": "El conjunto leonés se mide este sábado (17.00 horas) al quinto clasificado en el pabellón Vicente Trueba, en un duelo de la novena jornada de la Liga Asobal | Jacobo Cuétara, Saeid, Juanjo Fernández…",
@@ -333,39 +460,21 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "El acto del ministro Albares en Ponferrada cambia de ubicación",
-    "link": "https://www.lanuevacronica.com/el-bierzo/acto-ministro-albares-en-ponferrada-cambia-ubicacion_206497_102.html",
-    "desc": "La participación del titular de la cartera de Asuntos Exteriores, Unión Europea y Cooperación en \"un magosto con música en directo\" será finalmente en el colegio Navaliegos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/99/31/7/albares.jpeg",
-    "tipo": "noticia",
-    "pub": 1794588834,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Portillo: \"Me siento preparado, afronto esto como una final\"",
-    "link": "https://www.lanuevacronica.com/deportes/portillo-me-siento-preparado-afronto-esto-como-final_206482_102.html",
-    "desc": "El nuevo técnico de la Cultural se toma \"como algo muy bonito poder ayudar al club en una situación adversa\" y siente en la plantilla \"predisposición, ganas de reivindicarse y ambición por revertir…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/99/12/8/portillo2.jpeg",
-    "tipo": "noticia",
-    "pub": 1794588737,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los centros de salud del Bierzo acercan la prevención de la diabetes a la población",
-    "link": "https://www.lanuevacronica.com/el-bierzo/centros-salud-bierzo-acercan-prevencion-diabetes-poblacion_206495_102.html",
-    "desc": "La Gasbi organiza mesas informativas, controles de glucemia y pruebas para evaluar el riesgo de desarrollar diabetes tipo 2 en una jornada con motivo del Día Mundial de la enfermedad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/99/29/5/dia-de-la-diabetes-2026-centro-de-salud-ponferrada-ii.jpeg",
-    "tipo": "noticia",
-    "pub": 1794588616,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Celia Miranda lleva el sonido del órgano barroco a Santa Marina la Real",
     "link": "https://www.heraldodeleon.es/cultura/celia-miranda-lleva-sonido-organo-barroco-santa-marina-real/20261113171524117821.html",
     "desc": "La profesora del Conservatorio de León ofrecerá este domingo, 15 de noviembre, un recital gratuito dentro de FAMOL26, con un repertorio que reúne composiciones europeas de los siglos XVI, XVII y…",
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111317145816229.jpg",
     "tipo": "noticia",
     "pub": 1794586524,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "El 29N arranca en León: del chocolate con pastas, al desayuno con los medios y la campaña a pie de calle",
+    "link": "https://www.heraldodeleon.es/leon/29n-arranca-leon-chocolate-pastas-desayuno-medios-campana-pie-calle/20261113125725117773.html",
+    "desc": "El PSOE despliega su food truck con Nuria Rubio en San Marcelo, el PP sitúa a Ester Muñoz en el centro de su estrategia electoral y Alantre busca hacerse visible con sus reivindicaciones leonesistas…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111312493823254.jpg",
+    "tipo": "noticia",
+    "pub": 1794585445,
     "fuente": "Heraldo de León"
   },
   {
@@ -396,67 +505,31 @@
     "fuente": "eldiario.es · CyL"
   },
   {
-    "titulo": "Ester Muñoz agita la campaña del PP en Ponferrada: «Ahora o nunca. Nos jugamos España»",
-    "link": "https://www.elbierzodigital.com/ester-munoz-agita-la-campana-del-pp-en-ponferrada-ahora-o-nunca-nos-jugamos-espana/",
-    "desc": "La sala Río Selmo se quedó pequeña para acoger a los numerosos afiliados y simpatizantes del Partido Popular que asistieron al acto de campaña celebrado en Ponferrada y encabezado por Ester Muñoz ,…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/esterr-munoz-nos-jugamos-espana-el-bierzo-digital.jpeg",
+    "titulo": "UPL acusa al pedáneo de Armunia de hacer política en lugar de atender a los vecinos",
+    "link": "https://www.heraldodeleon.es/leon/upl-acusa-pedaneo-armunia-hacer-politica-lugar-atender-vecinos/20261113143821117808.html",
+    "desc": "El portavoz municipal leonesista, Eduardo López Sendino, responde al representante del PP tras sus críticas y defiende que la intervención de su grupo permitió resolver un problema denunciado por…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/04/21/2026042112351252397.jpg",
     "tipo": "noticia",
-    "pub": 1794582670,
-    "fuente": "El Bierzo Digital"
+    "pub": 1794577101,
+    "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "El PP acusa al Gobierno de \"maltratar\" a Zamora y acusan al PSOE de la provincia: \"Han preferido mirar hacia otro lado\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261113/pp-acusa-gobierno-maltratar-zamora-acusan-psoe-provincia-preferido-mirar-lado/1003744457717_0.html",
-    "desc": "José María Barrios, Fernando Martínez-Maíllo y Óscar Ramajo recorren Villaralbo, Moraleja del Vino, Fuentespreadas y Corrales del Vino de cara al 29N y denuncian la falta de mantenimiento en las…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11401267.jpg?p=c:1883:1060:nowe:84:275/w:1706/h:960&h=CUE6IRL3",
+    "titulo": "El corazón de la solidaridad",
+    "link": "https://www.heraldodeleon.es/leon/corazon-solidaridad/20261113143022117805.html",
+    "desc": "La Feria Solidaria ESSAR reúne en León arte religioso y artesanía cofrade a favor de Cáritas y Manos Unidas | La cita se celebra hasta el 15 de noviembre en el Museo Diocesano y de Semana Santa",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111314245486734.jpg",
     "tipo": "noticia",
-    "pub": 1794581867,
-    "fuente": "El Español · CyL"
+    "pub": 1794576622,
+    "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "Los centros de salud del Bierzo acercan la prevención de la diabetes a la ciudadanía",
-    "link": "https://www.elbierzodigital.com/los-centros-de-salud-del-bierzo-acercan-la-prevencion-de-la-diabetes-a-la-ciudadania/",
-    "desc": "Los centros de salud y consultorios del Bierzo han dedicado este viernes, 13 de noviembre, una jornada a informar sobre la diabetes y la importancia de anticiparse a su aparición. La Gerencia de…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/los-centros-de-salud-del-bierzo-acercan-la-prevencion-de-la-diabetes-a-la-ciudadania-el-bierzo-digital.jpeg",
+    "titulo": "El PSOE refuerza con CCOO su compromiso con el empleo de calidad y los derechos laborales",
+    "link": "https://www.heraldodeleon.es/leon/psoe-leon-refuerza-ccoo-compromiso-empleo-calidad/20261113143017117804.html",
+    "desc": "La candidatura socialista aborda con el sindicato las principales reivindicaciones laborales y sociales de la provincia y valora los avances del Gobierno de Pedro Sánchez en materia de empleo,…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111314275142785.jpg",
     "tipo": "noticia",
-    "pub": 1794579892,
-    "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "El deterioro del canal de Villares provoca un derrumbe en Benavides de Órbigo",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/deterioro-canal-villares-provoca-derrumbe-benavides-orbigo/20261113151753117818.html",
-    "desc": "El desplome de parte de la infraestructura de riego se produce tras varios días de precipitaciones y reabre el debate sobre la conservación de los cauces del municipio | El PP local, cuyo portavoz…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111315150312264.jpg",
-    "tipo": "noticia",
-    "pub": 1794579473,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El PSOE aborda con la Fele propuestas para impulsar la economía y el empleo en León",
-    "link": "https://www.heraldodeleon.es/leon/psoe-aborda-fele-propuestas-impulsar-economia-empleo-leon/20261113150553117816.html",
-    "desc": "La candidatura socialista al Congreso y al Senado mantiene un encuentro con la Federación Leonesa de Empresarios para escuchar al sector y abordar las oportunidades de crecimiento de la provincia…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111315010531208.jpg",
-    "tipo": "noticia",
-    "pub": 1794578753,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Abascal visita Salamanca para impulsar a Vox en la batalla por el último escaño que puede arrebatar al PP en la provincia",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261113/abascal-visita-salamanca-impulsar-vox-batalla-ultimo-escano-puede-arrebatar-pp/1003744457640_0.html",
-    "desc": "El líder nacional de la formación comparecerá el próximo viernes 20 de noviembre en la Plaza Mayor, en plena campaña electoral. Más información: Abascal vuelve a Castilla y León la próxima semana en…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11401212.jpg?p=c:3000:1687:nowe:231:196/w:1706/h:960&h=76XxijNU",
-    "tipo": "noticia",
-    "pub": 1794578230,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La Justicia confirma la obligación de repetir las elecciones sindicales en LM (GE Vernova)",
-    "link": "https://www.elbierzodigital.com/la-justicia-confirma-la-obligacion-de-repetir-las-elecciones-sindicales-en-lm-ge-vernova/",
-    "desc": "La resolución judicial sobre las elecciones sindicales de LM (GE Vernova), en Ponferrada, confirma la necesidad de repetir el proceso electoral . El Juzgado de lo Social número 2 de Ponferrada ha…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/08/trabajo-declara-nulas-las-votaciones-sindicales-en-ge-vernova-el-bierzo-digital.jpg",
-    "tipo": "noticia",
-    "pub": 1794578094,
-    "fuente": "El Bierzo Digital"
+    "pub": 1794576617,
+    "fuente": "Heraldo de León · León"
   },
   {
     "titulo": "Isadora Duncan organiza un taller para aprender a elaborar jabones y cosméticos naturales",
@@ -504,15 +577,6 @@
     "fuente": "Heraldo de León · León"
   },
   {
-    "titulo": "El 29N arranca en León: del chocolate con pastas, al desayuno con los medios y la campaña a pie de calle",
-    "link": "https://www.heraldodeleon.es/leon/29n-arranca-leon-chocolate-pastas-desayuno-medios-campana-pie-calle/20261113125725117773.html",
-    "desc": "El PSOE despliega su food truck con Nuria Rubio en San Marcelo, el PP sitúa a Ester Muñoz en el centro de su estrategia electoral y Alantre busca hacerse visible con sus reivindicaciones leonesistas…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111312493823254.jpg",
-    "tipo": "noticia",
-    "pub": 1794571045,
-    "fuente": "Heraldo de León · León"
-  },
-  {
     "titulo": "El Ayuntamiento recupera en imágenes cuatro décadas de historia de la ciudad",
     "link": "https://www.heraldodeleon.es/leon/ayuntamiento-leon-recupera-imagenes-cuatro-decadas-historia-ciudad/20261113124959117771.html",
     "desc": "El Consistorio adquiere por 60.000 euros el fondo fotográfico de César Andrés Delgado, con cerca de 100.000 imágenes que documentan la evolución política, social, cultural y urbanística de León…",
@@ -528,24 +592,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111312363349754.jpg",
     "tipo": "noticia",
     "pub": 1794569838,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "El Archivo Municipal programa un ciclo de talleres sobre 'El legado del agua' en León",
-    "link": "https://www.heraldodeleon.es/leon/archivo-municipal-programa-ciclo-talleres-didacticos-legado-agua/20261113121039117755.html",
-    "desc": "Bajo el título 'El legado del agua. Las fuentes históricas y el abastecimiento en León', se desarrollará en 33 sesiones únicas y gratuitas entre noviembre y febrero",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111312073686257.jpg",
-    "tipo": "noticia",
-    "pub": 1794568239,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Ester Muñoz dixit: diez frases para entender el arranque electoral del PP en León",
-    "link": "https://www.heraldodeleon.es/leon/ester-munoz-dixit-diez-frases-entender-arranque-electoral-pp-leon/20261113120825117754.html",
-    "desc": "La cabeza de lista popular al Congreso convierte la campaña del 29N en un escaparate de críticas a Pedro Sánchez, Begoña Gómez y el CIS, reivindica la gestión de Feijóo y reclama movilizar el voto…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/13/2026111312064555488.jpg",
-    "tipo": "noticia",
-    "pub": 1794568105,
     "fuente": "Heraldo de León · León"
   },
   {
@@ -635,6 +681,15 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/32/11/06/3/nacho-barrio.jpeg"
   },
   {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206452_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794538800,
+    "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
     "titulo": "El lápiz del carpintero, a juicio",
     "link": "https://www.lanuevacronica.com/opinion/la-negrilla/lapiz-carpintero-juicio_206450_102.html",
     "desc": "",
@@ -654,13 +709,13 @@
     "fuente": "La Nueva Crónica · Opinión"
   },
   {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206452_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794538800,
-    "fuente": "La Nueva Crónica · Opinión"
+    "titulo": "La Junta Electoral Central corrige a la de Valladolid y declara nulos los votos al PSOE con el nombre de Óscar Puente tachado",
+    "link": "https://www.eldiario.es/castilla-y-leon/politica/junta-electoral-central-corrige-valladolid-declara-nulos-votos-psoe-nombre-oscar-puente-tachado_1_13659364.html",
+    "desc": "Tanto PP como PSOE recurrieron el acuerdo de la JEP: el primero para que no se consideren válidos los votos en papeletas con tachaduras y el segundo para que se pudiesen modificar y eliminar el…",
+    "img": "https://static.eldiario.es/clip/19804467-00a0-4b1d-85f5-5e1a385b8d14_16-9-discover-aspect-ratio_default_0.jpg",
+    "tipo": "noticia",
+    "pub": 1794503187,
+    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "Los vecinos de Piedralaves vuelven a sus casas tras dos días desalojados por el riesgo de desbordamiento de la presa de El Horcajo",
@@ -850,34 +905,6 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/48/xuasusb.jpeg"
   },
   {
-    "titulo": "El mejor día para ser sindicalista... o el peor",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/mejor-dia-ser-sindicalista-peor_206276_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794366000,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "La Negrilla"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206278_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794366000,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "La vivienda ante las urnas del 29-N",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/vivienda-urnas-29-n_206277_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794366000,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
     "titulo": "El temporal provoca el desbordamiento de la Garganta de Santa María en La Adrada y el Cecopi no descarta nuevos desalojos en Ávila",
     "link": "https://www.20minutos.es/castilla-y-leon/avila/temporal-provoca-desbordamiento-garganta-santa-maria-adrada-cecopi-no-descarta-nuevos-desalojos-avila_7059541_0.html",
     "desc": "Desde el Consistorio, se ha pedido a los vecinos que eviten circular por esta zona \"debido al peligro que supone la acumulación de agua en la calzada\".",
@@ -905,16 +932,6 @@
     "fuente": "20minutos CyL"
   },
   {
-    "titulo": "11N: es el momento de que este país pare para avanzar",
-    "link": "https://www.eldiario.es/castilla-y-leon/opinion/11n-momento-pais-pare-avanzar_129_13651781.html",
-    "desc": "Esta huelga es para decirle a la patronal que no puede construir una sociedad competitiva sobre las espaldas de trabajadores empobrecidos Si hay algo que no podemos permitirnos como sociedad…",
-    "img": "https://static.eldiario.es/clip/b0688b78-2877-415b-b459-1905d7f9b7e5_16-9-discover-aspect-ratio_default_0.jpg",
-    "tipo": "opinion",
-    "pub": 1794308555,
-    "fuente": "eldiario.es · CyL",
-    "autor": "elDiario.es"
-  },
-  {
     "titulo": "Ordenan la evacuación del municipio de Piedralaves por el riesgo de desbordamiento de una presa",
     "link": "https://www.20minutos.es/castilla-y-leon/avila/desalojan-piedralaves-avila-por-riesgo-desbordamiento-una-presa-plena-alerta-roja-ante-las-fuertes-lluvias_7059180_0.html",
     "desc": "La evacuación afectaría a unas 3.000 personas del municipio, situado en el sur de Ávila, donde la Aemet mantiene activada la alerta roja por fuertes lluvias.",
@@ -922,17 +939,6 @@
     "tipo": "noticia",
     "pub": 1794305702,
     "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "A setas o a Rolex",
-    "link": "https://www.lanuevacronica.com/opinion/setas-rolex_206193_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794283200,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Mar Iglesias",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/09/75/4/mar-iglesias03-08-23.jpeg"
   },
   {
     "titulo": "Herido grave un preso en León tras ser atacado por otro con una cuchilla",
