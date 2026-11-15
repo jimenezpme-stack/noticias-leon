@@ -1,29 +1,83 @@
 [
   {
+    "titulo": "El PP se distancia del PSOE y el cuarto diputado por León quedaría en el aire",
+    "link": "https://www.lanuevacronica.com/actualidad/pp-se-distancia-psoe-cuarto-diputado-por-leon-quedaria-en-aire_206538_102.html",
+    "desc": "Los populares obtendrían dos escaños y los socialistas tendrían uno asegurado y partirían además con una ligera ventaja en una ajustada disputa con Vox por hacerse con el último",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/01/58/0/imagen-encuesta-generales-leon-octubre-2026.png",
+    "tipo": "noticia",
+    "pub": 1794711600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Solo Diez contiene en las municipales la debacle del PSOE en las generales",
+    "link": "https://www.lanuevacronica.com/actualidad/solo-diez-contiene-en-municipales-debacle-psoe-en-generales_206541_102.html",
+    "desc": "Vox amenaza con superar a UPL, que conservaría opciones de ser llave a la hora de decidir el gobierno en el Ayuntamiento de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/01/61/3/imagen-encuesta-municipales-leon-octubre-2026.png",
+    "tipo": "noticia",
+    "pub": 1794711600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "TikTok, la gran cloaca del horror",
+    "link": "https://www.lanuevacronica.com/actualidad/tiktok-gran-cloaca-horror_206543_102.html",
+    "desc": "Por Sofía Morán de Paz",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/01/63/5/imagen-image1.jpeg",
+    "tipo": "noticia",
+    "pub": 1794711600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los Cantón, de un pueblo de León a forjar un imperio hostelero en tierras asturianas",
+    "link": "https://www.lanuevacronica.com/actualidad/canton-pueblo-leon-forjar-imperio-hostelero-en-tierras-asturianas_206287_102.html",
+    "desc": "'La Gruta' llegó a tener más de un centenar de trabajadores, atendía ocho bodas diarias y fue vendido por más de 3.000 millones de pesetas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/92/18/5/hermanoscanton.jpeg",
+    "tipo": "noticia",
+    "pub": 1794711600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_206493_102.html",
+    "desc": "El humorista gráfico Rubén Cantón responde a la pregunta de este sábado sobre una curiosidad de la provincia de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/99/25/7/15-11-2026-las-cucerias-de-canton.jpeg",
+    "tipo": "noticia",
+    "pub": 1794711600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Camino de Santiago",
+    "link": "https://www.lanuevacronica.com/el-bierzo/camino-santiago_206437_102.html",
+    "desc": "Homenaje a la ruta jacobea a su paso por Ponferrada",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/98/23/8/cinemoran.jpeg",
+    "tipo": "noticia",
+    "pub": 1794711600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El Parque de la Cámara de Comercio: donde se cita el vecindario",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/parque-camara-comercio-donde-se-cita-vecindario_206388_102.html",
+    "desc": "Ubicado en La Lastra, cuenta con un recinto infantil y un circuito de ejercicio para mayores que son el resultado de la inversión del Consistorio y funciona como punto de encuentro para la zona más…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/97/08/6/el-parque-de-la-camara-de-comercio-debe-su-nombre-al-centenario-de-la-agrupacion-saul-aren.jpeg",
+    "tipo": "noticia",
+    "pub": 1794711600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Abdul, el sastre sindicalista guineano de Frente Amplio: se enamoró en la Ruta del Bakalao y ha sido Rey Baltasar y mantero",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261115/abdul-sastre-sindicalista-guineano-frente-amplio-enamoro-ruta-bakalao-rey-baltasar-mantero-dl/1003744455519_0.html",
+    "desc": "Diallo Bah es el número 1 de la lista de Ada Colau al Congreso por Valladolid. Su intención es cambiar la ley de extranjería: \"Hay que lanzar un mensaje a quien llega: no existe el odio que a diario…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11399862.jpg?p=c:3600:2025:nowe:400:644/w:1706/h:960&h=Oz-H2Hhk",
+    "tipo": "noticia",
+    "pub": 1794707452,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Portillo: \"Nos vamos enfadados, frustrados y cabreados\"",
     "link": "https://www.lanuevacronica.com/deportes/portillo-nos-vamos-enfadados-frustrados-cabreados_206549_102.html",
     "desc": "El técnico de la Cultural señala de sacar a Tiru de '9' que \"hay que intentar encontrar recursos debajo de las piedras\" y de no usar al filial pese a las bajas que «la realidad es que son dos…",
     "img": "https://www.lanuevacronica.com/uploads/s1/36/01/84/0/cardero-real-union.jpeg",
     "tipo": "noticia",
     "pub": 1794688357,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cultural - Algeciras: 'La Cultural quiere hacerse fuerte entre aspirantes'",
-    "link": "https://www.lanuevacronica.com/deportes/cultural-algeciras-cultural-quiere-hacerse-fuerte-entre-aspirantes_206558_102.html",
-    "desc": "El equipo leonés recibe este domingo al Algeciras, que viene de apalizar a Ponferrada y que sólo ha perdido a domicilio y ante tres 'gallos' del Grupo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/54/42/6/cultural-melilla-10.jpeg",
-    "tipo": "noticia",
-    "pub": 1794688172,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Las lesiones siguen lastrando a la Cultural: Bicho y Rober Pier, KO; Delgado, tocado",
-    "link": "https://www.lanuevacronica.com/deportes/lesiones-siguen-lastrando-cultural-bicho-rober-pier-ko-delgado-tocado_206530_102.html",
-    "desc": "El equipo leonés ve tocada toda su columna vertebral: el mediocentro se perderá varios encuentros, el central es baja en Irún y duda ante el Zamora, y el delantero tiene molestias",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/88/70/8/derbi-cultural-ponferradina-en-el-reino-de-leon-15.jpeg",
-    "tipo": "noticia",
-    "pub": 1794686115,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -63,15 +117,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Astorga rinde homenaje a Electra Cambra por sus años de dedicación a la ciudad",
-    "link": "https://www.lanuevacronica.com/actualidad/astorga-rinde-homenaje-electra-cambra-por-sus-anos-dedicacion-ciudad_206534_102.html",
-    "desc": "El Ayuntamiento reconoce la trayectoria de la fundadora de la Asociación de Párkinson de Astorga y comarca, que este año celebra su 25 aniversario.",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/01/44/3/whatsapp-image-2026-11-14-at-16-49-34.jpeg",
-    "tipo": "noticia",
-    "pub": 1794683136,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El PSOE reivindica en Fabero su peso en el Bierzo y llama a evitar un retroceso en derechos",
     "link": "https://www.elbierzodigital.com/el-psoe-reivindica-en-fabero-su-peso-en-el-bierzo-y-llama-a-evitar-un-retroceso-en-derechos/",
     "desc": "La candidatura del PSOE de León a las elecciones generales del próximo 29 de noviembre ha elegido Fabero para celebrar su primer acto de campaña en el Bierzo. El encuentro, celebrado este sábado,…",
@@ -79,24 +124,6 @@
     "tipo": "noticia",
     "pub": 1794682983,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Olor a matanza a la espera de la nieve en Puebla de Lillo",
-    "link": "https://www.lanuevacronica.com/actualidad/olor-matanza-espera-nieve-en-puebla-lillo_206532_102.html",
-    "desc": "La localidad abrió ayer sus jornadas con la tradicional matanza del cerdo, pasacalles y degustaciones, en un fin de semana que reúne a más de 35 expositores y combina gastronomía, artesanía y…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/01/41/4/la-matanza-de-puebla-de-lillo-en-imagenes-8.jpeg",
-    "tipo": "noticia",
-    "pub": 1794682774,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Torrelavega 37-27 Ademar: 'Otra estrepitosa salida del Ademar'",
-    "link": "https://www.lanuevacronica.com/deportes/torrelavega-37-27-ademar-otra-estrepitosa-salida-ademar_206545_102.html",
-    "desc": "Cayeron ante Torrelavega 37-27 viéndose durante muchos minutos de diez abajo y con las defensas volviendo a marcar las diferencias",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/01/70/7/la-defensa-ademarista-volvio-a-hacer-aguas-marcando-las-diferencias-de-nuevo-en-otra-derrota-ademarista-reportaje-grafico-torrelavega.gif",
-    "tipo": "noticia",
-    "pub": 1794682570,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "La Bañeza suma casi dos millones en obras para renovar sus calles y mejorar el alumbrado",
@@ -234,15 +261,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La lucha por el futuro de Feve no se detiene: \"Seguiremos aquí después del 29-N\"",
-    "link": "https://www.lanuevacronica.com/actualidad/lucha-por-futuro-feve-no-se-detiene-seguiremos-aqui-despues-29-n_206529_102.html",
-    "desc": "La plataforma de usuarios exige la compra inmediata de nuevos trenes, ya que \"los actuales datan de los años sesenta y no hay repuestos para reparar determinadas averías\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/01/32/1/protesta-feve.jpeg",
-    "tipo": "noticia",
-    "pub": 1794673076,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Astorga se rinde a Electra Cambra, una mujer luchadora, con ilusión y entrega a los demás",
     "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261114/astorga-rinde-electra-cambra-mujer-luchadora-ilusion-entrega/1003744458598_0.html",
     "desc": "El Salón de Plenos del Ayuntamiento se ha llenado este viernes para reconocer la labor de la que es presidenta honorífica de la Asociación del Parkinson de Astorga. Más información: Astorga y La…",
@@ -367,24 +385,6 @@
     "tipo": "noticia",
     "pub": 1794660144,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Sahagún pierde su casa más antigua",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/sahagun-pierde-casa-mas-antigua/20261114133823117887.html",
-    "desc": "Los vecinos lamentan la pérdida de este emblemático inmueble y cuestionan la falta de actuaciones para preservar uno de los edificios más singulares del patrimonio de Sahagún",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/14/2026111413374068405.jpg",
-    "tipo": "noticia",
-    "pub": 1794659903,
-    "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Patxi López, convencido de que el PSOE gobernará, lanza un mensaje: “Todo lo que diga el PP de vivienda es mentira”",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261114/patxi-lopez-convencido-psoe-gobernara-lanza-mensaje-diga-pp-vivienda-mentira/1003744458474_0.html",
-    "desc": "El portavoz del Grupo Socialista en el Congreso de los Diputados señala que “hay ganas de apoyar al gobierno progresista y de frenar la involución de la extrema derecha con el PP”. Más información:…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11401749.jpg?p=c:2461:1385:nowe:18:17/w:1706/h:960&h=zU2mcGG8",
-    "tipo": "noticia",
-    "pub": 1794659584,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "UPL tacha de \"nuevo ninguneo\" que León se quede sin inversiones para su Comisaría",
@@ -681,6 +681,15 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/32/11/06/3/nacho-barrio.jpeg"
   },
   {
+    "titulo": "La inmigración devuelve la esperanza a León",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/inmigracion-devuelve-esperanza-leon_206451_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794538800,
+    "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
     "titulo": "La viñeta de Cantón",
     "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206452_102.html",
     "desc": "",
@@ -698,15 +707,6 @@
     "pub": 1794538800,
     "fuente": "La Nueva Crónica · Opinión",
     "autor": "La Negrilla"
-  },
-  {
-    "titulo": "La inmigración devuelve la esperanza a León",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/inmigracion-devuelve-esperanza-leon_206451_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794538800,
-    "fuente": "La Nueva Crónica · Opinión"
   },
   {
     "titulo": "La Junta Electoral Central corrige a la de Valladolid y declara nulos los votos al PSOE con el nombre de Óscar Puente tachado",
