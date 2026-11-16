@@ -1,20 +1,163 @@
 [
   {
+    "titulo": "Tres pianistas internacionales llevan sus audiciones a la Sala Eutherpe de León",
+    "link": "https://www.heraldodeleon.es/cultura/tres-pianistas-internacionales-llevan-audiciones-sala-eutherpe-leon/20261116091754118086.html",
+    "desc": "Gianmarco Bianchi, Salvador Sánchez y Laureano Bruno ofrecerán tres recitales consecutivos los días 20, 21 y 22 de noviembre, a las 19.30 horas, con programas que recorren desde Beethoven y Schubert…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/16/2026111609153780602.jpg",
+    "tipo": "noticia",
+    "pub": 1794817074,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La Quiniela deja un premio de miles de euros en una administración de Ávila: nadie acierta el pleno al 15",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20261116/quiniela-deja-premio-miles-euros-administracion-avila-nadie-acierta-pleno/1003744459428_0.html",
+    "desc": "El agraciado se va a llevar más de 60.000 euros. Más información: La Quiniela deja miles de euros en dos provincias de Castilla y León",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/9149139.jpg?p=w:1706/h:960&h=0SDgB2YJ",
+    "tipo": "noticia",
+    "pub": 1794816823,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Embutidos Pajariel se queda sin premio en Oviedo tras una gran primera mitad",
+    "link": "https://www.heraldodeleon.es/deportes/baloncesto/embutidos-pajariel-queda-premio-oviedo-gran-primera-mitad/20261116090338118079.html",
+    "desc": "El conjunto berciano compitió de tú a tú durante los dos primeros cuartos, pero un demoledor parcial de 21-4 en el tercer periodo acabó decantando el encuentro a favor de Universidad de Oviedo (71-51)",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/16/2026111608574213966.jpg",
+    "tipo": "noticia",
+    "pub": 1794816218,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "La huelga médica arranca en León con consultas pendientes y servicios mínimos",
+    "link": "https://www.heraldodeleon.es/leon/huelga-medica-arranca-leon-consultas-pendientes-servicios-minimos/20261116084259118077.html",
+    "desc": "El paro nacional convocado desde este lunes 16 de noviembre se prolongará hasta el día 28 y amenaza con alterar la actividad ordinaria de hospitales y centros de salud | Las urgencias y las…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/05/19/2026051919512293629.jpg",
+    "tipo": "noticia",
+    "pub": 1794814979,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "León, como si fuera Navidad",
+    "link": "https://www.heraldodeleon.es/leon/leon-como-fuera-navidad/20261116083045118076.html",
+    "desc": "Las pruebas técnicas de los últimos días han permitido contemplar por adelantado algunos de los elementos más esperados de la campaña navideña",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/16/2026111608271279256.jpg",
+    "tipo": "noticia",
+    "pub": 1794814245,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "León continúa a la espera de la autopista ferroviaria para el uso de mercancías y solo Villadangos mantiene abierto el enlace con el puerto de Gijón",
+    "link": "https://www.heraldodeleon.es/leon/leon-continua-espera-autopista-ferroviaria-mercancias-solo-villadangos-mantiene-abierto-enlace-gijon/20261116080727118066.html",
+    "desc": "El desarrollo de un corredor para trasladar semirremolques por tren sigue sin calendario, pese a las expectativas generadas en torno a la Variante de Pajares y al eje logístico del noroeste | La…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/03/22/2025032220244785568.jpg",
+    "tipo": "noticia",
+    "pub": 1794812847,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Los políticos que tienen quien les escriba",
+    "link": "https://www.lanuevacronica.com/opinion/politicos-tienen-quien-escriba_206592_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794801000,
+    "fuente": "La Nueva Crónica",
+    "autor": "Jorge Brugos",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/50/81/4/jorge-brugos.jpeg"
+  },
+  {
+    "titulo": "En salvaje campaña: broncas, Broncanos e influencers",
+    "link": "https://www.lanuevacronica.com/opinion/en-salvaje-campana-broncas-broncanos-influencers_206594_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794800400,
+    "fuente": "La Nueva Crónica",
+    "autor": "José Miguel Giráldez",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/45/41/jose-miguel-giraldezb.jpeg"
+  },
+  {
+    "titulo": "Campaña",
+    "link": "https://www.lanuevacronica.com/opinion/campana_206589_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794800400,
+    "fuente": "La Nueva Crónica",
+    "autor": "Pedro Sta. Brígida",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/22/92/98/7/pedro-santa-brigida.jpeg"
+  },
+  {
+    "titulo": "Diálogos con el pasado, (8) (Progresismo actual)",
+    "link": "https://www.lanuevacronica.com/opinion/dialogos-con-pasado-8-progresismo-actual_206590_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794799800,
+    "fuente": "La Nueva Crónica",
+    "autor": "José Antonio Llamas",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/56/7/jose-antonio-llamasb.jpeg"
+  },
+  {
+    "titulo": "Recordar a las víctimas y evitar nuevas tragedias",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/recordar-victimas-evitar-nuevas-tragedias_206593_102.html",
+    "desc": "El monolito inaugurado ayer en León recuerda a quienes perdieron la vida en las carreteras debe ser algo más que un símbolo y convertirse en una llamada permanente a la conciencia colectiva con la…",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794798000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206591_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/03/32/6/canton-16-11-2026.jpeg",
+    "tipo": "opinion",
+    "pub": 1794798000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "El lento avance de las obras del camping de Santa María del Páramo retrasa su apertura",
+    "link": "https://www.lanuevacronica.com/actualidad/lento-avance-obras-camping-santa-maria-paramo-retrasa-su-apertura_205922_102.html",
+    "desc": "La alcaldesa, Alicia Gallego, señala la falta de mano de obra y los trámites del suministro eléctrico como principales obstáculos y no fija por el momento ninguna fecha para su entrada en…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/81/56/1/el-lento-avance-de-las-obras-del-camping-de-santa-maria-del-paramo-retrasa-su-apertura.jpeg",
+    "tipo": "noticia",
+    "pub": 1794798000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "\"Si no queremos pagar más en el recibo de la basura, tendremos que separarla\"",
+    "link": "https://www.lanuevacronica.com/actualidad/si-no-queremos-pagar-mas-en-recibo-basura-tendremos-separarla_206580_102.html",
+    "desc": "Entrevista a Manuel Pan, Director general de Siháho Consulting",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/03/16/0/imagen-7s6a4512.jpeg",
+    "tipo": "noticia",
+    "pub": 1794798000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Indra, otro tren que pasa de largo por la ampliación del polígono de Bembibre",
+    "link": "https://www.lanuevacronica.com/el-bierzo/indra-otro-tren-pasa-largo-por-ampliacion-poligono-bembibre_206433_102.html",
+    "desc": "El proyecto en avance para Langreo se suma a la fábrica elegida para As Pontes y a la planta de hidrógeno verde de Green Capital, otras iniciativas planteadas que tampoco acabaron en el Bierzo Alto",
+    "img": "https://www.lanuevacronica.com/uploads/s1/35/98/08/3/sede-indragroup.jpeg",
+    "tipo": "noticia",
+    "pub": 1794798000,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Poner rostro a la diabetes para aprender a convivir con ella",
+    "link": "https://www.lanuevacronica.com/el-bierzo/poner-rostro-diabetes-aprender-convivir-con-ella_206531_102.html",
+    "desc": "Con motivo del Día Mundial de la Diabetes, exposiciones, charlas y actividades acercaron a los bercianos una enfermedad que exige atención diaria, pero no define toda una vida",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/01/39/2/adebi.jpeg",
+    "tipo": "noticia",
+    "pub": 1794797700,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "La Cultural intensifica la búsqueda del nuevo entrenador",
     "link": "https://www.lanuevacronica.com/deportes/cultural-intensifica-busqueda-nuevo-entrenador_206581_102.html",
     "desc": "La idea es que frente al Zamora se siente ya el técnico que coja al equipo hasta final de temporada, quedando en un partido la etapa como interino de un Portillo que regresaría al filial",
     "img": "https://www.lanuevacronica.com/uploads/s1/36/03/17/6/portillo151126.jpeg",
     "tipo": "noticia",
     "pub": 1794776914,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cultural 105 - Algeciras 98: 'Gigantes en el momento de la verdad'",
-    "link": "https://www.lanuevacronica.com/deportes/cultural-105-algeciras-98-gigantes-en-momento-verdad_206596_102.html",
-    "desc": "Con Grela rozando el triple doble y Simmons echándose el equipo a las espaldas en el cierre, la Cultural tira de garra para meterse en el bolsillo a la grada y llevarse otro final igualado",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/03/60/9/cultural-algeciras-15.jpeg",
-    "tipo": "noticia",
-    "pub": 1794776837,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -43,15 +186,6 @@
     "tipo": "noticia",
     "pub": 1794774844,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Un horrible inicio que obliga a la Cultural a ser pionera",
-    "link": "https://www.lanuevacronica.com/deportes/horrible-inicio-obliga-cultural-ser-pionera_206574_102.html",
-    "desc": "Ningún club ha ascendido en Primera RFEF con 13 puntos o menos tras 12 jornadas, aunque tres llegaron a meterse en 'playoff' / Es el tercer peor arranque de liga de la Cultural en el siglo XXI",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/88/39/3/derbi-cultural-ponferradina-en-el-reino-de-leon-51.jpeg",
-    "tipo": "noticia",
-    "pub": 1794772604,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Castañas y campaña: Albares avisa del \"avance\" de la derecha",
@@ -117,15 +251,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Un monolito para que León no olvide a las víctimas del asfalto",
-    "link": "https://www.lanuevacronica.com/actualidad/monolito-leon-no-olvide-victimas-asfalto_206576_102.html",
-    "desc": "La Fundación Avata organizó este domingo una misa, una caravana de motos y bicicletas, una ofrenda floral y un minuto de silencio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/02/77/5/accidentes-trafico.jpeg",
-    "tipo": "noticia",
-    "pub": 1794764968,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Irene Moreno renueva con Eneicat y seguirá creciendo en el ciclismo",
     "link": "https://www.heraldodeleon.es/deportes/mas-deporte/irene-moreno-renueva-eneicat-seguira-creciendo-ciclismo-nacional-internacional/20261115182541118059.html",
     "desc": "La joven corredora continuará vinculada al equipo, que reafirma su apuesta por el desarrollo del talento nacional",
@@ -144,15 +269,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "\"No se puede tener ambición de país si no se tiene para el campo\"",
-    "link": "https://www.lanuevacronica.com/actualidad/no-se-puede-tener-ambicion-pais-si-no-se-tiene-campo_206582_102.html",
-    "desc": "Isabel García Tejerina apuesta por un cambio en la administración central para que ejerza como elemento «catalizador» en el sector",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/03/19/6/03max202611757988.jpeg",
-    "tipo": "noticia",
-    "pub": 1794763001,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Bembibre- Júpiter Leonés, suspendido por la lluvia",
     "link": "https://www.elbierzodigital.com/el-bembibre-jupiter-leones-suspendido-por-la-lluvia/",
     "desc": "Las intensas lluvias de las últimas horas han obligado a suspender el partido entre el Atlético Bembibre y el Júpiter Leonés, correspondiente a la undécima jornada del grupo VIII de Tercera…",
@@ -160,24 +276,6 @@
     "tipo": "noticia",
     "pub": 1794762506,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Campo de Villavidel premiará con hasta 300 euros las mejores decoraciones navideñas",
-    "link": "https://www.lanuevacronica.com/actualidad/campo-villavidel-premiara-con-hasta-300-euros-mejores-decoraciones-navidenas_206570_102.html",
-    "desc": "El municipio leonés celebra la séptima edición de un concurso que repartirá 40 premios entre quienes decoren sus fachadas para llenar de ambiente navideño sus calles",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/03/14/2/whatsapp-image-2026-11-15-at-17-42-07.jpeg",
-    "tipo": "noticia",
-    "pub": 1794761024,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cruz Roja reconoce el compromiso de sus personas voluntarias",
-    "link": "https://www.lanuevacronica.com/actualidad/cruz-roja-reconoce-compromiso-sus-personas-voluntarias_206579_102.html",
-    "desc": "El Encuentro Provincial de Voluntariado sirvió para reconocer la labor de las 1.300 personas que colaboran con la entidad en León y compartir experiencias entre las 15 asambleas comarcales",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/03/08/8/whatsapp-image-2026-11-15-at-17-38-03.jpeg",
-    "tipo": "noticia",
-    "pub": 1794760758,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Redondo apela al voto feminista y a la movilización el 29N: “No podemos permitir que el retroceso avance”",
@@ -205,24 +303,6 @@
     "tipo": "noticia",
     "pub": 1794760276,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "Las lluvias obligan a activar la alerta por riesgo de desbordamiento en Manzanedo de Valdueza",
-    "link": "https://www.lanuevacronica.com/el-bierzo/lluvias-obligan-activar-alerta-por-riesgo-desbordamiento-en-manzanedo-valdueza_206578_102.html",
-    "desc": "El Ayuntamiento de Ponferrada pide a los vecinos que permanezcan en sus viviendas, eviten acercarse a los cauces y no utilicen espacios como las bodegas mientras dure el episodio de fuertes…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/34/52/77/9/labores-de-limpieza-tras-la-riada-mortal-en-manzanedo-de-valdueza-en-el-bierzo-13.jpeg",
-    "tipo": "noticia",
-    "pub": 1794760076,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León se queda sin una de sus procesiones del Sábado de Pasión",
-    "link": "https://www.lanuevacronica.com/actualidad/semana-santa-leon-pierde-procesion-sabado-pasion_206577_102.html",
-    "desc": "La Real Hermandad de Jesús Divino Obrero acuerda suprimir la Procesión de Hermandad después de que el 54,24% de los votos respaldase su eliminación en una Junta General Extraordinaria",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/02/78/9/sabado-de-pasion-en-leon-2026.jpeg",
-    "tipo": "noticia",
-    "pub": 1794759385,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Lidia Coca y Silvia Franco escuchan las inquietudes del pequeño comercio berciano",
@@ -268,15 +348,6 @@
     "tipo": "noticia",
     "pub": 1794754836,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "La cataplasma: 'Los libros'",
-    "link": "https://www.lanuevacronica.com/extras/la-cataplasma/cataplasma-libros_206563_102.html",
-    "desc": "Fulgencio Fernández se asoma a una ventana en la que tendrán cabida los personajes que nunca llegaron a pensar que sus historias le podían llegar a interesar a alguien",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/02/39/3/frame-15cataplasma.jpeg",
-    "tipo": "noticia",
-    "pub": 1794753000,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Participa en la encuesta de Heraldo de León: ¿A quién votarías?",
@@ -369,6 +440,15 @@
     "fuente": "Heraldo de León"
   },
   {
+    "titulo": "Ainhoa García reivindica a Vox como alternativa al \"fracaso de las políticas socialistas\"",
+    "link": "https://www.heraldodeleon.es/leon/ainhoa-garcia-reivindica-vox-como-alternativa-fracaso-politicas-socialistas/20261115134323118015.html",
+    "desc": "La portavoz de Familia de Vox asegura que las elecciones suponen la \"última oportunidad\" para elegir \"entre la miseria del Partido Socialista o la prosperidad para las familias\"",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/15/2026111513442551269.jpg",
+    "tipo": "noticia",
+    "pub": 1794746603,
+    "fuente": "Heraldo de León · León"
+  },
+  {
     "titulo": "Albares: «La convivencia es lo más precioso que tenemos y está en juego»",
     "link": "https://www.elbierzodigital.com/albares-la-convivencia-es-lo-mas-precioso-que-tenemos-y-esta-en-juego/",
     "desc": "El PSOE celebró su acto de campaña a cubierto, en el CEIP Navaliegos de Ponferrada debido a la intensa lluvia, con el ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares…",
@@ -376,15 +456,6 @@
     "tipo": "noticia",
     "pub": 1794744021,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Descarrila un tren de mercancías en Zarzalejo y provoca retrasos en la línea que conecta Madrid con Ávila",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261115/descarrila-tren-mercancias-zarzalejo-provoca-retrasos-linea-conecta-madrid-avila/1003744458935_0.html",
-    "desc": "Desde Adif señalan que han habilitado transporte alternativo por carretera, con autobuses. Más información: La huelga de maquinistas suprime 16 trenes en Valladolid y deja en tierra a cientos de…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11241911.jpg?p=c:1062:597:nowe:69:0/w:1706/h:960&h=ngGQfJPc",
-    "tipo": "noticia",
-    "pub": 1794741259,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "La inversión en obra pública crece un 44,4% en León y roza los 258 millones",
@@ -496,17 +567,6 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/27/34/92/4/imagen-javier-cuesta.jpeg"
   },
   {
-    "titulo": "Para muestra, un botón",
-    "link": "https://www.lanuevacronica.com/opinion/muestra-boton_206555_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794713400,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Laly del Blanco Tejerina",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/84/41/3/imagen-159544846.jpeg"
-  },
-  {
     "titulo": "Pues me ha bloqueado",
     "link": "https://www.lanuevacronica.com/opinion/pues-me-ha-bloqueado_206550_102.html",
     "desc": "",
@@ -527,6 +587,17 @@
     "fuente": "La Nueva Crónica · Opinión",
     "autor": "José Luis Gavilanes Laso",
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/77/31/4/jose-luis-gavilanes-web.jpeg"
+  },
+  {
+    "titulo": "Para muestra, un botón",
+    "link": "https://www.lanuevacronica.com/opinion/muestra-boton_206555_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794713400,
+    "fuente": "La Nueva Crónica · Opinión",
+    "autor": "Laly del Blanco Tejerina",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/84/41/3/imagen-159544846.jpeg"
   },
   {
     "titulo": "‘Naza’",
@@ -555,15 +626,6 @@
     "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/14/2026111417410265832.jpg",
     "tipo": "noticia",
     "pub": 1794675135,
-    "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "La Plataforma de Feve confía en que los \"nuevos aires\" en Transportes permitan llevar el tren al centro",
-    "link": "https://www.heraldodeleon.es/leon/plataforma-defensa-feve-leon-confia-que-nuevos-aires-transportes-permitan-llevar-tren-centro-ciudad/20261114141907117909.html",
-    "desc": "El colectivo protagoniza un nuevo corte reivindicativo de carretera frente a la Subdelegación del Gobierno para poner fin a una situación que \"tiene fácil solución\"",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/14/2026111413495371855.jpg",
-    "tipo": "noticia",
-    "pub": 1794662347,
     "fuente": "Heraldo de León · León"
   },
   {
@@ -824,70 +886,6 @@
     "tipo": "noticia",
     "pub": 1794500032,
     "fuente": "20minutos CyL"
-  },
-  {
-    "titulo": "Al encuentro de los papones",
-    "link": "https://www.lanuevacronica.com/opinion/encuentro-papones_206367_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794456000,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "David Iglesias",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/09/83/3/david-iglesias-03-08-23.jpeg"
-  },
-  {
-    "titulo": "Mitin",
-    "link": "https://www.lanuevacronica.com/opinion/mitin_206366_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794454800,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Vicente de Barrio",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/77/vicente-barriob.jpeg"
-  },
-  {
-    "titulo": "Huelga de educación en la Comunidad de Madrid",
-    "link": "https://www.lanuevacronica.com/opinion/huelga-educacion-en-comunidad-madrid_206365_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794454200,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Secundino Llorente",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/33/07/37/3/secundino.jpeg"
-  },
-  {
-    "titulo": "El empleo en León",
-    "link": "https://www.lanuevacronica.com/opinion/empleo-en-leon_206364_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794453600,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Javier Callado",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/26/49/50/9/javier-callado-2025.jpeg"
-  },
-  {
-    "titulo": "El habitus de los caballos lentos",
-    "link": "https://www.lanuevacronica.com/opinion/habitus-caballos-lentos_206363_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794453000,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Álvaro Alonso",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/26/12/19/2/imagen-alvaro-alonso-copia.jpeg"
-  },
-  {
-    "titulo": "Motivos compartidos, un momento mal elegido",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/motivos-compartidos-momento-mal-elegido_206369_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794452400,
-    "fuente": "La Nueva Crónica · Opinión"
   },
   {
     "titulo": "Imputan dos delitos a un cazador que mató en Tordehumos (Valladolid) al lince reintroducido 'Woodstock'",
