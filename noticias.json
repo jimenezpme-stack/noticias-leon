@@ -1,5 +1,50 @@
 [
   {
+    "titulo": "Condenado el digital Infobierzo por vulnerar la propiedad intelectual de una periodista y utilizar texto y fotos de su investigación",
+    "link": "https://www.eldiario.es/castilla-y-leon/tribunales/condenado-digital-infobierzo-vulnerar-propiedad-intelectual-periodista-utilizar-texto-fotos-investigacion_1_13669213.html",
+    "desc": "El medio, dirigido por Diego Fernández, tendrá que indemnizar a la demandante con 5.000 euros al \"exceder los límites legítimos\" de la actividad informativa &ldquo;La libertad de informaci&oacute;n…",
+    "img": "https://static.eldiario.es/clip/57976a4d-3683-4c9c-af94-621134c33a4e_16-9-discover-aspect-ratio_default_0.jpg",
+    "tipo": "noticia",
+    "pub": 1794864182,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "Ester Muñoz advierte en Ávila de que el PSOE \"está dispuesto a todo\" para seguir en el poder: \"Es la batalla de nuestra generación\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20261116/ester-munoz-advierte-avila-psoe-dispuesto-seguir-poder-batalla-generacion/1003744460709_0.html",
+    "desc": "La portavoz popular en el Congreso sostiene en un acto electoral en Ávila que estos comicios son \"la batalla de nuestra generación\" y sitúa al PP como \"correa de transmisión\" del cambio. Más…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11403124.jpg?p=c:3996:2250:nowe:0:372/w:1706/h:960&h=D7Pm3Y9T",
+    "tipo": "noticia",
+    "pub": 1794860508,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Jaime Mayor Oreja llama en Ponferrada a «profundizar en los hechos para encontrar la verdad»",
+    "link": "https://www.elbierzodigital.com/jaime-mayor-oreja-llama-en-ponferrada-a-profundizar-en-los-hechos-para-encontrar-la-verdad/",
+    "desc": "El presidente de la Fundación Neos y exministro del Interior, Jaime Mayor Oreja, defendió este lunes en Ponferrada la necesidad de reflexionar y profundizar en cada asunto para buscar la verdad. Lo…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/jaime-mayor-oreja-llama-en-ponferrada-a-profundizar-en-los-hechos-para-encontrar-la-verdad-el-bierzo-digital.jpeg",
+    "tipo": "noticia",
+    "pub": 1794858869,
+    "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "La Asociación Leonesa de Caridad cumple 120 años el 18 de noviembre",
+    "link": "https://www.lanuevacronica.com/actualidad/asociacion-leonesa-caridad-cumple-120-anos-18-noviembre_206661_102.html",
+    "desc": "El presidente de Asleca destaca que, a pesar de todas las ayudas que recibe la institución, la Asociación Leonesa de Caridad vive momentos difíciles para prestar todos los servicios",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/04/97/4/imagen-de-archivo-de-la-sede-de-la-asociacion-leonesa-de-caridad.jpeg",
+    "tipo": "noticia",
+    "pub": 1794857416,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Mañueco pide dejar la \"política ineficaz\" ante el clúster de la automoción y reconoce a De los Mozos como \"ejemplo a seguir\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261116/manueco-pide-dejar-politica-ineficaz-cluster-automocion-reconoce-mozos-ejemplo-seguir/1003744460597_0.html",
+    "desc": "El presidente de la Junta clausura en Valladolid la cuarta gala del clúster FaCyL, donde se distingue con el Premio de Honor a José Vicente de los Mozos junto a proyectos de Antolin, Michelin y…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11403069.jpg?p=c:3544:1993:nowe:0:236/w:1706/h:960&h=JkcHJnF7",
+    "tipo": "noticia",
+    "pub": 1794857307,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "El Coal celebró el Día del Patrimonio con una análisis de la rehabilitación de los edificios",
     "link": "https://www.lanuevacronica.com/lnc-culturas/coal-celebro-dia-patrimonio-con-analisis-rehabilitacion-edificios_206660_102.html",
     "desc": "El Colegio Oficial de Arquitectos de León celebró este lunes el Día del Patrimonio de la mano de Eva Testa San Juan, José María García de Acilu, Marina Sánchez Alonso y Belén Martín-Granizo",
@@ -252,15 +297,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "El Hospital San Juan de Dios León gana un premio europeo por sus innovaciones en cirugía compleja de columna",
-    "link": "https://www.lanuevacronica.com/actualidad/hospital-san-juan-dios-leon-gana-premio-europeo-por-sus-innovaciones-en-cirugia-compleja-columna_206633_102.html",
-    "desc": "El centro médico-quirúrgico leonés ha sido reconocido con el galardón a la excelencia en innovación tecnológica sanitaria e integración de IA en los European Private Hospital Awards 2026, celebrados…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/04/50/3/image.jpeg",
-    "tipo": "noticia",
-    "pub": 1794844263,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Pollán celebra la expulsión de un joven marroquí de España: \"Si Vox está en el Gobierno, no será una cuestión puntual\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/20261116/pollan-celebra-expulsion-joven-marroqui-espana-vox-gobierno-no-cuestion-puntual/1003744460212_0.html",
     "desc": "El presidente del grupo parlamentario en las Cortes asegura que el deportado pertenecía a bandas latinas que han generado \"problemas\" en Valladolid. Más información: Abascal visita Salamanca para…",
@@ -378,24 +414,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "El alcalde de Valladolid cree que Óscar Puente está \"esperando acontecimientos\" y le reta a presentarse: \"Que venga\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261116/alcalde-valladolid-cree-oscar-puente-esperando-acontecimientos-reta-presentarse-venga/1003744459987_0.html",
-    "desc": "Carnero denuncia en Espejo Público que el exministro \"se dedicó más a Twitter que a la gestión\" y \"estropeó las infraestructuras\". Más información: Carnero explota y responde a Puente: \"Me llama…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11402688.png?p=w:1706/h:960&h=kFGwxbU6",
-    "tipo": "noticia",
-    "pub": 1794836542,
-    "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Argüello avanza una postura de los obispos ante las elecciones: “Espero que esta Asamblea ofrezca alguna declaración”",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261116/arguello-avanza-postura-obispos-elecciones-espero-asamblea-ofrezca-alguna-declaracion/1003744460047_0.html",
-    "desc": "El presidente de la Conferencia Episcopal y arzobispo de Valladolid alerta del clima de crispación política, el aumento de la agresividad y una sociedad cada vez más polarizada. Más información :…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11402695.jpg?p=c:1726:971:nowe:298:270/w:1706/h:960&h=ZOd9XOIP",
-    "tipo": "noticia",
-    "pub": 1794835951,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "El Ayuntamiento de Villamayor se escuda en que el \"taller de costura para mujeres\" es para hacer \"lazos homenaje\"",
     "link": "https://www.eldiario.es/castilla-y-leon/politica/ayuntamiento-villamayor-escuda-taller-costura-mujeres-lazos-homenaje_1_13667729.html",
     "desc": "El consistorio no reconoce el error de concepto sino que lo reduce a un problema de comunicación, argumentan que otros ayuntamientos lo han hecho igual y rectifica el cartel Un pueblo de Salamanca…",
@@ -477,15 +495,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Peñalba reclama a Diputación una solución urgente para evitar quedar aislada este invierno",
-    "link": "https://www.elbierzodigital.com/penalba-reclama-a-diputacion-una-solucion-urgente-para-evitar-quedar-aislada-este-invierno/",
-    "desc": "La Junta Vecinal de Peñalba de Santiago ha reclamado a la Diputación de León que abra de forma definitiva y con garantías de seguridad la carretera de acceso a la localidad por el Valle del Oza .…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/penalba-reclama-a-diputacion-una-solucion-urgente-para-evitar-quedar-aislada-este-invierno-el-bierzo-digital.jpg",
-    "tipo": "noticia",
-    "pub": 1794829499,
-    "fuente": "El Bierzo Digital"
-  },
-  {
     "titulo": "León incorpora siete guardias civiles en prácticas para reforzar el control del tráfico",
     "link": "https://www.heraldodeleon.es/leon/leon-incorpora-siete-guardias-civiles-practicas-reforzar-control-trafico/20261116124413118130.html",
     "desc": "Los nuevos agentes se integran en las unidades de la Agrupación de Tráfico dentro de un despliegue autonómico de 27 efectivos, cinco de ellos mujeres, que participarán en labores de vigilancia de…",
@@ -560,17 +569,6 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/50/81/4/jorge-brugos.jpeg"
   },
   {
-    "titulo": "Campaña",
-    "link": "https://www.lanuevacronica.com/opinion/campana_206589_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794800400,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Pedro Sta. Brígida",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/22/92/98/7/pedro-santa-brigida.jpeg"
-  },
-  {
     "titulo": "En salvaje campaña: broncas, Broncanos e influencers",
     "link": "https://www.lanuevacronica.com/opinion/en-salvaje-campana-broncas-broncanos-influencers_206594_102.html",
     "desc": "",
@@ -580,6 +578,17 @@
     "fuente": "La Nueva Crónica · Opinión",
     "autor": "José Miguel Giráldez",
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/45/41/jose-miguel-giraldezb.jpeg"
+  },
+  {
+    "titulo": "Campaña",
+    "link": "https://www.lanuevacronica.com/opinion/campana_206589_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794800400,
+    "fuente": "La Nueva Crónica · Opinión",
+    "autor": "Pedro Sta. Brígida",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/22/92/98/7/pedro-santa-brigida.jpeg"
   },
   {
     "titulo": "Diálogos con el pasado, (8) (Progresismo actual)",
@@ -593,8 +602,8 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/56/7/jose-antonio-llamasb.jpeg"
   },
   {
-    "titulo": "Recordar a las víctimas y evitar nuevas tragedias",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/recordar-victimas-evitar-nuevas-tragedias_206593_102.html",
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206591_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
@@ -602,8 +611,8 @@
     "fuente": "La Nueva Crónica · Opinión"
   },
   {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206591_102.html",
+    "titulo": "Recordar a las víctimas y evitar nuevas tragedias",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/recordar-victimas-evitar-nuevas-tragedias_206593_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
@@ -763,15 +772,6 @@
     "fuente": "La Nueva Crónica · Opinión",
     "autor": "Ángel Suárez Corrons",
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/22/43/58/0/angel-suarez-2024.jpeg"
-  },
-  {
-    "titulo": "Mañueco pide movilizar al PP para acabar con el Gobierno de Sánchez: \"El problema tiene nombre y apellidos\"",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/manueco-pide-movilizar-pp-acabar-gobierno-sanchez-problema-nombre-apellidos_1_13663382.html",
-    "desc": "El presidente autonómico reclama a las bases que busquen \"cada voto\" para el 29N, presenta a Feijóo como alternativa y advierte de que \"lo difícil viene el día después\" Martínez (PSOE) acusa a PP y…",
-    "img": "https://static.eldiario.es/clip/0b4e8e49-3f5c-4a1d-ac8b-2e7b59304255_16-9-discover-aspect-ratio_default_0.jpg",
-    "tipo": "noticia",
-    "pub": 1794603318,
-    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "El PACMA convertirá este sábado a Medinaceli en el \"nuevo Tordesillas\" para erradicar también el Toro Jubilo",
