@@ -1,5 +1,32 @@
 [
   {
+    "titulo": "Tellado acusa al Gobierno de tener \"números del crimen organizado\": \"Un imputado cada tres semanas y media\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261117/tellado-acusa-gobierno-tener-numeros-crimen-organizado-imputado-semanas-media/1003744462282_0.html",
+    "desc": "El secretario general del PP asegura en Zamora que la corrupción se ha instalado en el Ejecutivo de Pedro Sánchez \"desde el minuto uno\". Más información: Mañueco insiste en que no hay nada ganado…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11404161.jpg?p=c:3999:2250:nowe:0:170/w:1706/h:960&h=5qxOwat7",
+    "tipo": "noticia",
+    "pub": 1794948729,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Muere el dirigente vallisoletano de Núcleo Nacional Enrique Lemus días después de ser detenido",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261117/muere-dirigente-vallisoletano-nucleo-nacional-enrique-lemus-dias-despues-detenido/1003744462177_0.html",
+    "desc": "El fundador de la organización sufrió un infarto el pasado viernes cuando se encontraba en las inmediaciones de los juzgados de la calle Angustias. Más información: La Policía descabeza a los ultras…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11404151.jpg?p=w:1706/h:960&h=uaTTok5Y",
+    "tipo": "noticia",
+    "pub": 1794946921,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "CSIF denuncia que Renault \"amenaza la estabilidad\" de cientos de trabajadores con la eliminación del turno de noche",
+    "link": "https://www.elespanol.com/castilla-y-leon/economia/20261117/csif-denuncia-renault-amenaza-estabilidad-cientos-trabajadores-eliminacion-turno-noche/1003744462150_0.html",
+    "desc": "El sindicato independiente también rechaza la \"imposición de traslados desde Palencia\" y alerta de las \"consecuencias negativas\" para las empresas auxiliares. Más información: Cambios en Renault:…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10763535.jpg?p=c:3999:2250:nowe:0:416/w:1706/h:960&h=twRunJ3i",
+    "tipo": "noticia",
+    "pub": 1794944424,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "Atropellan a una persona en la avenida de Asturias de Ponferrada",
     "link": "https://www.elbierzodigital.com/atropellan-a-una-persona-en-la-avenida-de-asturias-de-ponferrada/",
     "desc": "Una persona fue atropellada este martes en la avenida de Asturias de Ponferrada después de que dos vehículos chocaran entre sí a la altura del número 134 de esta vía, según informa la oficina de…",
@@ -16,6 +43,15 @@
     "tipo": "noticia",
     "pub": 1794942576,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Enrique Lemus, el fundador de Núcleo Nacional, en muerte cerebral días después de sufrir un infarto en la calle",
+    "link": "https://www.eldiario.es/castilla-y-leon/politica/muere-enrique-lemus-fundador-nucleo-nacional-dias-despues-sufrir-infarto-calle_1_13672227.html",
+    "desc": "El presidente del partido Noviembre Nacional había sido detenido hace unos días en el marco de una investigación que considera \"asociación paramilitar\" a NN La jueza acusa a Núcleo Nacional de ser…",
+    "img": "https://static.eldiario.es/clip/80f588bb-2e82-4f1f-ac9b-5ed32a63463f_16-9-discover-aspect-ratio_default_0.jpg",
+    "tipo": "noticia",
+    "pub": 1794942464,
+    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "Dos atropellos en León y Ponferrada dejan heridos de diversa consideración a una mujer y un hombre",
@@ -387,15 +423,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "El PSOE destaca los 441 millones invertidos en los regadíos de León como motor de futuro",
-    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/psoe-destaca-441-millones-invertidos-regadios-leon-como-motor-futuro/20261117145403118300.html",
-    "desc": "Javier Alfonso Cendón y Salvador Vidal trasladan a Alianza por el Campo el compromiso socialista con un sector agrario más competitivo y sostenible, con una PAC fuerte, relevo generacional y más…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/17/2026111714493130661.jpg",
-    "tipo": "noticia",
-    "pub": 1794923643,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "La huelga de médicos tiene en León su mayor respaldo, con 127 facultativos en paro",
     "link": "https://www.heraldodeleon.es/leon/leon-lidera-seguimiento-huelga-medica-114-participacion/20261117142424118291.html",
     "desc": "El seguimiento alcanza el 11,4% en la provincia, frente al 4% de media registrado en el conjunto de Castilla y León",
@@ -403,15 +430,6 @@
     "tipo": "noticia",
     "pub": 1794921864,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "El exjefe antidroga de Valladolid reconoce que era el responsable único de custodiar la droga en la ‘Operación Churruca’",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261117/exjefe-antidroga-valladolid-reconoce-responsable-unico-custodiar-droga-operacion-churruca/1003744461441_0.html",
-    "desc": "Luis Fernández declara como testigo por videoconferencia desde la cárcel de Topas y defiende la legalidad de la instrucción del caso. Más información : Detienen al jefe de Estupefacientes de la…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11403568.jpg?p=w:1706/h:960&h=SzEonlWr",
-    "tipo": "noticia",
-    "pub": 1794921718,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "UGT Castilla y León galardona con el premio Pablo Iglesias a la compañía teatral Proyecto 43-2, vetada por la Consejería de Cultura",
@@ -448,15 +466,6 @@
     "tipo": "noticia",
     "pub": 1794920169,
     "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Mañueco insiste en que no hay nada ganado todavía el 29-N: \"Es necesario sacar a Sánchez cuanto antes de La Moncloa\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261117/manueco-insiste-no-ganado-todavia-necesario-sacar-sanchez-moncloa/1003744461351_0.html",
-    "desc": "El presidente de los populares de Castilla y León apela a la movilización de cara a las elecciones. Más información: Mañueco llama a \"buscar cada voto\" para echar a Sánchez y señala a Puente y…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11403537.jpg?p=c:1810:1018:nowe:612:295/w:1706/h:960&h=KP7-vCtD",
-    "tipo": "noticia",
-    "pub": 1794919609,
-    "fuente": "El Español · CyL"
   },
   {
     "titulo": "León se tiñe de azul para celebrar el Día de la Infancia",
@@ -588,6 +597,15 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/24/26/86/4/imagen-maximino-canon-png.png"
   },
   {
+    "titulo": "El Emperador necesita hechos, no más promesas",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/emperador-necesita-hechos-no-mas-promesas_206666_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794884400,
+    "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
     "titulo": "La viñeta de Cantón",
     "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206663_102.html",
     "desc": "",
@@ -607,15 +625,6 @@
     "autor": "La Negrilla"
   },
   {
-    "titulo": "El Emperador necesita hechos, no más promesas",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/emperador-necesita-hechos-no-mas-promesas_206666_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1794884400,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
     "titulo": "Condenado el digital Infobierzo por vulnerar la propiedad intelectual de una periodista y utilizar texto y fotos de su investigación",
     "link": "https://www.eldiario.es/castilla-y-leon/tribunales/condenado-digital-infobierzo-vulnerar-propiedad-intelectual-periodista-utilizar-texto-fotos-investigacion_1_13669213.html",
     "desc": "El medio, dirigido por Diego Fernández, tendrá que indemnizar a la demandante con 5.000 euros al \"exceder los límites legítimos\" de la actividad informativa &ldquo;La libertad de informaci&oacute;n…",
@@ -631,15 +640,6 @@
     "img": "https://static.eldiario.es/clip/d1abf795-8697-4f90-8872-861a128c5772_16-9-discover-aspect-ratio_default_0.jpg",
     "tipo": "noticia",
     "pub": 1794861364,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "CSIF denuncia deficiencias sanitarias en el centro de protección de menores de Valladolid con un brote de sarna",
-    "link": "https://www.eldiario.es/castilla-y-leon/sociedad/csif-denuncia-deficiencias-sanitarias-centro-proteccion-menores-valladolid-brote-sarna_1_13668471.html",
-    "desc": "\"Esperar cuatro meses para actuar convierte un caso aislado potencialmente controlable en una situación de brote preocupante\", critica CSIF, que actualiza el dato de casos confirmados La sarna…",
-    "img": "https://static.eldiario.es/clip/a1448a30-0d91-4f4b-a44d-4a0861aa1c97_16-9-discover-aspect-ratio_default_0.jpg",
-    "tipo": "noticia",
-    "pub": 1794846653,
     "fuente": "eldiario.es · CyL"
   },
   {
@@ -705,8 +705,8 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/56/7/jose-antonio-llamasb.jpeg"
   },
   {
-    "titulo": "Recordar a las víctimas y evitar nuevas tragedias",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/recordar-victimas-evitar-nuevas-tragedias_206593_102.html",
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206591_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
@@ -714,8 +714,8 @@
     "fuente": "La Nueva Crónica · Opinión"
   },
   {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206591_102.html",
+    "titulo": "Recordar a las víctimas y evitar nuevas tragedias",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/recordar-victimas-evitar-nuevas-tragedias_206593_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
