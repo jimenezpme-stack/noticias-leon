@@ -127,11 +127,11 @@ def fecha(s):
     return None
 
 
-def descargar(url, intentos=2, espera=3):
+def descargar(url, intentos=2, espera=2, timeout=12):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     for n in range(intentos):
         try:
-            return urllib.request.urlopen(req, timeout=45).read()
+            return urllib.request.urlopen(req, timeout=timeout).read()
         except Exception:
             if n + 1 < intentos:
                 time.sleep(espera)
@@ -281,7 +281,7 @@ def _imagen_ok(url):
         return _CACHE_IMAGENES[url]
     try:
         req = urllib.request.Request(url, headers={"User-Agent": UA})
-        with urllib.request.urlopen(req, timeout=15) as resp:
+        with urllib.request.urlopen(req, timeout=8) as resp:
             tipo = (resp.headers.get("Content-Type") or "").lower()
             ok = tipo.startswith("image/")
     except Exception:
@@ -308,7 +308,7 @@ def _perfil(url):
     if url in _CACHE_PERFILES:
         return _CACHE_PERFILES[url]
     try:
-        html = descargar(url, intentos=1).decode("utf-8", "ignore")
+        html = descargar(url, intentos=1, timeout=6).decode("utf-8", "ignore")
     except Exception:
         html = ""
     _CACHE_PERFILES[url] = html
@@ -649,8 +649,10 @@ def main():
         print("ATENCION: solo %d titulares, no se sobrescribe el json" % len(finales))
         sys.exit(0)
 
-    with open(SALIDA, "w", encoding="utf-8") as f:
+    temporal = SALIDA + ".tmp"
+    with open(temporal, "w", encoding="utf-8") as f:
         json.dump(finales, f, ensure_ascii=False, indent=2)
+    os.replace(temporal, SALIDA)
     print("noticias.json: %d titulares" % len(finales))
     for f, c in sorted(por_fuente.items(), key=lambda x: -x[1]):
         print("   %-28s %d" % (f, c))
