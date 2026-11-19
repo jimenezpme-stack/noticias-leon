@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Feijóo aprieta y Sánchez esquiva el cuerpo a cuerpo en un debate bronco",
+    "link": "https://www.heraldodeleon.es/actualidad/nacional/feijoo-aprieta-sanchez-esquiva-cuerpo-cuerpo-debate-bronco/20261119234337118728.html",
+    "desc": "El líder del PP exhibe un tono más incisivo y mordaz, con ataques sobre corrupción, vivienda, impuestos y gestión, mientras el presidente del Gobierno opta por una estrategia de contención y evita…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/19/2026111923412488337.jpg",
+    "tipo": "noticia",
+    "pub": 1795128217,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Martínez acude a León para respaldar las políticas del PSOE y pedir el voto a Sánchez",
+    "link": "https://www.heraldodeleon.es/leon/martinez-acude-leon-respaldar-politicas-psoe-pedir-voto-sanchez/20261119224436118726.html",
+    "desc": "Martínez denuncia que \"Mañueco abre camino para que las políticas en contra de los derechos de la ciudadanía se apliquen en el Gobierno de España\" | El secretario general del PSOECyL defiende la…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/19/2026111922355631682.jpg",
+    "tipo": "noticia",
+    "pub": 1795124676,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "🔴 EN DIRECTO, EL DEBATE | Sánchez y Feijóo se juegan en 90 minutos la campaña",
     "link": "https://www.heraldodeleon.es/actualidad/nacional/directo-debate/20261119213406118705.html",
     "desc": "Sánchez y Feijóo preparan su último cara a cara con la revancha de 2023 como telón de fondo | Los socialistas quieren evitar los errores del anterior enfrentamiento, mientras los populares intentan…",
@@ -351,15 +369,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Franco y Coca (PP) denuncian la pérdida de poder adquisitivo de las familias bercianas",
-    "link": "https://www.heraldodeleon.es/el-bierzo/franco-coca-pp-preocupadas-incremento-familias-necesitadas-bierzo/20261119144203118652.html",
-    "desc": "Las candidatas del PP mantuvieron una reunión con el Banco de Alimentos del Sil, que atiende a 4.600 personas vulnerables",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/19/2026111914333023977.jpg",
-    "tipo": "noticia",
-    "pub": 1795095723,
-    "fuente": "Heraldo de León"
-  },
-  {
     "titulo": "El PSOE de Zamora denuncia que la Diputación dé solo un día a las asociaciones para justificar ayudas culturales: \"Inaceptable\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261119/psoe-zamora-denuncia-diputacion-solo-dia-asociaciones-justificar-ayudas-culturales-inaceptable/1003744464655_0.html",
     "desc": "La portavoz socialista, Sandra Veleda, exige al equipo de Gobierno del PP soluciones legales en el Pleno para evitar que los colectivos rurales pierdan unas subvenciones notificadas el sábado 14 de…",
@@ -376,15 +385,6 @@
     "tipo": "noticia",
     "pub": 1795095600,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Consumo: la Diputación alerta sobre llamadas comerciales, hipotecas y compras online",
-    "link": "https://www.heraldodeleon.es/leon/consumo-diputacion-leon-alerta-llamadas-comerciales-hipotecas-compras-online/20261119143558118651.html",
-    "desc": "La Oficina Provincial de Consumo publica el número 21 de la revista 'Consumo al día', que recoge las novedades legislativas y consejos para proteger a los consumidores. El servicio ha impartido…",
-    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/19/2026111914351742426.jpg",
-    "tipo": "noticia",
-    "pub": 1795095358,
-    "fuente": "Heraldo de León"
   },
   {
     "titulo": "EXECyL incorpora al Real Valladolid a su red de 113 empresas colaboradoras en el año de su 20 aniversario",
@@ -579,15 +579,6 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/33/07/37/3/secundino.jpeg"
   },
   {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206795_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1795057200,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
     "titulo": "El enemigo del nuevo entrenador de la Cultural… y de su afición",
     "link": "https://www.lanuevacronica.com/opinion/enemigo-nuevo-entrenador-cultural-su-aficion_206793_102.html",
     "desc": "",
@@ -600,6 +591,15 @@
   {
     "titulo": "León empieza a cambiar su destino demográfico",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/leon-empieza-cambiar-su-destino-demografico_206794_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795057200,
+    "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206795_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
@@ -687,8 +687,8 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/69/eduardo-bajob.jpeg"
   },
   {
-    "titulo": "Subidas salariales en plena campaña electoral",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/subidas-salariales-en-plena-campana-electoral_206736_102.html",
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206734_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
@@ -696,8 +696,19 @@
     "fuente": "La Nueva Crónica · Opinión"
   },
   {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206734_102.html",
+    "titulo": "Ríos de oro",
+    "link": "https://www.lanuevacronica.com/opinion/rios-oro_206717_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1794970800,
+    "fuente": "La Nueva Crónica · Opinión",
+    "autor": "José Luis Puerto",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/98/98/1/03max201310242741.jpeg"
+  },
+  {
+    "titulo": "Subidas salariales en plena campaña electoral",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/subidas-salariales-en-plena-campana-electoral_206736_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
@@ -931,16 +942,5 @@
     "fuente": "La Nueva Crónica · Opinión",
     "autor": "Maximino Cañón",
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/24/26/86/4/imagen-maximino-canon-png.png"
-  },
-  {
-    "titulo": "El Señor es bueno",
-    "link": "https://www.lanuevacronica.com/opinion/senor-es-bueno_205742_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793676000,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Máximo Álvarez Rodríguez",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/59/4/maximob.jpeg"
   }
 ]
