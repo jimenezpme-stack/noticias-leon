@@ -1,5 +1,122 @@
 [
   {
+    "titulo": "Estévez: más vale tarde que nunca",
+    "link": "https://www.lanuevacronica.com/opinion/estevez-mas-vale-tarde-nunca_206861_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795146600,
+    "fuente": "La Nueva Crónica",
+    "autor": "Jesús Coca Aguilera",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/09/70/3/jesus-coca-03-08-23.jpeg"
+  },
+  {
+    "titulo": "La castaña se sienta a la mesa en ocho días de jornadas gastronómicas bercianas",
+    "link": "https://www.lanuevacronica.com/el-bierzo/castana-se-sienta-mesa-en-ocho-dias-jornadas-gastronomicas-bercianas_206845_102.html",
+    "desc": "Once establecimientos de la comarca y Barcelona participan en la séptima edición de una iniciativa que se desarrollará los días 21, 22, 28 y 29 de noviembre y del 5 al 8 de diciembre",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/08/49/3/postres-castana.jpeg",
+    "tipo": "noticia",
+    "pub": 1795145700,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "¡Ay va!",
+    "link": "https://www.lanuevacronica.com/opinion/ay-va_206860_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795145400,
+    "fuente": "La Nueva Crónica",
+    "autor": "José Álvarez Guerra",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/31/7/jose-alvarez-guerrab.jpeg"
+  },
+  {
+    "titulo": "Rebajas que asustan",
+    "link": "https://www.lanuevacronica.com/opinion/rebajas-asustan_206859_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795144800,
+    "fuente": "La Nueva Crónica",
+    "autor": "Juan Pablo García Valadés",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/84/05/5/juan-pablo-garcia-valades-3.jpeg"
+  },
+  {
+    "titulo": "Regar castaños",
+    "link": "https://www.lanuevacronica.com/opinion/regar-castanos_206858_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795144200,
+    "fuente": "La Nueva Crónica",
+    "autor": "José Antonio Turrado",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/06/54/5/foto-turrado-cronica-nueva.jpeg"
+  },
+  {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206864_102.html",
+    "desc": "",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/08/90/8/20-11-2026-canton.jpeg",
+    "tipo": "opinion",
+    "pub": 1795143600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La hostelería, víctima de sus precios",
+    "link": "https://www.lanuevacronica.com/opinion/el-editorial/hosteleria-victima-sus-precios_206863_102.html",
+    "desc": "Los empresarios alertan de que el nuevo convenio disparará sus costes, pero las continuas subidas de precios han agotado el margen para trasladar más gastos a los clientes",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795143600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La precisión del podador",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/precision-podador_206862_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795143600,
+    "fuente": "La Nueva Crónica",
+    "autor": "La Negrilla"
+  },
+  {
+    "titulo": "El Casino de León celebra sus 175 años de historia con un homenaje especial a sus socios",
+    "link": "https://www.lanuevacronica.com/actualidad/casino-leon-celebra-sus-175-anos-historia-con-homenaje-especial-sus-socios_206857_102.html",
+    "desc": "La histórica institución reunirá mañana a unas 140 personas en la sede de Papalaguinda para celebrar su aniversario con una comida",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/08/82/6/imagen-del-interior-de-uno-de-los-comedores-principales-del-club-penalba-casino-de-leon-en-su-sede-ubicada-en-papalaguinda.jpeg",
+    "tipo": "noticia",
+    "pub": 1795143600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Margarita Álvarez: \"Hay más de cien sinónimos de la palabra prostituta\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/margarita-alvarez-hay-mas-cien-sinonimos-palabra-prostituta_206855_102.html",
+    "desc": "La lingüista y profesora omañesa presenta en el ILC (19.30 horas) su documentado e impagable trabajo sobre el sexismo en la sociedad y la literatura, 'Hablando en femenino. Mujer y lenguaje'",
+    "img": "https://www.lanuevacronica.com/uploads/s1/15/64/86/margarita-alvarez-25-07-23-web.jpeg",
+    "tipo": "noticia",
+    "pub": 1795143600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Desde Rucayo hasta la collada de Valdemaría",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/rucayo-hasta-collada-valdemaria_206854_102.html",
+    "desc": "Una cumbre menor bajo otras cumbres mayores con vistas al pantano del Porma",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/08/66/8/cumbre-de-la-pena-pigot-con-rucayo-abajo-el-pantano-del-porma-y-el-pico-susaron-vicente-garcia.jpeg",
+    "tipo": "noticia",
+    "pub": 1795143600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "¿Nuevo convenio de hostelería?: Los gastos en los bares y restaurantes de León podrían subir un 30%",
+    "link": "https://www.lanuevacronica.com/actualidad/nuevo-convenio-hosteleria-gastos-en-bares-restaurantes-leon-podrian-subir-30_206837_102.html",
+    "desc": "Los costes seguirían subiendo un cinco por ciento en años sucesivos, según las cuentas que manejan en el sector, comprometiendo la viabilidad de \"muchos negocios\" en la provincia",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/08/27/8/hostelerialeon.jpeg",
+    "tipo": "noticia",
+    "pub": 1795143600,
+    "fuente": "La Nueva Crónica"
+  },
+  {
     "titulo": "Feijóo aprieta y Sánchez esquiva el cuerpo a cuerpo en un debate bronco",
     "link": "https://www.heraldodeleon.es/actualidad/nacional/feijoo-aprieta-sanchez-esquiva-cuerpo-cuerpo-debate-bronco/20261119234337118728.html",
     "desc": "El líder del PP exhibe un tono más incisivo y mordaz, con ataques sobre corrupción, vivienda, impuestos y gestión, mientras el presidente del Gobierno opta por una estrategia de contención y evita…",
@@ -90,42 +207,6 @@
     "fuente": "La Nueva Crónica"
   },
   {
-    "titulo": "Martínez denuncia que \"el derecho al aborto no está garantizado en Castilla y León\"",
-    "link": "https://www.lanuevacronica.com/actualidad/martinez-denuncia-derecho-aborto-no-esta-garantizado-en-castilla-leon_206852_102.html",
-    "desc": "Carlos Martínez, secretario general del PSOECyL, ha defendido la necesidad de \"un gobierno progresista que se oponga a la cerrazón\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/08/62/1/el-secretario-general-del-psoecyl-carlos-martinez-ha-liderado-el-acto-de-campana.jpeg",
-    "tipo": "noticia",
-    "pub": 1795114093,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "\"No recuerdo un acto personal que no hiciera por cambiar el mundo para bien\"",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/no-recuerdo-acto-no-hiciera-por-cambiar-mundo-bien_206850_102.html",
-    "desc": "La frase es de José Antonio Llamas Fernández, de Vidanes, que este viernes recogerá el Premio Concejo concedido por el Instituto Leonés",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/08/57/4/llamas-rodeado-por-poetas-marina-diez-y-antonio-manilla-carlos-kubala.jpeg",
-    "tipo": "noticia",
-    "pub": 1795112708,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Arganza evita sanción pese a vulnerar la ley electoral al publicitar varias obras",
-    "link": "https://www.lanuevacronica.com/el-bierzo/arganza-vulnero-ley-electoral-publicitar-varias-obras-pero-no-sera-sancionado_206844_102.html",
-    "desc": "La Junta Electoral estima la denuncia del PSOE al Ayuntamiento por anunciar obras en la antesala de unas elecciones, pero la retirada del contenido frena la apertura de un expediente sancionador",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/08/47/8/bierzo-1-4-1000x563.jpeg",
-    "tipo": "noticia",
-    "pub": 1795111521,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La singularidad de Alejandro Vargas en una gran retrospectiva",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/singularidad-alejandro-vargas-en-gran-retrospectiva_206849_102.html",
-    "desc": "La Sala Provincia inaugura mañana una muestra del creador leonés que podrá verse hasta el 17 de enero y que estará comisariada por Gamoneda",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/08/54/9/el-artista-leones-alejandro-vargas-en-una-imagen-de-2016-vicente-garcia.jpeg",
-    "tipo": "noticia",
-    "pub": 1795111182,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Cerca de 200 médicos toman las calles de León bajo la lluvia y amenazan con ir a la \"huelga general\" si no consiguen su Estatuto",
     "link": "https://www.heraldodeleon.es/leon/cerca-200-medicos-toman-calles-leon-lluvia-amenazan-ir-huelga-general-consiguen-estatuto-marco-propio/20261119185747118704.html",
     "desc": "La movilización de este jueves ha recorrido el centro de la capital leonesa dentro de una jornada de protestas simultáneas en 19 ciudades españolas | Los facultativos reclaman una negociación…",
@@ -133,15 +214,6 @@
     "tipo": "noticia",
     "pub": 1795111067,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El piano de la leonesa Belén Ordóñez para la música de nueve compositores",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/piano-leonesa-belen-ordonez-musica-nueve-compositores_206848_102.html",
-    "desc": "La pianista ofrecerá un recital este domingo en el Teatro Municipal de La Bañeza",
-    "img": "https://www.lanuevacronica.com/uploads/s1/11/91/83/belen-ordonez-27-02-21-web.jpeg",
-    "tipo": "noticia",
-    "pub": 1795110837,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Plácido Barrios presenta en Ponferrada ‘Comparecen los olvidados’, un recorrido por la historia a través de los textos notariales",
@@ -153,15 +225,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Madrid–Bogotá, el vuelo a la ciudad sin estaciones: qué cambia de verdad según el mes",
-    "link": "https://www.lanuevacronica.com/estilo-vida/madrid-bogota-vuelo-ciudad-sin-estaciones-cambia-verdad-segun-mes_206846_102.html",
-    "desc": "La conexión directa entre Madrid y la capital colombiana es uno de los grandes corredores aéreos entre España y América Latina",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/08/51/5/imagen-de-archivo-de-bogota.jpeg",
-    "tipo": "noticia",
-    "pub": 1795110122,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Junta Electoral no sancionará al alcalde de Arganza tras retirar las publicaciones denunciadas",
     "link": "https://www.elbierzodigital.com/la-junta-electoral-no-sancionara-al-alcalde-de-arganza-tras-retirar-las-publicaciones-denunciadas/",
     "desc": "La Junta Electoral de Zona (JEZ) de Ponferrada decidió, en su reunión de este jueves, no incoar expediente sancionador contra el alcalde de Arganza, Javier Ovalle , después de que éste hubiera sido…",
@@ -169,24 +232,6 @@
     "tipo": "noticia",
     "pub": 1795109653,
     "fuente": "El Bierzo Digital"
-  },
-  {
-    "titulo": "Madrid–Bogotá, el vuelo a la ciudad sin estaciones: qué cambia de verdad según el mes",
-    "link": "https://www.lanuevacronica.com/estilo-vida/madrid-bogota-vuelo-ciudad-sin-estaciones-cambia-verdad-segun-mes_206843_102.html",
-    "desc": "",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/08/46/2/bogota.jpeg",
-    "tipo": "noticia",
-    "pub": 1795109631,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los dos leoneses que jugaron a GTA VI antes de su lanzamiento",
-    "link": "https://www.lanuevacronica.com/actualidad/dos-leoneses-jugaron-gta-vi-antes-su-lanzamiento_206827_102.html",
-    "desc": "Los periodistas Jorge Morla, de El País, y Saúl González, de Vandal, tuvieron acceso exclusivo al videojuego semanas antes de su estreno",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/08/33/3/collage-de-retratos-y-gta-vi.png",
-    "tipo": "noticia",
-    "pub": 1795108511,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Una docena de establecimientos participan en las VII Jornadas Gastronómicas con platos de castaña",
@@ -232,42 +277,6 @@
     "tipo": "noticia",
     "pub": 1795106292,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "El Corte Inglés prepara para este viernes una gran inauguración de su mercado navideño",
-    "link": "https://www.lanuevacronica.com/actualidad/corte-ingles-prepara-este-viernes-gran-inauguracion-su-mercado-navideno_206835_102.html",
-    "desc": "La terraza de la primera planta del centro de Fray Luis de León acogerá food-trucks, casetas navideñas, un belén monumental y una apertura con acróbatas y bailarinas a partir de las 19:00 horas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/12/87/76/corte-ingles-empleo-navidad-02112021.jpeg",
-    "tipo": "noticia",
-    "pub": 1795104646,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "La base de Sahechores contará con un segundo helicóptero de rescate",
-    "link": "https://www.lanuevacronica.com/actualidad/base-sahechores-contara-con-segundo-helicoptero-rescate_206836_102.html",
-    "desc": "La nave permitirá una reducción de los tiempos de respuesta ante un eventual incidente, al cubrir toda la zona norte de la Comunidad",
-    "img": "https://www.lanuevacronica.com/uploads/s1/28/37/64/9/astorga-acoge-la-entrega-de-las-medallas-al-merito-de-la-proteccion-ciudadana-de-castilla-y-leon.jpeg",
-    "tipo": "noticia",
-    "pub": 1795104609,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Ciñera, el pueblo cuyo proyecto no para de crecer",
-    "link": "https://www.lanuevacronica.com/actualidad/cinera-pueblo-cuyo-proyecto-no-crecer_206830_102.html",
-    "desc": "La localidad supera los 700 habitantes gracias a la llegada de nuevas familias, la apertura de negocios y el trabajo dinamizador de su Junta Vecinal",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/08/21/0/de-izquierda-a-derecha-roberto-garcia-lucia-gutierrez-beatriz-collado-cesar-garcia-beatriz-gutierrez-roberto-padilla-y-noelia-barrientos-la-junta-directiva-de-la-junta-vecinal-de-cinera.jpeg",
-    "tipo": "noticia",
-    "pub": 1795104300,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "León sostiene la huelga de médicos en su cuarta jornada con un 11,2 % de seguimiento",
-    "link": "https://www.lanuevacronica.com/actualidad/leon-sostiene-huelga-medicos-en-su-cuarta-jornada-con-112-seguimiento_206834_102.html",
-    "desc": "124 facultativos secundan el paro en la provincia, casi el triple de la media de Castilla y León, que se queda en el 3,84 %, mientras el seguimiento sube en Atención Primaria",
-    "img": "https://www.lanuevacronica.com/uploads/s1/31/86/38/2/un-instante-de-la-concentracion-de-los-medicos-leoneses-este-miercoles.jpeg",
-    "tipo": "noticia",
-    "pub": 1795104140,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Samuel Conde apela al buen momento de su equipo para pelear ante un favorito al ascenso",
@@ -369,6 +378,15 @@
     "fuente": "Heraldo de León"
   },
   {
+    "titulo": "Franco y Coca (PP) denuncian la pérdida de poder adquisitivo de las familias bercianas",
+    "link": "https://www.heraldodeleon.es/el-bierzo/franco-coca-pp-preocupadas-incremento-familias-necesitadas-bierzo/20261119144203118652.html",
+    "desc": "Las candidatas del PP mantuvieron una reunión con el Banco de Alimentos del Sil, que atiende a 4.600 personas vulnerables",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/19/2026111914333023977.jpg",
+    "tipo": "noticia",
+    "pub": 1795095723,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "El PSOE de Zamora denuncia que la Diputación dé solo un día a las asociaciones para justificar ayudas culturales: \"Inaceptable\"",
     "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20261119/psoe-zamora-denuncia-diputacion-solo-dia-asociaciones-justificar-ayudas-culturales-inaceptable/1003744464655_0.html",
     "desc": "La portavoz socialista, Sandra Veleda, exige al equipo de Gobierno del PP soluciones legales en el Pleno para evitar que los colectivos rurales pierdan unas subvenciones notificadas el sábado 14 de…",
@@ -387,12 +405,57 @@
     "fuente": "El Español · CyL"
   },
   {
+    "titulo": "Consumo: la Diputación alerta sobre llamadas comerciales, hipotecas y compras online",
+    "link": "https://www.heraldodeleon.es/leon/consumo-diputacion-leon-alerta-llamadas-comerciales-hipotecas-compras-online/20261119143558118651.html",
+    "desc": "La Oficina Provincial de Consumo publica el número 21 de la revista 'Consumo al día', que recoge las novedades legislativas y consejos para proteger a los consumidores. El servicio ha impartido…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/19/2026111914351742426.jpg",
+    "tipo": "noticia",
+    "pub": 1795095358,
+    "fuente": "Heraldo de León"
+  },
+  {
     "titulo": "EXECyL incorpora al Real Valladolid a su red de 113 empresas colaboradoras en el año de su 20 aniversario",
     "link": "https://www.elespanol.com/castilla-y-leon/economia/empresas/20261119/execyl-incorpora-real-valladolid-red-empresas-colaboradoras-ano-aniversario/1003744464608_0.html",
     "desc": "La bienvenida al club blanquivioleta sirvió también para celebrar la última reunión del patronato en 2026 en la que se marcaron los próximos objetivos. Más información: Execyl impulsa la…",
     "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11405650.jpg?p=c:3600:2028:nowe:188:585/w:1706/h:960&h=88rjQGmP",
     "tipo": "noticia",
     "pub": 1795094624,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "El fascismo que sigue vivo en León: anuncian una misa por Primo de Rivera este 20N",
+    "link": "https://www.heraldodeleon.es/leon/fascismo-que-sigue-vivo-leon-anuncian-misa-jose-antonio-20n/20261119142254118647.html",
+    "desc": "Los sindicatos CGT, CCOO y UGT de León&nbsp;denuncian la convocatoria realizada por Falange en Santa Marina la Real&nbsp;y solicitan su valoración conforme a la Ley de Memoria Democrática",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2025/11/22/2025112211493998105.jpg",
+    "tipo": "noticia",
+    "pub": 1795094574,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Soria ¡Ya! exige la finalización de la A-11 tras 33 años de promesas: \"¿La veremos terminada algún día?\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/soria/20261119/soria-exige-finalizacion-a-11-anos-promesas-veremos-terminada-algun-dia/1003744464632_0.html",
+    "desc": "La formación reclama que se \"aceleren\" las obras y asegura que, si obtiene representación el 29-N, llevará la reivindicación al Congreso y al Senado. Más información: Soria ¡Ya! exige al futuro…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11405643.jpg?p=c:3997:2250:nowe:0:411/w:1706/h:960&h=3q4iX6lE",
+    "tipo": "noticia",
+    "pub": 1795094420,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Tres mujeres referentes del talento y la innovación se citan en León con CONECTA CEBT",
+    "link": "https://www.heraldodeleon.es/leon/tres-mujeres-referentes-talento-innovacion-citan-leon-conecta-cebt/20261119141427118646.html",
+    "desc": "El encuentro, organizado por ILDEFE con la colaboración de la Fundación Princesa de Girona, reunirá el 26 de noviembre a Maite Vallet, Eva Santamarta y Laura González en el Centro de Empresas de…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/19/2026111914132976158.jpg",
+    "tipo": "noticia",
+    "pub": 1795094067,
+    "fuente": "Heraldo de León"
+  },
+  {
+    "titulo": "Investigadores de la Universidad de Salamanca descubren que las plantas se comunican entre sí",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20261119/investigadores-universidad-salamanca-descubren-plantas-comunican/1003744464589_0.html",
+    "desc": "Un estudio plantea que la 'onda de ROS' actúa como una alerta general que puede transmitirse por contacto entre hojas y abre la puerta a preparar cultivos frente al estrés climático. Más…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11405631.jpg?p=w:1706/h:960&h=bK3HZ95R",
+    "tipo": "noticia",
+    "pub": 1795093893,
     "fuente": "El Español · CyL"
   },
   {
@@ -403,6 +466,15 @@
     "tipo": "noticia",
     "pub": 1795093670,
     "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "Villablino celebra Santa Bárbara con memoria minera, música y gastronomía",
+    "link": "https://www.heraldodeleon.es/comarcas/provincia-leon/villablino-celebra-santa-barbara-memoria-minera-musica-gastronomia/20261119140644118644.html",
+    "desc": "La Semana Cultural se desarrollará del 30 de noviembre al 5 de diciembre con exposiciones, rutas por el patrimonio industrial, mesas redondas, conciertos y el V Festival de Exaltación del Fisuelo,…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/19/2026111914061137648.jpg",
+    "tipo": "noticia",
+    "pub": 1795093604,
+    "fuente": "Heraldo de León"
   },
   {
     "titulo": "Próximos actos de donación de sangre en Ponferrada y Bembibre",
@@ -579,6 +651,15 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/33/07/37/3/secundino.jpeg"
   },
   {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206795_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795057200,
+    "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
     "titulo": "El enemigo del nuevo entrenador de la Cultural… y de su afición",
     "link": "https://www.lanuevacronica.com/opinion/enemigo-nuevo-entrenador-cultural-su-aficion_206793_102.html",
     "desc": "",
@@ -591,15 +672,6 @@
   {
     "titulo": "León empieza a cambiar su destino demográfico",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/leon-empieza-cambiar-su-destino-demografico_206794_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1795057200,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206795_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
@@ -870,77 +942,5 @@
     "fuente": "La Nueva Crónica · Opinión",
     "autor": "José Luis Puerto",
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/98/98/1/03max201310242741.jpeg"
-  },
-  {
-    "titulo": "La movilidad exige decisiones, no más excusas",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/movilidad-exige-decisiones-no-mas-excusas_205822_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793761200,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "El ridículo sin fin de Podemos",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/ridiculo-sin-fin-podemos_205823_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793761200,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "La Negrilla"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_205820_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793761200,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "Cuando el empleo se va de feria",
-    "link": "https://www.lanuevacronica.com/opinion/cuando-empleo-se-va-feria_205744_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793678400,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Mar Iglesias",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/09/75/4/mar-iglesias03-08-23.jpeg"
-  },
-  {
-    "titulo": "Leer el paisaje: Las huellas que deja el tiempo",
-    "link": "https://www.lanuevacronica.com/opinion/leer-paisaje-huellas-deja-tiempo_205748_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793677200,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Raúl Barrientos Antón",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/30/87/11/9/raul-barrientos.jpeg"
-  },
-  {
-    "titulo": "No reguemos más el odio",
-    "link": "https://www.lanuevacronica.com/opinion/no-reguemos-mas-odio_205741_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793676600,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Cristina Vega",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/13/84/8/cristina-vega-2.jpeg"
-  },
-  {
-    "titulo": "Fechas de cara y cruz",
-    "link": "https://www.lanuevacronica.com/opinion/fechas-cara-cruz_205747_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1793676300,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Maximino Cañón",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/24/26/86/4/imagen-maximino-canon-png.png"
   }
 ]

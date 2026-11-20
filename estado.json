@@ -6,16 +6,16 @@
       "ok": true,
       "items": 15,
       "nuevos": 15,
-      "ts": 1795130078,
-      "con_foto": 15
+      "ts": 1795147175,
+      "con_foto": 9
     },
     {
       "fuente": "La Nueva Crónica · Opinión",
       "url": "https://www.lanuevacronica.com/opinion",
       "ok": true,
       "items": 15,
-      "nuevos": 15,
-      "ts": 1795130078,
+      "nuevos": 8,
+      "ts": 1795147175,
       "con_foto": 0
     },
     {
@@ -24,7 +24,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1795130078,
+      "ts": 1795147175,
       "con_foto": 26
     },
     {
@@ -33,7 +33,7 @@
       "ok": true,
       "items": 20,
       "nuevos": 20,
-      "ts": 1795130078,
+      "ts": 1795147175,
       "con_foto": 20
     },
     {
@@ -42,7 +42,7 @@
       "ok": true,
       "items": 20,
       "nuevos": 11,
-      "ts": 1795130078,
+      "ts": 1795147175,
       "con_foto": 20
     },
     {
@@ -51,7 +51,7 @@
       "ok": true,
       "items": 30,
       "nuevos": 30,
-      "ts": 1795130078,
+      "ts": 1795147175,
       "con_foto": 30
     },
     {
@@ -60,7 +60,7 @@
       "ok": true,
       "items": 33,
       "nuevos": 31,
-      "ts": 1795130078,
+      "ts": 1795147175,
       "con_foto": 31
     },
     {
@@ -69,7 +69,7 @@
       "ok": true,
       "items": 26,
       "nuevos": 2,
-      "ts": 1795130078,
+      "ts": 1795147175,
       "con_foto": 2
     },
     {
@@ -78,66 +78,66 @@
       "ok": true,
       "items": 26,
       "nuevos": 14,
-      "ts": 1795130078,
+      "ts": 1795147175,
       "con_foto": 16
     },
     {
       "fuente": "León4Sport",
       "url": "https://www.leon4sport.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 10h",
+      "error": "omitida, se reintenta en 5h",
       "ts": 1795121091
     },
     {
       "fuente": "Pueblo de León",
       "url": "https://www.puebledeleon.es/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 10h",
+      "error": "omitida, se reintenta en 5h",
       "ts": 1795121091
     },
     {
       "fuente": "León14 Actualidad",
       "url": "https://www.leon14actualidad.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 10h",
+      "error": "omitida, se reintenta en 5h",
       "ts": 1795121091
     },
     {
       "fuente": "Onda Regional",
       "url": "https://www.ondaregional.es/rss/",
       "ok": false,
-      "error": "omitida, se reintenta en 10h",
+      "error": "omitida, se reintenta en 5h",
       "ts": 1795121091
     },
     {
       "fuente": "Televisión CyL",
       "url": "https://www.rtvcyltv.es/rss/",
       "ok": false,
-      "error": "omitida, se reintenta en 10h",
+      "error": "omitida, se reintenta en 5h",
       "ts": 1795121091
     },
     {
       "fuente": "Alfarje",
       "url": "https://alfarje.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 10h",
+      "error": "omitida, se reintenta en 5h",
       "ts": 1795121091
     },
     {
       "fuente": "León Semanal",
       "url": "https://www.leonsemanal.com/feed/",
       "ok": false,
-      "error": "omitida, se reintenta en 10h",
+      "error": "omitida, se reintenta en 5h",
       "ts": 1795121091
     }
   ],
   "publicadas": 100,
   "reparto": {
-    "El Español · CyL": 8,
-    "La Nueva Crónica · Opinión": 28,
-    "Heraldo de León": 15,
-    "El Bierzo Digital": 8,
     "La Nueva Crónica": 15,
+    "El Español · CyL": 10,
+    "La Nueva Crónica · Opinión": 21,
+    "Heraldo de León": 20,
+    "El Bierzo Digital": 8,
     "eldiario.es · CyL": 8,
     "Heraldo de León · León": 8,
     "20minutos CyL": 8,
