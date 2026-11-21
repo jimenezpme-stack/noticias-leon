@@ -1,12 +1,12 @@
 [
   {
-    "titulo": "Medio centenar de franquistas cantan en la calle el 'Cara al sol' en León tras quedarse sin misa",
-    "link": "https://www.lanuevacronica.com/actualidad/medio-centenar-franquistas-cantan-en-calle-cara-sol-en-leon-quedarse-sin-misa_206941_102.html",
-    "desc": "El cura falangista Jesús Calvo, con camisa morada, pronunció un discurso religioso y político contra Pedro Sánchez y la situación de España tras quedarse sin su acto del 20-N dentro de la iglesia",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/10/62/9/leon-cara-al-sol-franco-20-n.jpeg",
+    "titulo": "El sueño cumplido de Petrita de entregar su emotiva poesía a Ayuso: \"Rezo mucho por ella, fue muy cariñosa y es un ejemplo\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/segovia/20261121/sueno-cumplido-petrita-entregar-emotiva-poesia-ayuso-rezo-carinosa-ejemplo-dl/1003744465877_0.html",
+    "desc": "La dueña de la histórica Librería Cervantes de Segovia describe como \"muy agradable\" su encuentro con la presidenta de la Comunidad de Madrid. Más información: Ayuso advierte de que si sigue el…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11407087.jpg?p=c:1320:990:nowe:0:223/w:1706/h:1280&h=eQJQZb3E",
     "tipo": "noticia",
-    "pub": 1795206657,
-    "fuente": "La Nueva Crónica"
+    "pub": 1795224292,
+    "fuente": "El Español · CyL"
   },
   {
     "titulo": "Mañueco llama desde León a lograr una \"victoria rotunda\" de Feijóo",
@@ -14,7 +14,16 @@
     "desc": "El presidente de la Junta ha liderado un acto de campaña en León junto a Ester Muñoz, Suárez-Quiñones y Silvia Franco",
     "img": "https://www.lanuevacronica.com/uploads/s1/36/10/34/2/frame-20pp.jpeg",
     "tipo": "noticia",
-    "pub": 1795204105,
+    "pub": 1795209486,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Medio centenar de franquistas cantan en la calle el 'Cara al sol' en León tras quedarse sin misa",
+    "link": "https://www.lanuevacronica.com/actualidad/medio-centenar-franquistas-cantan-en-calle-cara-sol-en-leon-quedarse-sin-misa_206941_102.html",
+    "desc": "El cura falangista Jesús Calvo, con camisa morada, pronunció un discurso religioso y político contra Pedro Sánchez y la situación de España a las puertas de la iglesia de Santa Marina, mientras…",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/10/62/9/leon-cara-al-sol-franco-20-n.jpeg",
+    "tipo": "noticia",
+    "pub": 1795208835,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -387,15 +396,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Castilla y León se coloca en el podio nacional de Iberdrola de los mejores talentos jóvenes de la electricidad y las redes",
-    "link": "https://www.elespanol.com/castilla-y-leon/economia/empresas/20261120/castilla-leon-coloca-podio-nacional-iberdrola-mejores-talentos-jovenes-electricidad-redes/1003744466582_0.html",
-    "desc": "Nerea Santos, representante de la Comunidad, ha logrado el tercer puesto en los galardones. Más información : Valladolid da el pistoletazo de salida a los Premios Iberdrola Supera con 400.000 euros…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11406969.jpg?p=w:1706/h:960&h=bhU7S8lP",
-    "tipo": "noticia",
-    "pub": 1795182719,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "Sanidad de Castilla y León investiga el envío de una cita médica a una mujer que murió hace 24 años",
     "link": "https://www.eldiario.es/castilla-y-leon/sociedad/sanidad-castilla-leon-investiga-cita-medica-mujer-murio-24-anos_1_13680852.html",
     "desc": "La Consejería de Sanidad ya se ha puesto en contacto con un familiar de la mujer fallecida y el titular del área, Alejandro Vázquez, se ha disculpado Investigan el intercambio de pulseras…",
@@ -586,6 +586,15 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/06/54/5/foto-turrado-cronica-nueva.jpeg"
   },
   {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206864_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795143600,
+    "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
     "titulo": "La precisión del podador",
     "link": "https://www.lanuevacronica.com/opinion/la-negrilla/precision-podador_206862_102.html",
     "desc": "",
@@ -598,15 +607,6 @@
   {
     "titulo": "La hostelería, víctima de sus precios",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/hosteleria-victima-sus-precios_206863_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1795143600,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_206864_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
