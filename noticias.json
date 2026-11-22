@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "José Vidal, el alcalde que ha logrado que en su pueblo sólo una persona vote a Pedro Sánchez: \"Es un mentiroso\"",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20261122/jose-vidal-alcalde-logrado-pueblo-solo-persona-vote-pedro-sanchez-mentiroso-dl/1003744462514_0.html",
+    "desc": "En el municipio vallisoletano de Villán de Tordesillas, los socialistas no han logrado más de un sufragio en ningunas elecciones generales desde 2015. Más información: Villán de Tordesillas, el…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11217753.jpg?p=c:3333:1876:nowe:0:158/w:1706/h:960&h=7gDbyy-q",
+    "tipo": "noticia",
+    "pub": 1795309096,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "El Mipelletymas BFL cae ante el Lima-Horta en un injusto tramo final de partido",
     "link": "https://www.heraldodeleon.es/deportes/baloncesto/mipelletymas-bfl-cae-lima-horta-injusto-tramo-final-partido/20261121224654119003.html",
     "desc": "Cuatro triples de Julia Martínez Llamazares devolvieron la ventaja a las leonesas tras el descanso (37-36). Con el partido aún abierto en el último cuarto, Lula Roig y Anna Badosa lo decidieron con…",
@@ -378,15 +387,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Es oficial: la Junta oferta 873 empleos fijos en 18 procesos selectivos y estos son los puestos con más plazas",
-    "link": "https://www.elespanol.com/castilla-y-leon/economia/empleo/20261121/oficial-junta-oferta-empleos-fijos-procesos-selectivos-puestos-plazas/1003744467404_0.html",
-    "desc": "Los procesos se cubrirán mediante concurso-oposición y 120 plazas están reservadas a personas con discapacidad. Más información: Castilla y León propone la mayor Oferta de Empleo Público de los…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/10876313.jpg?p=w:1706/h:960&h=yFxtdE59",
-    "tipo": "noticia",
-    "pub": 1795256212,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "León llora a Raúl Parrado, histórico presidente de la Colonia Leonesa de Cuba",
     "link": "https://www.heraldodeleon.es/leon/leon-llora-muerte-raul-parrado-historico-presidente-colonia-leonesa-cuba/20261121110333118917.html",
     "desc": "El Instituto Leonés de Cultura ha confirmado el fallecimiento de quien \"enseño a todos a amar León\" y confirmó que será enterrado en el 'panteón leonés' del Cementerio de La Habana cuya restauración…",
@@ -672,16 +672,6 @@
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/20/06/54/5/foto-turrado-cronica-nueva.jpeg"
   },
   {
-    "titulo": "La precisión del podador",
-    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/precision-podador_206862_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1795143600,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "La Negrilla"
-  },
-  {
     "titulo": "La hostelería, víctima de sus precios",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/hosteleria-victima-sus-precios_206863_102.html",
     "desc": "",
@@ -698,6 +688,16 @@
     "tipo": "opinion",
     "pub": 1795143600,
     "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
+    "titulo": "La precisión del podador",
+    "link": "https://www.lanuevacronica.com/opinion/la-negrilla/precision-podador_206862_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795143600,
+    "fuente": "La Nueva Crónica · Opinión",
+    "autor": "La Negrilla"
   },
   {
     "titulo": "El juez envía a prisión al detenido por apuñalar 17 veces a un policía en Medina del Campo",
