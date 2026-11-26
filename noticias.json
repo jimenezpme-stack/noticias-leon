@@ -1,12 +1,48 @@
 [
   {
+    "titulo": "Esquelas para poner nombre a las víctimas y no olvidar la violencia machista en Ponferrada",
+    "link": "https://www.elbierzodigital.com/esquelas-para-poner-nombre-a-las-victimas-y-no-olvidar-la-violencia-machista-en-ponferrada/",
+    "desc": "Ponferrada cerró este miércoles la jornada del 25N con una concentración en la plaza del Ayuntamiento convocada por la Plataforma contra las Violencias Machistas del Bierzo y Laciana . Fue el último…",
+    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/esquelas-para-poner-nombre-a-las-victimas-y-no-olvidar-la-violencia-machista-en-ponferrada-el-bierzo-digital-5.jpeg",
+    "tipo": "noticia",
+    "pub": 1795648148,
+    "fuente": "El Bierzo Digital"
+  },
+  {
     "titulo": "Aznar acusa desde León a Sánchez de \"vender la nación española\" para mantenerse en el Gobierno",
     "link": "https://www.lanuevacronica.com/actualidad/aznar-acusa-leon-sanchez-vender-nacion-espanola-mantenerse-en-gobierno_207251_102.html",
     "desc": "El expresidente del Gobierno arropó a Ester Muñoz ante cerca de un millar de simpatizantes en el Nuevo Recreo Industrial y advirtió de que la continuidad del PSOE en La Moncloa pone en riesgo la…",
     "img": "https://www.lanuevacronica.com/uploads/s1/36/19/35/4/frame-25aznar.jpeg",
     "tipo": "noticia",
-    "pub": 1795637661,
+    "pub": 1795645349,
     "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Miles de personas salen a las calles de Castilla y León para reclamar el fin de la violencia contra la mujer",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/20261125/miles-personas-salen-calles-castilla-leon-reclamar-fin-violencia-mujer/1003744472638_0.html",
+    "desc": "Las nueve provincias acogen movilizaciones para recordar a las víctimas, exigir más protección e igualdad y reivindicar que no haya retrocesos en los derechos de las mujeres. Más información:…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11410705.jpg?p=c:4000:2251:nowe:0:263/w:1706/h:960&h=vE3btsUC",
+    "tipo": "noticia",
+    "pub": 1795639597,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "Mañueco pide a los alcaldes del PP movilizarse en las generales: “Para ganar en mayo hay que ganar el domingo”",
+    "link": "https://www.eldiario.es/castilla-y-leon/politica/manueco-pide-alcaldes-pp-movilizarse-generales-ganar-mayo-hay-ganar-domingo_1_13694133.html",
+    "desc": "El líder de los 'populares' de Castilla y León reclama un último esfuerzo para evitar la dispersión del voto y concentrarlo en su partido Aznar, de mitin en León: “El que pueda hacer, que haga; y…",
+    "img": "https://static.eldiario.es/clip/deb04b83-4e6f-41e1-9193-731bdf7fa07c_16-9-discover-aspect-ratio_default_0.jpg",
+    "tipo": "noticia",
+    "pub": 1795639449,
+    "fuente": "eldiario.es · CyL"
+  },
+  {
+    "titulo": "Castilla y León clama contra la violencia machista y advierte del riesgo de retroceder en derechos",
+    "link": "https://www.eldiario.es/castilla-y-leon/sociedad/castilla-leon-clama-violencia-machista-advierte-riesgo-retroceder-derechos_1_13694012.html",
+    "desc": "Unas 3.000 personas en Valladolid piden \"defender lo conquistado y no volver al pasado\", mientras la ministra de Igualdad pide \"alzar la voz\" contra \"el negacionismo que mata\" 25N en directo: Miles…",
+    "img": "https://static.eldiario.es/clip/bd0d3ac2-fd71-494e-bd69-d1d2161e905f_16-9-discover-aspect-ratio_default_0.jpg",
+    "tipo": "noticia",
+    "pub": 1795638273,
+    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "Robles defiende el \"potencial\" de Monte la Reina para mantener el \"liderazgo y visión del siglo XXI\" en la seguridad y defensa",
@@ -360,15 +396,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Martínez defiende el legado de Felipe González y de José Bono en plena disputa, pero avisa: \"Nos jugamos volver al pasado\"",
-    "link": "https://www.elespanol.com/castilla-y-leon/region/20261125/martinez-defiende-legado-felipe-gonzalez-jose-bono-plena-disputa-avisa-jugamos-volver-pasado/1003744471908_0.html",
-    "desc": "El líder del PSOECyL asegura que el 29-N se decide \"el desarrollo de un país en el siglo XXI en el que los derechos y libertades no se cuestionan\". Más información: Bono reivindica en Salamanca al…",
-    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11410265.png?p=w:1706/h:960&h=gK6DLENn",
-    "tipo": "noticia",
-    "pub": 1795614748,
-    "fuente": "El Español · CyL"
-  },
-  {
     "titulo": "León eleva su voz contra la violencia machista y reclama más protección",
     "link": "https://www.heraldodeleon.es/leon/leon-eleva-voz-violencia-machista-reclama-mas-proteccion-mujeres/20261125140534119637.html",
     "desc": "El acto central del 25N congrega a representantes de la Diputación, la Junta, el Gobierno, la Universidad y los ayuntamientos de León y Valdefresno | Gerardo Álvarez Courel, Eduardo Diego y Héctor…",
@@ -430,15 +457,6 @@
     "tipo": "noticia",
     "pub": 1795606353,
     "fuente": "Heraldo de León · León"
-  },
-  {
-    "titulo": "Detenida una cuidadora por retirar 1.400 euros de la cuenta de un anciano en Villafranca del Bierzo",
-    "link": "https://www.elbierzodigital.com/detenida-una-cuidadora-por-retirar-1-400-euros-de-la-cuenta-de-un-anciano-en-villafranca-del-bierzo/",
-    "desc": "La Guardia Civil ha detenido a una mujer de 43 años como presunta autora de un delito de uso fraudulento de una tarjeta bancaria , tras retirar 1.400 euros de la cuenta de un hombre de 82 años en…",
-    "img": "https://www.elbierzodigital.com/wp-content/uploads/2026/11/detenida-una-cuidadora-por-retirar-1-400-euros-de-la-cuenta-de-un-anciano-en-villafranca-del-bierzo-el-bierzo-digital.jpeg",
-    "tipo": "noticia",
-    "pub": 1795605353,
-    "fuente": "El Bierzo Digital"
   },
   {
     "titulo": "CCOO logra los tres delegados sindicales en la empresa leonesa Eulsa",
@@ -641,24 +659,6 @@
     "tipo": "noticia",
     "pub": 1795536739,
     "fuente": "20minutos León"
-  },
-  {
-    "titulo": "El consejero de Cultura de Vox cree que el recurso al Constitucional \"perjudicará a los cineastas\" de Castilla y León",
-    "link": "https://www.eldiario.es/castilla-y-leon/cultura/consejero-cultura-vox-cree-recurso-constitucional-perjudicara-cineastas-castilla-leon_1_13689279.html",
-    "desc": "Díaz Pico señala que la convocatoria de ayudas al cine no ha sido recurrida por ningún productor y critica la decisión del Gobierno de España El Ministerio de Cultura recurrirá al Constitucional el…",
-    "img": "https://static.eldiario.es/clip/ee094ee2-1e23-4f99-bc28-f612bec683fc_16-9-discover-aspect-ratio_default_0_x934y255.jpg",
-    "tipo": "noticia",
-    "pub": 1795526129,
-    "fuente": "eldiario.es · CyL"
-  },
-  {
-    "titulo": "Covite incorpora como víctima del terrorismo a Salvador Sampedro, el taxista de Valladolid asesinado por un comando de extrema derecha",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/covite-incorpora-victima-terrorismo-salvador-sampedro-taxista-valladolid-asesinado-comando-extrema-derecha_1_13688830.html",
-    "desc": "El Gobierno reconoció a Sampedro como víctima de la extrema derecha y recomendó medidas de reconocimiento y reparación El Colectivo de V&iacute;ctimas del Terrorismo (Covite) ha incorporado a su…",
-    "img": "https://static.eldiario.es/clip/dd63d37c-4681-443a-8102-d4ebbf1706dc_16-9-discover-aspect-ratio_default_0.jpg",
-    "tipo": "noticia",
-    "pub": 1795523518,
-    "fuente": "eldiario.es · CyL"
   },
   {
     "titulo": "El sultanato de Omán, el país más antiguo del mundo árabe",
