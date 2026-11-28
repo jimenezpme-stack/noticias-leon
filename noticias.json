@@ -1,11 +1,127 @@
 [
   {
-    "titulo": "Estévez: \"Hay formas de perder y, siempre que perdamos, que sea así\"",
-    "link": "https://www.lanuevacronica.com/deportes/estevez-hay-formas-perder-y-siempre-perdamos-sea_207445_102.html",
-    "desc": "El técnico de la Cultural reconoce que \"hemos tenido un inicio nefasto\", pero cree que \"en la segunda parte acumulamos un volumen muy alto de ocasiones y la sensación de que iba a llegar ese empate\"",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/24/21/0/culturalathletic.jpeg",
+    "titulo": "Un mundo de verdad",
+    "link": "https://www.lanuevacronica.com/opinion/mundo-verdad_207440_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795837200,
+    "fuente": "La Nueva Crónica",
+    "autor": "Marta Redondo",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/82/58/1/marfte-redondo-2.jpeg"
+  },
+  {
+    "titulo": "Que reflexionen ellos",
+    "link": "https://www.lanuevacronica.com/opinion/reflexionen-ellos_207439_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795836600,
+    "fuente": "La Nueva Crónica",
+    "autor": "Pedro Lechuga Mallo",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/54/81/0/pedro-lechuga-mallo2.jpeg"
+  },
+  {
+    "titulo": "Reflexionando",
+    "link": "https://www.lanuevacronica.com/opinion/reflexionando_207438_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795836000,
+    "fuente": "La Nueva Crónica",
+    "autor": "Marta Muñiz Rueda",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/32/98/30/2/marta-muniz.gif"
+  },
+  {
+    "titulo": "Para reflexionar",
+    "link": "https://www.lanuevacronica.com/opinion/reflexionar_207437_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795835400,
+    "fuente": "La Nueva Crónica",
+    "autor": "Ángel Suárez Corrons",
+    "autorImg": "https://www.lanuevacronica.com/uploads/s1/22/43/58/0/angel-suarez-2024.jpeg"
+  },
+  {
+    "titulo": "'Poderidad' para reflexionar sobre poder e identidad en León: \"Contar historias con pocos elementos\"",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/poderidad-reflexionar-sobre-poder-identidad-en-leon-contar-historias-con-pocos-elementos_207431_102.html",
+    "desc": "El Laboratorio de Creación Escénica de La Futura y Acéfalo Narciso Teatro llegan este domingo al Teatro El Albéitar",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/91/7/anxo-trigueiro-diego-df-cony-salomon-ana-costa-y-eva-gil-completan-el-elenco-de-la-obra-teatral.jpeg",
     "tipo": "noticia",
-    "pub": 1795815481,
+    "pub": 1795834800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las cucerías de Cantón",
+    "link": "https://www.lanuevacronica.com/actualidad/cucerias-canton_207430_102.html",
+    "desc": "El humorista gráfico Rubén Cantón lanza una nueva pregunta sobre curiosidades de la provincia de León",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/93/3/28-11-2026-las-cucerias-de-canton.jpeg",
+    "tipo": "noticia",
+    "pub": 1795834800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Libros que salen del saco",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/libros-salen-saco_207429_102.html",
+    "desc": "El crítico literario escribe sobre 'Han cantado bingo' de Lana Corujo, 'El viento me cuenta cosas de Moisés Pascual Pozas y 'Mientras me operan el cerebro' de Luis Artigue",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/90/1/las-portadas-de-han-cantado-bingo-el-viento-me-cuenta-cosas-y-mientras-me-operan-el-cerebro.jpeg",
+    "tipo": "noticia",
+    "pub": 1795834800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La subida de las pensiones inyectará 95 millones a la economía de León en 2027",
+    "link": "https://www.lanuevacronica.com/actualidad/subida-pensiones-inyectara-95-millones-economia-leon-en-2027_207419_102.html",
+    "desc": "El Gobierno publicita también la paga extraordinaria de Navidad en vísperas de las elecciones generales de este domingo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/30/41/36/4/pensionesregionleonesa.jpeg",
+    "tipo": "noticia",
+    "pub": 1795834800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los trabajadores del Coto Escolar limitan las tareas que desempeñan",
+    "link": "https://www.lanuevacronica.com/actualidad/trabajadores-coto-escolar-limitan-tareas-desempenan_207425_102.html",
+    "desc": "La plantilla cuenta con el apoyo de Felampa",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/86/6/cotoescolar.jpeg",
+    "tipo": "noticia",
+    "pub": 1795834800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Los personajes del tío Ful: Miguel Ángel, pastor jubilado",
+    "link": "https://www.lanuevacronica.com/extras/los-personajes-de-ful/personajes-tio-ful-miguel-angel-pastor-jubilado_207421_102.html",
+    "desc": "Lleva toda la vida entre rebaños, desde niño, y cree que le ha pasado lo mejor que te puede ocurrir en la vida: \"hacer lo que te gusta; y yo si volviera a nacer sería otra vez pastor\"",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/78/2/frame-28personaje.jpeg",
+    "tipo": "noticia",
+    "pub": 1795834800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Las docentes de cero a tres años piden reducir las ratios a la mitad en León",
+    "link": "https://www.lanuevacronica.com/actualidad/docentes-cero-tres-anos-piden-reducir-ratios-mitad-en-leon_207423_102.html",
+    "desc": "Las educadoras de Plei reclaman menos bebés en las aulas leonesas y más retribuciones, al tener de base el salario mínimo interprofesional",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/81/6/escuelasinfantiles.jpeg",
+    "tipo": "noticia",
+    "pub": 1795834800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "La Somoza Tradición: los placeres olvidados en la mesa",
+    "link": "https://www.lanuevacronica.com/lnc-culturas/somoza-tradicion-placeres-olvidados-en-mesa_207417_102.html",
+    "desc": "Ubicado en la calle Platerias, el restaurante mantiene una trayectoria iniciada en 1999, recuperando recetas antiguas de los pueblos y dando a conocer la gastronomía de las comarcas leonesas",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/74/0/whatsapp-image-2026-11-27-at-14-54-07.jpeg",
+    "tipo": "noticia",
+    "pub": 1795834800,
+    "fuente": "La Nueva Crónica"
+  },
+  {
+    "titulo": "Una oportunidad para empezar una vida nueva desde León",
+    "link": "https://www.lanuevacronica.com/actualidad/oportunidad-empezar-vida-nueva-leon_207420_102.html",
+    "desc": "El programa OLA ha ayudado este año a 19 personas en situación de vulnerabilidad, de las que el 58 % ha conseguido acceder a un empleo",
+    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/76/2/whatsapp-image-2026-11-27-at-18-16-52.jpeg",
+    "tipo": "noticia",
+    "pub": 1795833000,
     "fuente": "La Nueva Crónica"
   },
   {
@@ -25,42 +141,6 @@
     "tipo": "noticia",
     "pub": 1795813476,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "La patronal leonesa corona el éxito de Sibuya, con 81 restaurantes en diez años",
-    "link": "https://www.lanuevacronica.com/actualidad/patronal-leonesa-corona-exito-sibuya-con-81-restaurantes-en-diez-anos_207436_102.html",
-    "desc": "Sus fundadores, Kima Fuentes y Rubén Fernández, reciben en la gala anual de la Fele el título de 'Empresarios del Año 2026' por una trayectoria que ahora mira al mercado global",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/24/02/9/frame-27fele.jpeg",
-    "tipo": "noticia",
-    "pub": 1795813261,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "San Andrés vuelve a reclamar el soterramiento de las vías del tren y exige retirar la pasarela azul",
-    "link": "https://www.lanuevacronica.com/actualidad/san-andres-vuelve-reclamar-soterramiento-vias-tren-exige-retirar-pasarela-azul_207424_102.html",
-    "desc": "La plataforma vecinal recuerda que el proyecto se publicó en el BOE en 2004 y reclama al Ministerio de Transportes avances en la actuación y la retirada de la pasarela azul",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/84/8/whatsapp-image-2026-11-27-at-12-23-01.jpeg",
-    "tipo": "noticia",
-    "pub": 1795813105,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Compensaciones económicas a policías y bomberos hasta que reduzcan su jornada a 35 horas",
-    "link": "https://www.lanuevacronica.com/actualidad/compensaciones-economicas-policias-bomberos-hasta-reduzcan-su-jornada-35-horas_207418_102.html",
-    "desc": "El acuerdo, aprobado por unanimidad, supondrá un gasto de más de un millón de euros al año y se mantendrá hasta que se incorporen 15 agentes y nueve bomberos a las respectivas plantillas",
-    "img": "https://www.lanuevacronica.com/uploads/s1/35/85/69/3/carretera-asturias-ronda-leon-accidente.jpeg",
-    "tipo": "noticia",
-    "pub": 1795812961,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Los afectados por el Moves III piden cobrar las ayudas que perdieron al comprar un coche eléctrico",
-    "link": "https://www.lanuevacronica.com/actualidad/afectados-por-moves-iii-piden-cobrar-ayudas-perdieron-comprar-coche-electrico_207416_102.html",
-    "desc": "El colectivo de Castilla y León reclama que las solicitudes rechazadas por agotamiento del presupuesto puedan acogerse a la retroactividad que el Gobierno plantea para el Plan Auto+ y prepara…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/51/61/7/electricos-leon-05-04-17.jpeg",
-    "tipo": "noticia",
-    "pub": 1795812892,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Cendón cierra la campaña del PSOE de León pidiendo \"votar con fuerza\" el 29-N",
@@ -144,15 +224,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Anuncian huelga indefinida en el servicio de basuras y limpieza de Villaquilambre",
-    "link": "https://www.lanuevacronica.com/actualidad/anuncian-huelga-indefinida-en-servicio-basuras-limpieza-villaquilambre_207428_102.html",
-    "desc": "El sindicato USO avanza que el paro comenzará el 9 de diciembre y asegura haber llegado a un acuerdo con la Concejalía de Personal sobre el nuevo convenio colectivo, pero el alcalde se \"niega\" a…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/91/98/9/contenedores-villaquilambre-03-09-19.jpeg",
-    "tipo": "noticia",
-    "pub": 1795803692,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "La Justicia obliga a mantener empadronada a una vecina de Burgos tras darle de baja el Ayuntamiento",
     "link": "https://www.eldiario.es/castilla-y-leon/tribunales/justicia-obliga-mantener-empadronada-vecina-burgos-darle-baja-ayuntamiento_1_13700174.html",
     "desc": "El TSJ de Castilla y León considera que los perjuicios para la mujer, entre ellos las posibles consecuencias sobre su derecho al voto y la asistencia sanitaria, prevalecen sobre el interés del…",
@@ -207,15 +278,6 @@
     "fuente": "El Bierzo Digital"
   },
   {
-    "titulo": "Un nuevo mural para La Bañeza en una casa que rebosa poesía",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/casa-poesia_207399_102.html",
-    "desc": "El autor de la intervención artística es el bañezano Antonio Prada",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/83/1/el-banezano-antonio-prada-ya-se-encuentra-realizando-el-mural.jpeg",
-    "tipo": "noticia",
-    "pub": 1795800337,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Un alcalde pedáneo del PP en Burgos dimite tras ser denunciado por una agresión sexual a una menor",
     "link": "https://www.eldiario.es/castilla-y-leon/sucesos/alcalde-pedaneo-pp-burgos-dimite-denunciado-agresion-sexual-menor_1_13700100.html",
     "desc": "La denuncia fue presentada por la madre de la menor después de que otros vecinos le alertaran de lo ocurrido en un bar de la localidad hace aproximadamente un mes La Policía Nacional detiene en…",
@@ -234,15 +296,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "Un vecino de Fonfría denuncia al alcalde de Torre por atribuirse la autoría de unas fotos de los colmenares suyas",
-    "link": "https://www.lanuevacronica.com/el-bierzo/vecino-fonfria-denuncia-alcalde-torre-por-atribuirse-autoria-fotos-colmenares-suyas_207262_102.html",
-    "desc": "El denunciante afirma que las imágenes son suyas y que fueron utilizadas, a pesar de su negativa, en las nuevas Normas Urbanísticas Municipales (NUM) del municipio",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/19/88/3/cortines.jpeg",
-    "tipo": "noticia",
-    "pub": 1795800000,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El Atlético Astorga busca reencontrarse con el triunfo frente al Alavés B",
     "link": "https://www.heraldodeleon.es/deportes/futbol/atletico-astorga-busca-reencontrarse-triunfo-frente-alaves-b/20261127181443120116.html",
     "desc": "El conjunto dirigido por José Luis Lago recibe este sábado, a las 17.00 horas, al filial vitoriano en La Eragudina, en un encuentro en el que los maragatos necesitan sumar para recuperar terreno y…",
@@ -250,15 +303,6 @@
     "tipo": "noticia",
     "pub": 1795799683,
     "fuente": "Heraldo de León"
-  },
-  {
-    "titulo": "E.Leclerc León inicia una nueva etapa empresarial ante la jubilación de su propietario",
-    "link": "https://www.lanuevacronica.com/actualidad/eleclerc-leon-inicia-nueva-etapa-empresarial-jubilacion-su-propietario_207409_102.html",
-    "desc": "El relevo quedará en manos de un empresario vinculado a la cadena que ya dirige otro hipermercado en España y no supondrá cambios en el empleo, la marca ni la actividad de los establecimientos",
-    "img": "https://www.lanuevacronica.com/uploads/s1/11/41/10/eleclerc-leon-28-10-2020.jpeg",
-    "tipo": "noticia",
-    "pub": 1795799588,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "El Abanca Ademar busca reencontrarse con la victoria ante el Granollers",
@@ -288,15 +332,6 @@
     "fuente": "Heraldo de León"
   },
   {
-    "titulo": "La Escuela de Minas de León gradúa a 15 nuevos titulados",
-    "link": "https://www.lanuevacronica.com/actualidad/escuela-minas-leon-gradua-15-nuevos-titulados_207411_102.html",
-    "desc": "La ceremonia, celebrada con motivo de la festividad de Santa Bárbara, reúne a los estudiantes de cuatro grados y un máster y pone el foco en la renovación de los planes de estudio y la colaboración…",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/57/8/la-graduacion-de-minas-en-la-universidad-de-leon-en-imagenes-3.jpeg",
-    "tipo": "noticia",
-    "pub": 1795798607,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "El PSOE de León expresa su profundo pesar por la pérdida de David Macía",
     "link": "https://www.elbierzodigital.com/el-psoe-de-leon-expresa-su-profundo-pesar-por-la-perdida-de-david-macia/",
     "desc": "El PSOE de León ha expresado su profundo pesar por el fallecimiento de David Macía Fernández , alcalde pedáneo de Tombrio de Abajo , localidad perteneciente al municipio de Toreno, y ha trasladado…",
@@ -315,24 +350,6 @@
     "fuente": "El Español · CyL"
   },
   {
-    "titulo": "Brasil y California se abren hueco en Santa Colomba a través de rock'n'roll",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/brasil-california-se-abren-hueco-en-santa-colomba-traves-rocknroll_207414_102.html",
-    "desc": "La Fundación Club 45 celebra este sábado una nueva jornada de la mano de la Fiesta Lexploitation",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/66/4/el-duo-brasileno-formado-por-los-hermanos-matheus-y-thiago-khouri-l-n-c.jpeg",
-    "tipo": "noticia",
-    "pub": 1795797140,
-    "fuente": "La Nueva Crónica"
-  },
-  {
-    "titulo": "Cuenta atrás para el regreso de la mejor música de cámara con MonteLeón",
-    "link": "https://www.lanuevacronica.com/lnc-culturas/cuenta-atras-regreso-mejor-musica-camara-con-monteleon_207412_102.html",
-    "desc": "El festival impulsado por la Fundación tendrá lugar entre los días 4 y 8 de diciembre, tomando como escenario el Auditorio capitalino",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/60/0/los-integrantes-del-cuarteto-gerhard-seran-los-primeros-en-actuar-igor-studio.jpeg",
-    "tipo": "noticia",
-    "pub": 1795796709,
-    "fuente": "La Nueva Crónica"
-  },
-  {
     "titulo": "Caracol sale a la calle para visibilizar el VIH y combatir el estigma",
     "link": "https://www.elbierzodigital.com/caracol-sale-a-la-calle-en-ponferrada-para-visibilizar-el-vih-y-combatir-el-estigmav/",
     "desc": "La Asociación Caracol conmemorará el próximo lunes, 1 de diciembre , el Día Mundial del Sida con varias actividades abiertas al público en Ponferrada, entre ellas la instalación de mesas…",
@@ -349,15 +366,6 @@
     "tipo": "noticia",
     "pub": 1795796018,
     "fuente": "El Español · CyL"
-  },
-  {
-    "titulo": "Una campaña contra los recortes llena de motosierras las calles de León",
-    "link": "https://www.lanuevacronica.com/actualidad/campana-contra-recortes-llena-motosierras-calles-leon_207410_102.html",
-    "desc": "Movimientos sociales de León colocan cientos de carteles amarillos en distintos barrios para alertar de las propuestas de PP y Vox y llamar a no votar al bloque de derechas este domingo",
-    "img": "https://www.lanuevacronica.com/uploads/s1/36/23/37/0/motosierra-derecha.jpeg",
-    "tipo": "noticia",
-    "pub": 1795795964,
-    "fuente": "La Nueva Crónica"
   },
   {
     "titulo": "Ordenan el internamiento psiquiátrico del detenido por lanzar artefactos incendiarios contra la comisaría de Palencia",
@@ -396,6 +404,15 @@
     "fuente": "El Español · CyL"
   },
   {
+    "titulo": "Las sonrisas de Sánchez, el ceño de Feijóo y la tensión de Abascal: lo que los gestos revelan del debate a cuatro",
+    "link": "https://www.elespanol.com/espana/20261127/sonrisas-sanchez-ceno-feijoo-tension-abascal-gestos-revelan-debate/1003744474935_0.html",
+    "desc": "Una investigación de la Universidad Europea Miguel de Cervantes analiza 4.316 fotogramas del último encuentro electoral del 29-N. Descubre cómo los candidatos cambiaron su registro, reaccionaron a…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11412233.png?p=w:1706/h:960&h=Y2qP4Dik",
+    "tipo": "noticia",
+    "pub": 1795791386,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "La Policía interviene objetos peligrosos en el local del detenido por lanzar cócteles molotov a la comisaría de Palencia",
     "link": "https://www.20minutos.es/castilla-y-leon/palencia/policia-interviene-objetos-peligrosos-local-detenido-por-lanzar-cocteles-molotov-comisaria-palencia_7066818_0.html",
     "desc": "Los agentes encontraron una pistola de aire comprimido, una espada, un pincho doble, dos hachas y dos garrafas con olor a gasolina entre otros artefactos.",
@@ -405,6 +422,24 @@
     "fuente": "20minutos CyL"
   },
   {
+    "titulo": "En vigor: los edificios también necesitan revisiones para garantizar la seguridad de sus vecinos",
+    "link": "https://www.elespanol.com/castilla-y-leon/economia/20261127/vigor-edificios-necesitan-revisiones-garantizar-seguridad-vecinos/1003744475249_0.html",
+    "desc": "La Fundación TecnoVitae reúne en Valladolid a expertos del sector para explicar las obligaciones de propietarios y comunidades en materia de inspecciones y mantenimiento. Más información : Entró en…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11412371.jpg?p=w:1706/h:960&h=kvESfx4M",
+    "tipo": "noticia",
+    "pub": 1795790958,
+    "fuente": "El Español · CyL"
+  },
+  {
+    "titulo": "David Macía, el alcalde de 36 años con dos hijos, trabajador de Emergencias que murió de un disparo en una cacería",
+    "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20261127/david-macia-alcalde-anos-hijos-trabajador-emergencia-murio-disparo-caceria/1003744475199_0.html",
+    "desc": "Fallecido en la tarde de este jueves a consecuencia de un disparo accidental durante una cacería. Más información : Detenido un hombre por homicidio imprudente por la muerte de un cazador en Tombrio…",
+    "img": "https://s3.elespanol.com/k/imgp/cms/elespanol/11412352.jpg?p=w:1706/h:960&h=JUXAUII2",
+    "tipo": "noticia",
+    "pub": 1795788875,
+    "fuente": "El Español · CyL"
+  },
+  {
     "titulo": "La Escuela Laboral del Bierzo se convierte en referente estatal para formar a profesionales de la minería",
     "link": "https://www.elbierzodigital.com/la-escuela-laboral-del-bierzo-se-convierte-en-referente-estatal-para-formar-a-profesionales-de-la-mineria/",
     "desc": "La Escuela Laboral del Bierzo , situada en La Ribera de Folgoso y dependiente de la Fundación Santa Bárbara , ha recibido el reconocimiento del Gobierno como Centro de Referencia Nacional de…",
@@ -412,6 +447,15 @@
     "tipo": "noticia",
     "pub": 1795788673,
     "fuente": "El Bierzo Digital"
+  },
+  {
+    "titulo": "España-Chile: la gran cita del fútbol femenino",
+    "link": "https://www.heraldodeleon.es/deportes/futbol/leon-rinde-homenaje-pioneras-futbol-femenino-espera-gran-espana-chile/20261127150822120109.html",
+    "desc": "El Reino de León acogerá este sábado, a las 18.00 horas, el primer partido de la selección española absoluta femenina en la ciudad, con un saque de honor protagonizado por Celsa García Robles,…",
+    "img": "https://www.heraldodeleon.es/media/heraldodeleon/images/2026/11/27/2026112715060132945.jpg",
+    "tipo": "noticia",
+    "pub": 1795788502,
+    "fuente": "Heraldo de León"
   },
   {
     "titulo": "La Guardia Civil detiene a tres cazadores furtivos en la Reserva de Urbión, Soria",
@@ -635,6 +679,15 @@
     "fuente": "La Nueva Crónica · Opinión"
   },
   {
+    "titulo": "La viñeta de Cantón",
+    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_207357_102.html",
+    "desc": "",
+    "img": null,
+    "tipo": "opinion",
+    "pub": 1795748400,
+    "fuente": "La Nueva Crónica · Opinión"
+  },
+  {
     "titulo": "Como las elecciones, el chocolate nos va a salir por las orejas",
     "link": "https://www.lanuevacronica.com/opinion/la-negrilla/como-elecciones-chocolate-nos-va-salir-por-orejas_207355_102.html",
     "desc": "",
@@ -647,15 +700,6 @@
   {
     "titulo": "El reflejo electoral de la emigración leonesa",
     "link": "https://www.lanuevacronica.com/opinion/el-editorial/reflejo-electoral-emigracion-leonesa_207356_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1795748400,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_207357_102.html",
     "desc": "",
     "img": null,
     "tipo": "opinion",
@@ -846,45 +890,6 @@
     "fuente": "La Nueva Crónica · Opinión",
     "autor": "Juanmaría G. Campal",
     "autorImg": "https://www.lanuevacronica.com/uploads/s1/22/13/52/4/imagen-juan-maria-garcia-campal.jpeg"
-  },
-  {
-    "titulo": "La corona de Adviento",
-    "link": "https://www.lanuevacronica.com/opinion/corona-adviento_207184_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1795576200,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "Xuasús González",
-    "autorImg": "https://www.lanuevacronica.com/uploads/s1/48/xuasusb.jpeg"
-  },
-  {
-    "titulo": "La viñeta de Cantón",
-    "link": "https://www.lanuevacronica.com/opinion/la-vineta-de-canton/vineta-canton_207191_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1795575600,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "Una lacra que no pierde vigencia",
-    "link": "https://www.lanuevacronica.com/opinion/el-editorial/lacra-no-pierde-vigencia_207190_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1795575600,
-    "fuente": "La Nueva Crónica · Opinión"
-  },
-  {
-    "titulo": "Sin bigote pero con melenita",
-    "link": "https://www.lanuevacronica.com/opinion/sin-bigote-pero-con-melenita_207189_102.html",
-    "desc": "",
-    "img": null,
-    "tipo": "opinion",
-    "pub": 1795575600,
-    "fuente": "La Nueva Crónica · Opinión",
-    "autor": "La Negrilla"
   },
   {
     "titulo": "Cortada la A-1 en Lerma tras salirse de la vía una furgoneta y quedar en mitad de la calzada",
